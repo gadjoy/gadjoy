@@ -1,0 +1,199 @@
+baseURL: 'https://gadjoyrepair.com/'
+languageCode: 'en-us'
+title: 'Gadjoy Repair Service'
+theme: 'hugo-universal-theme'
+
+# Define the number of posts per page
+pagination:
+  pagerSize: 10
+
+# Site language. Available translations in the theme's i18n directory.
+defaultContentLanguage: "en"
+
+# number of words of summarized post content (default 70)
+summaryLength: 70
+
+# not pluralize title pages by default
+pluralizelisttitles: false
+
+services:
+  # Enable Google Analytics by entering your tracking code
+  googleAnalytics:
+    id: ""
+  # Enable comments by entering your Disqus shortname
+  disqus:
+    shortname: ""
+
+params:
+  viewMorePostLink: "/blog/"
+  author: "Gadjoy Repair Service"
+  defaultKeywords: ["mobile repair", "laptop repair", "electronics repair", "gadjoy"]
+  mainSections: ["blog"]
+  defaultDescription: "Professional electronics and mobile device repair services"
+
+  # Social media
+  facebook_site: ""
+  twitter_site: "gadjoyrepair"
+  default_sharing_image: "img/sharing-default.png"
+
+  # Google Maps widget
+  enableGoogleMaps: true
+  googleMapsApiKey: ""
+  latitude: "12.9716"  # Bangalore coordinates
+  longitude: "77.5946"
+  
+  # Address for contact page
+  address: |
+    <p class="text-uppercase"><strong>Gadjoy Repair Service</strong>
+    <br>#300, Adj D'Mart, Varthur Rd
+    <br>Siddapura, Karnataka 560066
+    <br>Bangalore, India
+    <br>
+    <strong>Professional Electronics Repair</strong>
+    </p>
+
+  # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+  style: "default"
+
+  # Contact form (Formspree or Netlify)
+  formspree_action: "https://formspree.io/f/xpznvjgd"  # Replace with your Formspree form ID
+  contact_form_ajax: false
+  
+  # Contact details
+  email: "info@gadjoyrepair.com"
+  phone: "+91-XXX-XXX-XXXX"
+
+  # Site info
+  about_us: "<p>Professional electronics repair service specializing in mobile devices, laptops, and tablets.</p>"
+  copyright: "Copyright (c) 2025, Gadjoy Repair Service; all rights reserved."
+
+  # Format dates with Go's time formatting
+  date_format: "January 2, 2006"
+
+  dropdown_mouse_over: false
+  disabled_logo: false
+  logo_text: "Gadjoy Repair Service"
+  logo: "img/logo.png"
+  logo_small: "img/logo-small.png"
+  contact_url: "/contact"
+
+  # Enable or disable top bar with social icons
+  topbar:
+    enable: true
+    text: |
+      <p class="hidden-sm hidden-xs">Contact us for all your device repair needs</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+91-XXX-XXX-XXXX" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:info@gadjoyrepair.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+
+  # Enable and disable widgets for the right sidebar
+  widgets:
+    categories: true
+    tags: true
+    search: true
+
+  carouselCustomers:
+    items: 6
+    auto_play: false
+    slide_speed: 2000
+    pagination_speed: 1000
+
+  carouselTestimonials:
+    items: 4
+    auto_play: false
+    slide_speed: 2000
+    pagination_speed: 1000
+
+  carouselHomepage:
+    enable: true
+    auto_play: true
+    slide_speed: 2000
+    pagination_speed: 1000
+
+  features:
+    enable: true
+    cols: 3
+    
+  testimonials:
+    enable: true
+    title: "Customer Reviews"
+    subtitle: "See what our customers say about our repair services"
+
+  see_more:
+    enable: true
+    icon: "far fa-wrench"
+    title: "Need a repair?"
+    subtitle: "We fix all types of electronic devices with professional service"
+    link_url: "/contact"
+    link_text: "Contact us today"
+
+  clients:
+    enable: false
+
+  recent_posts:
+    enable: true
+    title: "Recent Repairs"
+    subtitle: "Check out our latest repair work and case studies"
+    hide_summary: false
+
+  footer:
+    recent_posts:
+      enable: true
+
+permalinks:
+  blog: "/blog/:year/:month/:day/:contentbasename/"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  author: "authors"
+
+# Main menu
+menu:
+  main:
+    - name: "Home"
+      identifier: "menu.home"
+      url: "/"
+      weight: 1
+
+    - name: "Services"
+      identifier: "menu.services"
+      url: ""
+      weight: 2
+
+    - name: "We Repair"
+      url: "/services/we-repair/"
+      weight: 1
+      parent: "menu.services"
+
+    - name: "We Build"
+      url: "/services/we-build/"
+      weight: 2
+      parent: "menu.services"
+
+    - name: "Blog"
+      identifier: "menu.blog"
+      url: "/blog/"
+      weight: 3
+
+    - name: "Gallery"
+      identifier: "menu.gallery"
+      url: "/gallery/"
+      weight: 4
+
+    - identifier: "contact"
+      name: "Contact"
+      url: "/contact/"
+      weight: 5
+
+  # Top bar social links menu
+  topbar:
+    - weight: 1
+      name: "Phone"
+      url: "tel:+91-XXX-XXX-XXXX"
+      pre: "<i class='fas fa-2x fa-phone'></i>"
+
+    - weight: 2
+      name: "Email"
+      url: "mailto:info@gadjoyrepair.com"
+      pre: "<i class='fas fa-2x fa-envelope'></i>"

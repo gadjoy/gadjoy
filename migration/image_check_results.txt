@@ -1,0 +1,578 @@
+Image Check Results
+========================================
+
+Posts with images found in WordPress database: 167
+--------------------------------------------------
+Slug: customizer-funnel (ID: 2345)
+Path: content/blog/2021/12/22/customizer-funnel/index.md
+
+Slug: product-of-two-numbers (ID: 2135)
+Path: content/blog/2021/12/15/product-of-two-numbers/index.md
+
+Slug: multiples-of-any-numbers (ID: 2158)
+Path: content/blog/2021/12/15/multiples-of-any-numbers/index.md
+
+Slug: factors-of-any-numbers (ID: 2123)
+Path: content/blog/2021/12/15/factors-of-any-numbers/index.md
+
+Slug: lcm-of-any-two-numbers (ID: 2392)
+Path: content/blog/2021/12/24/lcm-of-any-two-numbers/index.md
+
+Slug: sandpaper-disk-holder (ID: 2385)
+Path: content/blog/2021/12/24/sandpaper-disk-holder/index.md
+
+Slug: hcf-of-any-two-numbers (ID: 2389)
+Path: content/blog/2021/12/24/hcf-of-any-two-numbers/index.md
+
+Slug: deer-wall-sculpture (ID: 2404)
+Path: content/blog/2021/12/24/deer-wall-sculpture/index.md
+
+Slug: tube-roller (ID: 2398)
+Path: content/blog/2021/12/24/tube-roller/index.md
+
+Slug: smallest-multiple-from-1-20 (ID: 2395)
+Path: content/blog/2021/12/24/smallest-multiple-from-1-20/index.md
+
+Slug: eagle-wall-art (ID: 2401)
+Path: content/blog/2021/12/24/eagle-wall-art/index.md
+
+Slug: mechanical-quick-grab-phone-stand (ID: 1756)
+Path: content/blog/2021/12/08/mechanical-quick-grab-phone-stand/index.md
+
+Slug: air-icon-for-wall (ID: 2585)
+Path: content/blog/2021/12/31/air-icon-for-wall/index.md
+
+Slug: aaaaa-battery-holder (ID: 31)
+Path: content/blog/2021/12/07/aaaaa-battery-holder/index.md
+
+Slug: key-cap-remover (ID: 1773)
+Path: content/blog/2021/12/10/key-cap-remover/index.md
+
+Slug: mask-clip (ID: 1781)
+Path: content/blog/2021/12/10/mask-clip/index.md
+
+Slug: headphone-holder (ID: 1783)
+Path: content/blog/2021/12/10/headphone-holder/index.md
+
+Slug: iphone-and-apple-watch-holder (ID: 1775)
+Path: content/blog/2021/12/10/iphone-and-apple-watch-holder/index.md
+
+Slug: mini-project-light-socket (ID: 2195)
+Path: content/blog/2021/12/17/mini-project-light-socket/index.md
+
+Slug: 3d-print-mobile-stand (ID: 2201)
+Path: content/blog/2021/12/17/3d-print-mobile-stand/index.md
+
+Slug: code-project-euler-the-largest-prime-factor (ID: 2204)
+Path: content/blog/2021/12/17/code-project-euler-the-largest-prime-factor/index.md
+
+Slug: 3d-print-bird-feeder (ID: 2198)
+Path: content/blog/2021/12/17/3d-print-bird-feeder/index.md
+
+Slug: code-program-to-find-hcf-of-2-numbers (ID: 2207)
+Path: content/blog/2021/12/17/code-program-to-find-hcf-of-2-numbers/index.md
+
+Slug: secret-code-checker (ID: 2467)
+Path: content/blog/2021/12/28/secret-code-checker/index.md
+
+Slug: oil-funnel (ID: 2476)
+Path: content/blog/2021/12/28/oil-funnel/index.md
+
+Slug: 90-and-45-degree-drilling-guide (ID: 2473)
+Path: content/blog/2021/12/28/90-and-45-degree-drilling-guide/index.md
+
+Slug: batman-wall-decoration (ID: 1789)
+Path: content/blog/2021/12/11/batman-wall-decoration/index.md
+
+Slug: dell-laptop-windows-installation (ID: 1821)
+Path: content/blog/2021/12/11/dell-laptop-windows-installation/index.md
+
+Slug: soildering-wire-stand (ID: 1792)
+Path: content/blog/2021/12/11/soildering-wire-stand/index.md
+
+Slug: watering-spout (ID: 2416)
+Path: content/blog/2021/12/27/watering-spout/index.md
+
+Slug: dolphin-2d-art (ID: 2407)
+Path: content/blog/2021/12/27/dolphin-2d-art/index.md
+
+Slug: nail-holder (ID: 2410)
+Path: content/blog/2021/12/27/nail-holder/index.md
+
+Slug: simple-paste-squeezer (ID: 2413)
+Path: content/blog/2021/12/27/simple-paste-squeezer/index.md
+
+Slug: universal-bottle-opener (ID: 2422)
+Path: content/blog/2021/12/27/universal-bottle-opener/index.md
+
+Slug: usb-port-holder-for-switch-boards (ID: 2419)
+Path: content/blog/2021/12/27/usb-port-holder-for-switch-boards/index.md
+
+Slug: planter (ID: 2425)
+Path: content/blog/2021/12/27/planter/index.md
+
+Slug: samsung-galaxy-j6-dead-condition (ID: 5365)
+Path: content/blog/2023/01/17/samsung-galaxy-j6-dead-condition/index.md
+
+Slug: iphone-xr-dead-condition-2 (ID: 6691)
+Path: content/blog/2023/07/01/iphone-xr-dead-condition-2/index.md
+
+Slug: hp-pavilion-360-14-cd0077tu-ram-updating (ID: 6762)
+Path: content/blog/2023/07/09/hp-pavilion-360-14-cd0077tu-ram-updating/index.md
+
+Slug: iphone-se-2020-home-button-issue (ID: 7214)
+Path: content/blog/2023/10/27/iphone-se-2020-home-button-issue/index.md
+
+Slug: oppo-a53s-display-combo (ID: 7244)
+Path: content/blog/2023/11/08/oppo-a53s-display-combo/index.md
+
+Slug: hp-probook-4540s-dead-condition (ID: 5897)
+Path: content/blog/2023/02/18/hp-probook-4540s-dead-condition/index.md
+
+Slug: samsung-galaxy-a22-display-combo (ID: 6412)
+Path: content/blog/2023/05/14/samsung-galaxy-a22-display-combo/index.md
+
+Slug: iot-gadgets-repair-3 (ID: 4570)
+Path: content/blog/2022/06/01/iot-gadgets-repair-3/index.md
+
+Slug: iot-gadgets-repair-4 (ID: 4574)
+Path: content/blog/2022/06/01/iot-gadgets-repair-4/index.md
+
+Slug: iphone-7-display-combo-replacement-2 (ID: 4620)
+Path: content/blog/2022/06/26/iphone-7-display-combo-replacement-2/index.md
+
+Slug: samsung-galaxy-m31-logo-restarting (ID: 4588)
+Path: content/blog/2022/06/11/samsung-galaxy-m31-logo-restarting/index.md
+
+Slug: bulb-a-led (ID: 2927)
+Path: content/blog/2022/01/06/bulb-a-led/index.md
+
+Slug: circuit-that-senses-touch (ID: 2930)
+Path: content/blog/2022/01/06/circuit-that-senses-touch/index.md
+
+Slug: create-your-own-electromagnet (ID: 2924)
+Path: content/blog/2022/01/06/create-your-own-electromagnet/index.md
+
+Slug: sunrise-wake-up-alarm (ID: 2943)
+Path: content/blog/2022/01/06/sunrise-wake-up-alarm/index.md
+
+Slug: number-plate-detection (ID: 2918)
+Path: content/blog/2022/01/06/number-plate-detection/index.md
+
+Slug: mask-detection (ID: 2908)
+Path: content/blog/2022/01/06/mask-detection/index.md
+
+Slug: object-detection (ID: 2921)
+Path: content/blog/2022/01/06/object-detection/index.md
+
+Slug: turn-on-light-with-lemon (ID: 2947)
+Path: content/blog/2022/01/06/turn-on-light-with-lemon/index.md
+
+Slug: helmet-detection (ID: 2914)
+Path: content/blog/2022/01/06/helmet-detection/index.md
+
+Slug: circuit-that-senses-touch-2 (ID: 2933)
+Path: content/blog/2022/01/06/circuit-that-senses-touch-2/index.md
+
+Slug: planter-2 (ID: 2653)
+Path: content/blog/2022/01/01/planter-2/index.md
+
+Slug: program-to-find-even-or-odd (ID: 2656)
+Path: content/blog/2022/01/01/program-to-find-even-or-odd/index.md
+
+Slug: program-to-find-lcm-of-2-numbers (ID: 2662)
+Path: content/blog/2022/01/01/program-to-find-lcm-of-2-numbers/index.md
+
+Slug: program-to-find-if-number-is-divisibility-by-2 (ID: 2659)
+Path: content/blog/2022/01/01/program-to-find-if-number-is-divisibility-by-2/index.md
+
+Slug: samsung-a51-display-glass-replacement (ID: 3209)
+Path: content/blog/2022/01/30/samsung-a51-display-glass-replacement/index.md
+
+Slug: mechanical-quick-grab-phone-stand-2 (ID: 3006)
+Path: content/blog/2022/01/07/mechanical-quick-grab-phone-stand-2/index.md
+
+Slug: surgical-mask-strap (ID: 3035)
+Path: content/blog/2022/01/07/surgical-mask-strap/index.md
+
+Slug: perpetual-desktop-calendar (ID: 3027)
+Path: content/blog/2022/01/07/perpetual-desktop-calendar/index.md
+
+Slug: phone-stand (ID: 3018)
+Path: content/blog/2022/01/07/phone-stand/index.md
+
+Slug: deer-wall-art (ID: 3009)
+Path: content/blog/2022/01/07/deer-wall-art/index.md
+
+Slug: tv-remote-adapter (ID: 3012)
+Path: content/blog/2022/01/07/tv-remote-adapter/index.md
+
+Slug: sd-card-holder-2 (ID: 3021)
+Path: content/blog/2022/01/07/sd-card-holder-2/index.md
+
+Slug: mini-tape-gun (ID: 3015)
+Path: content/blog/2022/01/07/mini-tape-gun/index.md
+
+Slug: iris-box (ID: 3030)
+Path: content/blog/2022/01/07/iris-box/index.md
+
+Slug: filament-stand (ID: 3024)
+Path: content/blog/2022/01/07/filament-stand/index.md
+
+Slug: code-addition-of-matrices (ID: 3143)
+Path: content/blog/2022/01/26/code-addition-of-matrices/index.md
+
+Slug: code-subtraction-of-matrices (ID: 3146)
+Path: content/blog/2022/01/26/code-subtraction-of-matrices/index.md
+
+Slug: code-multiplication-of-matrix (ID: 3149)
+Path: content/blog/2022/01/26/code-multiplication-of-matrix/index.md
+
+Slug: code-arithmetic-progression (ID: 3152)
+Path: content/blog/2022/01/26/code-arithmetic-progression/index.md
+
+Slug: microgreens-chickpeas (ID: 3140)
+Path: content/blog/2022/01/26/microgreens-chickpeas/index.md
+
+Slug: code-numbers-to-find-divisible-by-8 (ID: 3096)
+Path: content/blog/2022/01/10/code-numbers-to-find-divisible-by-8/index.md
+
+Slug: code-numbers-to-find-divisible-by-9 (ID: 3099)
+Path: content/blog/2022/01/10/code-numbers-to-find-divisible-by-9/index.md
+
+Slug: cable-wind-up (ID: 3086)
+Path: content/blog/2022/01/10/cable-wind-up/index.md
+
+Slug: gadgets-continuity-tester-2 (ID: 3108)
+Path: content/blog/2022/01/10/gadgets-continuity-tester-2/index.md
+
+Slug: code-numericals-to-words-from-0-99999 (ID: 3105)
+Path: content/blog/2022/01/10/code-numericals-to-words-from-0-99999/index.md
+
+Slug: code-numbers-to-find-divisible-by-11 (ID: 3102)
+Path: content/blog/2022/01/10/code-numbers-to-find-divisible-by-11/index.md
+
+Slug: code-numbers-to-find-divisible-by-4-2 (ID: 3092)
+Path: content/blog/2022/01/10/code-numbers-to-find-divisible-by-4-2/index.md
+
+Slug: hex-key-holder (ID: 2717)
+Path: content/blog/2022/01/02/hex-key-holder/index.md
+
+Slug: wire-stripper (ID: 2714)
+Path: content/blog/2022/01/02/wire-stripper/index.md
+
+Slug: filament-cutter (ID: 2723)
+Path: content/blog/2022/01/02/filament-cutter/index.md
+
+Slug: charging-station (ID: 2888)
+Path: content/blog/2022/01/04/charging-station/index.md
+
+Slug: gadgets-continuity-tester (ID: 2900)
+Path: content/blog/2022/01/04/gadgets-continuity-tester/index.md
+
+Slug: iphone-11-display-glass-replacement (ID: 2831)
+Path: content/blog/2022/01/04/iphone-11-display-glass-replacement/index.md
+
+Slug: hydroponics (ID: 2894)
+Path: content/blog/2022/01/04/hydroponics/index.md
+
+Slug: batman-wall-decoration-2 (ID: 2885)
+Path: content/blog/2022/01/04/batman-wall-decoration-2/index.md
+
+Slug: code-numbers-to-find-divisible-by-4 (ID: 2897)
+Path: content/blog/2022/01/04/code-numbers-to-find-divisible-by-4/index.md
+
+Slug: tiger-wall-art (ID: 2882)
+Path: content/blog/2022/01/04/tiger-wall-art/index.md
+
+Slug: common-switch-socket (ID: 2891)
+Path: content/blog/2022/01/04/common-switch-socket/index.md
+
+Slug: sd-card-holder (ID: 2818)
+Path: content/blog/2022/01/03/sd-card-holder/index.md
+
+Slug: face-shield (ID: 2815)
+Path: content/blog/2022/01/03/face-shield/index.md
+
+Slug: phantom-head-poc (ID: 2824)
+Path: content/blog/2022/01/03/phantom-head-poc/index.md
+
+Slug: face-mask (ID: 2821)
+Path: content/blog/2022/01/03/face-mask/index.md
+
+Slug: 3du-borehole-cleaning-aid (ID: 2809)
+Path: content/blog/2022/01/03/3du-borehole-cleaning-aid/index.md
+
+Slug: plant-holder (ID: 2797)
+Path: content/blog/2022/01/03/plant-holder/index.md
+
+Slug: mechanical-gear-car (ID: 2812)
+Path: content/blog/2022/01/03/mechanical-gear-car/index.md
+
+Slug: tools-box (ID: 2794)
+Path: content/blog/2022/01/03/tools-box/index.md
+
+Slug: aaaaa-battery-holder-2 (ID: 2803)
+Path: content/blog/2022/01/03/aaaaa-battery-holder-2/index.md
+
+Slug: iphone-12-max-display-flickering (ID: 4856)
+Path: content/blog/2022/08/26/iphone-12-max-display-flickering/index.md
+
+Slug: lenovo-z50-70-20354-liquid-damage (ID: 4878)
+Path: content/blog/2022/08/26/lenovo-z50-70-20354-liquid-damage/index.md
+
+Slug: gadgets-repair-vivo-headphone-dead (ID: 5080)
+Path: content/blog/2022/09/13/gadgets-repair-vivo-headphone-dead/index.md
+
+Slug: gadgets-repair-acer-laptop-charger-dead-condition (ID: 5075)
+Path: content/blog/2022/09/13/gadgets-repair-acer-laptop-charger-dead-condition/index.md
+
+Slug: gadget-repair-boult-audio-headphone (ID: 5038)
+Path: content/blog/2022/09/11/gadget-repair-boult-audio-headphone/index.md
+
+Slug: gadget-repair-sony-headphone (ID: 5055)
+Path: content/blog/2022/09/11/gadget-repair-sony-headphone/index.md
+
+Slug: code-addition-of-compound-angles (ID: 3403)
+Path: content/blog/2022/02/14/code-addition-of-compound-angles/index.md
+
+Slug: iiot-gadget-repair (ID: 3365)
+Path: content/blog/2022/02/13/iiot-gadget-repair/index.md
+
+Slug: code-transform-a-product-of-two-trigonometric-functions-into-the-sum (ID: 3418)
+Path: content/blog/2022/02/15/code-transform-a-product-of-two-trigonometric-functions-into-the-sum/index.md
+
+Slug: code-to-find-acute-angle-between-the-lines (ID: 3307)
+Path: content/blog/2022/02/06/code-to-find-acute-angle-between-the-lines/index.md
+
+Slug: code-sum-to-product (ID: 3597)
+Path: content/blog/2022/02/26/code-sum-to-product/index.md
+
+Slug: code-hcf-long-division-method (ID: 3462)
+Path: content/blog/2022/02/19/code-hcf-long-division-method/index.md
+
+Slug: code-product-of-two-trigonometric-functions (ID: 3471)
+Path: content/blog/2022/02/19/code-product-of-two-trigonometric-functions/index.md
+
+Slug: code-digital-clock (ID: 3436)
+Path: content/blog/2022/02/16/code-digital-clock/index.md
+
+Slug: code-greatest-possible-length (ID: 3456)
+Path: content/blog/2022/02/18/code-greatest-possible-length/index.md
+
+Slug: code-to-find-hcf (ID: 3448)
+Path: content/blog/2022/02/18/code-to-find-hcf/index.md
+
+Slug: code-to-find-v-notch (ID: 3304)
+Path: content/blog/2022/02/05/code-to-find-v-notch/index.md
+
+Slug: iiot-gadgets-repair (ID: 3231)
+Path: content/blog/2022/02/04/iiot-gadgets-repair/index.md
+
+Slug: code-to-find-the-tenzile-stress (ID: 3235)
+Path: content/blog/2022/02/04/code-to-find-the-tenzile-stress/index.md
+
+Slug: code-to-find-x-y-intercept-of-the-line (ID: 3241)
+Path: content/blog/2022/02/04/code-to-find-x-y-intercept-of-the-line/index.md
+
+Slug: iot-gadget-repair-gionee-power-bank (ID: 4412)
+Path: content/blog/2022/05/08/iot-gadget-repair-gionee-power-bank/index.md
+
+Slug: code-convert-the-percentage-to-decimal-and-fraction-to-percentage (ID: 4431)
+Path: content/blog/2022/05/08/code-convert-the-percentage-to-decimal-and-fraction-to-percentage/index.md
+
+Slug: 3d-print-spinosaurus-kit-card (ID: 4147)
+Path: content/blog/2022/04/13/3d-print-spinosaurus-kit-card/index.md
+
+Slug: code-average-of-first-n-natural-numbers (ID: 4154)
+Path: content/blog/2022/04/13/code-average-of-first-n-natural-numbers/index.md
+
+Slug: iiot-gadgets-repair-9 (ID: 4150)
+Path: content/blog/2022/04/13/iiot-gadgets-repair-9/index.md
+
+Slug: 3d-print-filament-clip (ID: 4143)
+Path: content/blog/2022/04/12/3d-print-filament-clip/index.md
+
+Slug: code-check-first-last-number-of-list-is-the-same (ID: 4114)
+Path: content/blog/2022/04/12/code-check-first-last-number-of-list-is-the-same/index.md
+
+Slug: redmi-k20-front-camera-error (ID: 4353)
+Path: content/blog/2022/04/30/redmi-k20-front-camera-error/index.md
+
+Slug: iiot-gadget-repair-2 (ID: 4228)
+Path: content/blog/2022/04/19/iiot-gadget-repair-2/index.md
+
+Slug: code-number-guessing-game-in-python-3 (ID: 4185)
+Path: content/blog/2022/04/17/code-number-guessing-game-in-python-3/index.md
+
+Slug: 3d-print-t-rex-skeleton (ID: 4179)
+Path: content/blog/2022/04/17/3d-print-t-rex-skeleton/index.md
+
+Slug: iiot-gadgets-repair-boat-earphone (ID: 4182)
+Path: content/blog/2022/04/17/iiot-gadgets-repair-boat-earphone/index.md
+
+Slug: redmi-5pro-display-combo-replacement (ID: 4175)
+Path: content/blog/2022/04/17/redmi-5pro-display-combo-replacement/index.md
+
+Slug: iiot-gadgets-repair-zebronics (ID: 4194)
+Path: content/blog/2022/04/17/iiot-gadgets-repair-zebronics/index.md
+
+Slug: 3d-print-tools-holder (ID: 4188)
+Path: content/blog/2022/04/17/3d-print-tools-holder/index.md
+
+Slug: iiot-gadgets-repair-selfie-stick (ID: 4191)
+Path: content/blog/2022/04/17/iiot-gadgets-repair-selfie-stick/index.md
+
+Slug: 3d-print-flexible-build-plate-alignment-tabs (ID: 4157)
+Path: content/blog/2022/04/16/3d-print-flexible-build-plate-alignment-tabs/index.md
+
+Slug: iiot-gadgets-repair-bose-speaker (ID: 4164)
+Path: content/blog/2022/04/16/iiot-gadgets-repair-bose-speaker/index.md
+
+Slug: iiot-gadgets-repair-8 (ID: 4105)
+Path: content/blog/2022/04/11/iiot-gadgets-repair-8/index.md
+
+Slug: 3d-printer-t-rex-wall-sculpture (ID: 4109)
+Path: content/blog/2022/04/11/3d-printer-t-rex-wall-sculpture/index.md
+
+Slug: 3d-print-filament-dust-filter (ID: 4102)
+Path: content/blog/2022/04/11/3d-print-filament-dust-filter/index.md
+
+Slug: iiot-gadgets-repair-3 (ID: 3980)
+Path: content/blog/2022/04/05/iiot-gadgets-repair-3/index.md
+
+Slug: iiot-gadgets-repair-2 (ID: 3975)
+Path: content/blog/2022/04/04/iiot-gadgets-repair-2/index.md
+
+Slug: gadgets-dell-laptop-charger (ID: 3948)
+Path: content/blog/2022/04/03/gadgets-dell-laptop-charger/index.md
+
+Slug: vivo-y12-display-combo-replacement-2 (ID: 3940)
+Path: content/blog/2022/04/03/vivo-y12-display-combo-replacement-2/index.md
+
+Slug: acer-monitor-water-damage (ID: 3951)
+Path: content/blog/2022/04/03/acer-monitor-water-damage/index.md
+
+Slug: gadget-torch-dead-condition (ID: 3789)
+Path: content/blog/2022/03/22/gadget-torch-dead-condition/index.md
+
+Slug: 3d-print-filament-guide (ID: 3704)
+Path: content/blog/2022/03/14/3d-print-filament-guide/index.md
+
+Slug: code-sum-of-two-numbers-using-function (ID: 3707)
+Path: content/blog/2022/03/15/code-sum-of-two-numbers-using-function/index.md
+
+Slug: code-rectangular-notch (ID: 3642)
+Path: content/blog/2022/03/06/code-rectangular-notch/index.md
+
+Slug: gadget-head-phone (ID: 3619)
+Path: content/blog/2022/03/01/gadget-head-phone/index.md
+
+Slug: iiot-boat-race (ID: 3916)
+Path: content/blog/2022/03/30/iiot-boat-race/index.md
+
+Slug: raspberry-pi-an-led-game (ID: 3718)
+Path: content/blog/2022/03/19/raspberry-pi-an-led-game/index.md
+
+Slug: code-successive-differentiation (ID: 3710)
+Path: content/blog/2022/03/16/code-successive-differentiation/index.md
+
+Slug: 3d-printer-raspberry-pi-4-case (ID: 3905)
+Path: content/blog/2022/03/29/3d-printer-raspberry-pi-4-case/index.md
+
+Slug: code-sum-of-current-number-the-previous-number (ID: 3722)
+Path: content/blog/2022/03/20/code-sum-of-current-number-the-previous-number/index.md
+
+Slug: raspberry-pi-beat-the-goal (ID: 3756)
+Path: content/blog/2022/03/20/raspberry-pi-beat-the-goal/index.md
+
+Slug: code-cutting-speed-of-the-lathe (ID: 3760)
+Path: content/blog/2022/03/20/code-cutting-speed-of-the-lathe/index.md
+
+Slug: raspberry-pi-archery-game (ID: 3753)
+Path: content/blog/2022/03/20/raspberry-pi-archery-game/index.md
+
+Slug: code-derivatives-of-x-y (ID: 3750)
+Path: content/blog/2022/03/20/code-derivatives-of-x-y/index.md
+
+Slug: lenovo-a6000-dead-condition (ID: 3738)
+Path: content/blog/2022/03/20/lenovo-a6000-dead-condition/index.md
+
+Slug: code-rule-of-differentiate (ID: 3634)
+Path: content/blog/2022/03/05/code-rule-of-differentiate/index.md
+
+Slug: code-to-find-prime-factors (ID: 3627)
+Path: content/blog/2022/03/04/code-to-find-prime-factors/index.md
+
+
+Posts truly without images: 23
+--------------------------------------------------
+Slug: lenovo-laptop-battery-replacement (ID: 2087)
+Path: content/blog/2021/12/14/lenovo-laptop-battery-replacement/index.md
+
+Slug: samsung-j7-display-combo-replacement (ID: 2076)
+Path: content/blog/2021/12/14/samsung-j7-display-combo-replacement/index.md
+
+Slug: iphone-6s-display-combo-replacement-2 (ID: 2061)
+Path: content/blog/2021/12/14/iphone-6s-display-combo-replacement-2/index.md
+
+Slug: lenovo-laptop-water-damage (ID: 2082)
+Path: content/blog/2021/12/14/lenovo-laptop-water-damage/index.md
+
+Slug: iphone-xs-logo-stuck (ID: 2066)
+Path: content/blog/2021/12/14/iphone-xs-logo-stuck/index.md
+
+Slug: moto-e4-plus-battery-replacement (ID: 2071)
+Path: content/blog/2021/12/14/moto-e4-plus-battery-replacement/index.md
+
+Slug: ipad-2-dead-condition (ID: 2056)
+Path: content/blog/2021/12/14/ipad-2-dead-condition/index.md
+
+Slug: hp-laptop-dead-condition-3 (ID: 2038)
+Path: content/blog/2021/12/13/hp-laptop-dead-condition-3/index.md
+
+Slug: redmi-6-pro-display-combo-replacement (ID: 2051)
+Path: content/blog/2021/12/13/redmi-6-pro-display-combo-replacement/index.md
+
+Slug: vivo-y91i-display-combo-replacement-3 (ID: 2044)
+Path: content/blog/2021/12/13/vivo-y91i-display-combo-replacement-3/index.md
+
+Slug: addition-and-subtraction-of-any-two-numbers (ID: 2030)
+Path: content/blog/2021/12/12/addition-and-subtraction-of-any-two-numbers/index.md
+
+Slug: 1940 (ID: 1940)
+Path: content/blog/2021/12/12/1940/index.md
+
+Slug: dell-laptop-software-service (ID: 2019)
+Path: content/blog/2021/12/12/dell-laptop-software-service/index.md
+
+Slug: vivo-y91i-display-combo-replacement-2 (ID: 2014)
+Path: content/blog/2021/12/12/vivo-y91i-display-combo-replacement-2/index.md
+
+Slug: code-addition-and-subtraction-of-any-two-number (ID: 2170)
+Path: content/blog/2021/12/15/code-addition-and-subtraction-of-any-two-number/index.md
+
+Slug: iphone-6s-display-combo-replacement-3 (ID: 2115)
+Path: content/blog/2021/12/15/iphone-6s-display-combo-replacement-3/index.md
+
+Slug: code-quizometry-website-login-model-test (ID: 2182)
+Path: content/blog/2021/12/15/code-quizometry-website-login-model-test/index.md
+
+Slug: vivo-v-15-display-combo-replacement (ID: 41)
+Path: content/blog/2021/12/11/vivo-v-15-display-combo-replacement/index.md
+
+Slug: samsung-j7-pro-display-combo-replacement (ID: 2274)
+Path: content/blog/2021/12/18/samsung-j7-pro-display-combo-replacement/index.md
+
+Slug: ipad-2-dead-condition-2 (ID: 2265)
+Path: content/blog/2021/12/18/ipad-2-dead-condition-2/index.md
+
+Slug: addition-and-subtraction-of-any-two-numbers-2 (ID: 2003)
+Path: content/blog/2022/01/07/addition-and-subtraction-of-any-two-numbers-2/index.md
+
+Slug: iiot-raspberry-pi-3d-thunder-cloud (ID: 4137)
+Path: content/blog/2022/04/12/iiot-raspberry-pi-3d-thunder-cloud/index.md
+
+Slug: iiot-raspberry-pi-leds-buzzers (ID: 4140)
+Path: content/blog/2022/04/12/iiot-raspberry-pi-leds-buzzers/index.md
+

@@ -1,0 +1,1525 @@
+Gadjoy WordPress to Hugo Migration Log
+==================================================
+
+2025-05-30 23:49:30.309605: Starting Gadjoy WordPress to Hugo migration...
+2025-05-30 23:49:30.309660: Querying WordPress database for posts...
+2025-05-30 23:49:30.558252: Querying WordPress database for pages...
+2025-05-30 23:49:30.681231: Found 1508 posts and 6 pages
+2025-05-30 23:49:30.700338: Created blog post: Redmi Note 10 Pro - Display
+2025-05-30 23:49:30.700854: Created blog post: Samsung Galaxy A03s - No Display
+2025-05-30 23:49:30.701580: Created blog post: Samsung Galaxy A32 - Display
+2025-05-30 23:49:30.702215: Created blog post: Dell Inspiron 3593 P75F313 - Software services
+2025-05-30 23:49:30.702830: Created blog post: Redmi Note 10 Pro - Display
+2025-05-30 23:49:30.703580: Created blog post: Asus NoteBook PC X407UF - Slow
+2025-05-30 23:49:30.704618: Created blog post: Oppo A15 - Display
+2025-05-30 23:49:30.705179: Created blog post: OnePlus Nord CE4 - Software service
+2025-05-30 23:49:30.705871: Created blog post: Fusion 5 Tab - Dead Condition
+2025-05-30 23:49:30.706440: Created blog post: Poco X3 Pro - Dead
+2025-05-30 23:49:30.706988: Created blog post: Moto G24 Power -  Display
+2025-05-30 23:49:30.707887: Created blog post: iPhone 12  - Back Glass
+2025-05-30 23:49:30.708354: Created blog post: iPad 5th Gen A1822 - Display
+2025-05-30 23:49:30.708718: Created blog post: Vivo S1  Display Issue
+2025-05-30 23:49:30.709344: Created blog post: Redmi Y3 - Dead
+2025-05-30 23:49:30.709738: Created blog post: Realme Narzo N53 - Display
+2025-05-30 23:49:30.710203: Created blog post: Samsung Galaxy M51 - Dead
+2025-05-30 23:49:30.710987: Created blog post: Dell Latitude 5400 - No Display
+2025-05-30 23:49:30.711441: Created blog post: Mi 11X  Display Issue
+2025-05-30 23:49:30.711832: Created blog post: Dell Inspiron 15 3000 series - Office - Before
+2025-05-30 23:49:30.712245: Created blog post: Vivo Y16 - Display Issue
+2025-05-30 23:49:30.712879: Created blog post: Dell Inspiron 15 3000 series - Office
+2025-05-30 23:49:30.713333: Created blog post: Vivo Y16 - Display Issue
+2025-05-30 23:49:30.713726: Created blog post: Dell Inspiron 15 3000 Series - Battery
+2025-05-30 23:49:30.714091: Created blog post: Samsung Galaxy A12 - Display
+2025-05-30 23:49:30.714439: Created blog post: HP 15q-ds0016TU - Slow
+2025-05-30 23:49:30.714964: Created blog post: Samsung Galaxy A52s - Charging Port
+2025-05-30 23:49:30.715368: Created blog post: Samsung Galaxy M13  Software
+2025-05-30 23:49:30.715737: Created blog post: Redmi 9A - Display
+2025-05-30 23:49:30.716109: Created blog post: iPhone 12 pro - Back Glass
+2025-05-30 23:49:30.716480: Created blog post: OnePlus 7T - Display Issue
+2025-05-30 23:49:30.716880: Created blog post: iPad Air 2  Battery Replacement
+2025-05-30 23:49:30.717429: Created blog post: Vivo S1 - Display
+2025-05-30 23:49:30.717768: Created blog post: Realme 12 Pro  Dead and Software
+2025-05-30 23:49:30.718102: Created blog post: Redmi 10 - Display
+2025-05-30 23:49:30.718463: Created blog post: Samsung Galaxy Note 10 Lite - Display Glass
+2025-05-30 23:49:30.718806: Created blog post: HP 15da-0327TU - Display
+2025-05-30 23:49:30.719160: Created blog post: iPhone 12 Pro Max - Water damage
+2025-05-30 23:49:30.719514: Created blog post: OnePlus Nord 2 5G - Dead
+2025-05-30 23:49:30.719862: Created blog post: Motorola One Power - Battery
+2025-05-30 23:49:30.720171: Created blog post: iPhone 7 - Battery
+2025-05-30 23:49:30.720471: Created blog post: Infinix Hot 11 - Display
+2025-05-30 23:49:30.720815: Created blog post: iPhone SE 2020 - Battery
+2025-05-30 23:49:30.721508: Created blog post: Dell Latitude 5410 - WiFi Issue
+2025-05-30 23:49:30.721925: Created blog post: iPhone 12 - Display glass
+2025-05-30 23:49:30.722299: Created blog post: Oppo F15 - Software service
+2025-05-30 23:49:30.722643: Created blog post: MacBook Air A2337 - Battery
+2025-05-30 23:49:30.722946: Created blog post: Samsung Galaxy M31s - Display
+2025-05-30 23:49:30.723245: Created blog post: Realme Narzo N53 - Display
+2025-05-30 23:49:30.723556: Created blog post: Vivo Y28e 5G - Software service
+2025-05-30 23:49:30.723954: Created blog post: Lenovo 81HN - Hang and Slow
+2025-05-30 23:49:30.724308: Created blog post: Realme 9 - Dead
+2025-05-30 23:49:30.724665: Created blog post: iPad Air 2- Display Combo
+2025-05-30 23:49:30.724997: Created blog post: Redmi Note 10 - Display
+2025-05-30 23:49:30.725288: Created blog post: Sony E Series - Dead Condition
+2025-05-30 23:49:30.725809: Created blog post: iPhone 13 - Back Glass
+2025-05-30 23:49:30.726270: Created blog post: Samsung Galaxy M12 - CC
+2025-05-30 23:49:30.726583: Created blog post: Redmi Y3 - Battery and Loud speaker
+2025-05-30 23:49:30.726908: Created blog post: Poco C50 - Charging port
+2025-05-30 23:49:30.727207: Created blog post: Samsung Galaxy M20 - Display
+2025-05-30 23:49:30.727507: Created blog post: infinix Hot 11 - Display + CC
+2025-05-30 23:49:30.727831: Created blog post: iPad A1567 - Dead
+2025-05-30 23:49:30.728268: Created blog post: Samsung Galaxy A20 - Display
+2025-05-30 23:49:30.728548: Created blog post: Infinix Hot 30i - Display
+2025-05-30 23:49:30.728832: Created blog post: Lenovo ideaPad 320S-141KB - OS
+2025-05-30 23:49:30.729137: Created blog post: Redmi Note 10S - Display Glass
+2025-05-30 23:49:30.729475: Created blog post: Realme 12 Pro - Dead
+2025-05-30 23:49:30.729902: Created blog post: HP 15-ac650TU - Software service
+2025-05-30 23:49:30.730200: Created blog post: Zebronics Desktop  No Display
+2025-05-30 23:49:30.730734: Created blog post: iPhone 11 - Back Glass
+2025-05-30 23:49:30.731253: Created blog post: Lenovo ThinkPad E480 - No Display
+2025-05-30 23:49:30.731560: Created blog post: Realme 12C - Display Glass
+2025-05-30 23:49:30.731853: Created blog post: Realme XT - Display
+2025-05-30 23:49:30.732151: Created blog post: OnePlus Nord CE 5G - Display
+2025-05-30 23:49:30.732431: Created blog post: iPhone SE - Display
+2025-05-30 23:49:30.732747: Created blog post: Asus Zenfone Max Pro M2 - Battery
+2025-05-30 23:49:30.733295: Created blog post: Dell Latitude 5591 - Charging Port
+2025-05-30 23:49:30.733604: Created blog post: Redmi Note 7 Pro - Display
+2025-05-30 23:49:30.733967: Created blog post: Redmi 9 Power - Logo Stuck
+2025-05-30 23:49:30.734311: Created blog post: Redmi 13C- Display
+2025-05-30 23:49:30.734778: Created blog post: Dell 3Q9T462  Battery Replacement
+2025-05-30 23:49:30.735154: Created blog post: Redmi Note 7 Pro - Display
+2025-05-30 23:49:30.735479: Created blog post: HP 15-db1xxx - Keyboard
+2025-05-30 23:49:30.735861: Created blog post: Vivo V7 Plus - Display Glass
+2025-05-30 23:49:30.736184: Created blog post: Oppo A55 - Display and Water damage
+2025-05-30 23:49:30.736639: Created blog post: One Plus 5T - Dead
+2025-05-30 23:49:30.736920: Created blog post: OnePlus 11R - Back Glass
+2025-05-30 23:49:30.737206: Created blog post: Acer N22C6A - Keyboard
+2025-05-30 23:49:30.737484: Created blog post: Google pixel 7 Pro - Display Glass
+2025-05-30 23:49:30.737817: Created blog post: HP EliteBook 840 - Charging issue
+2025-05-30 23:49:30.738588: Created blog post: Vivo Y20 - Display Combo
+2025-05-30 23:49:30.739115: Created blog post: Vivo Z1 Pro - Display
+2025-05-30 23:49:30.739625: Created blog post: Realme X50 Pro - Display
+2025-05-30 23:49:30.740126: Created blog post: Samsung S6 Lite - Display Glass
+2025-05-30 23:49:30.740543: Created blog post: iPhone 11 - Battery Replacement
+2025-05-30 23:49:30.741036: Created blog post: Samsung SM-A057F - Software
+2025-05-30 23:49:30.741362: Created blog post: Samsung Galaxy M30  - Display Combo
+2025-05-30 23:49:30.741738: Created blog post: Samsung Galaxy Note 10 Plus - Display
+2025-05-30 23:49:30.742066: Created blog post: iPhone 7 - Display Combo
+2025-05-30 23:49:30.742788: Created blog post: HP 14s-cf1056TU - Battery Issue
+2025-05-30 23:49:30.743140: Created blog post: One Plus  Nord CE2 Lite 5G - Display
+2025-05-30 23:49:30.743663: Created blog post: Redmi Note 8 Pro - Dead
+2025-05-30 23:49:30.743993: Created blog post: iPhone 11 - Dead
+2025-05-30 23:49:30.744251: Created blog post: Dell Latitude 7480 - Battery
+2025-05-30 23:49:30.744854: Created blog post: Lenovo ThinkPad - Keyboard Replacement
+2025-05-30 23:49:30.745221: Created blog post: Vivo Y15 - Display
+2025-05-30 23:49:30.745541: Created blog post: Samsung Galaxy ON 6 - Software Service
+2025-05-30 23:49:30.745964: Created blog post: iPhone 13  Display Comb Replacement
+2025-05-30 23:49:30.746784: Created blog post: MacBook Air A1466 - Battery
+2025-05-30 23:49:30.747085: Created blog post: OnePlus 11R - Water Damage
+2025-05-30 23:49:30.747514: Created blog post: iPhone XR  Display Glass
+2025-05-30 23:49:30.747817: Created blog post: iPhone 5S - Display
+2025-05-30 23:49:30.748089: Created blog post: Vivo Y95 - Dead
+2025-05-30 23:49:30.748383: Created blog post: iPhone 14 - Display glass
+2025-05-30 23:49:30.748728: Created blog post: Red Mi 13C- Display
+2025-05-30 23:49:30.749148: Created blog post: Lenovo IdeaPad 15ADA7 - Hinges
+2025-05-30 23:49:30.749640: Created blog post: Lenovo Z50-70 - Dead
+2025-05-30 23:49:30.750172: Created blog post: Infinix Hot 30i - Software service
+2025-05-30 23:49:30.750438: Created blog post: Samsung Galaxy F22 - Dead
+2025-05-30 23:49:30.750710: Created blog post: Dell Inspiron 15- 3000  Office Installation
+2025-05-30 23:49:30.751067: Created blog post: Acer N15C4 - OS
+2025-05-30 23:49:30.751419: Created blog post: Lenovo IdeaPad S145 - Water Damage
+2025-05-30 23:49:30.751697: Created blog post: iPhone SE 2020 - Water Damage
+2025-05-30 23:49:30.752186: Created blog post: Vivo Z1 Pro - Display Combo
+2025-05-30 23:49:30.752573: Created blog post: Vivo Y19 - Display Combo
+2025-05-30 23:49:30.752859: Created blog post: Vivo Y16  Display Combo
+2025-05-30 23:49:30.753185: Created blog post: Redmi Note 11 T - Display
+2025-05-30 23:49:30.753586: Created blog post: Samsung Galaxy A15 - Water Damage
+2025-05-30 23:49:30.754069: Created blog post: Vivo Y71 T - Software service
+2025-05-30 23:49:30.754373: Created blog post: Google pixel 6A - Display glass
+2025-05-30 23:49:30.754794: Created blog post: Vivo S1 - Display Issue
+2025-05-30 23:49:30.755054: Created blog post: iPhone 12  Pro- Display glass
+2025-05-30 23:49:30.755379: Created blog post: iPad Air A2072 - Dead
+2025-05-30 23:49:30.755900: Created blog post: Oppo A16 - Software Service
+2025-05-30 23:49:30.756170: Created blog post: iPhone 11 - Software Service
+2025-05-30 23:49:30.756477: Created blog post: OnePlus 3T - Battery and Power Button
+2025-05-30 23:49:30.756966: Created blog post: Vivo Y53S  Display Issue
+2025-05-30 23:49:30.757237: Created blog post: Lenovo TB- X505F - Display
+2025-05-30 23:49:30.757599: Created blog post: iPad Air A2072 - Dead
+2025-05-30 23:49:30.758080: Created blog post: Dell Inspiron 15 - Software & Keyboard
+2025-05-30 23:49:30.758354: Created blog post: Lenovo 80SX - Display
+2025-05-30 23:49:30.758608: Created blog post: Dell TTYFJA00 - Dead
+2025-05-30 23:49:30.759027: Created blog post: Realme  7 Pro- Power button
+2025-05-30 23:49:30.759517: Created blog post: One Plus 7T - Display
+2025-05-30 23:49:30.760019: Created blog post: Oppo A3s  Display Issue
+2025-05-30 23:49:30.760558: Created blog post: Redmi Note 6 Pro - Display Combo
+2025-05-30 23:49:30.761048: Created blog post: One Plus 7T - Display
+2025-05-30 23:49:30.761303: Created blog post: Lenovo IdeaPad S145-15AP - Slow
+2025-05-30 23:49:30.761586: Created blog post: iPhone 6S - Dead
+2025-05-30 23:49:30.762010: Created blog post: Lenovo IdeaPad S510P - Charger & DC Jack
+2025-05-30 23:49:30.762346: Created blog post: Samsung M30s - Display Glass
+2025-05-30 23:49:30.762760: Created blog post: iPhone 11 Pro - Display Combo
+2025-05-30 23:49:30.763120: Created blog post: MacBook Pro A1398 - Battery
+2025-05-30 23:49:30.763983: Created blog post: HP 15S-du1044TU - Not Switching On
+2025-05-30 23:49:30.764341: Created blog post: Samsung Galaxy M31 - Display
+2025-05-30 23:49:30.764760: Created blog post: Vivo Y91 - Logo Stuck
+2025-05-30 23:49:30.765018: Created blog post: Samsung Galaxy M30s  Dead Condition
+2025-05-30 23:49:30.765380: Created blog post: Acer predator N20C3A - Display
+2025-05-30 23:49:30.765834: Created blog post: Samsung Galaxy S21 - Battery
+2025-05-30 23:49:30.766072: Created blog post: Samsung Galaxy  M32 - Display
+2025-05-30 23:49:30.766430: Created blog post: iPhone 7 Plus - Display Combo
+2025-05-30 23:49:30.766841: Created blog post: iPhone SE  - Display
+2025-05-30 23:49:30.767199: Created blog post: Vivo V3 - Network Issue
+2025-05-30 23:49:30.767723: Created blog post: HP Pavilion X360  Software Services
+2025-05-30 23:49:30.768193: Created blog post: iPhone 11 - Dead
+2025-05-30 23:49:30.768564: Created blog post: Vivo Y71 - Display Glass
+2025-05-30 23:49:30.768952: Created blog post: Samsung Galaxy S20 FE  - Display Glass
+2025-05-30 23:49:30.769228: Created blog post: Lenovo Think Book 14 G2 ITL  Screen Stuck
+2025-05-30 23:49:30.769545: Created blog post: Redmi  8  Dead Condition
+2025-05-30 23:49:30.769833: Created blog post: Samsung Galaxy M12 - Display
+2025-05-30 23:49:30.770316: Created blog post: Vivo Z1 Pro - Display Combo
+2025-05-30 23:49:30.770589: Created blog post: Samsung Galaxy J6 - Battery
+2025-05-30 23:49:30.770833: Created blog post: iPhone  11 - Display Combo
+2025-05-30 23:49:30.771357: Created blog post: Vivo Y91C - Display Combo
+2025-05-30 23:49:30.772125: Created blog post: Samsung A51 - Display
+2025-05-30 23:49:30.772932: Created blog post: HP 14-r053TU - Blank Display
+2025-05-30 23:49:30.773262: Created blog post: Samsung Galaxy C7 Pro - Display Glass
+2025-05-30 23:49:30.773522: Created blog post: Itel A60 - Display Issue
+2025-05-30 23:49:30.774199: Created blog post: MacBook A2681 - Keyboard
+2025-05-30 23:49:30.774624: Created blog post: HP 15a-bu044TU - Battery
+2025-05-30 23:49:30.774944: Created blog post: One Plus Nord CE - Display
+2025-05-30 23:49:30.775209: Created blog post: iPhone 14 plus - Not Activated
+2025-05-30 23:49:30.775838: Created blog post: HP Pavilion 15  SSD Upgradation
+2025-05-30 23:49:30.776182: Created blog post: Samsung A260  Display Replacement
+2025-05-30 23:49:30.776466: Created blog post: Dell Latitude 7480 - Battery Replacement
+2025-05-30 23:49:30.776994: Created blog post: Google Pixel Pro 6  Software Service
+2025-05-30 23:49:30.777400: Created blog post: Realme C2 - Water Damage
+2025-05-30 23:49:30.777794: Created blog post: OnePlus 8T - Dead Condition
+2025-05-30 23:49:30.778201: Created blog post: OnePlus 11R 5G - Water Damage + Battery Issue
+2025-05-30 23:49:30.778799: Created blog post: Lenovo ThinkPad L420 - Software Service
+2025-05-30 23:49:30.779265: Created blog post: Samsung F41  Display - Replacement
+2025-05-30 23:49:30.779907: Created blog post: Vivo Y18  Charging Port Issue
+2025-05-30 23:49:30.780491: Created blog post: Mi 9i - Display Combo
+2025-05-30 23:49:30.780909: Created blog post: HP Pavilion x360 - Dead
+2025-05-30 23:49:30.783148: Created blog post: Google Pixel 6 Pro - Software
+2025-05-30 23:49:30.783890: Created blog post: Samsung M31s - Display Issue
+2025-05-30 23:49:30.784230: Created blog post: iPhone 7 - Camera & Display Glass
+2025-05-30 23:49:30.785426: Created blog post: Alcatel Tablet - Dead
+2025-05-30 23:49:30.786174: Created blog post: Vivo Y53s  Display Issue
+2025-05-30 23:49:30.788262: Created blog post: Nokia G42 5G  Display Glass Replacement
+2025-05-30 23:49:30.789351: Created blog post: iPhone 11  No Display Condition
+2025-05-30 23:49:30.789826: Created blog post: Lenovo ideaPad 15ADA7 - Hinge Fabrication
+2025-05-30 23:49:30.790501: Created blog post: Samsung A51 - Display
+2025-05-30 23:49:30.790819: Created blog post: HP 15s-fr2006TU - Dead
+2025-05-30 23:49:30.791451: Created blog post: iPhone SE  Home Button Issue
+2025-05-30 23:49:30.791788: Created blog post: Poco X2 - Touch Issue
+2025-05-30 23:49:30.792130: Created blog post: HP 2000 - 2201TU - Logo Stuck
+2025-05-30 23:49:30.792443: Created blog post: Samsung M02s - Dead
+2025-05-30 23:49:30.793180: Created blog post: Dell Inspiron 1558 N5110  Hinges Issue
+2025-05-30 23:49:30.793676: Created blog post: Realme 9 Pro 5G - Display Combo
+2025-05-30 23:49:30.794012: Created blog post: Samsung Galaxy Tab S6 Lite - Display
+2025-05-30 23:49:30.794893: Created blog post: Realme Narzo 50A  Display Issue
+2025-05-30 23:49:30.795398: Created blog post: iPhone SE  Battery Replacement
+2025-05-30 23:49:30.796767: Created blog post: Lenovo  81A5 - Dead
+2025-05-30 23:49:30.798414: Created blog post: HP 15-dblxxx - Battery  Replacement
+2025-05-30 23:49:30.799569: Created blog post: OnePlus 7T - Dead
+2025-05-30 23:49:30.799923: Created blog post: Dell Inspiron 15 - Battery Replacement
+2025-05-30 23:49:30.800304: Created blog post: iPhone 7 Plus  Not Charging
+2025-05-30 23:49:30.800909: Created blog post: Asus X515 - Camera Not Wolking
+2025-05-30 23:49:30.802180: Created blog post: Realme C21Y - Display Combo
+2025-05-30 23:49:30.802896: Created blog post: Oppo Realme 1 - Display Combo
+2025-05-30 23:49:30.803480: Created blog post: iPhone 11 - Display Combo
+2025-05-30 23:49:30.804868: Created blog post: Samsung Galaxy M31 - Display Glass
+2025-05-30 23:49:30.805402: Created blog post: Lenovo G50-45 - Dead
+2025-05-30 23:49:30.805688: Created blog post: Lenovo ThinkPad T450  Fan Error
+2025-05-30 23:49:30.805942: Created blog post: HP Pavilion g6 - Slow
+2025-05-30 23:49:30.806202: Created blog post: Vivo Y53 - Display Combo
+2025-05-30 23:49:30.806478: Created blog post: Hp 14a-CS0023TU  Hinges Issue
+2025-05-30 23:49:30.806965: Created blog post: 4989 -Vivo V9 - Display
+2025-05-30 23:49:30.807316: Created blog post: Hp Notebook 15 - Software Service
+2025-05-30 23:49:30.807800: Created blog post: 4985 -Vivo Y20  Dead Condition
+2025-05-30 23:49:30.808135: Created blog post: Dell Inspiron 15 - No Display
+2025-05-30 23:49:30.808634: Created blog post: Redmi Note 6 Pro - Display
+2025-05-30 23:49:30.809148: Created blog post: Mi 10i  Dead Condition
+2025-05-30 23:49:30.810043: Created blog post: iPhone X - Display Issue
+2025-05-30 23:49:30.810591: Created blog post: Google Pixel 7 Pro - Display  Glass
+2025-05-30 23:49:30.810870: Created blog post: Redmi 7A - Display
+2025-05-30 23:49:30.811215: Created blog post: Apple iPhone SE - Dead
+2025-05-30 23:49:30.811464: Created blog post: HP Pavilion 15 - 256GB SSD
+2025-05-30 23:49:30.812006: Created blog post: OnePlus Nord CE 5G - Dead
+2025-05-30 23:49:30.812296: Created blog post: Tecno Spark Go 3 - BF7 - Display
+2025-05-30 23:49:30.812607: Created blog post: 
+2025-05-30 23:49:30.813148: Created blog post: Lenovo yoga 134LC6 - Dead
+2025-05-30 23:49:30.813524: Created blog post: Samsung A207F - Dead
+2025-05-30 23:49:30.814056: Created blog post: One Plus 6T - Display Glass
+2025-05-30 23:49:30.814480: Created blog post: Oppo  F11 Pro -  Display combo
+2025-05-30 23:49:30.814887: Created blog post: One Plus 6T - Display Glass
+2025-05-30 23:49:30.815331: Created blog post: iPad A2459  - Dead
+2025-05-30 23:49:30.815596: Created blog post: Zebronics Desktop - Dead
+2025-05-30 23:49:30.816003: Created blog post: HP  Spectre 13-4103dx - Dead
+2025-05-30 23:49:30.816417: Created blog post: Infinix  Hot 9 - Display
+2025-05-30 23:49:30.816695: Created blog post: Vivo Y19  Display Issue
+2025-05-30 23:49:30.817092: Created blog post: Redmi Note 7 Pro Display Issue
+2025-05-30 23:49:30.817463: Created blog post: Vivo Y19  Display Issue
+2025-05-30 23:49:30.817977: Created blog post: iPhone 13 Pro Max - Dead
+2025-05-30 23:49:30.818263: Created blog post: Samsung Galaxy A53 - Dead
+2025-05-30 23:49:30.818629: Created blog post: Samsung Galaxy Tab S6 Lite - Display
+2025-05-30 23:49:30.819060: Created blog post: Acer N16W1  Dead Condition
+2025-05-30 23:49:30.819748: Created blog post: Vivo Y20 - Display - After
+2025-05-30 23:49:30.820017: Created blog post: Vivo Z1 Pro - Auto Switched Off
+2025-05-30 23:49:30.820299: Created blog post: Lenovo Z50-75 - Slow
+2025-05-30 23:49:30.820581: Created blog post: HP 15s-fq4021tu  Fan Error
+2025-05-30 23:49:30.820854: Created blog post: HP Pavilion G6 - SSD and RAM Upgrade
+2025-05-30 23:49:30.821136: Created blog post: Redmi  9A  Dead Condition
+2025-05-30 23:49:30.821540: Created blog post: Samsung Galaxy  A30  Log Restarting
+2025-05-30 23:49:30.821976: Created blog post: Dell Inspiron 15 - Dead
+2025-05-30 23:49:30.822312: Created blog post: Lenovo ThinkPad T440P - Water Damage
+2025-05-30 23:49:30.822784: Created blog post: Vivo Y20 - Display Issue
+2025-05-30 23:49:30.823105: Created blog post: Samsung Galaxy A50 - Charging
+2025-05-30 23:49:30.823414: Created blog post: Hp NoteBook 15 - Display Issue
+2025-05-30 23:49:30.823819: Created blog post: MacBook Air A1466  Battery Issue
+2025-05-30 23:49:30.824107: Created blog post: Oppo  F11 Pro  Display Combo Issue
+2025-05-30 23:49:30.824503: Created blog post: Realme Narzo 50i - Dead
+2025-05-30 23:49:30.824960: Created blog post: HP - 14s-cr3003tu - Battery
+2025-05-30 23:49:30.825371: Created blog post: Samsung All in One Desktop - Dead
+2025-05-30 23:49:30.825643: Created blog post: Samsung Galaxy M50S  Display Glass
+2025-05-30 23:49:30.826107: Created blog post: HP Pavilion 7265NGW - Battery
+2025-05-30 23:49:30.826369: Created blog post: Samsung Galaxy M31 - Display
+2025-05-30 23:49:30.826759: Created blog post: Sony SVT13-B11L - Software Services
+2025-05-30 23:49:30.827368: Created blog post: MacBook Pro A2338 - Dead
+2025-05-30 23:49:30.827798: Created blog post: Oppo F19 Pro  Display Glass Replacement
+2025-05-30 23:49:30.828379: Created blog post: Samsung Galaxy F41  No Display
+2025-05-30 23:49:30.828828: Created blog post: Lenovo IdeaPad 320  HDD Replacement
+2025-05-30 23:49:30.829138: Created blog post: Samsung Galaxy M31  Display Issue
+2025-05-30 23:49:30.829404: Created blog post: Dell Latitude 3400  Software + Battery Replacement
+2025-05-30 23:49:30.829753: Created blog post: MacBook Pro A2338 - Dead
+2025-05-30 23:49:30.830404: Created blog post: Tecno Spark 6 Go - Display
+2025-05-30 23:49:30.830880: Created blog post: Samsung Galaxy M30 - Display Glass
+2025-05-30 23:49:30.831239: Created blog post: iPhone 11 Pro - Display
+2025-05-30 23:49:30.831578: Created blog post: Samsung Galaxy A53 - Dead
+2025-05-30 23:49:30.832826: Created blog post: Oppo F19 Pro - Display Glass
+2025-05-30 23:49:30.833100: Created blog post: MacBook Pro A2338 - Dead
+2025-05-30 23:49:30.833588: Created blog post: MacBook Pro A1398  Keyboard Issue
+2025-05-30 23:49:30.833952: Created blog post: Vivo Y15  Display Issue
+2025-05-30 23:49:30.834257: Created blog post: Vivo Y21 - DisplayIssue
+2025-05-30 23:49:30.834731: Created blog post: iPhone 7 - Display Glass
+2025-05-30 23:49:30.835601: Created blog post: Samsung Galaxy Note 10 plus - Dead
+2025-05-30 23:49:30.835876: Created blog post: Samsung Tab A7 Lite - Software
+2025-05-30 23:49:30.836202: Created blog post: LG Monitor - Dead
+2025-05-30 23:49:30.836531: Created blog post: Samsung Galaxy M13 - Display
+2025-05-30 23:49:30.836850: Created blog post: Samsung M22 - Display
+2025-05-30 23:49:30.837715: Created blog post: Panasonic Eluga i7 - Logo Stuck
+2025-05-30 23:49:30.838673: Created blog post: Realme Narzo 20 - Display
+2025-05-30 23:49:30.839008: Created blog post: Redmi Note 11 - Dead
+2025-05-30 23:49:30.839281: Created blog post: Dell Inspiron 14 - Hinges
+2025-05-30 23:49:30.839663: Created blog post: iPad A1566 - Flickering
+2025-05-30 23:49:30.839950: Created blog post: Realme 9 Pro - Dead
+2025-05-30 23:49:30.840351: Created blog post: Vivo Y91i  Display Glass
+2025-05-30 23:49:30.840822: Created blog post: Samsung Galaxy A51 - Display
+2025-05-30 23:49:30.841144: Created blog post: Tecno Spark Go 2022 - Display
+2025-05-30 23:49:30.841469: Created blog post: Oppo A53S - Display Combo
+2025-05-30 23:49:30.841760: Created blog post: Oppo A5 - Display
+2025-05-30 23:49:30.842058: Created blog post: Oppo A11K - Software Service
+2025-05-30 23:49:30.842479: Created blog post: Vivo Y22 - Display And Water Damage
+2025-05-30 23:49:30.842891: Created blog post: Mi A2 - Dead Condition
+2025-05-30 23:49:30.843535: Created blog post: Acer 5742-Acer PEW71- Dead
+2025-05-30 23:49:30.843850: Created blog post: iPhone SE 2020 - Home button Issue
+2025-05-30 23:49:30.844289: Created blog post: Vivo Y91C - Display
+2025-05-30 23:49:30.844626: Created blog post: iPhone 8 Plus - Display
+2025-05-30 23:49:30.844900: Created blog post: iPhone 5S - Display
+2025-05-30 23:49:30.845186: Created blog post: iPhone 6 - Battery Replacement
+2025-05-30 23:49:30.845584: Created blog post: iPhone 7 - Dead
+2025-05-30 23:49:30.845846: Created blog post: Mi Note 3 - Dead
+2025-05-30 23:49:30.846141: Created blog post: Oppo A55 - Display Glass
+2025-05-30 23:49:30.846438: Created blog post: One plus 7 Pro - Dead
+2025-05-30 23:49:30.846811: Created blog post: Samsung M31 - Display
+2025-05-30 23:49:30.847063: Created blog post: Oppo A5 - Dead
+2025-05-30 23:49:30.847394: Created blog post: iMac Pro - Software Services
+2025-05-30 23:49:30.847753: Created blog post: Samsung Galaxy M32 - Display Combo
+2025-05-30 23:49:30.848010: Created blog post: HP Pavilion 15ec1023AX  Hinges
+2025-05-30 23:49:30.848338: Created blog post: Vivo V9  Dead Condition
+2025-05-30 23:49:30.848599: Created blog post: Samsung Galaxy M31s - Logo Stuck
+2025-05-30 23:49:30.848879: Created blog post: iMac A1418 - Logo Stuck
+2025-05-30 23:49:30.849152: Created blog post: iPhone 6S - Display Combo
+2025-05-30 23:49:30.849497: Created blog post: iPad 5 A1822 - Software and Home Button
+2025-05-30 23:49:30.849860: Created blog post: One Plus Nord 2 - Display
+2025-05-30 23:49:30.850134: Created blog post: iPhone SE 2020 - Water damage
+2025-05-30 23:49:30.850419: Created blog post: Realme 8i - Dim Display
+2025-05-30 23:49:30.850730: Created blog post: Samsung Galaxy M30s - Display glass
+2025-05-30 23:49:30.850989: Created blog post: Redmi Note 7S - Battery
+2025-05-30 23:49:30.851330: Created blog post: iPhone 6 - Water Damage
+2025-05-30 23:49:30.851607: Created blog post: HP EliteBook 840GB - Slow
+2025-05-30 23:49:30.851878: Created blog post: Samsung Galaxy A12 - Display Combo
+2025-05-30 23:49:30.852270: Created blog post: Dell Inspiron P112F105 -Hinges Repair
+2025-05-30 23:49:30.852562: Created blog post: iPhone 7 Plus  Dead Condition
+2025-05-30 23:49:30.853094: Created blog post: iPhone X - Software issue
+2025-05-30 23:49:30.853339: Created blog post: Xiaomi Mi Y2 - Dead
+2025-05-30 23:49:30.853579: Created blog post: iQOO Z7s 5G - Display Glass
+2025-05-30 23:49:30.853859: Created blog post: Dell Inspiron 5558 -Slow
+2025-05-30 23:49:30.854098: Created blog post: iPhone XS - Display Combo
+2025-05-30 23:49:30.854405: Created blog post: Redmi 9 Power - Network
+2025-05-30 23:49:30.854644: Created blog post: Samsung M20 - Display
+2025-05-30 23:49:30.854934: Created blog post: iPad A147iPad A1474 - Touch issue
+2025-05-30 23:49:30.855249: Created blog post: iPhone 7 Plus - Dead
+2025-05-30 23:49:30.855508: Created blog post: iPad Mini 4 - Dead Condition
+2025-05-30 23:49:30.855764: Created blog post: Redmi Note 8 Pro - Dead
+2025-05-30 23:49:30.856111: Created blog post: Dell Inspiron P89G107 - MS Office Activation Issue
+2025-05-30 23:49:30.856410: Created blog post: Samsung T231 Tab - Dead
+2025-05-30 23:49:30.856694: Created blog post: Poco X2 - Dead Condition
+2025-05-30 23:49:30.857229: Created blog post: Lenovo ThinkPad E550 - HDD, RAM, Software
+2025-05-30 23:49:30.857529: Created blog post: iPhone 12 - Dead Condition
+2025-05-30 23:49:30.858008: Created blog post: iPad A2197 - Display Glass Replacement
+2025-05-30 23:49:30.858302: Created blog post: Samsung Galaxy A02 - Dead
+2025-05-30 23:49:30.858690: Created blog post: Oppo Reno 2F  Dead Condition
+2025-05-30 23:49:30.858978: Created blog post: iPad A1893  Dead Condition
+2025-05-30 23:49:30.859464: Created blog post: iPhone 7 Plus - Dead Condition
+2025-05-30 23:49:30.859867: Created blog post: Oppo A16 - Display Glass Replacement
+2025-05-30 23:49:30.860108: Created blog post: Hp Pavilion 15 - Dead Condition
+2025-05-30 23:49:30.860572: Created blog post: Realme C15 Narzo - Display Combo
+2025-05-30 23:49:30.860863: Created blog post: Oppo A94 5G - Dead Condition
+2025-05-30 23:49:30.861137: Created blog post: Realme C21  Dead Condition
+2025-05-30 23:49:30.861446: Created blog post: Vivo A53S - Display Combo
+2025-05-30 23:49:30.861728: Created blog post: Oppo A31  Dead Condition
+2025-05-30 23:49:30.862012: Created blog post: Redmi Note 7s - Display Combo
+2025-05-30 23:49:30.862277: Created blog post: Redmi Note 7s - Battery and Display Combo
+2025-05-30 23:49:30.862570: Created blog post: iPhone 7 Plus - Dead
+2025-05-30 23:49:30.862977: Created blog post: Samsung Galaxy A50s - Sim Tray Replacement
+2025-05-30 23:49:30.863266: Created blog post: Lenovo Notebook 81ST - Dead and Hinges
+2025-05-30 23:49:30.863618: Created blog post: Lenovo Notebook 81FS  Charger Issue
+2025-05-30 23:49:30.863888: Created blog post: Vivo V7 - Display Combo
+2025-05-30 23:49:30.864117: Created blog post: iPhone 8 Plus - Display Combo
+2025-05-30 23:49:30.864358: Created blog post: Vivo Y12 - Display Issue
+2025-05-30 23:49:30.864619: Created blog post: Samsung Galaxy A21s - Dead
+2025-05-30 23:49:30.864937: Created blog post: Oppo A32 - Software Service
+2025-05-30 23:49:30.865230: Created blog post: Dell Inspiron 15 - Fan Issue
+2025-05-30 23:49:30.865496: Created blog post: Lenovo G50 - 80 - Not Charging
+2025-05-30 23:49:30.865791: Created blog post: Redmi Note 11 T -Display & Software Service
+2025-05-30 23:49:30.866222: Created blog post: MacBook Pro A2485  Display Replacement
+2025-05-30 23:49:30.866532: Created blog post: MacBook A1502 - Charging issue
+2025-05-30 23:49:30.866963: Created blog post: Vivo V17 Pro - Not Charging
+2025-05-30 23:49:30.867360: Created blog post: Realme C21  Dead Condition
+2025-05-30 23:49:30.867951: Created blog post: iPhone XS Max - Display Combo
+2025-05-30 23:49:30.868438: Created blog post: Samsung Galaxy M21 - Dead
+2025-05-30 23:49:30.868815: Created blog post: HP EliteBook 820 - Fan, OS
+2025-05-30 23:49:30.869190: Created blog post: Vivo Y19 - Displace Combo
+2025-05-30 23:49:30.869453: Created blog post: Vivo Y71 - Display Combo
+2025-05-30 23:49:30.869783: Created blog post: iPhone 6 - Water Damage
+2025-05-30 23:49:30.870828: Created blog post: Samsung Galaxy Note 10 - Not Charging
+2025-05-30 23:49:30.871248: Created blog post: Realme2 Pro - Display Combo Issue
+2025-05-30 23:49:30.871553: Created blog post: Vivo Y91C  Display Combo Issue
+2025-05-30 23:49:30.871827: Created blog post: Dell Inspiron 3501  Software Services
+2025-05-30 23:49:30.872401: Created blog post: MacBook Pro A1502 - Wi-Fi Not Working
+2025-05-30 23:49:30.872863: Created blog post: Oppo Realme1  Display Combo
+2025-05-30 23:49:30.873133: Created blog post: Redmi 6A - DeadCondition
+2025-05-30 23:49:30.873420: Created blog post: Dell Inspiron 15 P63F - Slow
+2025-05-30 23:49:30.874158: Created blog post: Vivo Y11  Display Combo Replacement
+2025-05-30 23:49:30.874473: Created blog post: iPhone SE 2  Display Issue
+2025-05-30 23:49:30.874745: Created blog post: iPhone 12 - Back Glass- Replacement
+2025-05-30 23:49:30.875101: Created blog post: iPad A1396  Dead Condition
+2025-05-30 23:49:30.875373: Created blog post: Dell Inspiron 15R 5521  Display Issue and Backup & Software
+2025-05-30 23:49:30.875889: Created blog post: Vivo V17 Pro - Not Charging
+2025-05-30 23:49:30.876232: Created blog post: Dell Inspiron 15 Software Services
+2025-05-30 23:49:30.876534: Created blog post: Lenovo IdeaPad S145 - Dead/ Hinges
+2025-05-30 23:49:30.877001: Created blog post: Acer Aspire 3 - Office Installation
+2025-05-30 23:49:30.877335: Created blog post: Poco M2 - Network issue
+2025-05-30 23:49:30.877826: Created blog post: HP Pavilion 360 14 - cd0077Tu - RAM Updating
+2025-05-30 23:49:30.878127: Created blog post: HP Pavilion X360 - Battery Issue
+2025-05-30 23:49:30.878527: Created blog post: Lenovo ThinkPad E14 - Software Service
+2025-05-30 23:49:30.878810: Created blog post: Redmi 8A Dual - Logo Restarting
+2025-05-30 23:49:30.879295: Created blog post: Samsung Galaxy J4 - Dead
+2025-05-30 23:49:30.879663: Created blog post: Boat Speaker - Charging issue
+2025-05-30 23:49:30.880124: Created blog post: Poco M3 - Display Combo
+2025-05-30 23:49:30.880789: Created blog post: Lenovo ThinkPad E14 - Software Service
+2025-05-30 23:49:30.881206: Created blog post: Redmi 8A - Water Damage
+2025-05-30 23:49:30.881732: Created blog post: Lenovo V130-15IKB - Software Services
+2025-05-30 23:49:30.882339: Created blog post: MacBook Pro A1502 - Not on / Battery issue
+2025-05-30 23:49:30.882755: Created blog post: Lenovo IdeaPad X310 - Dead Condition
+2025-05-30 23:49:30.883220: Created blog post: Oppo F11  Dead Condition
+2025-05-30 23:49:30.883593: Created blog post: Samsung Galaxy Tab 2 - Restarting
+2025-05-30 23:49:30.884139: Created blog post: iPhone 12 - Speaker Issue
+2025-05-30 23:49:30.884531: Created blog post: Realme 7 - Display Combo
+2025-05-30 23:49:30.884847: Created blog post: Nintendo Switch - Charger Connector
+2025-05-30 23:49:30.885688: Created blog post:  iPhone XR - Dead Condition
+2025-05-30 23:49:30.886003: Created blog post: Acer Z09  Charger Issue
+2025-05-30 23:49:30.886273: Created blog post: Redmi 10A - Dead Condition
+2025-05-30 23:49:30.886518: Created blog post: Oppo A54 - Display Combo
+2025-05-30 23:49:30.887029: Created blog post: Samsung Galaxy A2 Core - Display Combo
+2025-05-30 23:49:30.887382: Created blog post: Vivo V15 - Display Combo
+2025-05-30 23:49:30.887857: Created blog post: Lenovo Ideapad Gaming 3 - No Display
+2025-05-30 23:49:30.888222: Created blog post: Realme 5 Pro  Display Combo
+2025-05-30 23:49:30.888647: Created blog post: iWatch se 40mm - Display Combo
+2025-05-30 23:49:30.889218: Created blog post: Realme 7 Pro  Dead condition
+2025-05-30 23:49:30.889644: Created blog post: HP 15-af002AU - Dead
+2025-05-30 23:49:30.890022: Created blog post: Vivo V 11 Pro - Display Combo
+2025-05-30 23:49:30.890578: Created blog post: Realme 9 Pro 5G - Display Glass RE
+2025-05-30 23:49:30.891057: Created blog post: Acer Z09  Dead Condition
+2025-05-30 23:49:30.891481: Created blog post: One Plus 5T - CC Service
+2025-05-30 23:49:30.891731: Created blog post: Honor 9N - Display Combo Replacement
+2025-05-30 23:49:30.891989: Created blog post: Lenovo Yoga 6 13ALC6 - Dead
+2025-05-30 23:49:30.892241: Created blog post: Samsung A30  Over Heating
+2025-05-30 23:49:30.892479: Created blog post: Redmi 10A - Dead Condition
+2025-05-30 23:49:30.892727: Created blog post: HP RTL8723-DE - Dead Condition
+2025-05-30 23:49:30.893075: Created blog post: HP Pavilion 14-n201tu - SSD Upgradation
+2025-05-30 23:49:30.893309: Created blog post: iPhone XS - Dead Condition
+2025-05-30 23:49:30.893560: Created blog post: Poco M2 - Display Combo Replacement
+2025-05-30 23:49:30.893806: Created blog post: Samsung M21 - Display Glass
+2025-05-30 23:49:30.894142: Created blog post: Vivo Y72 - Dead Condition
+2025-05-30 23:49:30.895777: Created blog post: Samsung A71  Dead Condition
+2025-05-30 23:49:30.896036: Created blog post: iPhone 7 - Battery / Logo stuck
+2025-05-30 23:49:30.896403: Created blog post: Realme C11  Display Replacement
+2025-05-30 23:49:30.896653: Created blog post: Acer Aspire ES1-523 - RAM Upgrade and Software Services
+2025-05-30 23:49:30.896979: Created blog post: Samsung Galaxy A7 - Dead Condition & Network Check
+2025-05-30 23:49:30.897566: Created blog post: HP 14-ac108TU - Booting Issue
+2025-05-30 23:49:30.897888: Created blog post: Nokia 6.1 Plus - Dead Condition
+2025-05-30 23:49:30.898125: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.898446: Created blog post: iPhone 11 - Logo Stuck
+2025-05-30 23:49:30.898696: Created blog post: iPhone 8 Dead and Home button
+2025-05-30 23:49:30.898929: Created blog post: MacBook Pro A1398  Speaker Issue
+2025-05-30 23:49:30.899177: Created blog post: Redmi Note 7 Pro - Logo stuck?
+2025-05-30 23:49:30.899435: Created blog post: iPhone 6 - Display Combo Replacement
+2025-05-30 23:49:30.899790: Created blog post: iPad Pro A1701 - Display Glass
+2025-05-30 23:49:30.900123: Created blog post: Samsung Galaxy M30S - Display Combo
+2025-05-30 23:49:30.900449: Created blog post: iPhone 11 - Back Panel Replacement
+2025-05-30 23:49:30.900704: Created blog post: Hp - 14-dv1001TU - Dead
+2025-05-30 23:49:30.900944: Created blog post: Moto G60 - Dead Condition
+2025-05-30 23:49:30.901291: Created blog post: Samsung Galaxy A21s - Display Combo Replacement
+2025-05-30 23:49:30.901548: Created blog post: HP Pavilion G6 - Software Service / General Service
+2025-05-30 23:49:30.901799: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.902283: Created blog post: Vivo V17 - Display & Front Camera dust
+2025-05-30 23:49:30.902532: Created blog post: Redmi Y2 - Display Glass
+2025-05-30 23:49:30.903933: Created blog post: iball Desktop  Software Services
+2025-05-30 23:49:30.904336: Created blog post: MacBook Air A1466 - Dead Condition
+2025-05-30 23:49:30.905009: Created blog post: Oppo F9 Pro - Dead Condition
+2025-05-30 23:49:30.905434: Created blog post: iWatch Series 7 - Not charging
+2025-05-30 23:49:30.906246: Created blog post: HP Elite Book 840G3 - OS Installation
+2025-05-30 23:49:30.906564: Created blog post: XP - Graphic Pen Tablet - Charging port
+2025-05-30 23:49:30.907148: Created blog post: iPhone SE - Battery Replacement
+2025-05-30 23:49:30.907408: Created blog post: Samsung Galaxy Tab A SM-T515 - Dead Condition
+2025-05-30 23:49:30.907850: Created blog post: iPhone X - DisplayCombo
+2025-05-30 23:49:30.908164: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.908536: Created blog post: Foxin CPU - Dead Condition
+2025-05-30 23:49:30.908818: Created blog post: Samsung Tab720 - Dead Condition
+2025-05-30 23:49:30.909102: Created blog post: iPhone 8 - Dead and Home Button Issue
+2025-05-30 23:49:30.909677: Created blog post: Poco M2 - Display Combo Replacement
+2025-05-30 23:49:30.910379: Created blog post: One Plus 6T - Dead Condition
+2025-05-30 23:49:30.910683: Created blog post: Samsung Galaxy A22 - Display Combo
+2025-05-30 23:49:30.911153: Created blog post: Samsung Galaxy M30S - Display Combo
+2025-05-30 23:49:30.911558: Created blog post: Realme 3 Pro - Display Combo
+2025-05-30 23:49:30.911952: Created blog post: iPhone XR - Display, Back Glass and Ear speaker
+2025-05-30 23:49:30.912239: Created blog post: Redmi Note 9S  Display Combo & Back Panel
+2025-05-30 23:49:30.912752: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.913042: Created blog post: Acer Aspire 3 - Hardware Service  SSD Upgrade
+2025-05-30 23:49:30.913652: Created blog post: iPhone XS Max - Display Glass Replacement
+2025-05-30 23:49:30.914122: Created blog post: Hp - Notebook 15  Keyboard & Battery
+2025-05-30 23:49:30.914690: Created blog post: Mi A2 - Battery Replacement
+2025-05-30 23:49:30.915013: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.915770: Created blog post: iPhone 6S - Water Damage
+2025-05-30 23:49:30.916525: Created blog post: Samsung Galaxy J7 Prime - Display Combo
+2025-05-30 23:49:30.917236: Created blog post: Redmi Power 9 - Dead Condition
+2025-05-30 23:49:30.918462: Created blog post: Samsung Galaxy M33 - Booting issue
+2025-05-30 23:49:30.919633: Created blog post: iQOO 3 - Display Combo Replacement
+2025-05-30 23:49:30.919931: Created blog post: iPad A1395 - Disabled
+2025-05-30 23:49:30.920338: Created blog post: HP 14q-cs0006TU - 256GB SSD & 8GB DDR4 RAM
+2025-05-30 23:49:30.920627: Created blog post: Dell Inspiron 14 5408 - Display Issue
+2025-05-30 23:49:30.921004: Created blog post: HP 15-da0414TU - Slow & Battery Replacement
+2025-05-30 23:49:30.921385: Created blog post: iPhone 11 - Display GlassReplacement
+2025-05-30 23:49:30.921932: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.922342: Created blog post: Samsung M31s - Samsung M31s - Dead
+2025-05-30 23:49:30.922634: Created blog post: HP Pavilion 14-ec1008AU - Slow / Not Booting
+2025-05-30 23:49:30.923114: Created blog post: Samsung Galaxy M02s - Display Combo
+2025-05-30 23:49:30.923491: Created blog post: Redmi Note 9 Pro Max - Logo Restart
+2025-05-30 23:49:30.923769: Created blog post: One Plus 7  Dead and Water Damage
+2025-05-30 23:49:30.924125: Created blog post: Hp - Notebook 15 -  Battery Replacement
+2025-05-30 23:49:30.924425: Created blog post: Hp - Notebook 15 - Keyboard & Battery Check
+2025-05-30 23:49:30.924823: Created blog post: Acer Aspire 3 - SSD Replacement
+2025-05-30 23:49:30.925152: Created blog post: OnePlus Nord - AC2001 - No Display
+2025-05-30 23:49:30.925521: Created blog post: Huawei P30 Lite - No Sound and Camera Issues
+2025-05-30 23:49:30.926274: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.926885: Created blog post: Dell Inspiron 15 - Booting issue
+2025-05-30 23:49:30.927227: Created blog post: Honor C7 - Display Glass, Back Panel & CC
+2025-05-30 23:49:30.927583: Created blog post: Acer Aspire 3 - Hardware Service
+2025-05-30 23:49:30.927878: Created blog post: Acer Aspire 3 - Hardware Service  SSD Upgrade
+2025-05-30 23:49:30.928187: Created blog post: iPad Air A1475 - Display Glass
+2025-05-30 23:49:30.928643: Created blog post: Samsung Galaxy M21  Mother Board Issue
+2025-05-30 23:49:30.929263: Created blog post: Amazon eco Speaker - Connecting and Aux issue
+2025-05-30 23:49:30.929546: Created blog post: Lenovo ThinkPad - T440P - Software Service
+2025-05-30 23:49:30.929898: Created blog post: MacBook Air A1466 - Boot Issue
+2025-05-30 23:49:30.930228: Created blog post: Samsung Galaxy F41 - Dead Condition
+2025-05-30 23:49:30.930640: Created blog post: iPhone XS Max - Display Glass Replacement
+2025-05-30 23:49:30.931063: Created blog post: HP - NoteBook 14 - Hinge Fabrication
+2025-05-30 23:49:30.931427: Created blog post: iPhone X - Display Combo Replacement
+2025-05-30 23:49:30.931706: Created blog post: iPad 8th Gen A2270 - Display Glass
+2025-05-30 23:49:30.932097: Created blog post: Amazon Kindle J9G29R - Charging Port
+2025-05-30 23:49:30.932393: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.932717: Created blog post: HP EliteBook 840 - No Display
+2025-05-30 23:49:30.933067: Created blog post: Redmi Note 9 Pro Max - Charging Issues & Back Panel Replacement
+2025-05-30 23:49:30.933515: Created blog post: Asus FX504GD - Keyboard issues & General Service
+2025-05-30 23:49:30.934002: Created blog post: Samsung Galaxy M31 - Software Service
+2025-05-30 23:49:30.934330: Created blog post: Redmi Note 9 Pro Max - Charging Issue
+2025-05-30 23:49:30.934717: Created blog post: HP Pavilion15cs1000TX - Slow / Keyboard issue
+2025-05-30 23:49:30.935064: Created blog post: Surface Pro 4 - Software Service
+2025-05-30 23:49:30.935549: Created blog post: Honor 7X - Display Combo Replacement
+2025-05-30 23:49:30.935836: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.936184: Created blog post: iPhone 11 - Ear Speaker Issue and Loud Speaker Check
+2025-05-30 23:49:30.936488: Created blog post: iPhone XS - Display Glass Cost & Battery Original Cost
+2025-05-30 23:49:30.936861: Created blog post: MacBook Pro A1398 - Speaker
+2025-05-30 23:49:30.937128: Created blog post: HP Pavillion 15P077TX - Dead Condition
+2025-05-30 23:49:30.937423: Created blog post: HP Pavilion 15cs1000TX - Slow / Keyboard issue
+2025-05-30 23:49:30.937805: Created blog post: MacBook A1466 - Water Damage
+2025-05-30 23:49:30.938068: Created blog post: Moto E4 - Dead / Battery bulge
+2025-05-30 23:49:30.938385: Created blog post: One Plus 7T - Display Combo
+2025-05-30 23:49:30.938660: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.939010: Created blog post: iPhone XS - Display Combo & Network IC
+2025-05-30 23:49:30.939264: Created blog post: Vivo V17 Pro - Logo Restarting
+2025-05-30 23:49:30.939527: Created blog post: MacBook A1502 - Dead - Water Damage
+2025-05-30 23:49:30.939816: Created blog post: Dell G3 - Battery Replacement
+2025-05-30 23:49:30.940329: Created blog post: 4134 - Lenovo Ideapad 330S -14ASTU - Logo Stuck
+2025-05-30 23:49:30.941085: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.941489: Created blog post: Redmi Note 7  Display Combo
+2025-05-30 23:49:30.941749: Created blog post: MacBook A1502  Dead / Water Damage
+2025-05-30 23:49:30.942125: Created blog post: Samsung J6  Display Combo Replacement
+2025-05-30 23:49:30.942455: Created blog post: Samsung Galaxy A50  Display and Charging Issue
+2025-05-30 23:49:30.942828: Created blog post: Mi A1  Power Button
+2025-05-30 23:49:30.943462: Created blog post: HP 15s-gr0008AU  Display Issue
+2025-05-30 23:49:30.943879: Created blog post: Samsung Galaxy A12  Water Damage
+2025-05-30 23:49:30.944250: Created blog post: Samsung Galaxy M31s  Display Combo
+2025-05-30 23:49:30.944695: Created blog post: iPhone 7  Dead & Home button replacement
+2025-05-30 23:49:30.944963: Created blog post: Redmi Note 7  Display Combo Replacement
+2025-05-30 23:49:30.945388: Created blog post: Realme Narzo 20 Pro  Display Combo
+2025-05-30 23:49:30.945657: Created blog post: Samsung Galaxy S20  Display Glass Replacement
+2025-05-30 23:49:30.945989: Created blog post: iPhone 6s  Battery & Charging port Replacement
+2025-05-30 23:49:30.946348: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.946821: Created blog post: Tecno Pop 5  Display Combo
+2025-05-30 23:49:30.947123: Created blog post: Lenovo Ideapad 3  SSD & RAM Upgrade
+2025-05-30 23:49:30.947421: Created blog post: Dell Inspiron 15 3000  Office Installation
+2025-05-30 23:49:30.948027: Created blog post: Oppo F11  Display Combo Replacement
+2025-05-30 23:49:30.948318: Created blog post: OnePlus 7T Pro  Display Glass Replacement
+2025-05-30 23:49:30.948620: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.949021: Created blog post: iPhone SE  Proximity SensorIssue
+2025-05-30 23:49:30.949294: Created blog post: Motorola One Power  Battery Replacement
+2025-05-30 23:49:30.949599: Created blog post: iPhone SE  Display Glass Replacement
+2025-05-30 23:49:30.950162: Created blog post: iPad 4  Not Charging
+2025-05-30 23:49:30.950534: Created blog post: Samsung A20s  Charging Connector
+2025-05-30 23:49:30.950895: Created blog post: Alcatel 9030Q  Dead Condition
+2025-05-30 23:49:30.951299: Created blog post: Oppo A15  Display Combo Replacement
+2025-05-30 23:49:30.951626: Created blog post: Lenovo ThinkPad X13  Software Service
+2025-05-30 23:49:30.952439: Created blog post: Honor 9i  No Display
+2025-05-30 23:49:30.952901: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.953535: Created blog post: Samsung A20s - Charging Port Replacement
+2025-05-30 23:49:30.953901: Created blog post: Alcatel 9030Q Tab - Dead Condition
+2025-05-30 23:49:30.954275: Created blog post: iPhone X - Battery Replacement
+2025-05-30 23:49:30.954687: Created blog post: iPhone X - Back Panel Replacement
+2025-05-30 23:49:30.955025: Created blog post: Reconnect Thumb 2 - Speaker - Dead Condition
+2025-05-30 23:49:30.955421: Created blog post: Samsung Galaxy Note 10+ - Front Glass Replacement
+2025-05-30 23:49:30.955730: Created blog post: HP ProBook 4540s  Dead Condition
+2025-05-30 23:49:30.956173: Created blog post: Oppo Realme 1  Display Combo Replacement
+2025-05-30 23:49:30.956457: Created blog post: MacBook Pro A2159  Dead Condition
+2025-05-30 23:49:30.956958: Created blog post: Realme C12  Display Combo Replacement
+2025-05-30 23:49:30.958075: Created blog post: Samsung Galaxy A20  Dead Condition
+2025-05-30 23:49:30.958400: Created blog post: Dell Latitude 3400  Software Service
+2025-05-30 23:49:30.958785: Created blog post: iPhone XR  Display Combo
+2025-05-30 23:49:30.959054: Created blog post: Realme Narzo 20 Pro  Display Combo
+2025-05-30 23:49:30.959309: Created blog post: HP 15-dy100  Virus Check
+2025-05-30 23:49:30.959569: Created blog post: HP EliteBook 840 G5  Display Replacement
+2025-05-30 23:49:30.959827: Created blog post: Vivo Y83 Pro  Display Issue
+2025-05-30 23:49:30.960217: Created blog post: Samsung Galaxy A03 Core  Display Combo Replacement
+2025-05-30 23:49:30.960480: Created blog post: Vivo Y91  Display Combo Replacement
+2025-05-30 23:49:30.960795: Created blog post: Dell Inspiron 5421  Charger & Keyboard
+2025-05-30 23:49:30.961113: Created blog post: MacBook Pro  Dead - Display
+2025-05-30 23:49:30.961407: Created blog post: Samsung Galaxy M31  Display Combo
+2025-05-30 23:49:30.961903: Created blog post: Samsung Galaxy A51  Dead Condition
+2025-05-30 23:49:30.962239: Created blog post: Micromax in Note 1  Dead Condition
+2025-05-30 23:49:30.962630: Created blog post: iPad A2197  CPU Replacement
+2025-05-30 23:49:30.962902: Created blog post: iPhone SE  Display Glass Replacement
+2025-05-30 23:49:30.963189: Created blog post: Vivo V21  Software Service
+2025-05-30 23:49:30.963564: Created blog post: Dell Inspiron 15-5548  512 GB SSD
+2025-05-30 23:49:30.963842: Created blog post: HP Chromebook 14  Dead Condition
+2025-05-30 23:49:30.964132: Created blog post: Realme C1  Display Combo
+2025-05-30 23:49:30.964474: Created blog post: Vivo Z1 Pro  Dead Condition
+2025-05-30 23:49:30.964735: Created blog post: HP Pavilion 15-au114TX  Booting Issue
+2025-05-30 23:49:30.965136: Created blog post: Realme Narzo 30 - Display Combo and Software services
+2025-05-30 23:49:30.965419: Created blog post: iPhone 14 Pro - Back Panel - Replacement
+2025-05-30 23:49:30.965728: Created blog post: Redmi 4 - Dead Condition
+2025-05-30 23:49:30.965976: Created blog post: Oppo A3s - Display Combo Replacement
+2025-05-30 23:49:30.966249: Created blog post: Samsung A50 - CC Replacement
+2025-05-30 23:49:30.966671: Created blog post: Samsung Galaxy M31- Logo Struck
+2025-05-30 23:49:30.967079: Created blog post: Samsung Galaxy Tab A7 Lite  Display Combo Replacement
+2025-05-30 23:49:30.967345: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:30.967730: Created blog post: HP 15-AF114AU  Software Services
+2025-05-30 23:49:30.967987: Created blog post: Redmi 8A  Logo Struck
+2025-05-30 23:49:30.968336: Created blog post: Samsung Galaxy M31  Display Combo
+2025-05-30 23:49:30.968614: Created blog post: Samsung Galaxy A51  Dead Condition
+2025-05-30 23:49:30.970399: Created blog post: Micromax in Note 1  Dead Condition
+2025-05-30 23:49:30.971007: Created blog post: iPad A2197  CPU Replacement
+2025-05-30 23:49:30.971419: Created blog post: Vivo V21  Software Service
+2025-05-30 23:49:30.972242: Created blog post: Dell Inspiron 15-5548  512 GB SSD
+2025-05-30 23:49:30.972621: Created blog post: HP Chromebook 14  Dead Condition
+2025-05-30 23:49:30.973292: Created blog post: Lenovo G50-45  Hinge Fabrication & USB Check
+2025-05-30 23:49:30.973574: Created blog post: iPhone 11  Display Combo Replacement
+2025-05-30 23:49:30.974010: Created blog post: Dell Vostro 14 5401  Blue Screen
+2025-05-30 23:49:30.974431: Created blog post: Dell Latitude 3400  Charging Port
+2025-05-30 23:49:30.974765: Created blog post: Bluetooth Speaker  Charging Port
+2025-05-30 23:49:30.975166: Created blog post: iPhone 11  Touch issue
+2025-05-30 23:49:30.975510: Created blog post: Lenovo Tab PB1750M  Charging Port Replacement
+2025-05-30 23:49:30.975770: Created blog post: OnePlus 6  Display Combo & Back Glass
+2025-05-30 23:49:30.976054: Created blog post: Vivo Y11 - Charging Port Replacement
+2025-05-30 23:49:30.976447: Created blog post: MacBook Air A1466  Dim Display
+2025-05-30 23:49:30.976806: Created blog post: Samsung S21 Ultra  Display Combo Replacement
+2025-05-30 23:49:30.977084: Created blog post: Vivo S1  Display Combo Replacement
+2025-05-30 23:49:30.977387: Created blog post: Samsung Galaxy A50  Charging Port Replacement
+2025-05-30 23:49:30.977687: Created blog post: OnePlus 7T  Display Combo
+2025-05-30 23:49:30.978167: Created blog post: MacBook Pro A1990  Battery Issue
+2025-05-30 23:49:30.978542: Created blog post: Alienware Helios 300  Dead Condition
+2025-05-30 23:49:30.979101: Created blog post: Acer Helios 300  General Service
+2025-05-30 23:49:30.979913: Created blog post: OnePlus 6T  Finger Print, Battery & Power Button
+2025-05-30 23:49:30.980193: Created blog post: Acer Aspire 3  Software Service
+2025-05-30 23:49:30.980551: Created blog post: iPhone 6  Home Button Replacement
+2025-05-30 23:49:30.980803: Created blog post: iPad A2197  Display Glass Replacement
+2025-05-30 23:49:30.981052: Created blog post: Dell P75F905  Software Service
+2025-05-30 23:49:30.981402: Created blog post: Benq Monitor  No Display
+2025-05-30 23:49:30.981674: Created blog post: Samsung M31S  Dead Condition
+2025-05-30 23:49:30.982065: Created blog post: Samsung Galaxy M32  Display Combo
+2025-05-30 23:49:30.982380: Created blog post: Vivo Y91  Display Combo
+2025-05-30 23:49:30.982743: Created blog post: HP 15-AU006TX  Top Panel, Display Flickering & Hardware service
+2025-05-30 23:49:30.983021: Created blog post: Samsung Galaxy M32  Display Combo
+2025-05-30 23:49:30.983343: Created blog post: Nokia 8.1 - Display Combo
+2025-05-30 23:49:30.983664: Created blog post: iPhone 11  Battery Replacement
+2025-05-30 23:49:30.983942: Created blog post: iPhone 11  Water Damage & Dead
+2025-05-30 23:49:30.984574: Created blog post: Samsung Galaxy M20  Display Combo
+2025-05-30 23:49:30.984945: Created blog post: Dell P28F  Software Services
+2025-05-30 23:49:30.985424: Created blog post: iPhone XR  Dead Condition
+2025-05-30 23:49:30.985931: Created blog post: Redmi Note 4  Charging Port Issue
+2025-05-30 23:49:30.986241: Created blog post: iPhone 6  Battery Replacement
+2025-05-30 23:49:30.986486: Created blog post: iPhone 8  Software Services
+2025-05-30 23:49:30.986911: Created blog post: Samsung Galaxy Tab 7  Display Glass Replacement
+2025-05-30 23:49:30.987209: Created blog post: Redmi Note 8 Pro  Software Services
+2025-05-30 23:49:30.987495: Created blog post: iPhone 11 Pro  Display Combo Replacement
+2025-05-30 23:49:30.987814: Created blog post: Hp 14  Software Services and SSD Replacement
+2025-05-30 23:49:30.988110: Created blog post: Moto G60  Dead Condition
+2025-05-30 23:49:30.988512: Created blog post: Samsung Note 10 Plus  Software Services
+2025-05-30 23:49:30.988778: Created blog post: Asus K510U  SSD Replacement
+2025-05-30 23:49:30.989038: Created blog post: Hp - 15 - ay020TU  Battery Replacement
+2025-05-30 23:49:30.989532: Created blog post: iWatch SE 40mm  Display Glass Replacement
+2025-05-30 23:49:30.989864: Created blog post: iPad A1893  Not Charging
+2025-05-30 23:49:30.990157: Created blog post: Dell P28F  Software Services
+2025-05-30 23:49:30.990482: Created blog post: Oppo A3s  Display Combo Replacement
+2025-05-30 23:49:30.990738: Created blog post: MacBook Air  Not ON
+2025-05-30 23:49:30.991145: Created blog post: iPhone 7  Display Combo Replacement
+2025-05-30 23:49:30.991713: Created blog post: Vivo Y51  Display Combo Replacement
+2025-05-30 23:49:30.991967: Created blog post: Dell Inspiron 3542  Battery & Software Services
+2025-05-30 23:49:30.992369: Created blog post: Mi 11 - Restarting Issue
+2025-05-30 23:49:30.992682: Created blog post: Oppo A9  Display combo Replacement
+2025-05-30 23:49:30.992933: Created blog post: Dell Inspiron 5558  Dead Condition
+2025-05-30 23:49:30.993236: Created blog post: iPhone 12 mini  Display Combo Replacement
+2025-05-30 23:49:30.993647: Created blog post: Redmi 6 Pro  Display Combo Replacement
+2025-05-30 23:49:30.993898: Created blog post: Redmi Go  Software Services
+2025-05-30 23:49:30.994289: Created blog post: Dell Inspiron 14  Software Services
+2025-05-30 23:49:30.994726: Created blog post: Vivo Y67  Battery Replacement
+2025-05-30 23:49:30.995114: Created blog post: Redmi Note 8 Pro  Dead condition
+2025-05-30 23:49:30.995420: Created blog post: Lenovo Idea Pad 130 Boot Error
+2025-05-30 23:49:30.995737: Created blog post: iPhone 6s  Battery Replacement
+2025-05-30 23:49:30.995988: Created blog post: Lenovo Idea Pad 5  Hinges Issue
+2025-05-30 23:49:30.996398: Created blog post: One Plus 7T  Display Combo Replacement
+2025-05-30 23:49:30.996901: Created blog post: Samsung Galaxy M31s  Display Combo Replacement
+2025-05-30 23:49:30.997179: Created blog post: Samsung Galaxy M51  Dead Condition
+2025-05-30 23:49:30.997466: Created blog post: MacBook Pro A1706  Dead Condition
+2025-05-30 23:49:30.997825: Created blog post: Lenovo Think Centre  - CPU - Software Services
+2025-05-30 23:49:30.998125: Created blog post: iPhone 12 Mini  Back Panel Replacement
+2025-05-30 23:49:30.998393: Created blog post: Dell Inspiron P75F  Software services
+2025-05-30 23:49:30.998673: Created blog post: Honor 8  Dead Condition
+2025-05-30 23:49:30.998975: Created blog post: Samsung Galaxy M31  Display Combo Replacement
+2025-05-30 23:49:30.999304: Created blog post: Vivo Y91C  Dead Conditon
+2025-05-30 23:49:30.999587: Created blog post: Poco X2  Charging Port Replacement
+2025-05-30 23:49:30.999950: Created blog post: Lenovo Legion Y470  Battery Replacement
+2025-05-30 23:49:31.000446: Created blog post: iPhone X  Display combo Replacement
+2025-05-30 23:49:31.000694: Created blog post: iPhone 6s  Water damage
+2025-05-30 23:49:31.000957: Created blog post: Samsung Galaxy J6  Dead Condition
+2025-05-30 23:49:31.001230: Created blog post: Hp Elite Book G3  Water Damage
+2025-05-30 23:49:31.001505: Created blog post: Samsung Tab A  Display Combo Replacement
+2025-05-30 23:49:31.001903: Created blog post: Lenovo Think Pad  Software Services
+2025-05-30 23:49:31.002183: Created blog post: Vivo Y11  Dead Condition
+2025-05-30 23:49:31.002478: Created blog post: Lenovo X205T  Software Services
+2025-05-30 23:49:31.002854: Created blog post: Realme Tab  Software Services
+2025-05-30 23:49:31.003149: Created blog post: Redmi 9A  Display Combo Replacement
+2025-05-30 23:49:31.003474: Created blog post: Samsung Galaxy On 7 Prime  Display Combo Replacement
+2025-05-30 23:49:31.003751: Created blog post: Samsung Galaxy A21S  Display Combo Replacement
+2025-05-30 23:49:31.004002: Created blog post: iPhone X  Display Combo and Disabled
+2025-05-30 23:49:31.004295: Created blog post: Vivo V20  Display Combo Replacement
+2025-05-30 23:49:31.004554: Created blog post: iPhone 6s  - Display Glass Replacement
+2025-05-30 23:49:31.004837: Created blog post: Lenovo G580  software Services
+2025-05-30 23:49:31.005379: Created blog post: Samsung Galaxy M21  Dead Condition
+2025-05-30 23:49:31.006067: Created blog post: iPad Mini 1489 - Disabled
+2025-05-30 23:49:31.006382: Created blog post: Zebronics Assembled CPU  No Display
+2025-05-30 23:49:31.007024: Created blog post: Lenovo IdeaPad 130  Software Services
+2025-05-30 23:49:31.007400: Created blog post: Sony VAIO SVE  Software Services
+2025-05-30 23:49:31.007712: Created blog post: Lenovo ThinkPad T470  Software Services
+2025-05-30 23:49:31.008001: Created blog post: Vivo Y17  Display Glass Replacement
+2025-05-30 23:49:31.008288: Created blog post: HP Notebook 15  Dead Condition
+2025-05-30 23:49:31.008578: Created blog post: iPhone 6  Display Combo and Software Services
+2025-05-30 23:49:31.008843: Created blog post: Oppo A5s  Dead Condition
+2025-05-30 23:49:31.009153: Created blog post: iPhone 7 Plus  - Dead Condition
+2025-05-30 23:49:31.009430: Created blog post: Oppo A1K  Display Combo Replacement
+2025-05-30 23:49:31.009692: Created blog post: Realme 6  Display Combo Replacement
+2025-05-30 23:49:31.009930: Created blog post: iPhone 6s  Battery Replacement
+2025-05-30 23:49:31.010270: Created blog post: iPhone 11  Water Damage
+2025-05-30 23:49:31.010570: Created blog post: HP 15-AF114AU  Software Services
+2025-05-30 23:49:31.011140: Created blog post: HP 15-ay005TX - Software Services
+2025-05-30 23:49:31.011578: Created blog post: iPhone 7  Display Combo Replacement
+2025-05-30 23:49:31.012056: Created blog post: Vivo Y21  Software Services
+2025-05-30 23:49:31.012358: Created blog post: Hp  15-e038TX  Software Services
+2025-05-30 23:49:31.012692: Created blog post: Honor 9 Lite  Display Glass Replacement
+2025-05-30 23:49:31.012977: Created blog post: Vivo V21  Display Glass replacement
+2025-05-30 23:49:31.013452: Created blog post: Mi Max 2  Display Glass Replacement
+2025-05-30 23:49:31.013714: Created blog post: Huawei Y9 Prime  Display combo Replacement
+2025-05-30 23:49:31.013988: Created blog post: Vivo Y21T  Display Combo Replacement
+2025-05-30 23:49:31.014277: Created blog post: Asus Desktop  No Display Condition
+2025-05-30 23:49:31.014559: Created blog post: Samsung Galaxy M31  Logo stuck
+2025-05-30 23:49:31.014926: Created blog post: HP 15 series  Software Services
+2025-05-30 23:49:31.015204: Created blog post: MacBook Pro A1989  Dead Condition
+2025-05-30 23:49:31.015505: Created blog post: Asus desktop  Software Services
+2025-05-30 23:49:31.015750: Created blog post: Samsung Galaxy F41  logo Stuck
+2025-05-30 23:49:31.015989: Created blog post: Hp Pavilion Note Book 17  Cooling Fan Issue
+2025-05-30 23:49:31.016285: Created blog post: iPhone X  Battery Replacement
+2025-05-30 23:49:31.016567: Created blog post: iPhone X  Display Combo Replacement
+2025-05-30 23:49:31.016847: Created blog post: Honor 9N  Display Combo Replacement
+2025-05-30 23:49:31.017150: Created blog post: iWatch  Display Glass Replacement
+2025-05-30 23:49:31.017574: Created blog post: Lenovo IdeaPad 320  Fan Service
+2025-05-30 23:49:31.017884: Created blog post: MacBook Air A1466  Fan and keyboard upper panel Replacement
+2025-05-30 23:49:31.018170: Created blog post: Sony VAIO  Dead Condition
+2025-05-30 23:49:31.018466: Created blog post: Lenovo Think Pad T440  Display Replacement
+2025-05-30 23:49:31.019350: Created blog post: Realme Narzo 20  Display Combo Replacement
+2025-05-30 23:49:31.019970: Created blog post: iPhone 6 Plus  Display Combo Replacement
+2025-05-30 23:49:31.020379: Created blog post: iPhone 7 Plus  Display Combo Replacement
+2025-05-30 23:49:31.020635: Created blog post: Acer Aspire A 515-53K  RAM Upgrade
+2025-05-30 23:49:31.020891: Created blog post: Sony VAIO  Dead Condition
+2025-05-30 23:49:31.021355: Created blog post: MacBook Air  Battery Replacement
+2025-05-30 23:49:31.021673: Created blog post: Samsung Galaxy M31  Display Glass Replacement
+2025-05-30 23:49:31.021949: Created blog post: Redmi Note 5  Display Combo Replacement
+2025-05-30 23:49:31.022865: Created blog post: Realme 8  Display Combo Replacement
+2025-05-30 23:49:31.023177: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.023438: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.023716: Created blog post: iPad wi-fi 1st Gen  Display Combo Replacement
+2025-05-30 23:49:31.024400: Created blog post: Gadgets Repair  Vivo Headphone - Dead
+2025-05-30 23:49:31.024698: Created blog post: Gadgets Repair  Acer Laptop Charger  Dead Condition
+2025-05-30 23:49:31.025099: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.025409: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.025694: Created blog post: iPad wi-fi 1st Gen  Display Combo Replacement
+2025-05-30 23:49:31.026179: Created blog post: Gadget  Repair  Sony headphone
+2025-05-30 23:49:31.026734: Created blog post: Gadget  Repair  JBL Bluetooth Headphone
+2025-05-30 23:49:31.027057: Created blog post: 3D Print  Phone Stand
+2025-05-30 23:49:31.027890: Created blog post: Gadget  Repair  Osaka Digital - Adapter
+2025-05-30 23:49:31.028623: Created blog post: Gadget  Repair  Boult Audio - Headphone
+2025-05-30 23:49:31.029096: Created blog post: Lenovo Idea pad  303S-15KB  - Software Services
+2025-05-30 23:49:31.029488: Created blog post: Samsung A10S - Touch Not Working
+2025-05-30 23:49:31.029794: Created blog post: LG Q6   Display Combo Replacement
+2025-05-30 23:49:31.030068: Created blog post: HP Elite Book 840G4 - Not Working
+2025-05-30 23:49:31.030344: Created blog post: Dell Inspiron 153521 - Showing Logo not working
+2025-05-30 23:49:31.031091: Created blog post: OPPO A50s - Display Combo Replacement
+2025-05-30 23:49:31.031438: Created blog post: OPPO A37fw - Dead Condition
+2025-05-30 23:49:31.031723: Created blog post: Samsung Galaxy M31s  Logo Restarting
+2025-05-30 23:49:31.032052: Created blog post: POCO F1 - Display Combo Replacement
+2025-05-30 23:49:31.032334: Created blog post: iPhone 6s - Display Glass Replacement
+2025-05-30 23:49:31.032625: Created blog post: Redmi Note 8 - Display Combo Replacement
+2025-05-30 23:49:31.032940: Created blog post: OPPO A37fw - Dead Condition
+2025-05-30 23:49:31.033234: Created blog post: OPPO A33f- Dead Condition
+2025-05-30 23:49:31.033601: Created blog post: Amazon Kindle dead condition
+2025-05-30 23:49:31.033880: Created blog post: HP RTL872BE - Dead Condition
+2025-05-30 23:49:31.034167: Created blog post: HP 640 G2 - Bitlocker - Software Services
+2025-05-30 23:49:31.034453: Created blog post: Samsung A51s  Dead
+2025-05-30 23:49:31.034738: Created blog post: Motorola One Fusion + - Display Glass Replacement
+2025-05-30 23:49:31.035042: Created blog post: Samsung M31s - Dead
+2025-05-30 23:49:31.035357: Created blog post: OnePlus 5T - Dead Condition
+2025-05-30 23:49:31.035778: Created blog post: Dell Inspiron 15 5566 - Ram Upgrade Check
+2025-05-30 23:49:31.036041: Created blog post: MacBook Pro - A1398 - Logo Struck - Storage Replacement
+2025-05-30 23:49:31.036302: Created blog post: One Plus 6 - Dead Condition
+2025-05-30 23:49:31.036569: Created blog post: Jio Phone - Dead Condition
+2025-05-30 23:49:31.036809: Created blog post: OPPO F17 - Display Combo Replacement
+2025-05-30 23:49:31.037054: Created blog post: Samsung M51 - Display glass replacement
+2025-05-30 23:49:31.037300: Created blog post: Vivo Y17 - Dead Condition
+2025-05-30 23:49:31.037548: Created blog post: Samsung Galaxy M30s  logo stuck
+2025-05-30 23:49:31.037784: Created blog post: iPhone 6s  Display Combo Replacement
+2025-05-30 23:49:31.038009: Created blog post: Redmi 9i - Display Combo Replacement
+2025-05-30 23:49:31.038234: Created blog post: iPhone 6S - Display Combo Replacement
+2025-05-30 23:49:31.038556: Created blog post: Samsung - SM-A505F/DS  Display Combo Replacement
+2025-05-30 23:49:31.038807: Created blog post: Samsung M21 - Dead
+2025-05-30 23:49:31.039513: Created blog post: MacBook Pro - Dead
+2025-05-30 23:49:31.039916: Created blog post: Lenovo Z50-70 -  20354 - Liquid Damage
+2025-05-30 23:49:31.040375: Created blog post: Samsung A 50s - Display Glass Replacement
+2025-05-30 23:49:31.040637: Created blog post: Redmi 9 Power  - Dead condition
+2025-05-30 23:49:31.040917: Created blog post: OPPO F11 Pro - Dead Condition
+2025-05-30 23:49:31.041524: Created blog post: OnePlus 1+7 Pro - Chip Level Check
+2025-05-30 23:49:31.041866: Created blog post: iPhone 12 max - Display Flickering
+2025-05-30 23:49:31.042331: Created blog post: iPhone 6s - Dead Condition
+2025-05-30 23:49:31.042769: Created blog post: iPhone SE - Display Combo Replacement
+2025-05-30 23:49:31.045449: Created blog post: HONOR JDN2-AL00HN - Dead Condition
+2025-05-30 23:49:31.046686: Created blog post: Vivo Y12 - Display Flickering
+2025-05-30 23:49:31.047169: Created blog post: OnePlus 5T - Dead condition
+2025-05-30 23:49:31.047519: Created blog post: Vivo z 1 pro - Not charging
+2025-05-30 23:49:31.048570: Created blog post: Moto G5S+ - Not Charging
+2025-05-30 23:49:31.049506: Created blog post: Mi 6A - Display  glass Replacement
+2025-05-30 23:49:31.051212: Created blog post: Nokia 8 - Display Glass Replacement
+2025-05-30 23:49:31.054986: Created blog post: OnePlus 6  Display Combo Replacement
+2025-05-30 23:49:31.058156: Created blog post: Lenovo G50-80  Display black sport
+2025-05-30 23:49:31.059337: Created blog post: HP 14-ce1020TX - Battery Replacement
+2025-05-30 23:49:31.060868: Created blog post: DELL P6IF  Dead Condition
+2025-05-30 23:49:31.061558: Created blog post: Dell Inspiron 15-3251 - Wi-Fi Not working
+2025-05-30 23:49:31.062582: Created blog post: iPhone XS Max  Front  Glass replacement
+2025-05-30 23:49:31.064242: Created blog post: Samsung A12  Display Combo Replacement
+2025-05-30 23:49:31.065556: Created blog post: Samsung M51 Dead Condition
+2025-05-30 23:49:31.066237: Created blog post: iPad A2316  Front Glass Cracked
+2025-05-30 23:49:31.067233: Created blog post: iPad Pro A1673 - 2016 model - Display Combo Replacement
+2025-05-30 23:49:31.068879: Created blog post: MacBook Pro - A1502 - Software Services
+2025-05-30 23:49:31.070305: Created blog post: Samsung Galaxy A51 - Dead Condition
+2025-05-30 23:49:31.071211: Created blog post: Samsung C9 Pro - C900F  Dead condition
+2025-05-30 23:49:31.072079: Created blog post: Redmi Note M10 - Display Glass Replacement
+2025-05-30 23:49:31.072908: Created blog post: One Plus 7T - Dead Condition
+2025-05-30 23:49:31.073560: Created blog post: MacBook Pro - A1398 - Dead Condition
+2025-05-30 23:49:31.074447: Created blog post: Sony Vaio - svf142c1ww  Dead condition
+2025-05-30 23:49:31.074860: Created blog post: Lenovo IdeaPad 3 15IIL05 - ADLX65CLGI2A  Not Charging
+2025-05-30 23:49:31.075756: Created blog post: Vivo Y51 - Display Combo Replacement
+2025-05-30 23:49:31.076327: Created blog post: iPhone 6  Display combo replacement
+2025-05-30 23:49:31.076966: Created blog post: Dell Laptop  Dead condition
+2025-05-30 23:49:31.077352: Created blog post: ASUS Zen 5x - Dead Condition
+2025-05-30 23:49:31.077679: Created blog post: Vivo Y95  Display combo replacement
+2025-05-30 23:49:31.079212: Created blog post: Samsung A50 - A506F - Display Combo Replacement
+2025-05-30 23:49:31.079858: Created blog post: iPad 4 WIFI + Cellular - Forgot iCloud ID
+2025-05-30 23:49:31.082633: Created blog post: One Plus 3T   Display Combo replacement
+2025-05-30 23:49:31.083583: Created blog post: iPhone 6s -  Display combo replacement
+2025-05-30 23:49:31.084352: Created blog post: iPhone 6s - Battery Replacement
+2025-05-30 23:49:31.085368: Created blog post: iWatch Series 5  Display Glass Replacement
+2025-05-30 23:49:31.085927: Created blog post: One Plus 5T  Display Combo Replacement
+2025-05-30 23:49:31.086297: Created blog post: One Plus 5  Dead Condition
+2025-05-30 23:49:31.087286: Created blog post: Poco M3  Dead Condition
+2025-05-30 23:49:31.087850: Created blog post: One Plus 6T  Display Combo Replacement
+2025-05-30 23:49:31.088558: Created blog post: Java Script  The Switch Keyword
+2025-05-30 23:49:31.089519: Created blog post: Code  Finding the mean Torque in Shafts
+2025-05-30 23:49:31.090188: Created blog post: 
+2025-05-30 23:49:31.090487: Created blog post: iPhone 7  Display Glass Replacement
+2025-05-30 23:49:31.090835: Created blog post: iPhone 7  Display Combo Replacement
+2025-05-30 23:49:31.091727: Created blog post: Vivo Y83  Display Combo Replacement
+2025-05-30 23:49:31.092508: Created blog post: Vivo Y83  Display Combo Replacement
+2025-05-30 23:49:31.093184: Created blog post: Code - Ternary Operator
+2025-05-30 23:49:31.094356: Created blog post: Code  Truthy and Falsy statements
+2025-05-30 23:49:31.095164: Created blog post: Code  A python script to Find torque in shafts
+2025-05-30 23:49:31.095467: Created blog post: Code Java Script  Logical Operators
+2025-05-30 23:49:31.096287: Created blog post: Samsung Galaxy M31  Logo Restarting
+2025-05-30 23:49:31.097518: Created blog post: Vivo 91i  Display Combo Replacement
+2025-05-30 23:49:31.098496: Created blog post: Honor 9N  Back Panel Replacement
+2025-05-30 23:49:31.099219: Created blog post: IoT  Gadgets Repair
+2025-05-30 23:49:31.099544: Created blog post: IoT  Gadgets Repair
+2025-05-30 23:49:31.102374: Created blog post: IoT  Gadgets Repair
+2025-05-30 23:49:31.103295: Created blog post: 3D printer - Horse Sculpture 2D wall Art
+2025-05-30 23:49:31.105484: Created blog post: Redmi 8A  Display Glass Replacement
+2025-05-30 23:49:31.106070: Created blog post: Oppo A18  Display Combo Replacement
+2025-05-30 23:49:31.106759: Created blog post: Oppo A33f  Power Button Issue
+2025-05-30 23:49:31.107082: Created blog post: Samsung J2 Pro  Battery Replacement
+2025-05-30 23:49:31.107375: Created blog post: iPhone 6s  Battery Replacement
+2025-05-30 23:49:31.108142: Created blog post: Dell Inspiron 15  Battery Replacement
+2025-05-30 23:49:31.108972: Created blog post: Infix Hot 6  Charging Connector Replacement
+2025-05-30 23:49:31.109878: Created blog post: iPhone XS  Display Combo Replacement
+2025-05-30 23:49:31.111068: Created blog post: Redmi 8A  Display Combo Replacement
+2025-05-30 23:49:31.111645: Created blog post: iPhone X  Display Glass Replacement
+2025-05-30 23:49:31.112104: Created blog post: MacBook Pro  Dead Condition
+2025-05-30 23:49:31.112782: Created blog post: Code  Matrix
+2025-05-30 23:49:31.114782: Created blog post: Code  Matrix Addition
+2025-05-30 23:49:31.116086: Created blog post: 3D Print  Geometry 4 2D wall Art
+2025-05-30 23:49:31.117134: Created blog post: Code  List comprehension
+2025-05-30 23:49:31.117758: Created blog post: 3D Print  Universal Phone Stand
+2025-05-30 23:49:31.120200: Created blog post: Code  Adding and Subtracting Matrices in Python
+2025-05-30 23:49:31.121062: Created blog post: IoT  Gadgets Repair
+2025-05-30 23:49:31.121690: Created blog post: Asus Zenfone  - Charging Port Replacement
+2025-05-30 23:49:31.122447: Created blog post: MacBook Air  Dead Condition
+2025-05-30 23:49:31.123434: Created blog post: Vivo Y20  Display Combo Replacement
+2025-05-30 23:49:31.124471: Created blog post: One plus 6T  Display Combo Replacement
+2025-05-30 23:49:31.125695: Created blog post: iPhone X  Dead Condtion
+2025-05-30 23:49:31.127072: Created blog post: iPhone 6s  Dead Condition
+2025-05-30 23:49:31.128173: Created blog post: Lenovo K8  Logo Stuck
+2025-05-30 23:49:31.128965: Created blog post: HP inspiron  SSD Replacement
+2025-05-30 23:49:31.129697: Created blog post: iPad Mini 1  Touch Glass Replacement
+2025-05-30 23:49:31.130348: Created blog post: Samsung A12  Software Unlock
+2025-05-30 23:49:31.131103: Created blog post: Mi Note 4  Charging Port Replacement
+2025-05-30 23:49:31.132091: Created blog post: Code  To Represent a pair of Straight Lines
+2025-05-30 23:49:31.132493: Created blog post: iPhone 6  Battery Replacement
+2025-05-30 23:49:31.132954: Created blog post: Code  Convert the Percentage to decimal and Fraction to percentage
+2025-05-30 23:49:31.133246: Created blog post: One Plus 6T  Display Combo Replacement
+2025-05-30 23:49:31.133968: Created blog post: Samsung Duos  Dead Condition
+2025-05-30 23:49:31.134459: Created blog post: 3D print  Paddle Boat
+2025-05-30 23:49:31.135004: Created blog post: Redmi Note 4  Dead Condition
+2025-05-30 23:49:31.135378: Created blog post: IoT  Gadget Repair  Gionee Power Bank
+2025-05-30 23:49:31.136003: Created blog post: One Plus 6T  No Display
+2025-05-30 23:49:31.136608: Created blog post: IoT  Gadget Repair  Bytech Headphones
+2025-05-30 23:49:31.136935: Created blog post: Code  Find the age of your father
+2025-05-30 23:49:31.137315: Created blog post: Code  Find the age of the Person
+2025-05-30 23:49:31.138193: Created blog post: Code  Problems using the equation of a concentric circle
+2025-05-30 23:49:31.139043: Created blog post: 3D print  Puzzle Cube
+2025-05-30 23:49:31.140054: Created blog post: Dell Precision 5520  Software Service
+2025-05-30 23:49:31.140753: Created blog post: Code  Finding the Age
+2025-05-30 23:49:31.141094: Created blog post: 3D print - Grim Reaper stencil 24
+2025-05-30 23:49:31.141637: Created blog post: Code  Find the Numbers using Hints
+2025-05-30 23:49:31.142068: Created blog post: 3D print - Photo Studio Stand
+2025-05-30 23:49:31.142372: Created blog post: 3D Print - Book Marks
+2025-05-30 23:49:31.142993: Created blog post: 3D print - Metric and Imperial Thread Gauge
+2025-05-30 23:49:31.143700: Created blog post: Code  Average of 4  consecutive even numbers
+2025-05-30 23:49:31.144697: Created blog post: Redmi K20  Front Camera Error
+2025-05-30 23:49:31.145213: Created blog post: Hp 15 Series  Keyboard Replacement
+2025-05-30 23:49:31.146163: Created blog post: Mi Max 2  Loud Speaker Replacement
+2025-05-30 23:49:31.147424: Created blog post: Redmi Note 4  Dead Condition
+2025-05-30 23:49:31.148731: Created blog post: Code  Find the absolute difference between the numbers
+2025-05-30 23:49:31.149167: Created blog post: 3D print  Cable Holder
+2025-05-30 23:49:31.149626: Created blog post: 3D print  Glob Master Kit Card 3
+2025-05-30 23:49:31.150117: Created blog post: Code  Find the Number if their sum and difference is given
+2025-05-30 23:49:31.150740: Created blog post: Code  Find the Smaller Number
+2025-05-30 23:49:31.151253: Created blog post: 3D print  Angle measuring Tool
+2025-05-30 23:49:31.152271: Created blog post: Oppo A15s  Display Combo Replacement
+2025-05-30 23:49:31.152683: Created blog post: Hp Notebook  Battery Replacement
+2025-05-30 23:49:31.153713: Created blog post: 3D print  Diameter Measuring Tool
+2025-05-30 23:49:31.154379: Created blog post: Code  Find the number using hints
+2025-05-30 23:49:31.154693: Created blog post: 3D print  Rose 2D Wall Art
+2025-05-30 23:49:31.155101: Created blog post: Vivo V9  Software Service
+2025-05-30 23:49:31.155576: Created blog post: Vivo Y15  Display Glass Replacement
+2025-05-30 23:49:31.156122: Created blog post: Oppo A3s  - Display Combo Replacement
+2025-05-30 23:49:31.156739: Created blog post: Code  Find the Number
+2025-05-30 23:49:31.157307: Created blog post: IIOT  Raspberry Pi
+2025-05-30 23:49:31.157846: Created blog post: Vivo Y31  Display Combo Replacement
+2025-05-30 23:49:31.158199: Created blog post: Samsung M30s  Logo Restarting
+2025-05-30 23:49:31.159348: Created blog post: Nova 7i  Display Glass Replacement
+2025-05-30 23:49:31.160247: Created blog post: Redmi Note 8 Pro  Battery Replacement
+2025-05-30 23:49:31.160718: Created blog post: iPhone 11 pro  Display Glass Replacement
+2025-05-30 23:49:31.161323: Created blog post: Oppo A3s  Software Services
+2025-05-30 23:49:31.161946: Created blog post: IIOT  Raspberry Pi - Projects
+2025-05-30 23:49:31.162502: Created blog post: IIOT  Raspberry Pi - Projects
+2025-05-30 23:49:31.163148: Created blog post: Vivo Y17  Display Combo Replacement
+2025-05-30 23:49:31.163776: Created blog post: Vivo Y21  Software Services
+2025-05-30 23:49:31.164476: Created blog post: Code  Average
+2025-05-30 23:49:31.165144: Created blog post: IIOT  Gadget Repair
+2025-05-30 23:49:31.165466: Created blog post: 3D print  Fishes 2D wall Art
+2025-05-30 23:49:31.165902: Created blog post: Dell Inspiron 13 series - Battery Replacement
+2025-05-30 23:49:31.166167: Created blog post: 3D print  Glue Gun Holder
+2025-05-30 23:49:31.166623: Created blog post: 3D print  Fillet Gauge
+2025-05-30 23:49:31.166996: Created blog post: One Plus 7  Display Combo Replacement
+2025-05-30 23:49:31.167460: Created blog post: Redmi Note 3  Charging Connector Replacement
+2025-05-30 23:49:31.167875: Created blog post: Dell Inspiron 15  Hinges Broken
+2025-05-30 23:49:31.168254: Created blog post: 3D print  Touring Bike
+2025-05-30 23:49:31.168496: Created blog post: 3D print  Wood Screw Cap
+2025-05-30 23:49:31.168938: Created blog post: IIOT  Gadgets Repair  Zebronics
+2025-05-30 23:49:31.169204: Created blog post: IIOT  Gadgets Repair  Selfie Stick
+2025-05-30 23:49:31.169461: Created blog post: 3D Print  Tools Holder
+2025-05-30 23:49:31.169752: Created blog post: Code  Number Guessing Game in Python 3
+2025-05-30 23:49:31.170040: Created blog post: IIOT  Gadgets Repair  Boat Earphone
+2025-05-30 23:49:31.170489: Created blog post: 3D Print  T-Rex Skeleton
+2025-05-30 23:49:31.170797: Created blog post: Redmi 5pro  Display Combo Replacement
+2025-05-30 23:49:31.171111: Created blog post: Mi 6A  Display Combo Replacement
+2025-05-30 23:49:31.171399: Created blog post: iPhone 6s  Display Combo Replacement
+2025-05-30 23:49:31.171774: Created blog post: IIOT  Gadgets Repair  Bose Speaker
+2025-05-30 23:49:31.172114: Created blog post: Asus A50  Dead Condition
+2025-05-30 23:49:31.172431: Created blog post: 3D Print  Flexible Build plate Alignment Tabs
+2025-05-30 23:49:31.172823: Created blog post: Code  Average of first n Natural numbers
+2025-05-30 23:49:31.173115: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.173456: Created blog post: 3D Print  Spinosaurus Kit Card
+2025-05-30 23:49:31.173845: Created blog post: 3D Print  Filament Clip
+2025-05-30 23:49:31.174337: Created blog post: IIOT  Raspberry Pi  LEDs, buzzers
+2025-05-30 23:49:31.174618: Created blog post: IIOT  Raspberry Pi  3D Thunder Cloud
+2025-05-30 23:49:31.174877: Created blog post: Samsung M31s  Charging Port Replacement
+2025-05-30 23:49:31.175170: Created blog post: Samsung Tab 2  Display Glass Replacement
+2025-05-30 23:49:31.175478: Created blog post: Redmi 9 Prime  Loud Speaker Issue
+2025-05-30 23:49:31.175796: Created blog post: Oppo 11 Pro  Display Como Replacement
+2025-05-30 23:49:31.176058: Created blog post: One Plus 5T  Display Combo Replacement
+2025-05-30 23:49:31.176365: Created blog post: Code  Check first & last number of list is the same
+2025-05-30 23:49:31.176826: Created blog post: 3D Printer  T-Rex Wall Sculpture
+2025-05-30 23:49:31.177095: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.177439: Created blog post: 3D Print  Filament Dust Filter
+2025-05-30 23:49:31.177873: Created blog post: IIOT  Raspberry Pi  Stress Buster
+2025-05-30 23:49:31.178186: Created blog post: IIOT  Raspberry Pi  GPIO Music Box
+2025-05-30 23:49:31.178533: Created blog post: Dell Inspiron 15  Keyboard, Touchpad & Bottom Panel Replacement
+2025-05-30 23:49:31.178828: Created blog post: Lenovo Yoga Tab 2  Dead Condition
+2025-05-30 23:49:31.179104: Created blog post: Redmi Note 7 Pro  Display Combo Replacement
+2025-05-30 23:49:31.179390: Created blog post: Samsung A03s  Display Combo Replacement
+2025-05-30 23:49:31.179829: Created blog post: Dell Inspiron  Battery Replacement
+2025-05-30 23:49:31.180134: Created blog post: Samsung Galaxy J7  Logo Stuck
+2025-05-30 23:49:31.180602: Created blog post: Code  Find prime numbers between a given range
+2025-05-30 23:49:31.180948: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.181303: Created blog post: Realme 5i  Software Service
+2025-05-30 23:49:31.181838: Created blog post: 3D Print  Plant Water Spike
+2025-05-30 23:49:31.182131: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.182401: Created blog post: 3D Printer  Panda 2D wall ART
+2025-05-30 23:49:31.182791: Created blog post: Lenovo Ideapad  Hinges Replacement
+2025-05-30 23:49:31.183364: Created blog post: Lenovo ThinkPad T570  Keyboard Replacement
+2025-05-30 23:49:31.183640: Created blog post: Code  To find cube roots
+2025-05-30 23:49:31.183943: Created blog post: 3D Print  Bed Cable Support
+2025-05-30 23:49:31.184364: Created blog post: Acer Aspire 5742  Loud Speaker Replacement
+2025-05-30 23:49:31.184643: Created blog post: Realme 2 Pro  Display Combo Replacement
+2025-05-30 23:49:31.184936: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.185220: Created blog post: 3D Print  T-Rex
+2025-05-30 23:49:31.185492: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.185778: Created blog post: Vivo Y20  Display Combo Replacement
+2025-05-30 23:49:31.186058: Created blog post: Realme X2  Back Panel Replacement
+2025-05-30 23:49:31.186411: Created blog post: MacBook Pro  Dead Condition
+2025-05-30 23:49:31.186670: Created blog post: Vivo V9  Display Combo Replacement
+2025-05-30 23:49:31.187025: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.187440: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.187710: Created blog post: Code  To Find Productivity
+2025-05-30 23:49:31.188197: Created blog post: Code  Square root of any number
+2025-05-30 23:49:31.188833: Created blog post: Mi Max 2  Display Glass Replacement
+2025-05-30 23:49:31.189277: Created blog post: Redmi 9i  Dead Condition
+2025-05-30 23:49:31.189748: Created blog post: iPhone 6  Display Glass Replacement
+2025-05-30 23:49:31.190453: Created blog post: Acer Monitor  Water damage
+2025-05-30 23:49:31.190769: Created blog post: Gadgets  Dell Laptop Charger
+2025-05-30 23:49:31.191032: Created blog post: Mi A2  Logo Stuck
+2025-05-30 23:49:31.191327: Created blog post: Vivo Y12  Display Combo Replacement
+2025-05-30 23:49:31.191725: Created blog post: Google pixel 3A  Display Glass Replacement
+2025-05-30 23:49:31.192030: Created blog post: Hp Pavilion Notebook PC  Software Services
+2025-05-30 23:49:31.192472: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.193034: Created blog post: Samsung M51  Charging Port Replacement
+2025-05-30 23:49:31.193588: Created blog post: iPhone 6  Chip Level Service
+2025-05-30 23:49:31.194160: Created blog post: IIOT  Boat Race
+2025-05-30 23:49:31.194607: Created blog post: Lenovo G50  Base Panel Replacement
+2025-05-30 23:49:31.195175: Created blog post: Lenovo G50  Hinges Replacement
+2025-05-30 23:49:31.195763: Created blog post: 3D Printer  Raspberry Pi 4 Case
+2025-05-30 23:49:31.196242: Created blog post: MacBook  Motherboard Service
+2025-05-30 23:49:31.197366: Created blog post: Oppo A16  Display Glass Replacement
+2025-05-30 23:49:31.197709: Created blog post: iPhone 6S  Ear & Loud Speaker Replacement
+2025-05-30 23:49:31.198029: Created blog post: Vivo V7 Plus  Ringer Replacement
+2025-05-30 23:49:31.198429: Created blog post: Code  Production cost for MS rod
+2025-05-30 23:49:31.198958: Created blog post: Zebronics CPU  Dead Condition
+2025-05-30 23:49:31.199229: Created blog post: HP Pavilion DV9000  Dead Condition
+2025-05-30 23:49:31.199630: Created blog post: 3D Printer  Sparrow 2D wall ART
+2025-05-30 23:49:31.200073: Created blog post: 3D Printer  Ender 3 LCD Cover
+2025-05-30 23:49:31.201278: Created blog post: Code  Production cost for MS rod
+2025-05-30 23:49:31.202012: Created blog post: Acer Aspire E1-431  Keyboard Replacement
+2025-05-30 23:49:31.202503: Created blog post: iPhone 6S  Software Service
+2025-05-30 23:49:31.202989: Created blog post: Code  Inverse of Square Matrix
+2025-05-30 23:49:31.203307: Created blog post: 3D Printer  Sparrow 2D wall ART
+2025-05-30 23:49:31.203619: Created blog post: iPhone 7 Plus  Display Combo Replacement & Motherboard Repair
+2025-05-30 23:49:31.203914: Created blog post: iPhone XS  Display Glass Replacement & Software Service
+2025-05-30 23:49:31.204838: Created blog post: Raspberry pi - Green LED Flash Patterns
+2025-05-30 23:49:31.205372: Created blog post: Code  Expenditure on Salary
+2025-05-30 23:49:31.206169: Created blog post: 3D Printer  LCD  PCB Holder
+2025-05-30 23:49:31.207072: Created blog post: 3D Printer  Filament Guider
+2025-05-30 23:49:31.207845: Created blog post: Redmi Note 8 Pro  Display Combo Replacement
+2025-05-30 23:49:31.208768: Created blog post: Samsung Galaxy J6  Display Combo Replacement
+2025-05-30 23:49:31.209449: Created blog post: IIOT - Raspberry pi Boot Issue
+2025-05-30 23:49:31.209837: Created blog post: Code  3rd Order Determinant
+2025-05-30 23:49:31.210229: Created blog post: IIOT  Balloon Popping Game
+2025-05-30 23:49:31.211598: Created blog post: Code  Tensile Test on Mild Steel Rod
+2025-05-30 23:49:31.212398: Created blog post: OnePlus 5T Charging Port Replacement
+2025-05-30 23:49:31.212992: Created blog post: Gadget  Torch (Dead Condition)
+2025-05-30 23:49:31.213538: Created blog post: Code  BODMAS rule
+2025-05-30 23:49:31.213975: Created blog post: Lenovo all in one desktop  Software Service
+2025-05-30 23:49:31.215066: Created blog post: Code  Accept a string from the User
+2025-05-30 23:49:31.215883: Created blog post: iPad Mini  Touch Glass Replacement
+2025-05-30 23:49:31.216808: Created blog post: iPhone 6  Ear and Loudspeaker Replacement
+2025-05-30 23:49:31.217699: Created blog post: Realme 3 Pro  Display Combo Replacement
+2025-05-30 23:49:31.218742: Created blog post: Code  Cutting Speed of the lathe
+2025-05-30 23:49:31.219536: Created blog post: Raspberry pi  Beat the goal
+2025-05-30 23:49:31.220143: Created blog post: Raspberry pi  Archery Game
+2025-05-30 23:49:31.220839: Created blog post: Code  Derivatives of X & Y
+2025-05-30 23:49:31.221614: Created blog post: Mi Note 4  Charging Port Replacement
+2025-05-30 23:49:31.222548: Created blog post: Lenovo IdeaPad  Water Damage
+2025-05-30 23:49:31.222969: Created blog post: Lenovo A6000  Dead Condition
+2025-05-30 23:49:31.223446: Created blog post: iPhone 5s  Battery Replacement
+2025-05-30 23:49:31.224046: Created blog post: Samsung M01  Water Damage
+2025-05-30 23:49:31.224744: Created blog post: Techno Spark Go Plus - Display Combo Replacement
+2025-05-30 23:49:31.225509: Created blog post: Code  Sum of current number & the previous number
+2025-05-30 23:49:31.226785: Created blog post: Raspberry pi  An LED Game
+2025-05-30 23:49:31.227374: Created blog post: Oppo A9  Display Combo Replacement
+2025-05-30 23:49:31.228329: Created blog post: Code  Successive differentiation
+2025-05-30 23:49:31.229076: Created blog post: Code  Sum of two numbers using function
+2025-05-30 23:49:31.230115: Created blog post: 3D Print  Filament Guide
+2025-05-30 23:49:31.231338: Created blog post: 3D Printer  Calibration
+2025-05-30 23:49:31.232117: Created blog post: Lava Hero 600  Charging Port Replacement
+2025-05-30 23:49:31.233309: Created blog post: Redmi Note 5 Pro  Display Glass Replacement
+2025-05-30 23:49:31.233832: Created blog post: iPhone 7 Plus  Software Service
+2025-05-30 23:49:31.234213: Created blog post: Code  Compressive test on Cast iron
+2025-05-30 23:49:31.234809: Created blog post: Redmi 9 Prime  Dead Condition
+2025-05-30 23:49:31.235399: Created blog post: HTC Desire 620G  Software Service
+2025-05-30 23:49:31.235994: Created blog post: Code  Bending Movement on Mild Steel
+2025-05-30 23:49:31.236369: Created blog post: Redmi Y1  Software Service
+2025-05-30 23:49:31.236726: Created blog post: Asus Zenfone Max Pro M1 Battery Replacement
+2025-05-30 23:49:31.237173: Created blog post: Code  Conversion of the decimal into the fraction
+2025-05-30 23:49:31.237708: Created blog post: MacBook Air  Dead Condition
+2025-05-30 23:49:31.238673: Created blog post: Samsung Galaxy M01  Logo Stuck
+2025-05-30 23:49:31.239982: Created blog post: Code  Rectangular Notch
+2025-05-30 23:49:31.240401: Created blog post: HTC Desire 816  Dead Condition
+2025-05-30 23:49:31.240859: Created blog post: Code  Rule of differentiate
+2025-05-30 23:49:31.241267: Created blog post: Dell Inspiron  Software Service
+2025-05-30 23:49:31.241597: Created blog post: Code  To Find Prime Factors
+2025-05-30 23:49:31.242349: Created blog post: Redmi Note 7  Battery Replacement
+2025-05-30 23:49:31.243225: Created blog post: Gadget  Head Phone
+2025-05-30 23:49:31.244712: Created blog post: Vivo Y20G  Display Combo Replacement
+2025-05-30 23:49:31.245573: Created blog post: iPhone 6s Plus  Display Glass Replacement
+2025-05-30 23:49:31.246002: Created blog post: Code  Sum to Product
+2025-05-30 23:49:31.246485: Created blog post: Code  Single shear stress on mild steel
+2025-05-30 23:49:31.246876: Created blog post: Realme C15  Display Combo Replacement
+2025-05-30 23:49:31.247520: Created blog post: MacBook Retina  Software Service
+2025-05-30 23:49:31.248004: Created blog post: Code  Find LCM of any two numbers
+2025-05-30 23:49:31.248592: Created blog post: iWatch 67999  Display Combo Replacement
+2025-05-30 23:49:31.248906: Created blog post: Code  Coefficient Discharge in Venturi Meter
+2025-05-30 23:49:31.249575: Created blog post: Code  Product to sum using transformation formula
+2025-05-30 23:49:31.249932: Created blog post: Code - LCM
+2025-05-30 23:49:31.250285: Created blog post: iPhone 6  Dead Condition
+2025-05-30 23:49:31.250801: Created blog post: Moto G5s Plus  Touch Glass Replacement
+2025-05-30 23:49:31.251163: Created blog post: iPhone 7  Display Combo Replacement
+2025-05-30 23:49:31.251558: Created blog post: Code  Product of two trigonometric functions
+2025-05-30 23:49:31.252010: Created blog post: Code  HCF long division method
+2025-05-30 23:49:31.252525: Created blog post: Code  Greatest possible length
+2025-05-30 23:49:31.252796: Created blog post: Code  To find HCF
+2025-05-30 23:49:31.253390: Created blog post: Code  Digital Clock
+2025-05-30 23:49:31.253758: Created blog post: Realme 9 Power  Display Combo Replacement
+2025-05-30 23:49:31.254287: Created blog post: Redmi Note 7  Charging port Replacement
+2025-05-30 23:49:31.254622: Created blog post: Code  Transform a product of two trigonometric functions into the sum
+2025-05-30 23:49:31.255156: Created blog post: Code  Addition of compound angles
+2025-05-30 23:49:31.255597: Created blog post: Code  Numerical Values of allied angled
+2025-05-30 23:49:31.255900: Created blog post: Code  Triangular Notch
+2025-05-30 23:49:31.256178: Created blog post: Code  To find the nth term of a number
+2025-05-30 23:49:31.256693: Created blog post: Code  Express Radians into Angles
+2025-05-30 23:49:31.257115: Created blog post: Code  Express Angles in Radians
+2025-05-30 23:49:31.257419: Created blog post: Code  AP (Arithmetic Progression)
+2025-05-30 23:49:31.257822: Created blog post: iIOT  Gadget Repair
+2025-05-30 23:49:31.258339: Created blog post: iPhone 6S  Display Combo Replacement
+2025-05-30 23:49:31.258714: Created blog post: Dell Inspiron 15  Hard Disk Replacement
+2025-05-30 23:49:31.259345: Created blog post: Code  To find Acute angle between the lines?
+2025-05-30 23:49:31.259677: Created blog post: Samsung M11  Dead Condition
+2025-05-30 23:49:31.259966: Created blog post: Oppo F17  Display Combo Replacement
+2025-05-30 23:49:31.260423: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.261121: Created blog post: Dell Inspiron 15  Hinges Replacement
+2025-05-30 23:49:31.261457: Created blog post: iPhone 8 Plus  Display Glass Replacement
+2025-05-30 23:49:31.262034: Created blog post: Mi Pad 7.9  Dead Condition
+2025-05-30 23:49:31.262316: Created blog post: Samsung Galaxy M31  Display Combo Replacement
+2025-05-30 23:49:31.262852: Created blog post: Redmi C2  Display Combo Replacement
+2025-05-30 23:49:31.263458: Created blog post: Lenovo K5 Note Charging Port Replacement
+2025-05-30 23:49:31.264006: Created blog post: Nokia 5.1 Plus  Charging Port Replacement
+2025-05-30 23:49:31.264949: Created blog post: Code  To find Acute angle between the lines
+2025-05-30 23:49:31.265757: Created blog post: Code  To find V-Notch
+2025-05-30 23:49:31.266163: Created blog post: Vivo Y91i  Display Combo Replacement
+2025-05-30 23:49:31.266466: Created blog post: MobiiStar  Charging Port Replacement
+2025-05-30 23:49:31.267618: Created blog post: Moto G5s plus - Dead Condition
+2025-05-30 23:49:31.268410: Created blog post: Hp note book G6 - General service
+2025-05-30 23:49:31.268925: Created blog post: Dell Inspiron  OS Installation
+2025-05-30 23:49:31.269205: Created blog post: iPad Air  Software Service
+2025-05-30 23:49:31.269477: Created blog post: MacBook Pro  Battery Replacement
+2025-05-30 23:49:31.269758: Created blog post: Dell Inspiron 1564 - OS Installation
+2025-05-30 23:49:31.270130: Created blog post: Nokia 3310  Battery Replacement
+2025-05-30 23:49:31.270490: Created blog post: Hp Elite Book  Dead Condition
+2025-05-30 23:49:31.271159: Created blog post: Samsung Galaxy Note 8 - Display IC Replacement
+2025-05-30 23:49:31.271494: Created blog post: Code  To find x & y Intercept of the Line
+2025-05-30 23:49:31.272151: Created blog post: Code  To find the Tensile Stress
+2025-05-30 23:49:31.272920: Created blog post: IIOT  Gadgets Repair
+2025-05-30 23:49:31.273428: Created blog post: Code  Arithmetic Progression
+2025-05-30 23:49:31.273788: Created blog post: Code  Multiplication of Matrix
+2025-05-30 23:49:31.274504: Created blog post: Code  Subtraction of Matrices
+2025-05-30 23:49:31.274948: Created blog post: Code  Addition of Matrices
+2025-05-30 23:49:31.275266: Created blog post: Microgreens - Chickpeas
+2025-05-30 23:49:31.276238: Created blog post: Samsung A51  Display Glass Replacement
+2025-05-30 23:49:31.276598: Created blog post: Samsung A2 Core  Software Service
+2025-05-30 23:49:31.276948: Created blog post: Mi Note 5 Pro  Not Charging
+2025-05-30 23:49:31.277446: Created blog post: Code  Odd or Even Number
+2025-05-30 23:49:31.277831: Created blog post: Code  To find the Place value of a number
+2025-05-30 23:49:31.278179: Created blog post: Code  To find the Place value of a number
+2025-05-30 23:49:31.278990: Created blog post: Lenovo ideapad  Dead Condition
+2025-05-30 23:49:31.279285: Created blog post: Redmi Note 7  Touch Not Working
+2025-05-30 23:49:31.279705: Created blog post: Nokia 5.1 Plus  Charging Port Replacement
+2025-05-30 23:49:31.280251: Created blog post: Samsung Galaxy A20S - Display Glass Replacement
+2025-05-30 23:49:31.280628: Created blog post: iPhone X  Not Charging
+2025-05-30 23:49:31.281011: Created blog post: Samsung M31  Display Combo Replacement
+2025-05-30 23:49:31.281617: Created blog post: iPhone 7  Battery replacement
+2025-05-30 23:49:31.281934: Created blog post: Redmi 9 Power  Display Combo Replacement
+2025-05-30 23:49:31.282307: Created blog post: Code  Arithmetic Progression
+2025-05-30 23:49:31.282751: Created blog post: Code  Multiplication of Matrix
+2025-05-30 23:49:31.283131: Created blog post: Code  Subtraction of Matrices
+2025-05-30 23:49:31.283568: Created blog post: Code  Addition of Matrices
+2025-05-30 23:49:31.283843: Created blog post: Microgreens - Chickpeas
+2025-05-30 23:49:31.284519: Created blog post: Gadgets  Continuity Tester
+2025-05-30 23:49:31.284825: Created blog post: Code  Numerical to words from 0 - 99999
+2025-05-30 23:49:31.285372: Created blog post: Code  Numbers to find Divisible by 11
+2025-05-30 23:49:31.285756: Created blog post: Code  Numbers to find Divisible by 9
+2025-05-30 23:49:31.286064: Created blog post: Code  Numbers to find Divisible by 8
+2025-05-30 23:49:31.286329: Created blog post: Code  Numbers to find Divisible by 4
+2025-05-30 23:49:31.287063: Created blog post: Mi 5A - Display Combo Replacement
+2025-05-30 23:49:31.287819: Created blog post: iPhone 6S - Display Combo Replacement and Chip level Services
+2025-05-30 23:49:31.288265: Created blog post: Gadgets  Continuity Tester
+2025-05-30 23:49:31.288574: Created blog post: Code  Numericals to words from 0 - 99999
+2025-05-30 23:49:31.288855: Created blog post: Code  Numbers to find Divisible by 11
+2025-05-30 23:49:31.289384: Created blog post: Code  Numbers to find Divisible by 9
+2025-05-30 23:49:31.289896: Created blog post: Code  Numbers to find Divisible by 8
+2025-05-30 23:49:31.290174: Created blog post: Code  Numbers to find Divisible by 4
+2025-05-30 23:49:31.290493: Created blog post: Micro Greens
+2025-05-30 23:49:31.290918: Created blog post: Cable wind Up
+2025-05-30 23:49:31.291454: Created blog post: Hydroponics Plant Holder
+2025-05-30 23:49:31.291976: Created blog post: Charging Cable Holder
+2025-05-30 23:49:31.292373: Created blog post: Headphone Holder
+2025-05-30 23:49:31.292835: Created blog post: Wolf Wall Sculpture
+2025-05-30 23:49:31.293208: Created blog post: Slim Laptop Holder
+2025-05-30 23:49:31.293787: Created blog post: Mask Clip
+2025-05-30 23:49:31.294377: Created blog post: iPhone and iWatch holder
+2025-05-30 23:49:31.294656: Created blog post: iPhone 6 - Display Combo Replacement
+2025-05-30 23:49:31.295017: Created blog post: Vivo Y83 Pro - Display Combo Replacement
+2025-05-30 23:49:31.295430: Created blog post: Samsung Galaxy J2 - Loud Speaker Replacement
+2025-05-30 23:49:31.295832: Created blog post: Vivo Y12 - Display Glass Replacement
+2025-05-30 23:49:31.296144: Created blog post: Samsung Galaxy On7 - Battery Replacement
+2025-05-30 23:49:31.296577: Created blog post: iPhone 6S - Display Glass Replacement
+2025-05-30 23:49:31.297294: Created blog post: Surgical Mask Strap
+2025-05-30 23:49:31.297600: Created blog post: Iris Box
+2025-05-30 23:49:31.298306: Created blog post: Perpetual Desktop Calendar
+2025-05-30 23:49:31.299254: Created blog post: Filament Stand
+2025-05-30 23:49:31.299923: Created blog post: SD Card Holder
+2025-05-30 23:49:31.300968: Created blog post: Phone stand
+2025-05-30 23:49:31.303676: Created blog post: Mini Tape Gun
+2025-05-30 23:49:31.304767: Created blog post: TV Remote Adapter
+2025-05-30 23:49:31.306418: Created blog post: Deer Wall Art
+2025-05-30 23:49:31.307502: Created blog post: Mechanical Quick Grab Phone Stand
+2025-05-30 23:49:31.328270: Created blog post: Realme 1 - Display Combo Replacement
+2025-05-30 23:49:31.367736: Created blog post: Addition and subtraction of any two numbers
+2025-05-30 23:49:31.370739: Created blog post: iPhone 6 - Display Glass Replacement
+2025-05-30 23:49:31.372319: Created blog post: iPhone 6 - Battery and Display Glass Replacement
+2025-05-30 23:49:31.374053: Created blog post: iPad 2 - Dead Condition
+2025-05-30 23:49:31.376575: Created blog post: Samsung J7 - less sound in Loud-Speaker
+2025-05-30 23:49:31.386322: Created blog post: Moto G5+ - Display Glass Replacement
+2025-05-30 23:49:31.391289: Created blog post: Vivo V17- Charging Port Replacement
+2025-05-30 23:49:31.392307: Created blog post: Samsung M31- Display Combo Replacement
+2025-05-30 23:49:31.392790: Created blog post: Mi 5A - Battery Replacement
+2025-05-30 23:49:31.393830: Created blog post: iPhone 8 - Dead Condition
+2025-05-30 23:49:31.394868: Created blog post: iPhone 6s - Display Combo Replacement
+2025-05-30 23:49:31.400375: Created blog post: iPad Air - Display Glass Replacement
+2025-05-30 23:49:31.401474: Created blog post: Turn on Light with Lemon
+2025-05-30 23:49:31.402350: Created blog post: Sunrise Wake up Alarm
+2025-05-30 23:49:31.403185: Created blog post: Asus Zenfone Pro Max - Loud Speaker Replacement
+2025-05-30 23:49:31.404109: Created blog post: Blink a Light
+2025-05-30 23:49:31.405499: Created blog post: Circuit that Senses Touch
+2025-05-30 23:49:31.405925: Created blog post: Bulb a LED
+2025-05-30 23:49:31.406418: Created blog post: Create your Own Electromagnet
+2025-05-30 23:49:31.406750: Created blog post: Object Detection
+2025-05-30 23:49:31.407039: Created blog post: Number Plate Detection
+2025-05-30 23:49:31.407341: Created blog post: Helmet Detection
+2025-05-30 23:49:31.407803: Created blog post: Mask Detection
+2025-05-30 23:49:31.408366: Created blog post: Asus 5z - Display Glass Replacement
+2025-05-30 23:49:31.427803: Created blog post: Gadgets  Continuity Tester
+2025-05-30 23:49:31.428811: Created blog post: Code  Numbers to find Divisible by 4
+2025-05-30 23:49:31.429751: Created blog post: Hydroponics
+2025-05-30 23:49:31.430929: Created blog post: Common Switch Socket
+2025-05-30 23:49:31.432331: Created blog post: Charging Station
+2025-05-30 23:49:31.433148: Created blog post: Batman Wall Decoration
+2025-05-30 23:49:31.433784: Created blog post: Tiger Wall Art
+2025-05-30 23:49:31.434104: Created blog post: Vivo Y71 - Dead Condition
+2025-05-30 23:49:31.434406: Created blog post: Samsung Galaxy Tab A - Software Services
+2025-05-30 23:49:31.434783: Created blog post: Samsung Galaxy M31- Display Combo  Replacement
+2025-05-30 23:49:31.435481: Created blog post: Redmi Note 5 - Battery Replacement
+2025-05-30 23:49:31.436190: Created blog post: Redmi 8- Display Combo Replacement
+2025-05-30 23:49:31.436767: Created blog post: Poco M2- Display Combo Replacement
+2025-05-30 23:49:31.437606: Created blog post: Mi Note 5 - Display Combo Replacement
+2025-05-30 23:49:31.438454: Created blog post: iPhone XS - Front & Back Camera Not Working
+2025-05-30 23:49:31.440449: Created blog post: iPhone 11- Display Glass Replacement
+2025-05-30 23:49:31.441484: Created blog post: iPhone 6s - Battery Replacement
+2025-05-30 23:49:31.442451: Created blog post: Phantom Head POC
+2025-05-30 23:49:31.443054: Created blog post: Face Mask
+2025-05-30 23:49:31.443378: Created blog post: SD Card Holder
+2025-05-30 23:49:31.444340: Created blog post: Face Shield
+2025-05-30 23:49:31.445713: Created blog post: Mechanical Gear Car
+2025-05-30 23:49:31.446893: Created blog post: 3DU Borehole Cleaning Aid
+2025-05-30 23:49:31.448097: Created blog post: AA+AAA Battery Holder
+2025-05-30 23:49:31.448968: Created blog post: Plant Holder
+2025-05-30 23:49:31.449265: Created blog post: Tools Box
+2025-05-30 23:49:31.449779: Created blog post: MacBook Air  Battery Replacement
+2025-05-30 23:49:31.450438: Created blog post: iPhone XR  Display Combo Replacement
+2025-05-30 23:49:31.450935: Created blog post: Vivo Y81  Display Combo Replacement
+2025-05-30 23:49:31.452358: Created blog post: Vivo Y95 - Software Unlocking
+2025-05-30 23:49:31.452958: Created blog post: Samsung Galaxy M31 - Display Combo Replacement
+2025-05-30 23:49:31.453267: Created blog post: One Plus 6T  Display Combo Replacement
+2025-05-30 23:49:31.453548: Created blog post: Redmi Note 5 - Battery Replacement
+2025-05-30 23:49:31.453871: Created blog post: Redmi 9 Prime  Dead Condition
+2025-05-30 23:49:31.454236: Created blog post: Lenovo Think Pad - Windows Installation
+2025-05-30 23:49:31.454972: Created blog post: Lenovo Laptop - HDD Replacement
+2025-05-30 23:49:31.455707: Created blog post: iPhone 6S  Display & Battery Replacement
+2025-05-30 23:49:31.456327: Created blog post: Vivo Y19  Display Combo Replacement
+2025-05-30 23:49:31.457481: Created blog post: One Plus 5T  Display Glass Replacement
+2025-05-30 23:49:31.458196: Created blog post: iPhone 13 Pro Max  Back Glass Replacement
+2025-05-30 23:49:31.458616: Created blog post: iPhone 6s- Battery Replacement
+2025-05-30 23:49:31.459335: Created blog post: Hp Laptop - Ubuntu Installation
+2025-05-30 23:49:31.460650: Created blog post: Filament Cutter
+2025-05-30 23:49:31.461139: Created blog post: Color  Guessing Game
+2025-05-30 23:49:31.461460: Created blog post: HEX  KEY Holder
+2025-05-30 23:49:31.461716: Created blog post: Wire - Stripper
+2025-05-30 23:49:31.462094: Created blog post: Redmi Note 7 Pro - Battery Replacement
+2025-05-30 23:49:31.462394: Created blog post: iPhone 6s - Display Combo Replacement
+2025-05-30 23:49:31.462685: Created blog post: iPhone 6s- Battery Replacement
+2025-05-30 23:49:31.463068: Created blog post: Mi Note 7 pro - Battery Replacement
+2025-05-30 23:49:31.463709: Created blog post: SECRET MESSAGE MACHINE
+2025-05-30 23:49:31.464260: Created blog post: SPICE - LCA TEJAS MISSILE
+2025-05-30 23:49:31.464879: Created blog post: R73 - LCA TEJAS MISSILE
+2025-05-30 23:49:31.465310: Created blog post: FILE HANDLE
+2025-05-30 23:49:31.465579: Created blog post: HUMMINGBIRD WALL SCULPTURE 2D
+2025-05-30 23:49:31.465862: Created blog post: KEY CAP REMOVER
+2025-05-30 23:49:31.466392: Created blog post: 2D Spider & Web Wall Art
+2025-05-30 23:49:31.466718: Created blog post: 2D Spider & Web Wall Art
+2025-05-30 23:49:31.467025: Created blog post: Small Screw Driver Handle
+2025-05-30 23:49:31.467294: Created blog post: Program to find LCM of 2 Numbers
+2025-05-30 23:49:31.467587: Created blog post: Program to find if Number is Divisibility by 2
+2025-05-30 23:49:31.467856: Created blog post: Program to find Even or Odd
+2025-05-30 23:49:31.468280: Created blog post: Planter
+2025-05-30 23:49:31.468659: Created blog post: Lenovo Laptop - Hinges Repair
+2025-05-30 23:49:31.468932: Created blog post: Dell Laptop - OS Installation
+2025-05-30 23:49:31.469186: Created blog post: Samsung M31 - Logo Stuck
+2025-05-30 23:49:31.469449: Created blog post: Redmi 8 - Display Combo Replacement
+2025-05-30 23:49:31.470050: Created blog post: Samsung Galaxy A10 - Charging Port Replacement
+2025-05-30 23:49:31.470439: Created blog post: One Plus 6 - Display Combo Replacement
+2025-05-30 23:49:31.470695: Created blog post: iPhone 6s - Display Glass Replacement
+2025-05-30 23:49:31.470981: Created blog post: Mi Note 5 - Display Combo Replacement
+2025-05-30 23:49:31.471236: Created blog post: iPhone 6s - Logo Stuck
+2025-05-30 23:49:31.471491: Created blog post: Dell Laptop - Software Installation
+2025-05-30 23:49:31.471755: Created blog post: HP Laptop - Hinges and Display Replacement
+2025-05-30 23:49:31.472023: Created blog post: Spider- Window Web
+2025-05-30 23:49:31.472404: Created blog post: Lowpoly Elephant
+2025-05-30 23:49:31.472756: Created blog post: 9V Battery Cap
+2025-05-30 23:49:31.473017: Created blog post: Air  Icon For Wall
+2025-05-30 23:49:31.473315: Created blog post: Water - Icon For Wall
+2025-05-30 23:49:31.488714: Created blog post: Soldering Wire Stand
+2025-05-30 23:49:31.489712: Created blog post: iball Laptop - Hinges Repair
+2025-05-30 23:49:31.490243: Created blog post: Vivo Y51L - Dead Condition
+2025-05-30 23:49:31.490700: Created blog post: Oppo F17 - Display Glass Replacement
+2025-05-30 23:49:31.491188: Created blog post: Redmi - Battery and Back Panel Replacement
+2025-05-30 23:49:31.491633: Created blog post: Oppo F11 - Display Combo Replacement
+2025-05-30 23:49:31.492068: Created blog post: Moto E Power - Dead Condition
+2025-05-30 23:49:31.492834: Created blog post: iPhone 6S Plus - iCloud Unlock
+2025-05-30 23:49:31.493861: Created blog post: Samsung J8 - Display Combo Replacement
+2025-05-30 23:49:31.494402: Created blog post: Redmi K20 - Back Panel Replacement
+2025-05-30 23:49:31.495031: Created blog post: MacBook - Dead Condition
+2025-05-30 23:49:31.495325: Created blog post: Lenovo Laptop - Dead Condition
+2025-05-30 23:49:31.495590: Created blog post: Improved Spin Drill
+2025-05-30 23:49:31.495985: Created blog post: Acer Laptop - HDD Replacement
+2025-05-30 23:49:31.496569: Created blog post: Tree 2D Art
+2025-05-30 23:49:31.497045: Created blog post: Hp Laptop - Software Services
+2025-05-30 23:49:31.497540: Created blog post: SD CARD GRIP
+2025-05-30 23:49:31.497818: Created blog post: Samsung J7 Prime - Display Glass Replacement
+2025-05-30 23:49:31.498133: Created blog post: iPhone 7 - Battery Replacement
+2025-05-30 23:49:31.498706: Created blog post: Mini  Tap Wrench
+2025-05-30 23:49:31.499087: Created blog post: Samsung M11 - Display Combo Replacement
+2025-05-30 23:49:31.499432: Created blog post: One Plus 3 - Dead Condition
+2025-05-30 23:49:31.500078: Created blog post: Hex Handel
+2025-05-30 23:49:31.501524: Created blog post: Redmi 4 - Dead Condition
+2025-05-30 23:49:31.501967: Created blog post: Cable Spool
+2025-05-30 23:49:31.502531: Created blog post: Oil Funnel
+2025-05-30 23:49:31.503174: Created blog post: 90 and 45 degree Drilling Guide
+2025-05-30 23:49:31.503480: Created blog post: Horse 2D Art
+2025-05-30 23:49:31.503756: Created blog post: Secret Code Checker
+2025-05-30 23:49:31.504271: Created blog post: Wire  Wind Up
+2025-05-30 23:49:31.505258: Created blog post: Stegosaurus Kit Card
+2025-05-30 23:49:31.505897: Created blog post: Lenovo Laptop - Software Services
+2025-05-30 23:49:31.506753: Created blog post: Lenovo Laptop - Software Services
+2025-05-30 23:49:31.507409: Created blog post: Samsung Galaxy A50 - Display Combo Replacement
+2025-05-30 23:49:31.508590: Created blog post: MI Note 4 - Battery Replacement
+2025-05-30 23:49:31.510713: Created blog post: iPhone 6S - Display Glass Replacement
+2025-05-30 23:49:31.512216: Created blog post: Lenovo A6 - Display Combo Replacement
+2025-05-30 23:49:31.513391: Created blog post: iPhone 6S - Battery Replacement
+2025-05-30 23:49:31.516168: Created blog post: PLANTER
+2025-05-30 23:49:31.524814: Created blog post: UNIVERSAL BOTTLE OPENER
+2025-05-30 23:49:31.526341: Created blog post: USB PORT HOLDER FOR SWITCH BOARDS
+2025-05-30 23:49:31.527379: Created blog post: WATERING SPOUT
+2025-05-30 23:49:31.529220: Created blog post: SIMPLE PASTE SQUEEZER
+2025-05-30 23:49:31.530490: Created blog post: NAIL HOLDER
+2025-05-30 23:49:31.531997: Created blog post: DOLPHIN 2D ART
+2025-05-30 23:49:31.535955: Created blog post: Deer Wall Sculpture
+2025-05-30 23:49:31.552283: Created blog post: Eagle Wall Art
+2025-05-30 23:49:31.552914: Created blog post: Tube Roller
+2025-05-30 23:49:31.553263: Created blog post: Smallest Multiple From 1 - 20
+2025-05-30 23:49:31.553670: Created blog post: LCM of any two numbers
+2025-05-30 23:49:31.554030: Created blog post: HCF of any two numbers
+2025-05-30 23:49:31.554409: Created blog post: Sandpaper Disk Holder
+2025-05-30 23:49:31.554952: Created blog post: Hp  Laptop - 145-ER30037U  Battery Replacement
+2025-05-30 23:49:31.555435: Created blog post: iPad Mini  iPad Disable
+2025-05-30 23:49:31.555732: Created blog post: iPad pro-10, Display Glass Replacement
+2025-05-30 23:49:31.556139: Created blog post: Samsung Grand Prime 4G - After Power Button Replacement
+2025-05-30 23:49:31.557019: Created blog post: Vivo Z1 Pro  Charging Port Replacement
+2025-05-30 23:49:31.557466: Created blog post: LG G6  Dead Condition
+2025-05-30 23:49:31.559090: Created blog post: Moto One Power  Dead Condition
+2025-05-30 23:49:31.559431: Created blog post: iPad Mini  Display Glass Replacement
+2025-05-30 23:49:31.560040: Created blog post: Customizer - Funnel
+2025-05-30 23:49:31.560559: Created blog post: Redmi Note 10s - Software Unlock
+2025-05-30 23:49:31.560999: Created blog post: Realme 3 Pro - Display Glass Replacement
+2025-05-30 23:49:31.561507: Created blog post: Realme 2 Pro - Loudspeaker Replacement
+2025-05-30 23:49:31.562118: Created blog post: iPhone 6S - Display Combo Replacement
+2025-05-30 23:49:31.562611: Created blog post: Redmi note 9 - Display Combo Replacement
+2025-05-30 23:49:31.563171: Created blog post: Redmi note 9 - Software Service
+2025-05-30 23:49:31.563578: Created blog post: Asus Laptop - Battery Replacement
+2025-05-30 23:49:31.564317: Created blog post: Lenovo Laptop - Battery Replacement
+2025-05-30 23:49:31.564916: Created blog post: Lenovo Laptop - Water Damage
+2025-05-30 23:49:31.565314: Created blog post: iPhone 6  Display Combo Replacement
+2025-05-30 23:49:31.566095: Created blog post: iPhone XS - Logo Stuck
+2025-05-30 23:49:31.566628: Created blog post: Moto E4 Plus - Battery Replacement
+2025-05-30 23:49:31.566994: Created blog post: iPhone 6  Battery Replacement
+2025-05-30 23:49:31.567423: Created blog post: Samsung J7 Pro - Display Combo Replacement
+2025-05-30 23:49:31.568199: Created blog post: iPad 2 - Dead Condition
+2025-05-30 23:49:31.569668: Created blog post: 3D Print - Tree Origin - Book Mark
+2025-05-30 23:49:31.570716: Created blog post: 3D Print - Design  Planter
+2025-05-30 23:49:31.571633: Created blog post: 3D Print - Pliers Case
+2025-05-30 23:49:31.572525: Created blog post: 3D Print - Tiger 2D art
+2025-05-30 23:49:31.573732: Created blog post: 3D Print - Cable Clamp
+2025-05-30 23:49:31.575539: Created blog post: Lenovo Laptop - Software Service
+2025-05-30 23:49:31.575939: Created blog post: Dell Laptop - Hinges Issue
+2025-05-30 23:49:31.577199: Created blog post: Redmi 4 - Dead Condition
+2025-05-30 23:49:31.577926: Created blog post: Vivo Y12 - Display Combo Replacement
+2025-05-30 23:49:31.578562: Created blog post: Infinix - Logo Stuck
+2025-05-30 23:49:31.579219: Created blog post: Oppo F7 - Software
+2025-05-30 23:49:31.579831: Created blog post: Huawei Nova 3i - Display Combo Replacement
+2025-05-30 23:49:31.580628: Created blog post: Redmi Note 4 - Display Combo Replacement
+2025-05-30 23:49:31.581273: Created blog post: iPhone 6s Plus - Software Issue
+2025-05-30 23:49:31.581750: Created blog post: Code  Program To find HCF of 2 numbers
+2025-05-30 23:49:31.582107: Created blog post: Code - Project Euler  The Largest Prime Factor
+2025-05-30 23:49:31.582683: Created blog post: 3D print - Mobile Stand
+2025-05-30 23:49:31.583485: Created blog post: 3D Print - Bird Feeder
+2025-05-30 23:49:31.583800: Created blog post: Mini Project - Light Socket
+2025-05-30 23:49:31.585294: Created blog post: Code  Quizometry website  Login model Test
+2025-05-30 23:49:31.585921: Created blog post: Code - Product of any two numbers
+2025-05-30 23:49:31.586573: Created blog post: Code - Multiples of a number
+2025-05-30 23:49:31.587130: Created blog post: Code - Factors of any two numbers
+2025-05-30 23:49:31.587383: Created blog post: Code - Addition and subtraction of any two number
+2025-05-30 23:49:31.587665: Created blog post: Multiples of any numbers
+2025-05-30 23:49:31.587957: Created blog post: Samsung Galaxy A50 - Display Combo Replacement
+2025-05-30 23:49:31.588229: Created blog post: Vivo Y93 - Dead condition
+2025-05-30 23:49:31.588790: Created blog post: Redmi 5A - Dead Condition
+2025-05-30 23:49:31.589407: Created blog post: Product of two numbers
+2025-05-30 23:49:31.589879: Created blog post: Lenovo K15 - Display Combo Replacement
+2025-05-30 23:49:31.590294: Created blog post: iPhone 8 - Display Combo Replacement
+2025-05-30 23:49:31.590696: Created blog post: Factors of any numbers
+2025-05-30 23:49:31.591335: Created blog post: HP Pavilion 15 - Dead Condition
+2025-05-30 23:49:31.592620: Created blog post: iPhone 6s - Display Combo Replacement
+2025-05-30 23:49:31.595066: Created blog post: Lenovo Laptop - Battery Replacement
+2025-05-30 23:49:31.595982: Created blog post: Lenovo Laptop - Water Damage
+2025-05-30 23:49:31.596798: Created blog post: Samsung J7 - Display Combo Replacement
+2025-05-30 23:49:31.598454: Created blog post: Moto E4 plus - Battery Replacement
+2025-05-30 23:49:31.599638: Created blog post: iPhone XS - Logo Stuck
+2025-05-30 23:49:31.600565: Created blog post: iPhone 6s - Display Combo Replacement
+2025-05-30 23:49:31.601941: Created blog post: iPad 2 Dead Condition
+2025-05-30 23:49:31.603038: Created blog post: Redmi 6 pro, Display Combo Replacement
+2025-05-30 23:49:31.604432: Created blog post: Vivo Y91i - Display Combo Replacement
+2025-05-30 23:49:31.605363: Created blog post: Hp Laptop, Dead Condition
+2025-05-30 23:49:31.606384: Created blog post: Addition and subtraction of any two numbers
+2025-05-30 23:49:31.606709: Created blog post: Dell Laptop - Software Service
+2025-05-30 23:49:31.607525: Created blog post: Vivo Y91i - Display Combo Replacement
+2025-05-30 23:49:31.608304: Created blog post: Mi A7, Display Combo Replacement
+2025-05-30 23:49:31.609424: Created blog post: Moto G6, Power Button Not working
+2025-05-30 23:49:31.610115: Created blog post: LG, Display Glass Replacement
+2025-05-30 23:49:31.611001: Created blog post: iPhone 7 - Battery Replacement
+2025-05-30 23:49:31.611634: Created blog post: iPhone 6s - Display Combo Replacement
+2025-05-30 23:49:31.612714: Created blog post: iPhone 6, Display Combo Replacement
+2025-05-30 23:49:31.614235: Created blog post: Samsung J7 Pro - Dead Condition
+2025-05-30 23:49:31.616044: Created blog post: Hp Laptop, Dead Condition
+2025-05-30 23:49:31.616876: Created blog post: Dell Laptop, Windows Installation
+2025-05-30 23:49:31.618638: Created blog post: SOILDERING WIRE STAND
+2025-05-30 23:49:31.620791: Created blog post: Vivo V 15, Display Glass Replacement
+2025-05-30 23:49:31.621956: Created blog post: BATMAN WALL DECORATION
+2025-05-30 23:49:31.627543: Created blog post: HEADPHONE HOLDER
+2025-05-30 23:49:31.628153: Created blog post: MASK CLIP
+2025-05-30 23:49:31.628863: Created blog post: IPHONE AND APPLE WATCH HOLDER
+2025-05-30 23:49:31.630027: Created blog post: KEY CAP REMOVER
+2025-05-30 23:49:31.631086: Created blog post: Redmi 5, CC Replacement
+2025-05-30 23:49:31.631585: Created blog post: HP Laptop Dead Condition
+2025-05-30 23:49:31.632196: Created blog post: Vivo Y91i, Display Combo Replacement
+2025-05-30 23:49:31.633425: Created blog post: MECHANICAL QUICK GRAB PHONE STAND
+2025-05-30 23:49:31.634017: Created blog post: AA+AAA Battery Holder
+2025-05-30 23:49:31.634024: Successfully migrated 1508/1508 posts
+2025-05-30 23:49:31.634027: Created page: BLOG
+2025-05-30 23:49:31.635178: Created page: GALLERY
+2025-05-30 23:49:31.635606: Created page: Contact
+2025-05-30 23:49:31.637337: Created page: WE BUILD
+2025-05-30 23:49:31.640329: Created page: WE REPAIR
+2025-05-30 23:49:31.642152: Created page: Home
+2025-05-30 23:49:31.642158: Copying images from WordPress uploads...
+2025-05-30 23:50:06.152310: Copied uploads from /Users/Vivekanand.balakrishnan/per/projects/sites/gadjoy/migration/wp-export/wp-content/uploads to /Users/Vivekanand.balakrishnan/per/projects/sites/gadjoy/static/img/uploads
+2025-05-30 23:50:06.152551: Updating image paths in content files...

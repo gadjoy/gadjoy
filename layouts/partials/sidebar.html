@@ -1,0 +1,82 @@
+<!-- Search -->
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4><i class="fa fa-search"></i> Search Repairs</h4>
+    </div>
+    <div class="panel-body">
+        <form action="/search" method="get">
+            <div class="input-group">
+                <input type="text" class="form-control" name="q" placeholder="Search devices, issues...">
+                <span class="input-group-btn">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Categories -->
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4><i class="fa fa-tags"></i> Device Categories</h4>
+    </div>
+    <div class="panel-body">
+        <ul class="list-unstyled">
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            <li>
+                <a href="/categories/{{ $name | urlize }}/">
+                    {{ $name }} <span class="badge pull-right">{{ $taxonomy.Count }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+
+<!-- Recent Posts -->
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4><i class="fa fa-clock"></i> Latest Repairs</h4>
+    </div>
+    <div class="panel-body">
+        {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+        <div class="media">
+            <div class="media-left">
+                {{ if .Params.banner }}
+                <img src="{{ .Params.banner }}" class="media-object" style="width: 60px; height: 60px; object-fit: cover;">
+                {{ else }}
+                <div class="media-object" style="width: 60px; height: 60px; background: #eee; display: flex; align-items: center; justify-content: center;">
+                    <i class="fa fa-wrench"></i>
+                </div>
+                {{ end }}
+            </div>
+            <div class="media-body">
+                <h6 class="media-heading">
+                    <a href="{{ .Permalink }}">{{ .Title | truncate 50 }}</a>
+                </h6>
+                <small class="text-muted">{{ .Date.Format "Jan 2" }}</small>
+            </div>
+        </div>
+        <hr>
+        {{ end }}
+    </div>
+</div>
+
+<!-- Contact CTA -->
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4><i class="fa fa-phone"></i> Need Repair?</h4>
+    </div>
+    <div class="panel-body text-center">
+        <p>Professional repair services in Bangalore</p>
+        <a href="/contact" class="btn btn-primary btn-block">
+            <i class="fa fa-envelope"></i> Contact Us
+        </a>
+        <hr>
+        <a href="/services/we-repair" class="btn btn-default btn-block">
+            <i class="fa fa-wrench"></i> Our Services
+        </a>
+    </div>
+</div>
