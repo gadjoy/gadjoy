@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G60 on Gadjoy Repair Service</title>
+    <link>http://localhost:1313/tags/g60/</link>
+    <description>Recent content in G60 on Gadjoy Repair Service</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2023 12:40:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/g60/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moto G60 - Dead Condition</title>
+      <link>http://localhost:1313/blog/2023/06/03/moto-g60-dead-condition-2/</link>
+      <pubDate>Sat, 03 Jun 2023 12:40:39 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/06/03/moto-g60-dead-condition-2/</guid>
+      <description>Professional dead condition for Moto G60. Expert technicians, quality parts, warranty included.</description>
+    </item>
+    <item>
+      <title>Moto G60  Dead Condition</title>
+      <link>http://localhost:1313/blog/2023/01/22/moto-g60-dead-condition/</link>
+      <pubDate>Sun, 22 Jan 2023 12:04:12 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/01/22/moto-g60-dead-condition/</guid>
+      <description>Professional repair service for Moto. Expert technicians, quality parts, warranty included.</description>
+    </item>
+  </channel>
+</rss>

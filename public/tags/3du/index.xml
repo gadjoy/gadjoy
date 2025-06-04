@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3DU on Gadjoy Repair Service</title>
+    <link>http://localhost:1313/tags/3du/</link>
+    <description>Recent content in 3DU on Gadjoy Repair Service</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jan 2022 13:23:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/3du/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3DU Borehole Cleaning Aid</title>
+      <link>http://localhost:1313/blog/2022/01/03/3du-borehole-cleaning-aid/</link>
+      <pubDate>Mon, 03 Jan 2022 13:23:58 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022/01/03/3du-borehole-cleaning-aid/</guid>
+      <description>Professional repair service for 3DU. Expert technicians, quality parts, warranty included.</description>
+    </item>
+  </channel>
+</rss>
