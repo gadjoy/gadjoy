@@ -1,0 +1,29 @@
+---
+title: 2D Spider & Web Wall Art
+date: '2022-01-01T13:29:54'
+slug: 2d-spider-web-wall-art-2
+draft: false
+categories:
+- 3D Print
+- Build
+tags: []
+aliases:
+- /blog/2022/01/01/2d-spider-web-wall-art-2/
+description: Problem Statement -2D wall art of spider and web Sow – This is a 2D wall art, to decorate the walls Challenges – Painting it with markers Execution Strategy — 3D – Printed -PLA – Filament Value Added -We can decorate our walls with this type of arts -This looks very good in  white background
+---
+
+![](/img/uploads/2022/01/2D-SPIDER-WEB-WALL-ART-1.jpg)
+
+**Problem Statement** -2D wall art of spider and web
+
+**Sow**
+
+– This is a 2D wall art, to decorate the walls
+
+**Challenges**
+
+– Painting it with markers
+
+**Execution** **Strategy** — 3D – Printed -PLA – Filament
+
+**Value** **Added** -We can decorate our walls with this type of arts -This looks very good in  white background

@@ -1,0 +1,26 @@
+---
+title: Samsung Galaxy Note 10+ – Front Glass Replacement
+date: '2023-02-18T10:26:46'
+slug: samsung-galaxy-note-10-front-glass-replacement
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2023/02/18/samsung-galaxy-note-10-front-glass-replacement/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/02/image-80.png)
+
+**The device was given to us with front glass with cracks**
+
+![](/img/uploads/2023/02/image-81.png)
+
+**We replaced the front glass and made the device function well.**

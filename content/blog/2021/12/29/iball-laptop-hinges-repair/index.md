@@ -1,0 +1,26 @@
+---
+title: iball Laptop – Hinges Repair
+date: '2021-12-29T14:48:39'
+slug: iball-laptop-hinges-repair
+draft: false
+categories:
+- Hinge Repair
+- Laptop & Desktop
+- Repair
+tags: []
+aliases:
+- /blog/2021/12/29/iball-laptop-hinges-repair/
+description: Before After This laptop was given to us with broken hinges We did brazing on Hinges and made it better
+---
+
+#### Before
+
+## After
+
+![](/img/uploads/2021/12/iball-Laptop-Before-Hinges-Repair.jpg)
+
+> This laptop was given to us with broken hinges
+
+![](/img/uploads/2021/12/iball-Laptop-After-Hinges-Repair.jpg)
+
+> We did brazing on **Hinges** and made it better

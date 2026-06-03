@@ -1,0 +1,26 @@
+---
+title: Samsung M31 – Logo Stuck
+date: '2022-01-01T11:21:07'
+slug: samsung-m31-logo-stuck
+draft: false
+categories:
+- General Hardware & Software Services
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2022/01/01/samsung-m31-logo-stuck/
+description: Before After When phone was given to us only charging logo was stuck on the display We did Software Service and got the phone fully working
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Samsung-M31-before-Logo-Stuck.jpg)
+
+> When phone was given to us only charging logo was stuck on the display
+
+![](/img/uploads/2022/01/Samsung-M31-after-Logo-Stuck.jpg)
+
+> We did **Software Service** and got the phone fully working

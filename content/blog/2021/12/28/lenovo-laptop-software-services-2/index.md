@@ -1,0 +1,26 @@
+---
+title: Lenovo Laptop – Software Services
+date: '2021-12-28T11:20:33'
+slug: lenovo-laptop-software-services-2
+draft: false
+categories:
+- General Hardware & Software Services
+- Laptop & Desktop
+- Repair
+tags: []
+aliases:
+- /blog/2021/12/28/lenovo-laptop-software-services-2/
+description: Before After When laptop was given to us it was auto restarting We reinstalled Operating System and got it functional
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2021/12/Lenovo-Laptop-before-Software-Services-2-1.jpg)
+
+> When laptop was given to us it was auto restarting
+
+![](/img/uploads/2021/12/Lenovo-Laptop-after-Software-Services-2-1.jpg)
+
+> We reinstalled **Operating System** and got it functional

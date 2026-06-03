@@ -1,0 +1,26 @@
+---
+title: Oppo F7 – Software
+date: '2021-12-17T12:14:38'
+slug: oppo-f7-software
+draft: false
+categories:
+- General Hardware & Software Services
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2021/12/17/oppo-f7-software/
+description: Before After When phone was given to us customer was  forgotten the password We did software unlock and got it fully functional
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2021/12/oppo-f7-before-software.png)
+
+![](/img/uploads/2021/12/oppo-f7-after-software.png)
+
+When phone was given to us customer was  forgotten the password
+
+We did software unlock and got it fully functional

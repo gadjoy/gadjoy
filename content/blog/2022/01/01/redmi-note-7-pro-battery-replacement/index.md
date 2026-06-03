@@ -1,0 +1,26 @@
+---
+title: Redmi Note 7 Pro – Battery Replacement
+date: '2022-01-01T14:34:41'
+slug: redmi-note-7-pro-battery-replacement
+draft: false
+categories:
+- Mobile & Tablets
+- Repair
+- Replacements-Mobile
+tags: []
+aliases:
+- /blog/2022/01/01/redmi-note-7-pro-battery-replacement/
+description: Before After The phone was given to us in dead and no battery back-up We had replaced the Battery and got it performing with good back-up
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Redmi-Note-7-Pro-Battery-Replacement-before.jpg)
+
+The phone was given to us in dead and no battery back-up
+
+![](/img/uploads/2022/01/Mi-Note-7-pro-after-Battery-Replacement-1.jpg)
+
+We had replaced the **Battery** and got it performing with good back-up

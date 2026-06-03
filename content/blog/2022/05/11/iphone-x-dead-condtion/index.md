@@ -1,0 +1,26 @@
+---
+title: iPhone X – Dead Condtion
+date: '2022-05-11T14:31:43'
+slug: iphone-x-dead-condtion
+draft: false
+categories:
+- Chip Level & IC Repair
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2022/05/11/iphone-x-dead-condtion/
+description: Before After
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/05/image-33.png)
+
+The device was given too us in dead condition
+
+![](/img/uploads/2022/05/image-34.png)
+
+We had done service **on-chip level** and got it working

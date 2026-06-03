@@ -1,0 +1,26 @@
+---
+title: Redmi Note 5 – Battery Replacement
+date: '2022-01-03T12:21:10'
+slug: redmi-note-5-battery-replacement-2
+draft: false
+categories:
+- Mobile & Tablets
+- Repair
+- Replacements-Mobile
+tags: []
+aliases:
+- /blog/2022/01/03/redmi-note-5-battery-replacement-2/
+description: Before After
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-Before.jpg)
+
+Phone was given to us it was in dead condition and to replace the battery
+
+![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-After.jpg)
+
+We had Replaced the **Battery** and it had good charging and discharging cycle’s

@@ -1,0 +1,26 @@
+---
+title: Dell P75F905 – Software Service
+date: '2023-01-24T11:26:48'
+slug: dell-p75f905-software-service
+draft: false
+categories:
+- General Hardware & Software Services
+- Laptop & Desktop
+- Repair
+tags: []
+aliases:
+- /blog/2023/01/24/dell-p75f905-software-service/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/01/image-255.png)
+
+*The device was given to us with Motherboard Restating Issue*
+
+![](/img/uploads/2023/01/image-256.png)
+
+We had done the Chip Level services and made the device functioning

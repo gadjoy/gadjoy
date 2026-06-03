@@ -1,0 +1,26 @@
+---
+title: Oppo  F11 Pro – Display Combo Issue
+date: '2024-01-21T14:01:53'
+slug: oppo-f11-pro-display-combo-issue
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2024/01/21/oppo-f11-pro-display-combo-issue/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2024/01/image-38.png)
+
+**The device was given to us in display full damaged condition**
+
+![](/img/uploads/2024/01/image-39.png)
+
+**We had replaced the display combo of the device and got it working**

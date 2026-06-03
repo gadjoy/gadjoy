@@ -1,0 +1,26 @@
+---
+title: Realme 12C – Display Glass
+date: '2024-11-08T13:14:49'
+slug: realme-12c-display-glass
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2024/11/08/realme-12c-display-glass/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2024/11/image-8.png)
+
+**The device was received in which the glass of the device was cracked**
+
+![](/img/uploads/2024/11/image-9.png)
+
+**After the complete check on the display, we did replacement of ONLY display glass of the device, by maintaining the original combo functionality**

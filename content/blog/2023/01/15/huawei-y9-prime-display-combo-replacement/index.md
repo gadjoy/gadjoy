@@ -1,0 +1,26 @@
+---
+title: Huawei Y9 Prime – Display combo Replacement
+date: '2023-01-15T05:19:59'
+slug: huawei-y9-prime-display-combo-replacement
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2023/01/15/huawei-y9-prime-display-combo-replacement/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/01/image-58.png)
+
+The device was given to us in white screen with display cracked condition
+
+![](/img/uploads/2023/01/image-59.png)
+
+We had replaced the display combo of the device and made it functioning

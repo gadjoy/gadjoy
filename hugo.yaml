@@ -1,7 +1,13 @@
-baseURL: 'https://gadjoyrepair.com/'
+baseURL: 'https://gadjoy.in/'
 languageCode: 'en-us'
 title: 'Gadjoy Repair Service'
 theme: 'hugo-universal-theme'
+
+# Preserve raw HTML (e.g. migrated <video> blocks) through Markdown rendering
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Define the number of posts per page
 pagination:
@@ -140,8 +146,11 @@ params:
     recent_posts:
       enable: true
 
+# Reproduce the original WordPress permalink structure exactly
+# (wp_options.permalink_structure = /%year%/%monthnum%/%day%/%postname%/).
+# Note: NO /blog/ prefix — the old migration's /blog/... URLs are rescued via per-post aliases.
 permalinks:
-  blog: "/blog/:year/:month/:day/:contentbasename/"
+  blog: "/:year/:month/:day/:slug/"
 
 taxonomies:
   category: "categories"

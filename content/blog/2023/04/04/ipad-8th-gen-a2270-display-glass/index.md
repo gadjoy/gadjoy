@@ -1,0 +1,26 @@
+---
+title: iPad 8th Gen A2270 – Display Glass
+date: '2023-04-04T12:28:55'
+slug: ipad-8th-gen-a2270-display-glass
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2023/04/04/ipad-8th-gen-a2270-display-glass/
+description: Before After The device was given to us in not booting condition We had done the software services and made the device work.
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/04/image-10.png)
+
+**The device was given to us in not booting condition**
+
+![](/img/uploads/2023/04/image-11.png)
+
+**We had done the software services and made the device work.**

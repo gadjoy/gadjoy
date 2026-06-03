@@ -1,0 +1,26 @@
+---
+title: Samsung Galaxy A50 – Charging
+date: '2024-01-21T14:07:12'
+slug: samsung-galaxy-a50-charging
+draft: false
+categories:
+- Chip Level & IC Repair
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2024/01/21/samsung-galaxy-a50-charging/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2024/01/image-44.png)
+
+**The device was given to us not charging because of that the device received in dead**
+
+![](/img/uploads/2024/01/image-45.png)
+
+**We did the service on the device board and got it active**

@@ -1,0 +1,26 @@
+---
+title: iPhone 6s – Dead Condition
+date: '2022-08-26T13:00:22'
+slug: iphone-6s-dead-condition-3
+draft: false
+categories:
+- Chip Level & IC Repair
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2022/08/26/iphone-6s-dead-condition-3/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2022/08/before-iPhone-6s-Dead-Condition-1.png)
+
+iPhone 6s – Dead Condition
+
+![](/img/uploads/2022/08/after-iPhone-6s-Dead-Condition-1.png)
+
+iPhone 6s – Dead Condition

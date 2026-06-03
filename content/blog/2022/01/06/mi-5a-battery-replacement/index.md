@@ -1,0 +1,26 @@
+---
+title: Mi 5A – Battery Replacement
+date: '2022-01-06T14:41:35'
+slug: mi-5a-battery-replacement
+draft: false
+categories:
+- Mobile & Tablets
+- Repair
+- Replacements-Mobile
+tags: []
+aliases:
+- /blog/2022/01/06/mi-5a-battery-replacement/
+description: Before After
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Mi-5A-Battery-Replacement-Before.jpg)
+
+Phone was given to us to replace the Battery
+
+![](/img/uploads/2022/01/Mi-5A-Battery-Replacement-After.jpg)
+
+We had Replaced the Battery and it had good Charging and discharging Cycle’s

@@ -1,0 +1,26 @@
+---
+title: Redmi 8 – Display Combo Replacement
+date: '2022-01-01T11:18:58'
+slug: redmi-8-display-combo-replacement
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2022/01/01/redmi-8-display-combo-replacement/
+description: Before After When phone was given to us downside of the display was damaged. We replaced Display Combo and got it functional
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Redmi-8-before-Display-Combo-Replacement.jpg)
+
+> When phone was given to us downside of the display was damaged.
+
+![](/img/uploads/2022/01/Redmi-8-after-Display-Combo-Replacement.jpg)
+
+> We replaced **Display Combo** and got it functional

@@ -1,0 +1,26 @@
+---
+title:  Moto G5+ – Display Glass Replacement
+date: '2022-01-07T10:53:53'
+slug: moto-g5-display-glass-replacement
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2022/01/07/moto-g5-display-glass-replacement/
+description: Before After
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.jpg)
+
+Phone was given to us with the display glass cracked from left corner
+
+![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-After.jpg)
+
+We had replaced the **Display Glass** and Made it better

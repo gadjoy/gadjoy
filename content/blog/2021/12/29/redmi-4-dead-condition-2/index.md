@@ -1,0 +1,26 @@
+---
+title: Redmi 4 – Dead Condition
+date: '2021-12-29T11:55:16'
+slug: redmi-4-dead-condition-2
+draft: false
+categories:
+- Chip Level & IC Repair
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2021/12/29/redmi-4-dead-condition-2/
+description: Before After This phone was given to us with dead condition We did general service on Power IC’s and made it working.
+---
+
+#### Before
+
+#### After
+
+![](/img/uploads/2021/12/Redmi-4-Before-Dead-Condition.jpg)
+
+> This phone was given to us with dead condition
+
+![](/img/uploads/2021/12/Redmi-4-After-Dead-Condition.jpg)
+
+> We did general service on **Power IC’s** and made it working.

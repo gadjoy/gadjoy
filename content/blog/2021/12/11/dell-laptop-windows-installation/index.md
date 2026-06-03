@@ -1,0 +1,18 @@
+---
+title: Dell Laptop, Windows Installation
+date: '2021-12-11T11:17:23'
+slug: dell-laptop-windows-installation
+draft: false
+categories:
+- General Hardware & Software Services
+- Laptop & Desktop
+- Repair
+tags: []
+aliases:
+- /blog/2021/12/11/dell-laptop-windows-installation/
+description: Before After
+---
+
+> Before
+
+> After

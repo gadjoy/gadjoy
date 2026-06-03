@@ -1,0 +1,26 @@
+---
+title:  iPhone XS – Display Combo
+date: '2023-09-06T13:28:23'
+slug: iphone-xs-display-combo
+draft: false
+categories:
+- Display & Glass Replacement
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2023/09/06/iphone-xs-display-combo/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/09/image-26.png)
+
+**The device was given to us with dead condition**
+
+![](/img/uploads/2023/09/image-27.png)
+
+**We had replaced the display combo of the device nad make it better**

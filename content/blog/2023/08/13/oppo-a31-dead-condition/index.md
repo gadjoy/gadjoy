@@ -1,0 +1,26 @@
+---
+title: Oppo A31 – Dead Condition
+date: '2023-08-13T10:33:13'
+slug: oppo-a31-dead-condition
+draft: false
+categories:
+- Chip Level & IC Repair
+- Mobile & Tablets
+- Repair
+tags: []
+aliases:
+- /blog/2023/08/13/oppo-a31-dead-condition/
+description: Before After
+---
+
+## Before
+
+## After
+
+![](/img/uploads/2023/08/image-50.png)
+
+**The device was given to us in  dead condition**
+
+![](/img/uploads/2023/08/image-51.png)
+
+**We conducted a chip level service and ensured the device functioned properly**

@@ -1,0 +1,26 @@
+---
+title: MacBook Retina – Software Service
+date: '2022-02-23T14:48:31'
+slug: macbook-retina-software-service
+draft: false
+categories:
+- General Hardware & Software Services
+- Laptop & Desktop
+- Repair
+tags: []
+aliases:
+- /blog/2022/02/23/macbook-retina-software-service/
+description: Before After When the laptop was given to us, logo was stuck on the display We did Software Service and got it working
+---
+
+#### **Before**
+
+#### **After**
+
+![](/img/uploads/2022/02/MacBook-retina-Before-Logo-Stuck.png)
+
+When the laptop was given to us, logo was stuck on the display
+
+![](/img/uploads/2022/02/MacBook-retina-After-Logo-Stuck.png)
+
+> We did **Software Service** and got it working
