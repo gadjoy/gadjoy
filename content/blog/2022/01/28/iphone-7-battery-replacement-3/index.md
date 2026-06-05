@@ -4,9 +4,9 @@ date: '2022-01-28T11:45:44'
 slug: iphone-7-battery-replacement-3
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/28/iphone-7-battery-replacement-3/

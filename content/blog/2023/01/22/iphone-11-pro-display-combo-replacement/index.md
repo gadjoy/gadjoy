@@ -4,9 +4,9 @@ date: '2023-01-22T12:10:28'
 slug: iphone-11-pro-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/iphone-11-pro-display-combo-replacement/

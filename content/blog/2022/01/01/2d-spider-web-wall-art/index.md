@@ -4,8 +4,8 @@ date: '2022-01-01T13:19:56'
 slug: 2d-spider-web-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/2d-spider-web-wall-art/

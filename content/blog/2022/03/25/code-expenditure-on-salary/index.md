@@ -4,8 +4,8 @@ date: '2022-03-25T12:46:07'
 slug: code-expenditure-on-salary
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/25/code-expenditure-on-salary/

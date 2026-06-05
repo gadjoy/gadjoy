@@ -4,10 +4,10 @@ date: '2023-01-21T14:03:34'
 slug: dell-inspiron-3542-battery-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/01/21/dell-inspiron-3542-battery-software-services/

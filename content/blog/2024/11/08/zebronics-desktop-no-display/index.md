@@ -4,9 +4,9 @@ date: '2024-11-08T13:18:51'
 slug: zebronics-desktop-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/11/08/zebronics-desktop-no-display/

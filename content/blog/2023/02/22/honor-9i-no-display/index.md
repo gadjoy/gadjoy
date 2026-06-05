@@ -4,9 +4,9 @@ date: '2023-02-22T12:16:12'
 slug: honor-9i-no-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/22/honor-9i-no-display/

@@ -4,8 +4,8 @@ date: '2022-04-09T14:38:50'
 slug: code-find-prime-numbers-between-a-given-range
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/09/code-find-prime-numbers-between-a-given-range/

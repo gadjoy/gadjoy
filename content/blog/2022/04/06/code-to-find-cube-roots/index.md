@@ -4,8 +4,8 @@ date: '2022-04-06T12:47:25'
 slug: code-to-find-cube-roots
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/06/code-to-find-cube-roots/

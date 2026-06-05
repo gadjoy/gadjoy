@@ -4,8 +4,8 @@ date: '2021-12-24T12:08:17'
 slug: deer-wall-sculpture
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/24/deer-wall-sculpture/

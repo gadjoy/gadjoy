@@ -4,9 +4,9 @@ date: '2023-11-17T11:48:22'
 slug: lg-monitor-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/lg-monitor-dead/

@@ -4,8 +4,8 @@ date: '2022-08-24T12:12:26'
 slug: samsung-m51-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/samsung-m51-dead-condition/

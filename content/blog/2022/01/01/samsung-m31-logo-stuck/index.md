@@ -4,9 +4,9 @@ date: '2022-01-01T11:21:07'
 slug: samsung-m31-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/01/samsung-m31-logo-stuck/

@@ -4,8 +4,8 @@ date: '2022-02-14T12:57:41'
 slug: code-express-angles-in-radians
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/14/code-express-angles-in-radians/

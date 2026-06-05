@@ -4,9 +4,9 @@ date: '2023-06-26T12:23:10'
 slug: samsung-m21-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/samsung-m21-display-glass/

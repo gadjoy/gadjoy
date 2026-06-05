@@ -4,9 +4,9 @@ date: '2023-02-19T10:09:31'
 slug: iphone-x-back-panel-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/19/iphone-x-back-panel-replacement/

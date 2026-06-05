@@ -4,9 +4,9 @@ date: '2022-04-18T11:47:49'
 slug: dell-inspiron-15-hinges-broken
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/04/18/dell-inspiron-15-hinges-broken/

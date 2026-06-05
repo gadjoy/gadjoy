@@ -4,10 +4,10 @@ date: '2023-03-13T12:51:36'
 slug: hp-15s-gr0008au-display-issue
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- hinge-repair
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/03/13/hp-15s-gr0008au-display-issue/

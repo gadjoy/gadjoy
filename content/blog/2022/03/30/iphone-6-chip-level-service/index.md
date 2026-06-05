@@ -4,9 +4,9 @@ date: '2022-03-30T12:49:54'
 slug: iphone-6-chip-level-service
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/30/iphone-6-chip-level-service/

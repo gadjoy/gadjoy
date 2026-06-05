@@ -4,8 +4,8 @@ date: '2022-01-02T12:01:40'
 slug: color-guessing-game
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/02/color-guessing-game/

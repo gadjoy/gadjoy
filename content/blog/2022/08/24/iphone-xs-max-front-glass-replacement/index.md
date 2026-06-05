@@ -4,8 +4,8 @@ date: '2022-08-24T13:30:38'
 slug: iphone-xs-max-front-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/iphone-xs-max-front-glass-replacement/

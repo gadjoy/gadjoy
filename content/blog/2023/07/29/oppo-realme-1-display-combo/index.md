@@ -4,9 +4,9 @@ date: '2023-07-29T13:41:39'
 slug: oppo-realme-1-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/29/oppo-realme-1-display-combo/

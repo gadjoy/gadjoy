@@ -4,9 +4,9 @@ date: '2023-03-01T13:13:34'
 slug: tecno-pop-5-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/01/tecno-pop-5-display-combo/

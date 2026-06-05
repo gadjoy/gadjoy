@@ -4,9 +4,9 @@ date: '2024-01-14T14:14:30'
 slug: samsung-galaxy-a53-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/14/samsung-galaxy-a53-dead/

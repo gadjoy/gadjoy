@@ -4,9 +4,9 @@ date: '2025-02-18T21:09:43'
 slug: iphone-12-back-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/iphone-12-back-glass/

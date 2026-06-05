@@ -4,9 +4,9 @@ date: '2023-03-07T11:00:28'
 slug: iphone-6s-battery-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/07/iphone-6s-battery-charging-port-replacement/

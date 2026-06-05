@@ -4,9 +4,9 @@ date: '2023-07-21T13:16:58'
 slug: vivo-v17-pro-not-charging
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/21/vivo-v17-pro-not-charging/

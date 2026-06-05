@@ -4,8 +4,8 @@ date: '2022-03-20T13:30:42'
 slug: raspberry-pi-beat-the-goal
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/20/raspberry-pi-beat-the-goal/

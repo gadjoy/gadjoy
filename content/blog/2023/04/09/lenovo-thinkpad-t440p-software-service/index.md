@@ -4,8 +4,8 @@ date: '2023-04-09T12:30:41'
 slug: lenovo-thinkpad-t440p-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Repair
+- general-hardware-and-software-services
+- repair
 tags: []
 aliases:
 - /blog/2023/04/09/lenovo-thinkpad-t440p-software-service/

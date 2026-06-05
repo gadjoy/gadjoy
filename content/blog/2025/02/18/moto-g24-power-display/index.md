@@ -4,9 +4,9 @@ date: '2025-02-18T21:11:06'
 slug: moto-g24-power-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/moto-g24-power-display/

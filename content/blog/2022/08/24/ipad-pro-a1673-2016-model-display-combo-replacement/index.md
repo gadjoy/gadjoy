@@ -4,8 +4,8 @@ date: '2022-08-24T12:04:46'
 slug: ipad-pro-a1673-2016-model-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/ipad-pro-a1673-2016-model-display-combo-replacement/

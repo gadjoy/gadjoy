@@ -4,9 +4,9 @@ date: '2023-01-18T13:29:14'
 slug: lenovo-idea-pad-5-hinges-issue
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/18/lenovo-idea-pad-5-hinges-issue/

@@ -4,9 +4,9 @@ date: '2021-12-17T12:49:54'
 slug: lenovo-laptop-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/17/lenovo-laptop-software-service/

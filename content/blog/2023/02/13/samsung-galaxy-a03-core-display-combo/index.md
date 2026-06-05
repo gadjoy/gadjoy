@@ -4,9 +4,9 @@ date: '2023-02-13T12:19:53'
 slug: samsung-galaxy-a03-core-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/13/samsung-galaxy-a03-core-display-combo/

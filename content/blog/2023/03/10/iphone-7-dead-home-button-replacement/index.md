@@ -4,9 +4,9 @@ date: '2023-03-10T12:22:30'
 slug: iphone-7-dead-home-button-replacement
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/10/iphone-7-dead-home-button-replacement/

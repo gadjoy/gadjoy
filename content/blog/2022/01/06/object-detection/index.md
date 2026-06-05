@@ -4,8 +4,8 @@ date: '2022-01-06T14:12:57'
 slug: object-detection
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/06/object-detection/

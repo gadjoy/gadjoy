@@ -4,8 +4,8 @@ date: '2022-08-22T14:02:40'
 slug: lenovo-ideapad-3-15iil05-adlx65clgi2a-not-charging
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
+- general-hardware-and-software-services
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/22/lenovo-ideapad-3-15iil05-adlx65clgi2a-not-charging/

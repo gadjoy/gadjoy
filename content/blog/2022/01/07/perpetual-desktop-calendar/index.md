@@ -4,8 +4,8 @@ date: '2022-01-07T12:28:51'
 slug: perpetual-desktop-calendar
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/07/perpetual-desktop-calendar/

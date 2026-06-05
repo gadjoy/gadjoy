@@ -4,8 +4,8 @@ date: '2022-02-05T14:56:01'
 slug: code-to-find-v-notch
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/05/code-to-find-v-notch/

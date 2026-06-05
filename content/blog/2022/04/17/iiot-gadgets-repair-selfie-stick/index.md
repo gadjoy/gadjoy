@@ -4,8 +4,8 @@ date: '2022-04-17T14:15:57'
 slug: iiot-gadgets-repair-selfie-stick
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/17/iiot-gadgets-repair-selfie-stick/

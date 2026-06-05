@@ -4,9 +4,9 @@ date: '2022-08-26T12:56:09'
 slug: iphone-se-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/26/iphone-se-display-combo-replacement/

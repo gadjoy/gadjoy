@@ -4,8 +4,8 @@ date: '2022-05-04T11:42:09'
 slug: code-finding-the-age
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/04/code-finding-the-age/

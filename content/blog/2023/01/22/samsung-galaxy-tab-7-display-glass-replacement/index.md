@@ -4,9 +4,9 @@ date: '2023-01-22T12:21:58'
 slug: samsung-galaxy-tab-7-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/samsung-galaxy-tab-7-display-glass-replacement/

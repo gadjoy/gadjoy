@@ -4,8 +4,8 @@ date: '2022-04-03T11:59:15'
 slug: acer-monitor-water-damage
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/03/acer-monitor-water-damage/

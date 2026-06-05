@@ -4,8 +4,8 @@ date: '2022-06-13T14:02:27'
 slug: code-a-python-script-to-find-torque-in-shafts
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/06/13/code-a-python-script-to-find-torque-in-shafts/

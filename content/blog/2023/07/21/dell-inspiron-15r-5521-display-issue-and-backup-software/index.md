@@ -4,9 +4,9 @@ date: '2023-07-21T13:25:05'
 slug: dell-inspiron-15r-5521-display-issue-and-backup-software
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/07/21/dell-inspiron-15r-5521-display-issue-and-backup-software/

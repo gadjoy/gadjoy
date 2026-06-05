@@ -4,9 +4,9 @@ date: '2023-07-30T13:42:49'
 slug: realme-2-pro-display-combo-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/30/realme-2-pro-display-combo-issue/

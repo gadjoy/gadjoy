@@ -4,9 +4,9 @@ date: '2023-07-29T13:29:17'
 slug: dell-inspiron-15-p63f-slow
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/29/dell-inspiron-15-p63f-slow/

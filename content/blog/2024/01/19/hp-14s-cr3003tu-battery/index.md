@@ -4,9 +4,9 @@ date: '2024-01-19T14:31:06'
 slug: hp-14s-cr3003tu-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/01/19/hp-14s-cr3003tu-battery/

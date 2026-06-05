@@ -4,9 +4,9 @@ date: '2023-04-15T12:51:40'
 slug: huawei-p30-lite-no-sound-and-camera-issues
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/15/huawei-p30-lite-no-sound-and-camera-issues/

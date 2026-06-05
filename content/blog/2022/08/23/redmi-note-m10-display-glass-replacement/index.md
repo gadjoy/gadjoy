@@ -4,10 +4,10 @@ date: '2022-08-23T12:41:55'
 slug: redmi-note-m10-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- display-and-glass-replacement-apple-watch
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/23/redmi-note-m10-display-glass-replacement/

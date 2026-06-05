@@ -4,9 +4,9 @@ date: '2023-05-08T13:25:10'
 slug: acer-aspire-3-hardware-service-ssd-upgrade-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/05/08/acer-aspire-3-hardware-service-ssd-upgrade-2/

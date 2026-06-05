@@ -4,8 +4,8 @@ date: '2022-04-04T14:09:52'
 slug: code-square-root-of-any-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/04/code-square-root-of-any-number/

@@ -4,9 +4,9 @@ date: '2022-02-11T14:12:07'
 slug: dell-inspiron-15-hinges-replacement
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/02/11/dell-inspiron-15-hinges-replacement/

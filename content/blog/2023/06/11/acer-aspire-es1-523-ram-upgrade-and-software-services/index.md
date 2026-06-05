@@ -4,9 +4,9 @@ date: '2023-06-11T07:22:55'
 slug: acer-aspire-es1-523-ram-upgrade-and-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/11/acer-aspire-es1-523-ram-upgrade-and-software-services/

@@ -4,8 +4,8 @@ date: '2021-12-28T14:26:03'
 slug: stegosaurus-kit-card
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/28/stegosaurus-kit-card/

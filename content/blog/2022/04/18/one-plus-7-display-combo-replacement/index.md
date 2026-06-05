@@ -4,9 +4,9 @@ date: '2022-04-18T11:51:51'
 slug: one-plus-7-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/18/one-plus-7-display-combo-replacement/

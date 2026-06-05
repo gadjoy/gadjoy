@@ -4,9 +4,9 @@ date: '2024-02-23T12:45:49'
 slug: apple-iphone-se-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/02/23/apple-iphone-se-dead/

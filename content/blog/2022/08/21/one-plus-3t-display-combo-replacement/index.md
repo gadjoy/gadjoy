@@ -4,8 +4,8 @@ date: '2022-08-21T08:41:03'
 slug: one-plus-3t-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/08/21/one-plus-3t-display-combo-replacement/

@@ -4,9 +4,9 @@ date: '2023-01-16T13:10:28'
 slug: lenovo-think-pad-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/lenovo-think-pad-software-services/

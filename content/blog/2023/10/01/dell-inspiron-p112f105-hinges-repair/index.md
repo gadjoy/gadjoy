@@ -4,9 +4,9 @@ date: '2023-10-01T09:09:57'
 slug: dell-inspiron-p112f105-hinges-repair
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/10/01/dell-inspiron-p112f105-hinges-repair/

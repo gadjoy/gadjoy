@@ -4,9 +4,9 @@ date: '2021-12-29T12:02:16'
 slug: samsung-m11-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/samsung-m11-display-combo-replacement/

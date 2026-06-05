@@ -4,9 +4,9 @@ date: '2022-08-27T08:05:38'
 slug: jio-phone-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/jio-phone-dead-condition/

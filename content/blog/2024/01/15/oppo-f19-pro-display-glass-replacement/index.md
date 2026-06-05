@@ -4,9 +4,9 @@ date: '2024-01-15T13:34:20'
 slug: oppo-f19-pro-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/15/oppo-f19-pro-display-glass-replacement/

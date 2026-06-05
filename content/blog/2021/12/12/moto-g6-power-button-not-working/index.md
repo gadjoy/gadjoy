@@ -4,9 +4,9 @@ date: '2021-12-12T07:52:11'
 slug: moto-g6-power-button-not-working
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/12/moto-g6-power-button-not-working/

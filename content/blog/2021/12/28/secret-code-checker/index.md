@@ -4,9 +4,9 @@ date: '2021-12-28T14:28:39'
 slug: secret-code-checker
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
-- Uncategorized
+- 4-0
+- build
+- uncategorized
 tags: []
 aliases:
 - /blog/2021/12/28/secret-code-checker/

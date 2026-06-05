@@ -4,9 +4,9 @@ date: '2023-11-08T12:51:33'
 slug: tecno-spark-go-2022-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/08/tecno-spark-go-2022-display/

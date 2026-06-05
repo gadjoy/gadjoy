@@ -4,9 +4,9 @@ date: '2024-12-10T12:12:46'
 slug: sony-e-series-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/12/10/sony-e-series-dead-condition/

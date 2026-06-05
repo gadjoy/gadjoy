@@ -4,8 +4,8 @@ date: '2022-04-10T14:06:54'
 slug: iiot-raspberry-pi-stress-buster
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/10/iiot-raspberry-pi-stress-buster/

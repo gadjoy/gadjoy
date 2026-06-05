@@ -4,9 +4,9 @@ date: '2023-06-30T12:14:44'
 slug: samsung-galaxy-a2-core-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/30/samsung-galaxy-a2-core-display-combo/

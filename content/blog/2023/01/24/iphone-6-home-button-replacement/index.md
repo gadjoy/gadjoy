@@ -4,9 +4,9 @@ date: '2023-01-24T11:36:42'
 slug: iphone-6-home-button-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/24/iphone-6-home-button-replacement/

@@ -4,9 +4,9 @@ date: '2024-12-11T12:31:48'
 slug: dell-latitude-5410-wifi-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/12/11/dell-latitude-5410-wifi-issue/

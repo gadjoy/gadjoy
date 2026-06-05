@@ -4,9 +4,9 @@ date: '2023-02-17T13:00:40'
 slug: samsung-galaxy-a20-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/17/samsung-galaxy-a20-dead-condition/

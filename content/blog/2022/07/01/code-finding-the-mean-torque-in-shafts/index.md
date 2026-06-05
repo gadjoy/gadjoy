@@ -4,8 +4,8 @@ date: '2022-07-01T13:36:11'
 slug: code-finding-the-mean-torque-in-shafts
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/07/01/code-finding-the-mean-torque-in-shafts/

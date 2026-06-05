@@ -4,8 +4,8 @@ date: '2023-01-15T05:13:49'
 slug: samsung-galaxy-m31-logo-stuck
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/samsung-galaxy-m31-logo-stuck/

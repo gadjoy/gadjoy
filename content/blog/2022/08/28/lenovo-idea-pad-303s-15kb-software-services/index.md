@@ -4,7 +4,7 @@ date: '2022-08-28T05:16:23'
 slug: lenovo-idea-pad-303s-15kb-software-services
 draft: false
 categories:
-- Uncategorized
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/08/28/lenovo-idea-pad-303s-15kb-software-services/

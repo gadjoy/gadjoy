@@ -4,8 +4,8 @@ date: '2021-12-27T12:02:59'
 slug: usb-port-holder-for-switch-boards
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/27/usb-port-holder-for-switch-boards/

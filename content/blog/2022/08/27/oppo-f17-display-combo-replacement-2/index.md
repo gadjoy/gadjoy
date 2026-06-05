@@ -4,9 +4,9 @@ date: '2022-08-27T08:01:02'
 slug: oppo-f17-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/oppo-f17-display-combo-replacement-2/

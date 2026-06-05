@@ -4,9 +4,9 @@ date: '2023-02-18T10:24:42'
 slug: hp-probook-4540s-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/18/hp-probook-4540s-dead-condition/

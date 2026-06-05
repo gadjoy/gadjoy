@@ -4,9 +4,9 @@ date: '2021-12-28T11:05:28'
 slug: mi-note-4-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/28/mi-note-4-battery-replacement/

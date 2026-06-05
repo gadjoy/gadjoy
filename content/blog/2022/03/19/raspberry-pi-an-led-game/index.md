@@ -4,8 +4,8 @@ date: '2022-03-19T12:52:46'
 slug: raspberry-pi-an-led-game
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/19/raspberry-pi-an-led-game/

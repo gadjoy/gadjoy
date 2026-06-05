@@ -4,8 +4,8 @@ date: '2022-08-24T12:08:22'
 slug: ipad-a2316-front-glass-cracked
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/ipad-a2316-front-glass-cracked/

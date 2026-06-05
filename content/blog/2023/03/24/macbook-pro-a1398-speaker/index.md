@@ -4,9 +4,9 @@ date: '2023-03-24T11:19:06'
 slug: macbook-pro-a1398-speaker
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/03/24/macbook-pro-a1398-speaker/

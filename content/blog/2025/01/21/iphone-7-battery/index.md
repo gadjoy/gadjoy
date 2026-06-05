@@ -4,9 +4,9 @@ date: '2025-01-21T11:32:21'
 slug: iphone-7-battery
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2025/01/21/iphone-7-battery/

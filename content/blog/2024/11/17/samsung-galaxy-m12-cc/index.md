@@ -4,9 +4,9 @@ date: '2024-11-17T12:10:52'
 slug: samsung-galaxy-m12-cc
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/samsung-galaxy-m12-cc/

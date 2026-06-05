@@ -4,8 +4,8 @@ date: '2022-01-06T14:19:25'
 slug: sunrise-wake-up-alarm
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/06/sunrise-wake-up-alarm/

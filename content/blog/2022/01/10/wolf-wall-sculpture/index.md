@@ -4,8 +4,8 @@ date: '2022-01-10T12:10:47'
 slug: wolf-wall-sculpture
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/wolf-wall-sculpture/

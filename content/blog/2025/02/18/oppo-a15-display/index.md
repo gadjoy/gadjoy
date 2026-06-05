@@ -4,9 +4,9 @@ date: '2025-02-18T21:14:48'
 slug: oppo-a15-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/oppo-a15-display/

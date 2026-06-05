@@ -4,9 +4,9 @@ date: '2022-01-06T14:18:32'
 slug: asus-zenfone-pro-max-loud-speaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/06/asus-zenfone-pro-max-loud-speaker-replacement/

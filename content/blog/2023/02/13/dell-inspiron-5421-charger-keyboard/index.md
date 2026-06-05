@@ -4,9 +4,9 @@ date: '2023-02-13T12:15:20'
 slug: dell-inspiron-5421-charger-keyboard
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/02/13/dell-inspiron-5421-charger-keyboard/

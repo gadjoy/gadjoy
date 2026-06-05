@@ -4,9 +4,9 @@ date: '2024-06-05T13:33:56'
 slug: redmi-8-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/redmi-8-dead-condition/

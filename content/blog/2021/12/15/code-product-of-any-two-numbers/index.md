@@ -4,8 +4,8 @@ date: '2021-12-15T14:38:49'
 slug: code-product-of-any-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/code-product-of-any-two-numbers/

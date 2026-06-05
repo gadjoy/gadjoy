@@ -4,8 +4,8 @@ date: '2022-01-01T11:40:13'
 slug: planter-2
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
+- 4-0
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/planter-2/

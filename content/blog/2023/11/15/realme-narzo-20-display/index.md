@@ -4,9 +4,9 @@ date: '2023-11-15T14:50:53'
 slug: realme-narzo-20-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/15/realme-narzo-20-display/

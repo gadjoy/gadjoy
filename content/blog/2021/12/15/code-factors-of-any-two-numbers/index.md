@@ -4,8 +4,8 @@ date: '2021-12-15T14:34:39'
 slug: code-factors-of-any-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/code-factors-of-any-two-numbers/

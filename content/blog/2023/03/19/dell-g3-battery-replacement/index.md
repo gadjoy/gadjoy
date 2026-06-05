@@ -4,9 +4,9 @@ date: '2023-03-19T05:52:47'
 slug: dell-g3-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/03/19/dell-g3-battery-replacement/

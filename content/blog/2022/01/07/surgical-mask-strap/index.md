@@ -4,8 +4,8 @@ date: '2022-01-07T12:31:41'
 slug: surgical-mask-strap
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/07/surgical-mask-strap/

@@ -4,9 +4,9 @@ date: '2023-02-17T12:57:29'
 slug: dell-latitude-3400-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/17/dell-latitude-3400-software-service/

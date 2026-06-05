@@ -4,9 +4,9 @@ date: '2022-02-09T11:13:53'
 slug: samsung-galaxy-m31-display-combo-replacement-3
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/09/samsung-galaxy-m31-display-combo-replacement-3/

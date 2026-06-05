@@ -4,9 +4,9 @@ date: '2023-01-29T05:32:08'
 slug: vivo-y11-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/29/vivo-y11-charging-port-replacement/

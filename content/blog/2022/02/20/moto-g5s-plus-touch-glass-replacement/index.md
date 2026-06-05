@@ -4,9 +4,9 @@ date: '2022-02-20T14:21:20'
 slug: moto-g5s-plus-touch-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/20/moto-g5s-plus-touch-glass-replacement/

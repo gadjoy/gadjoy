@@ -4,9 +4,9 @@ date: '2024-03-18T13:48:31'
 slug: asus-x515-camera-not-wolking
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/18/asus-x515-camera-not-wolking/

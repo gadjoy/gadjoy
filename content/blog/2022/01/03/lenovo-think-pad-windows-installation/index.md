@@ -4,9 +4,9 @@ date: '2022-01-03T12:18:16'
 slug: lenovo-think-pad-windows-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/01/03/lenovo-think-pad-windows-installation/

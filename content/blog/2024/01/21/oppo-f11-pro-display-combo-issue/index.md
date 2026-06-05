@@ -4,9 +4,9 @@ date: '2024-01-21T14:01:53'
 slug: oppo-f11-pro-display-combo-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/21/oppo-f11-pro-display-combo-issue/

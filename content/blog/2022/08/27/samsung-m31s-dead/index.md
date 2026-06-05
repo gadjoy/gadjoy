@@ -4,9 +4,9 @@ date: '2022-08-27T08:25:34'
 slug: samsung-m31s-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/samsung-m31s-dead/

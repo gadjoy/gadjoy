@@ -4,9 +4,9 @@ date: '2023-06-03T12:42:46'
 slug: hp-14-dv1001tu-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/03/hp-14-dv1001tu-dead/

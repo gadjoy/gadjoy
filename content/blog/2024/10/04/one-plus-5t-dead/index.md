@@ -4,9 +4,9 @@ date: '2024-10-04T14:11:59'
 slug: one-plus-5t-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/04/one-plus-5t-dead/

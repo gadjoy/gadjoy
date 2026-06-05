@@ -4,8 +4,8 @@ date: '2022-01-26T14:14:03'
 slug: code-multiplication-of-matrix
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/26/code-multiplication-of-matrix/

@@ -4,9 +4,9 @@ date: '2025-01-21T11:47:55'
 slug: oneplus-7t-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/oneplus-7t-display-issue/

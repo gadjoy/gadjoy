@@ -4,8 +4,8 @@ date: '2022-04-20T10:52:51'
 slug: code-average
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/20/code-average/

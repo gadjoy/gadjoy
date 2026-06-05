@@ -4,9 +4,9 @@ date: '2022-03-20T12:38:54'
 slug: lenovo-a6000-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/20/lenovo-a6000-dead-condition/

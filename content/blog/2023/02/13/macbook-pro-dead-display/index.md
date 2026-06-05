@@ -4,9 +4,9 @@ date: '2023-02-13T12:13:31'
 slug: macbook-pro-dead-display
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/02/13/macbook-pro-dead-display/

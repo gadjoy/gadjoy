@@ -4,9 +4,9 @@ date: '2024-07-09T12:08:53'
 slug: oppo-a3s-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/09/oppo-a3s-display-issue/

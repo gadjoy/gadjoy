@@ -4,9 +4,9 @@ date: '2021-12-08T14:04:08'
 slug: hp-laptop-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/08/hp-laptop-dead-condition/

@@ -4,9 +4,9 @@ date: '2022-01-28T14:07:36'
 slug: lenovo-ideapad-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/01/28/lenovo-ideapad-dead-condition/

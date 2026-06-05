@@ -4,9 +4,9 @@ date: '2024-11-08T13:07:36'
 slug: iphone-se-display-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/08/iphone-se-display-2/

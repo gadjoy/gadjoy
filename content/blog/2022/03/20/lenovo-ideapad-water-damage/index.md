@@ -4,9 +4,9 @@ date: '2022-03-20T12:41:53'
 slug: lenovo-ideapad-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/20/lenovo-ideapad-water-damage/

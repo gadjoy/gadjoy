@@ -4,10 +4,10 @@ date: '2024-11-17T12:06:19'
 slug: infinix-hot-11-display-cc
 draft: false
 categories:
-- Chip Level & IC Repair
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/infinix-hot-11-display-cc/

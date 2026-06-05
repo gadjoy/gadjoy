@@ -4,9 +4,9 @@ date: '2021-12-24T09:50:25'
 slug: ipad-mini-ipad-disable
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/24/ipad-mini-ipad-disable/

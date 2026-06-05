@@ -4,9 +4,9 @@ date: '2022-08-27T10:51:13'
 slug: samsung-galaxy-m31s-logo-restarting
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Software Services
+- mobiles
+- repair
+- software-services
 tags: []
 aliases:
 - /blog/2022/08/27/samsung-galaxy-m31s-logo-restarting/

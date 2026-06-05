@@ -4,8 +4,8 @@ date: '2022-03-06T11:07:09'
 slug: code-rectangular-notch
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/06/code-rectangular-notch/

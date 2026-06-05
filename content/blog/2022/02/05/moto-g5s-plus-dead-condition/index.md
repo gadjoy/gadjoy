@@ -4,9 +4,9 @@ date: '2022-02-05T11:46:08'
 slug: moto-g5s-plus-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/05/moto-g5s-plus-dead-condition/

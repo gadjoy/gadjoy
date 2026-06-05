@@ -4,9 +4,9 @@ date: '2023-01-22T11:45:09'
 slug: macbook-air-not-on
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/macbook-air-not-on/

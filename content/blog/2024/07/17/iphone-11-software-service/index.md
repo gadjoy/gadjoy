@@ -4,9 +4,9 @@ date: '2024-07-17T12:49:22'
 slug: iphone-11-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/17/iphone-11-software-service/

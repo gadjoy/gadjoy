@@ -4,9 +4,9 @@ date: '2023-01-17T10:26:14'
 slug: samsung-tab-a-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/samsung-tab-a-display-combo-replacement/

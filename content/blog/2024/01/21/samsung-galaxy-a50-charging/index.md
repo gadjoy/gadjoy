@@ -4,9 +4,9 @@ date: '2024-01-21T14:07:12'
 slug: samsung-galaxy-a50-charging
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/21/samsung-galaxy-a50-charging/

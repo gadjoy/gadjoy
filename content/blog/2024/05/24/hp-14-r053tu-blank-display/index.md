@@ -4,9 +4,9 @@ date: '2024-05-24T13:36:56'
 slug: hp-14-r053tu-blank-display
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/05/24/hp-14-r053tu-blank-display/

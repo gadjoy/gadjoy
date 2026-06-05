@@ -4,8 +4,8 @@ date: '2022-03-08T13:58:09'
 slug: htc-desire-620g-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Repair
+- general-hardware-and-software-services
+- repair
 tags: []
 aliases:
 - /blog/2022/03/08/htc-desire-620g-software-service/

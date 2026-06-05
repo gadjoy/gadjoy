@@ -4,8 +4,8 @@ date: '2022-04-16T12:26:25'
 slug: 3d-print-flexible-build-plate-alignment-tabs
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/16/3d-print-flexible-build-plate-alignment-tabs/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:44:12'
 slug: hp-pavilion-15-dead-condition-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/hp-pavilion-15-dead-condition-2/

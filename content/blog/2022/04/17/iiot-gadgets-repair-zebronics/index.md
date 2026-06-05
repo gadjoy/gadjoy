@@ -4,8 +4,8 @@ date: '2022-04-17T14:28:14'
 slug: iiot-gadgets-repair-zebronics
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/17/iiot-gadgets-repair-zebronics/

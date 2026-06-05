@@ -4,9 +4,9 @@ date: '2024-03-26T12:40:28'
 slug: realme-narzo-50a-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/26/realme-narzo-50a-display-issue/

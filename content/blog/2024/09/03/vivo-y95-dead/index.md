@@ -4,9 +4,9 @@ date: '2024-09-03T13:53:46'
 slug: vivo-y95-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/vivo-y95-dead/

@@ -4,8 +4,8 @@ date: '2022-08-20T12:00:02'
 slug: iphone-6s-dead-condition-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/08/20/iphone-6s-dead-condition-2/

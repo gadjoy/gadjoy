@@ -4,9 +4,9 @@ date: '2023-08-13T10:04:26'
 slug: dell-inspiron-15-fan-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/08/13/dell-inspiron-15-fan-issue/

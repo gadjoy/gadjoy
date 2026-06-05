@@ -4,9 +4,9 @@ date: '2024-08-28T13:15:04'
 slug: infinix-hot-30i-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/08/28/infinix-hot-30i-software-service/

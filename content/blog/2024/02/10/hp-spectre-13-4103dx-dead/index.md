@@ -4,9 +4,9 @@ date: '2024-02-10T12:23:51'
 slug: hp-spectre-13-4103dx-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/02/10/hp-spectre-13-4103dx-dead/

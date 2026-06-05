@@ -4,9 +4,9 @@ date: '2024-05-24T13:27:14'
 slug: itel-a60-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/24/itel-a60-display-issue/

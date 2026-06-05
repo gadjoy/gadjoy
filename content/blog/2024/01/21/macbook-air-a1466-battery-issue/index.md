@@ -4,9 +4,9 @@ date: '2024-01-21T14:04:05'
 slug: macbook-air-a1466-battery-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/01/21/macbook-air-a1466-battery-issue/

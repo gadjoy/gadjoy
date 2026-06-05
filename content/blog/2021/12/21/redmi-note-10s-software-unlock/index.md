@@ -4,9 +4,9 @@ date: '2021-12-21T14:42:43'
 slug: redmi-note-10s-software-unlock
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/21/redmi-note-10s-software-unlock/

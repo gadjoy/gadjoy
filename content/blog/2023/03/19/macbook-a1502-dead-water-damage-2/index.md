@@ -4,9 +4,9 @@ date: '2023-03-19T07:00:10'
 slug: macbook-a1502-dead-water-damage-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/03/19/macbook-a1502-dead-water-damage-2/

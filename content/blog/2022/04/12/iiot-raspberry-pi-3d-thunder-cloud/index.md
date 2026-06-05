@@ -4,8 +4,8 @@ date: '2022-04-12T14:25:49'
 slug: iiot-raspberry-pi-3d-thunder-cloud
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/12/iiot-raspberry-pi-3d-thunder-cloud/

@@ -4,9 +4,9 @@ date: '2022-01-07T11:10:28'
 slug: realme-1-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/07/realme-1-display-combo-replacement/

@@ -4,9 +4,9 @@ date: '2023-01-13T11:38:27'
 slug: lenovo-think-pad-t440-display-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/01/13/lenovo-think-pad-t440-display-replacement/

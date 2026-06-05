@@ -4,9 +4,9 @@ date: '2024-01-17T13:57:06'
 slug: sony-svt13-b11l-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/17/sony-svt13-b11l-software-services/

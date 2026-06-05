@@ -4,8 +4,8 @@ date: '2022-01-07T12:24:09'
 slug: tv-remote-adapter
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/07/tv-remote-adapter/

@@ -4,8 +4,8 @@ date: '2022-05-07T11:10:08'
 slug: code-find-the-age-of-the-person
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/07/code-find-the-age-of-the-person/

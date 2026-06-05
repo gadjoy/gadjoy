@@ -4,8 +4,8 @@ date: '2022-03-30T11:56:55'
 slug: iiot-boat-race
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/30/iiot-boat-race/

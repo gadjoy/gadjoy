@@ -4,9 +4,9 @@ date: '2024-02-10T12:30:35'
 slug: one-plus-6t-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/02/10/one-plus-6t-display-glass/

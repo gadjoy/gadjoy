@@ -4,9 +4,9 @@ date: '2023-06-11T07:25:58'
 slug: realme-c11-display-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/11/realme-c11-display-replacement/

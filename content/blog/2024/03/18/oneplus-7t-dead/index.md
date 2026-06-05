@@ -4,9 +4,9 @@ date: '2024-03-18T13:55:07'
 slug: oneplus-7t-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/18/oneplus-7t-dead/

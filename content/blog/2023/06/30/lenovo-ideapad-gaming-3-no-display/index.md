@@ -4,9 +4,9 @@ date: '2023-06-30T12:09:17'
 slug: lenovo-ideapad-gaming-3-no-display
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/06/30/lenovo-ideapad-gaming-3-no-display/

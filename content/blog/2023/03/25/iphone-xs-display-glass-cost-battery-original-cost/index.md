@@ -4,9 +4,9 @@ date: '2023-03-25T12:27:20'
 slug: iphone-xs-display-glass-cost-battery-original-cost
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/25/iphone-xs-display-glass-cost-battery-original-cost/

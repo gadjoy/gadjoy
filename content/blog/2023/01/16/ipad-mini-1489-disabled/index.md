@@ -4,9 +4,9 @@ date: '2023-01-16T12:36:07'
 slug: ipad-mini-1489-disabled
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/ipad-mini-1489-disabled/

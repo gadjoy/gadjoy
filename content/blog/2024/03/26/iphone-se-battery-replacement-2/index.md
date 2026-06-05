@@ -4,9 +4,9 @@ date: '2024-03-26T12:39:15'
 slug: iphone-se-battery-replacement-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/03/26/iphone-se-battery-replacement-2/

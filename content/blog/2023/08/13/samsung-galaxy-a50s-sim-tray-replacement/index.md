@@ -4,9 +4,9 @@ date: '2023-08-13T10:15:25'
 slug: samsung-galaxy-a50s-sim-tray-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/08/13/samsung-galaxy-a50s-sim-tray-replacement/

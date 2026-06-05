@@ -4,9 +4,9 @@ date: '2022-04-05T14:25:56'
 slug: acer-aspire-5742-loud-speaker-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/05/acer-aspire-5742-loud-speaker-replacement/

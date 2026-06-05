@@ -4,9 +4,9 @@ date: '2023-01-22T12:20:24'
 slug: redmi-note-8-pro-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/redmi-note-8-pro-software-services/

@@ -4,9 +4,9 @@ date: '2022-01-06T14:45:19'
 slug: vivo-v17-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/06/vivo-v17-charging-port-replacement/

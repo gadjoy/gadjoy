@@ -4,9 +4,9 @@ date: '2023-02-28T12:06:32'
 slug: hp-pavilion-15-au114tx-booting-issue-3
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/28/hp-pavilion-15-au114tx-booting-issue-3/

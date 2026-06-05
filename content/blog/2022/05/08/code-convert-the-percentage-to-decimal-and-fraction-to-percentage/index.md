@@ -4,8 +4,8 @@ date: '2022-05-08T11:44:30'
 slug: code-convert-the-percentage-to-decimal-and-fraction-to-percentage
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/08/code-convert-the-percentage-to-decimal-and-fraction-to-percentage/

@@ -4,9 +4,9 @@ date: '2022-04-12T13:19:52'
 slug: samsung-m31s-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/12/samsung-m31s-charging-port-replacement/

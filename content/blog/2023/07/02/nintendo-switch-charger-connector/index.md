@@ -4,9 +4,9 @@ date: '2023-07-02T11:37:55'
 slug: nintendo-switch-charger-connector
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/07/02/nintendo-switch-charger-connector/

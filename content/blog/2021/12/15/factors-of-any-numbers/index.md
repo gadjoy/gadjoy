@@ -4,8 +4,8 @@ date: '2021-12-15T11:43:04'
 slug: factors-of-any-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/factors-of-any-numbers/

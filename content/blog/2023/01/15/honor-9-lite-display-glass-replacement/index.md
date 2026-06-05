@@ -4,9 +4,9 @@ date: '2023-01-15T05:24:53'
 slug: honor-9-lite-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/honor-9-lite-display-glass-replacement/

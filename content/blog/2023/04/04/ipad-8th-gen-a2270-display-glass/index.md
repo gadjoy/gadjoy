@@ -4,9 +4,9 @@ date: '2023-04-04T12:28:55'
 slug: ipad-8th-gen-a2270-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/04/ipad-8th-gen-a2270-display-glass/

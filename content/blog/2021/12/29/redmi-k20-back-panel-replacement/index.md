@@ -4,9 +4,9 @@ date: '2021-12-29T14:21:09'
 slug: redmi-k20-back-panel-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/29/redmi-k20-back-panel-replacement/

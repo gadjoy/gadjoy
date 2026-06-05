@@ -4,9 +4,9 @@ date: '2022-08-28T05:07:26'
 slug: lg-q6-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/28/lg-q6-display-combo-replacement/

@@ -4,8 +4,8 @@ date: '2022-03-27T12:43:07'
 slug: 3d-printer-ender-3-lcd-cover
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/27/3d-printer-ender-3-lcd-cover/

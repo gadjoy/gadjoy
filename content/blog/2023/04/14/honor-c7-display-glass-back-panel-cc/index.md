@@ -4,9 +4,9 @@ date: '2023-04-14T13:02:43'
 slug: honor-c7-display-glass-back-panel-cc
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/14/honor-c7-display-glass-back-panel-cc/

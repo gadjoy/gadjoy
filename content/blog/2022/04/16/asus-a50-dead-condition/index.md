@@ -4,9 +4,9 @@ date: '2022-04-16T14:12:54'
 slug: asus-a50-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/04/16/asus-a50-dead-condition/

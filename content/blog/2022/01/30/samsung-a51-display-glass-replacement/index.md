@@ -4,9 +4,9 @@ date: '2022-01-30T14:26:49'
 slug: samsung-a51-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/30/samsung-a51-display-glass-replacement/

@@ -4,7 +4,7 @@ date: '2022-01-04T13:51:58'
 slug: hydroponics
 draft: false
 categories:
-- 4.0 Products & Services
+- 4-0
 tags: []
 aliases:
 - /blog/2022/01/04/hydroponics/

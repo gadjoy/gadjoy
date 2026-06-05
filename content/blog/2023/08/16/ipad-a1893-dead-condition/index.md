@@ -4,9 +4,9 @@ date: '2023-08-16T13:48:27'
 slug: ipad-a1893-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/16/ipad-a1893-dead-condition/

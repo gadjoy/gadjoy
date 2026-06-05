@@ -4,9 +4,9 @@ date: '2024-08-28T12:55:41'
 slug: dell-inspiron-15-3000-office-installation-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/08/28/dell-inspiron-15-3000-office-installation-2/

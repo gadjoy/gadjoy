@@ -4,9 +4,9 @@ date: '2022-08-27T10:41:27'
 slug: redmi-note-8-display-combo-replacement
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/redmi-note-8-display-combo-replacement/

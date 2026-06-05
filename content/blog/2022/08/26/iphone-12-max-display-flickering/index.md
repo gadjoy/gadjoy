@@ -4,9 +4,9 @@ date: '2022-08-26T13:05:41'
 slug: iphone-12-max-display-flickering
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/26/iphone-12-max-display-flickering/

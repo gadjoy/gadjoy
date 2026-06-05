@@ -4,9 +4,9 @@ date: '2021-12-21T14:37:25'
 slug: realme-2-pro-loudspeaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/21/realme-2-pro-loudspeaker-replacement/

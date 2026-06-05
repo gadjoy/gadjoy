@@ -4,9 +4,9 @@ date: '2022-03-26T12:51:32'
 slug: iphone-6s-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/26/iphone-6s-software-service/

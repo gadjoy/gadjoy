@@ -4,8 +4,8 @@ date: '2022-02-26T10:58:06'
 slug: code-sum-to-product
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/26/code-sum-to-product/

@@ -4,9 +4,9 @@ date: '2023-06-30T12:01:04'
 slug: realme-7-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/30/realme-7-pro-dead-condition/

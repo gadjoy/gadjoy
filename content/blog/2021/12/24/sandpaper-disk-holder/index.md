@@ -4,8 +4,8 @@ date: '2021-12-24T11:52:44'
 slug: sandpaper-disk-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/24/sandpaper-disk-holder/

@@ -4,8 +4,8 @@ date: '2022-05-06T14:33:24'
 slug: code-problems-using-the-equation-of-a-concentric-circle
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/06/code-problems-using-the-equation-of-a-concentric-circle/

@@ -4,9 +4,9 @@ date: '2022-06-10T12:44:42'
 slug: honor-9n-back-panel-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/06/10/honor-9n-back-panel-replacement/

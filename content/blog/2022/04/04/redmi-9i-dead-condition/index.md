@@ -4,9 +4,9 @@ date: '2022-04-04T11:49:14'
 slug: redmi-9i-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/04/redmi-9i-dead-condition/

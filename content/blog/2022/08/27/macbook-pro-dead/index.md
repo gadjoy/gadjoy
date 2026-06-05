@@ -4,9 +4,9 @@ date: '2022-08-27T07:29:49'
 slug: macbook-pro-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/macbook-pro-dead/

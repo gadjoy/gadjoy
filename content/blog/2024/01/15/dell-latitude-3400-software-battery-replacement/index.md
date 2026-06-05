@@ -4,9 +4,9 @@ date: '2024-01-15T13:23:28'
 slug: dell-latitude-3400-software-battery-replacement
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/15/dell-latitude-3400-software-battery-replacement/

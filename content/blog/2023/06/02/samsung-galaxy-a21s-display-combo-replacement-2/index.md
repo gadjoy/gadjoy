@@ -4,9 +4,9 @@ date: '2023-06-02T12:59:56'
 slug: samsung-galaxy-a21s-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/02/samsung-galaxy-a21s-display-combo-replacement-2/

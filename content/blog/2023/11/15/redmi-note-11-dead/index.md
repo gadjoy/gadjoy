@@ -4,9 +4,9 @@ date: '2023-11-15T14:49:28'
 slug: redmi-note-11-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/15/redmi-note-11-dead/

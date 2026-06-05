@@ -4,9 +4,9 @@ date: '2024-06-05T13:01:01'
 slug: vivo-y91c-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/vivo-y91c-display-combo/

@@ -4,7 +4,7 @@ date: '2021-12-11T10:23:54'
 slug: soildering-wire-stand
 draft: false
 categories:
-- 3D Print
+- 3dp
 tags: []
 aliases:
 - /blog/2021/12/11/soildering-wire-stand/

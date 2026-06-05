@@ -4,9 +4,9 @@ date: '2022-08-26T13:00:22'
 slug: iphone-6s-dead-condition-3
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/26/iphone-6s-dead-condition-3/

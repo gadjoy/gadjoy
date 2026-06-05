@@ -4,9 +4,9 @@ date: '2022-08-27T11:04:36'
 slug: oppo-a50s-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/oppo-a50s-display-combo-replacement/

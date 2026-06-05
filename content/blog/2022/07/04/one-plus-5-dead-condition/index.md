@@ -4,8 +4,8 @@ date: '2022-07-04T14:18:15'
 slug: one-plus-5-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Repair
+- chip-level-and-ic-repair-laptop
+- repair
 tags: []
 aliases:
 - /blog/2022/07/04/one-plus-5-dead-condition/

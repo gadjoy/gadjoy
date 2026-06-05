@@ -4,9 +4,9 @@ date: '2022-03-04T12:51:39'
 slug: dell-inspiron-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/04/dell-inspiron-software-service/

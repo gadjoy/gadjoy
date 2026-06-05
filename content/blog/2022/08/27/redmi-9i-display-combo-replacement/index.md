@@ -4,9 +4,9 @@ date: '2022-08-27T07:45:40'
 slug: redmi-9i-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/redmi-9i-display-combo-replacement/

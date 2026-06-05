@@ -4,8 +4,8 @@ date: '2022-01-10T12:14:54'
 slug: micro-greens
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/micro-greens/

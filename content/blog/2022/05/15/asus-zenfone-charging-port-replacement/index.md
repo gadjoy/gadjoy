@@ -4,9 +4,9 @@ date: '2022-05-15T14:29:39'
 slug: asus-zenfone-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/15/asus-zenfone-charging-port-replacement/

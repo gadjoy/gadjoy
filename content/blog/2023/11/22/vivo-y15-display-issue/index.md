@@ -4,9 +4,9 @@ date: '2023-11-22T11:22:47'
 slug: vivo-y15-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/22/vivo-y15-display-issue/

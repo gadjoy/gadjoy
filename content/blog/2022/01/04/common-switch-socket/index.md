@@ -4,8 +4,8 @@ date: '2022-01-04T13:50:42'
 slug: common-switch-socket
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/04/common-switch-socket/

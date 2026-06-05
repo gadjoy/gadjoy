@@ -4,9 +4,9 @@ date: '2023-07-02T12:43:39'
 slug: lenovo-ideapad-x310-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/02/lenovo-ideapad-x310-dead-condition/

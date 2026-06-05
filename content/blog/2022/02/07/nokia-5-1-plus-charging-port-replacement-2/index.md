@@ -4,9 +4,9 @@ date: '2022-02-07T14:54:28'
 slug: nokia-5-1-plus-charging-port-replacement-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/07/nokia-5-1-plus-charging-port-replacement-2/

@@ -4,9 +4,9 @@ date: '2023-06-26T13:37:44'
 slug: honor-9n-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/honor-9n-display-combo-replacement-2/

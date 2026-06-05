@@ -4,9 +4,9 @@ date: '2024-05-04T13:50:19'
 slug: iphone-7-camera-display-glass
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/05/04/iphone-7-camera-display-glass/

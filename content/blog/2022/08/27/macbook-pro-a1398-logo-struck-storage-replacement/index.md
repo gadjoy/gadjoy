@@ -4,9 +4,9 @@ date: '2022-08-27T08:15:24'
 slug: macbook-pro-a1398-logo-struck-storage-replacement
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/macbook-pro-a1398-logo-struck-storage-replacement/

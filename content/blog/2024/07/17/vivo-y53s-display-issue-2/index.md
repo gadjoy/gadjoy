@@ -4,9 +4,9 @@ date: '2024-07-17T12:46:30'
 slug: vivo-y53s-display-issue-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/17/vivo-y53s-display-issue-2/

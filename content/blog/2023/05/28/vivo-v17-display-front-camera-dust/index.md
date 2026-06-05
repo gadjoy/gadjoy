@@ -4,9 +4,9 @@ date: '2023-05-28T13:12:12'
 slug: vivo-v17-display-front-camera-dust
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/28/vivo-v17-display-front-camera-dust/

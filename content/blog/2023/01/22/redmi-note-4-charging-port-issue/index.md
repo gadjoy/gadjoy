@@ -4,9 +4,9 @@ date: '2023-01-22T12:41:58'
 slug: redmi-note-4-charging-port-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/22/redmi-note-4-charging-port-issue/

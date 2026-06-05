@@ -4,9 +4,9 @@ date: '2022-03-28T05:07:37'
 slug: oppo-a16-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/28/oppo-a16-display-glass-replacement/

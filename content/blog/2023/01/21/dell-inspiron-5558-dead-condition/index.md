@@ -4,9 +4,9 @@ date: '2023-01-21T10:49:42'
 slug: dell-inspiron-5558-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/21/dell-inspiron-5558-dead-condition/

@@ -4,10 +4,10 @@ date: '2023-01-16T13:00:46'
 slug: iphone-x-display-combo-and-disabled
 draft: false
 categories:
-- Display & Glass Replacement
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/iphone-x-display-combo-and-disabled/

@@ -4,9 +4,9 @@ date: '2023-01-16T13:07:03'
 slug: realme-tab-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/realme-tab-software-services/

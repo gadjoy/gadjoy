@@ -4,9 +4,9 @@ date: '2024-01-31T13:35:04'
 slug: iphone-13-pro-max-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/31/iphone-13-pro-max-dead/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:33:13'
 slug: oppo-a31-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/oppo-a31-dead-condition/

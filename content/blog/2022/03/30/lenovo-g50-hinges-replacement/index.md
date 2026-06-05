@@ -4,9 +4,9 @@ date: '2022-03-30T06:07:12'
 slug: lenovo-g50-hinges-replacement
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/30/lenovo-g50-hinges-replacement/

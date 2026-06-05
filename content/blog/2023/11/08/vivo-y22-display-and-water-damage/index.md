@@ -4,9 +4,9 @@ date: '2023-11-08T12:33:49'
 slug: vivo-y22-display-and-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2023/11/08/vivo-y22-display-and-water-damage/

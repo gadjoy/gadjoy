@@ -4,9 +4,9 @@ date: '2023-05-21T05:11:23'
 slug: samsung-galaxy-tab-a-sm-t515-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/21/samsung-galaxy-tab-a-sm-t515-dead-condition/

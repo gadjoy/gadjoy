@@ -4,9 +4,9 @@ date: '2023-01-15T05:51:51'
 slug: hp-notebook-15-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/hp-notebook-15-dead-condition/

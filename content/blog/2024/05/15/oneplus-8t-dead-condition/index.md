@@ -4,9 +4,9 @@ date: '2024-05-15T14:07:30'
 slug: oneplus-8t-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/15/oneplus-8t-dead-condition/

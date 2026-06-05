@@ -4,9 +4,9 @@ date: '2023-01-21T14:02:02'
 slug: mi-11-restarting-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/21/mi-11-restarting-issue/

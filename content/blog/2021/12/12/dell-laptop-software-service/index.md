@@ -4,9 +4,9 @@ date: '2021-12-12T12:26:03'
 slug: dell-laptop-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/12/dell-laptop-software-service/

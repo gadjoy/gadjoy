@@ -4,9 +4,9 @@ date: '2025-02-18T21:05:56'
 slug: redmi-y3-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/redmi-y3-dead/

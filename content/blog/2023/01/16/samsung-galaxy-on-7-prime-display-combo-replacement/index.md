@@ -4,9 +4,9 @@ date: '2023-01-16T13:03:37'
 slug: samsung-galaxy-on-7-prime-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/samsung-galaxy-on-7-prime-display-combo-replacement/

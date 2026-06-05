@@ -4,8 +4,8 @@ date: '2022-01-03T13:30:52'
 slug: phantom-head-poc
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/03/phantom-head-poc/

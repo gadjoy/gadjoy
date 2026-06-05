@@ -4,9 +4,9 @@ date: '2021-12-24T09:53:24'
 slug: hp-laptop-145-er30037u-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2021/12/24/hp-laptop-145-er30037u-battery-replacement/

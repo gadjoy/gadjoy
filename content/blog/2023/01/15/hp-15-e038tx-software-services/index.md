@@ -4,9 +4,9 @@ date: '2023-01-15T05:26:09'
 slug: hp-15-e038tx-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/hp-15-e038tx-software-services/

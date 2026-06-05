@@ -4,11 +4,11 @@ date: '2022-02-12T14:19:26'
 slug: samsung-m11-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
-- Uncategorized
+- display-and-glass-replacement
+- mobiles
+- repair
+- replacements
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/02/12/samsung-m11-dead-condition/

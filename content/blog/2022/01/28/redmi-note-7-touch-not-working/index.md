@@ -4,9 +4,9 @@ date: '2022-01-28T14:04:39'
 slug: redmi-note-7-touch-not-working
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/28/redmi-note-7-touch-not-working/

@@ -4,9 +4,9 @@ date: '2022-08-28T05:13:36'
 slug: samsung-a10s-touch-not-working
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/28/samsung-a10s-touch-not-working/

@@ -4,8 +4,8 @@ date: '2022-04-03T10:55:42'
 slug: gadgets-dell-laptop-charger
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/03/gadgets-dell-laptop-charger/

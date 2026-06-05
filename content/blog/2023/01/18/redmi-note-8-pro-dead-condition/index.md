@@ -4,9 +4,9 @@ date: '2023-01-18T14:08:27'
 slug: redmi-note-8-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/18/redmi-note-8-pro-dead-condition/

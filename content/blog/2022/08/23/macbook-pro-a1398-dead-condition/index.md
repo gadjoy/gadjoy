@@ -4,8 +4,8 @@ date: '2022-08-23T12:30:11'
 slug: macbook-pro-a1398-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/23/macbook-pro-a1398-dead-condition/

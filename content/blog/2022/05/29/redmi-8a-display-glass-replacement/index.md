@@ -4,9 +4,9 @@ date: '2022-05-29T12:38:58'
 slug: redmi-8a-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/29/redmi-8a-display-glass-replacement/

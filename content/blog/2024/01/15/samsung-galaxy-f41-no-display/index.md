@@ -4,9 +4,9 @@ date: '2024-01-15T13:33:43'
 slug: samsung-galaxy-f41-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/15/samsung-galaxy-f41-no-display/

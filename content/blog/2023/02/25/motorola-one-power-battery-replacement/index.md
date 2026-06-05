@@ -4,9 +4,9 @@ date: '2023-02-25T12:02:23'
 slug: motorola-one-power-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/25/motorola-one-power-battery-replacement/

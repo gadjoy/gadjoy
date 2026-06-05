@@ -4,9 +4,9 @@ date: '2022-02-22T14:22:30'
 slug: iwatch-67999-display-combo-replacement
 draft: false
 categories:
-- Apple Watch
-- Display & Glass Replacement
-- Repair
+- apple-watch
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/02/22/iwatch-67999-display-combo-replacement/

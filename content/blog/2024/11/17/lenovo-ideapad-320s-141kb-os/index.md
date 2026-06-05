@@ -4,9 +4,9 @@ date: '2024-11-17T12:01:16'
 slug: lenovo-ideapad-320s-141kb-os
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/lenovo-ideapad-320s-141kb-os/

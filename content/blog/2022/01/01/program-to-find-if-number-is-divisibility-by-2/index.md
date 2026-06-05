@@ -4,8 +4,8 @@ date: '2022-01-01T11:43:32'
 slug: program-to-find-if-number-is-divisibility-by-2
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/01/program-to-find-if-number-is-divisibility-by-2/

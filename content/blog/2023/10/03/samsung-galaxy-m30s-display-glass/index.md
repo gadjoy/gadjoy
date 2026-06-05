@@ -4,9 +4,9 @@ date: '2023-10-03T11:57:57'
 slug: samsung-galaxy-m30s-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/03/samsung-galaxy-m30s-display-glass/

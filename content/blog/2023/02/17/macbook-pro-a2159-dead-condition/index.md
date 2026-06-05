@@ -4,9 +4,9 @@ date: '2023-02-17T13:20:44'
 slug: macbook-pro-a2159-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/17/macbook-pro-a2159-dead-condition/

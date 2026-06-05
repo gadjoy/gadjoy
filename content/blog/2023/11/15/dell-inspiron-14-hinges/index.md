@@ -4,9 +4,9 @@ date: '2023-11-15T14:48:25'
 slug: dell-inspiron-14-hinges
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/11/15/dell-inspiron-14-hinges/

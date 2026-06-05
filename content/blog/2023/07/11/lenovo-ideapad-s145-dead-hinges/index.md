@@ -4,9 +4,9 @@ date: '2023-07-11T14:09:29'
 slug: lenovo-ideapad-s145-dead-hinges
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/11/lenovo-ideapad-s145-dead-hinges/

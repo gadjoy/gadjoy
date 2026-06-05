@@ -4,9 +4,9 @@ date: '2022-03-21T14:31:16'
 slug: ipad-mini-touch-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/21/ipad-mini-touch-glass-replacement/

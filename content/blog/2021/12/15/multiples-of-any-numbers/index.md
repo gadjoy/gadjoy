@@ -4,8 +4,8 @@ date: '2021-12-15T12:07:21'
 slug: multiples-of-any-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/multiples-of-any-numbers/

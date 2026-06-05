@@ -4,9 +4,9 @@ date: '2023-10-25T13:03:25'
 slug: iphone-5s-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/25/iphone-5s-display/

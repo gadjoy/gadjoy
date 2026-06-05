@@ -4,9 +4,9 @@ date: '2022-04-30T13:40:36'
 slug: redmi-note-4-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/30/redmi-note-4-dead-condition/

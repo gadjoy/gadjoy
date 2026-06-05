@@ -4,9 +4,9 @@ date: '2024-03-18T13:47:31'
 slug: realme-c21y-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/18/realme-c21y-display-combo/

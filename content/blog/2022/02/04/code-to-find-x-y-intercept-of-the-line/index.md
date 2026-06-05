@@ -4,8 +4,8 @@ date: '2022-02-04T12:34:59'
 slug: code-to-find-x-y-intercept-of-the-line
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/04/code-to-find-x-y-intercept-of-the-line/

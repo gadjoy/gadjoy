@@ -4,9 +4,9 @@ date: '2023-01-14T13:20:18'
 slug: samsung-galaxy-f41-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/14/samsung-galaxy-f41-logo-stuck/

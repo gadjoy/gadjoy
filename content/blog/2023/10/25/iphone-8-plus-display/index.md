@@ -4,9 +4,9 @@ date: '2023-10-25T13:08:22'
 slug: iphone-8-plus-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/25/iphone-8-plus-display/

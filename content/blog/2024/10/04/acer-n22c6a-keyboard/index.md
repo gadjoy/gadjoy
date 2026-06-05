@@ -4,9 +4,9 @@ date: '2024-10-04T14:01:41'
 slug: acer-n22c6a-keyboard
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/10/04/acer-n22c6a-keyboard/

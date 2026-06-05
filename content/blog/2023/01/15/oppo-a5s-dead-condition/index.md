@@ -4,9 +4,9 @@ date: '2023-01-15T05:47:04'
 slug: oppo-a5s-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/oppo-a5s-dead-condition/

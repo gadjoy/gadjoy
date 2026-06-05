@@ -4,9 +4,9 @@ date: '2023-01-14T12:35:14'
 slug: iwatch-display-glass-replacement
 draft: false
 categories:
-- Apple Watch
-- Display & Glass Replacement
-- Repair
+- apple-watch
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2023/01/14/iwatch-display-glass-replacement/

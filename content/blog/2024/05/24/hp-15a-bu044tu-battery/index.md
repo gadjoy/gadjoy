@@ -4,9 +4,9 @@ date: '2024-05-24T13:25:00'
 slug: hp-15a-bu044tu-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/05/24/hp-15a-bu044tu-battery/

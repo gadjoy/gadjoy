@@ -4,9 +4,9 @@ date: '2023-10-03T11:58:59'
 slug: realme-8i-dim-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/03/realme-8i-dim-display/

@@ -4,9 +4,9 @@ date: '2022-01-30T14:24:04'
 slug: samsung-a2-core-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/30/samsung-a2-core-software-service/

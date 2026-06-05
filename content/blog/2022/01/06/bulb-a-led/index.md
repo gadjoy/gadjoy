@@ -4,8 +4,8 @@ date: '2022-01-06T14:15:06'
 slug: bulb-a-led
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/06/bulb-a-led/

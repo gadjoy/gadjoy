@@ -4,9 +4,9 @@ date: '2023-05-15T10:32:51'
 slug: foxin-cpu-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/05/15/foxin-cpu-dead-condition/

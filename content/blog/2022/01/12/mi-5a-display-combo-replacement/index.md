@@ -4,9 +4,9 @@ date: '2022-01-12T12:02:34'
 slug: mi-5a-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/12/mi-5a-display-combo-replacement/

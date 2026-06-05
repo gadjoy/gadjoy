@@ -4,9 +4,9 @@ date: '2021-12-12T08:01:32'
 slug: mi-a7-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/12/mi-a7-display-combo-replacement/

@@ -4,9 +4,9 @@ date: '2022-05-07T16:57:05'
 slug: one-plus-6t-no-display
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/07/one-plus-6t-no-display/

@@ -4,9 +4,9 @@ date: '2024-06-05T13:28:21'
 slug: samsung-galaxy-m12-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/samsung-galaxy-m12-display/

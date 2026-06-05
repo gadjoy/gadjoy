@@ -4,9 +4,9 @@ date: '2023-11-14T10:28:28'
 slug: ipad-a1566-flickering
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/14/ipad-a1566-flickering/

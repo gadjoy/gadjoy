@@ -4,9 +4,9 @@ date: '2024-10-30T12:21:57'
 slug: redmi-note-7-pro-display-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/30/redmi-note-7-pro-display-2/

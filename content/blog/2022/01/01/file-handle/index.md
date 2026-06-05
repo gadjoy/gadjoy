@@ -4,8 +4,8 @@ date: '2022-01-01T13:33:02'
 slug: file-handle
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/file-handle/

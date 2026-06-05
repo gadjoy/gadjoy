@@ -4,8 +4,8 @@ date: '2022-01-10T13:18:52'
 slug: gadgets-continuity-tester-2
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/10/gadgets-continuity-tester-2/

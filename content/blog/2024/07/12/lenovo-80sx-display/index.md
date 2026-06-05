@@ -4,9 +4,9 @@ date: '2024-07-12T12:13:21'
 slug: lenovo-80sx-display
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/07/12/lenovo-80sx-display/

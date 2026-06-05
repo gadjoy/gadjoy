@@ -4,9 +4,9 @@ date: '2021-12-12T07:46:16'
 slug: lg-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/12/lg-display-glass-replacement/

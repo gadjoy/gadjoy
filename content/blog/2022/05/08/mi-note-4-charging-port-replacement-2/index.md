@@ -4,9 +4,9 @@ date: '2022-05-08T13:10:41'
 slug: mi-note-4-charging-port-replacement-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/08/mi-note-4-charging-port-replacement-2/

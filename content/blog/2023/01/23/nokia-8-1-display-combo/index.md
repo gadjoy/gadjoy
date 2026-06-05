@@ -4,9 +4,9 @@ date: '2023-01-23T12:26:15'
 slug: nokia-8-1-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/nokia-8-1-display-combo/

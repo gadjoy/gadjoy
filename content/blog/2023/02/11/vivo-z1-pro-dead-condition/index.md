@@ -4,9 +4,9 @@ date: '2023-02-11T12:20:57'
 slug: vivo-z1-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/11/vivo-z1-pro-dead-condition/

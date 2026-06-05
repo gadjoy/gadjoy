@@ -4,9 +4,9 @@ date: '2024-06-05T13:43:17'
 slug: vivo-y71-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/vivo-y71-display-glass/

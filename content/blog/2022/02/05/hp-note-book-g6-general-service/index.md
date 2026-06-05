@@ -4,9 +4,9 @@ date: '2022-02-05T11:40:36'
 slug: hp-note-book-g6-general-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/02/05/hp-note-book-g6-general-service/

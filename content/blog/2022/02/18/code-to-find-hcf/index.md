@@ -4,8 +4,8 @@ date: '2022-02-18T12:13:06'
 slug: code-to-find-hcf
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/18/code-to-find-hcf/

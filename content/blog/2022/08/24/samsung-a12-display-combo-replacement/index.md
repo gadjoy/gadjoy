@@ -4,8 +4,8 @@ date: '2022-08-24T12:20:11'
 slug: samsung-a12-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/samsung-a12-display-combo-replacement/

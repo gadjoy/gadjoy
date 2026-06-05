@@ -4,9 +4,9 @@ date: '2023-03-29T12:09:22'
 slug: surface-pro-4-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/29/surface-pro-4-software-service/

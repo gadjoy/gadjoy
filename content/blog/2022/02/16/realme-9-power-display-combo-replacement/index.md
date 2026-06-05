@@ -4,9 +4,9 @@ date: '2022-02-16T12:32:33'
 slug: realme-9-power-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/16/realme-9-power-display-combo-replacement/

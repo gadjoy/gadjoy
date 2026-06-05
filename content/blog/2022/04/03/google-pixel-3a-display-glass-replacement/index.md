@@ -4,9 +4,9 @@ date: '2022-04-03T09:12:14'
 slug: google-pixel-3a-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/03/google-pixel-3a-display-glass-replacement/

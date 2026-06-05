@@ -4,9 +4,9 @@ date: '2023-02-24T12:02:46'
 slug: ipad-4-not-charging
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/24/ipad-4-not-charging/

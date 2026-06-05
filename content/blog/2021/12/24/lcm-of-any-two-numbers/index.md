@@ -4,8 +4,8 @@ date: '2021-12-24T11:55:45'
 slug: lcm-of-any-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/24/lcm-of-any-two-numbers/

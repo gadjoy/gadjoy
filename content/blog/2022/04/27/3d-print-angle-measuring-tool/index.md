@@ -4,8 +4,8 @@ date: '2022-04-27T12:44:56'
 slug: 3d-print-angle-measuring-tool
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/27/3d-print-angle-measuring-tool/

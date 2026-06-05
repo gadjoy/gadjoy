@@ -4,9 +4,9 @@ date: '2022-03-20T12:35:25'
 slug: samsung-m01-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/20/samsung-m01-water-damage/

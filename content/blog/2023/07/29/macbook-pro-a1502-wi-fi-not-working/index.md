@@ -4,9 +4,9 @@ date: '2023-07-29T13:45:07'
 slug: macbook-pro-a1502-wi-fi-not-working
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/29/macbook-pro-a1502-wi-fi-not-working/

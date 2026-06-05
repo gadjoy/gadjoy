@@ -4,9 +4,9 @@ date: '2023-01-14T13:22:37'
 slug: asus-desktop-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/14/asus-desktop-software-services/

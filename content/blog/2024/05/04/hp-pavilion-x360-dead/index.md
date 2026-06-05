@@ -4,9 +4,9 @@ date: '2024-05-04T13:57:31'
 slug: hp-pavilion-x360-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/05/04/hp-pavilion-x360-dead/

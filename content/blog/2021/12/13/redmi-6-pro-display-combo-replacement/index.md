@@ -4,9 +4,9 @@ date: '2021-12-13T13:11:13'
 slug: redmi-6-pro-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/13/redmi-6-pro-display-combo-replacement/

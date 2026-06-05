@@ -4,9 +4,9 @@ date: '2022-04-03T09:49:42'
 slug: mi-a2-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/03/mi-a2-logo-stuck/

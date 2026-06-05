@@ -4,9 +4,9 @@ date: '2023-01-14T13:11:36'
 slug: iphone-x-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/14/iphone-x-battery-replacement/

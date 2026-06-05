@@ -4,9 +4,9 @@ date: '2024-07-09T12:00:07'
 slug: lenovo-ideapad-s510p-charger-dc-jack
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/07/09/lenovo-ideapad-s510p-charger-dc-jack/

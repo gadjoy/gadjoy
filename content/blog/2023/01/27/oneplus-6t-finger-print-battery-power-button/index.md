@@ -4,9 +4,9 @@ date: '2023-01-27T14:11:55'
 slug: oneplus-6t-finger-print-battery-power-button
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/27/oneplus-6t-finger-print-battery-power-button/

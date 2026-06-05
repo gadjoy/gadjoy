@@ -4,9 +4,9 @@ date: '2025-01-21T11:59:32'
 slug: hp-15q-ds0016tu-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/hp-15q-ds0016tu-slow/

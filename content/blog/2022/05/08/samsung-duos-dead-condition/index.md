@@ -4,9 +4,9 @@ date: '2022-05-08T10:10:57'
 slug: samsung-duos-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/08/samsung-duos-dead-condition/

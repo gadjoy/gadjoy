@@ -4,9 +4,9 @@ date: '2023-04-24T11:45:52'
 slug: hp-pavilion-14-ec1008au-slow-not-booting
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/24/hp-pavilion-14-ec1008au-slow-not-booting/

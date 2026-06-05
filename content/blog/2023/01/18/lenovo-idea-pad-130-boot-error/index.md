@@ -4,9 +4,9 @@ date: '2023-01-18T14:07:15'
 slug: lenovo-idea-pad-130-boot-error
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/18/lenovo-idea-pad-130-boot-error/

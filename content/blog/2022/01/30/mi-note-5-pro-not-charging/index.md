@@ -4,9 +4,9 @@ date: '2022-01-30T14:20:01'
 slug: mi-note-5-pro-not-charging
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/30/mi-note-5-pro-not-charging/

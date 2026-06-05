@@ -4,8 +4,8 @@ date: '2022-03-11T14:04:14'
 slug: code-compressive-test-on-cast-iron
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/11/code-compressive-test-on-cast-iron/

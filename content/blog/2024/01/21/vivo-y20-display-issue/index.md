@@ -4,9 +4,9 @@ date: '2024-01-21T14:09:01'
 slug: vivo-y20-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/21/vivo-y20-display-issue/

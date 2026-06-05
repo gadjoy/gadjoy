@@ -4,9 +4,9 @@ date: '2023-01-23T12:12:44'
 slug: samsung-galaxy-m20-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/samsung-galaxy-m20-display-combo/

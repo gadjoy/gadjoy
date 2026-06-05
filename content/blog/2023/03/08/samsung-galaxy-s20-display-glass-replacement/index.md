@@ -4,9 +4,9 @@ date: '2023-03-08T12:20:56'
 slug: samsung-galaxy-s20-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/08/samsung-galaxy-s20-display-glass-replacement/

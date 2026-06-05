@@ -4,10 +4,10 @@ date: '2023-02-04T12:12:06'
 slug: realme-narzo-30-display-combo-and-software-services
 draft: false
 categories:
-- Display & Glass Replacement
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/04/realme-narzo-30-display-combo-and-software-services/

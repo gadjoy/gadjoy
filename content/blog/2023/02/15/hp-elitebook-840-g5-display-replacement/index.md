@@ -4,9 +4,9 @@ date: '2023-02-15T12:11:46'
 slug: hp-elitebook-840-g5-display-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/02/15/hp-elitebook-840-g5-display-replacement/

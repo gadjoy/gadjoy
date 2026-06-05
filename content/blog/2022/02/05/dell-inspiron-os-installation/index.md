@@ -4,9 +4,9 @@ date: '2022-02-05T11:38:49'
 slug: dell-inspiron-os-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/02/05/dell-inspiron-os-installation/

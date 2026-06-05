@@ -4,8 +4,8 @@ date: '2022-05-02T17:13:31'
 slug: 3d-print-photo-studio-stand
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/02/3d-print-photo-studio-stand/

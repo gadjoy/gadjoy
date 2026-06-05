@@ -4,9 +4,9 @@ date: '2023-01-15T05:27:25'
 slug: vivo-y21-software-services-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/vivo-y21-software-services-2/

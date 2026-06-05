@@ -4,8 +4,8 @@ date: '2022-03-25T12:44:50'
 slug: 3d-printer-lcd-pcb-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/25/3d-printer-lcd-pcb-holder/

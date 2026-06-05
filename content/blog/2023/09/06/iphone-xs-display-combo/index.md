@@ -4,9 +4,9 @@ date: '2023-09-06T13:28:23'
 slug: iphone-xs-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/iphone-xs-display-combo/

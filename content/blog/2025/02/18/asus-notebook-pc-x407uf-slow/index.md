@@ -4,9 +4,9 @@ date: '2025-02-18T21:15:47'
 slug: asus-notebook-pc-x407uf-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/asus-notebook-pc-x407uf-slow/

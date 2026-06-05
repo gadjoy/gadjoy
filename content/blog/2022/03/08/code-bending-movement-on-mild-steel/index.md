@@ -4,8 +4,8 @@ date: '2022-03-08T13:37:02'
 slug: code-bending-movement-on-mild-steel
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/08/code-bending-movement-on-mild-steel/

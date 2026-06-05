@@ -4,9 +4,9 @@ date: '2023-03-31T09:44:40'
 slug: samsung-galaxy-m31-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/31/samsung-galaxy-m31-software-service/

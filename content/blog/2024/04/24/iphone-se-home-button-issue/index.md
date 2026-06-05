@@ -4,9 +4,9 @@ date: '2024-04-24T11:36:39'
 slug: iphone-se-home-button-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/04/24/iphone-se-home-button-issue/

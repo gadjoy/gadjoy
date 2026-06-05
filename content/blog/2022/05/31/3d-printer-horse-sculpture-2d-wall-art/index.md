@@ -4,8 +4,8 @@ date: '2022-05-31T14:47:38'
 slug: 3d-printer-horse-sculpture-2d-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/31/3d-printer-horse-sculpture-2d-wall-art/

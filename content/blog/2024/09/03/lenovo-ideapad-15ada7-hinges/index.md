@@ -4,9 +4,9 @@ date: '2024-09-03T13:49:26'
 slug: lenovo-ideapad-15ada7-hinges
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/lenovo-ideapad-15ada7-hinges/

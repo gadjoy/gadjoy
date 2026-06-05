@@ -4,9 +4,9 @@ date: '2022-04-05T11:44:52'
 slug: realme-x2-back-panel-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/05/realme-x2-back-panel-replacement/

@@ -4,9 +4,9 @@ date: '2021-12-18T14:57:58'
 slug: ipad-2-dead-condition-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/18/ipad-2-dead-condition-2/

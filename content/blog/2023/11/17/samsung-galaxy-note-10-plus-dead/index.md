@@ -4,9 +4,9 @@ date: '2023-11-17T11:50:55'
 slug: samsung-galaxy-note-10-plus-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/samsung-galaxy-note-10-plus-dead/

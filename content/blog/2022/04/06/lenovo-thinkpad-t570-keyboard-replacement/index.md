@@ -4,9 +4,9 @@ date: '2022-04-06T13:00:01'
 slug: lenovo-thinkpad-t570-keyboard-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/06/lenovo-thinkpad-t570-keyboard-replacement/

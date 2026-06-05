@@ -4,9 +4,9 @@ date: '2023-01-21T10:44:53'
 slug: iphone-12-mini-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/21/iphone-12-mini-display-combo-replacement/

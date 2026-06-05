@@ -4,9 +4,9 @@ date: '2022-08-26T13:10:30'
 slug: oneplus-17-pro-chip-level-check
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/26/oneplus-17-pro-chip-level-check/

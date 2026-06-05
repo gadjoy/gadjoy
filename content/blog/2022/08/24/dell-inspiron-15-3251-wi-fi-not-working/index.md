@@ -4,8 +4,8 @@ date: '2022-08-24T13:34:59'
 slug: dell-inspiron-15-3251-wi-fi-not-working
 draft: false
 categories:
-- Laptop & Desktop
-- Software Services
+- laptop-and-desktop
+- software-services
 tags: []
 aliases:
 - /blog/2022/08/24/dell-inspiron-15-3251-wi-fi-not-working/

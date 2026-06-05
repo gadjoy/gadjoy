@@ -4,9 +4,9 @@ date: '2024-06-24T12:15:04'
 slug: samsung-galaxy-s21-battery
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/06/24/samsung-galaxy-s21-battery/

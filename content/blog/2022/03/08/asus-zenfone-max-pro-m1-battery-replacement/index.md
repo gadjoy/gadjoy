@@ -4,9 +4,9 @@ date: '2022-03-08T13:01:27'
 slug: asus-zenfone-max-pro-m1-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/08/asus-zenfone-max-pro-m1-battery-replacement/

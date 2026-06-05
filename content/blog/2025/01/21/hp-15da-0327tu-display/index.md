@@ -4,9 +4,9 @@ date: '2025-01-21T11:36:09'
 slug: hp-15da-0327tu-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/hp-15da-0327tu-display/

@@ -4,9 +4,9 @@ date: '2021-12-29T11:55:16'
 slug: redmi-4-dead-condition-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/redmi-4-dead-condition-2/

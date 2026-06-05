@@ -4,8 +4,8 @@ date: '2022-08-22T13:26:17'
 slug: dell-laptop-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/22/dell-laptop-dead-condition/

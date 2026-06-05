@@ -4,8 +4,8 @@ date: '2022-08-22T14:12:11'
 slug: sony-vaio-svf142c1ww-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/22/sony-vaio-svf142c1ww-dead-condition/

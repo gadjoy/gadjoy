@@ -4,9 +4,9 @@ date: '2024-09-03T13:50:37'
 slug: red-mi-13c-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/red-mi-13c-display/

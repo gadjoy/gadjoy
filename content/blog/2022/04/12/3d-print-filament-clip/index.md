@@ -4,8 +4,8 @@ date: '2022-04-12T14:46:45'
 slug: 3d-print-filament-clip
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/12/3d-print-filament-clip/

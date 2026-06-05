@@ -4,9 +4,9 @@ date: '2024-12-11T12:04:43'
 slug: vivo-y28e-5g-software-service
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Software Services
+- mobiles
+- repair
+- software-services
 tags: []
 aliases:
 - /blog/2024/12/11/vivo-y28e-5g-software-service/

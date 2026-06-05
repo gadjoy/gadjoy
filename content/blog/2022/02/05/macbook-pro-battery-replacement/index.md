@@ -4,9 +4,9 @@ date: '2022-02-05T11:35:00'
 slug: macbook-pro-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/02/05/macbook-pro-battery-replacement/

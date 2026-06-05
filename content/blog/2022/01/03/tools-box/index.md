@@ -4,8 +4,8 @@ date: '2022-01-03T13:13:42'
 slug: tools-box
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/03/tools-box/

@@ -4,7 +4,7 @@ date: '2022-03-26T14:00:05'
 slug: acer-aspire-e1-431-keyboard-replacement
 draft: false
 categories:
-- Uncategorized
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/03/26/acer-aspire-e1-431-keyboard-replacement/

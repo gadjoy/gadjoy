@@ -4,8 +4,8 @@ date: '2022-05-01T12:41:57'
 slug: code-average-of-4-consecutive-even-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/01/code-average-of-4-consecutive-even-numbers/

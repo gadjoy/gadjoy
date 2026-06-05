@@ -4,9 +4,9 @@ date: '2022-05-11T14:31:43'
 slug: iphone-x-dead-condtion
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/11/iphone-x-dead-condtion/

@@ -4,9 +4,9 @@ date: '2022-02-04T12:43:27'
 slug: samsung-galaxy-note-8-display-ic-replacement
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/04/samsung-galaxy-note-8-display-ic-replacement/

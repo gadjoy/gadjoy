@@ -4,9 +4,9 @@ date: '2023-07-29T13:39:59'
 slug: redmi-6a-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/29/redmi-6a-dead-condition/

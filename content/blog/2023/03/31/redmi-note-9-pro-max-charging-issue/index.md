@@ -4,9 +4,9 @@ date: '2023-03-31T09:41:51'
 slug: redmi-note-9-pro-max-charging-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/31/redmi-note-9-pro-max-charging-issue/

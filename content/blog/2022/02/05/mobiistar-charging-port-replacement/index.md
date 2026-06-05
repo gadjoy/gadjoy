@@ -4,9 +4,9 @@ date: '2022-02-05T11:57:28'
 slug: mobiistar-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/05/mobiistar-charging-port-replacement/

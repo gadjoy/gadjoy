@@ -4,9 +4,9 @@ date: '2022-03-06T14:14:16'
 slug: samsung-galaxy-m01-logo-stuck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/06/samsung-galaxy-m01-logo-stuck/

@@ -4,9 +4,9 @@ date: '2025-02-18T21:03:35'
 slug: samsung-galaxy-m51-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/samsung-galaxy-m51-dead/

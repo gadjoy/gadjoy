@@ -4,8 +4,8 @@ date: '2021-12-29T12:19:44'
 slug: tree-2d-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/29/tree-2d-art/

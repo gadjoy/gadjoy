@@ -4,8 +4,8 @@ date: '2021-12-31T13:01:05'
 slug: soldering-wire-stand
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/31/soldering-wire-stand/

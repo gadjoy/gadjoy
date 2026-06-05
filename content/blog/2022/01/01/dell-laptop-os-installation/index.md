@@ -4,9 +4,9 @@ date: '2022-01-01T11:22:47'
 slug: dell-laptop-os-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/01/01/dell-laptop-os-installation/

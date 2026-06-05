@@ -4,9 +4,9 @@ date: '2022-03-30T06:09:10'
 slug: lenovo-g50-base-panel-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/03/30/lenovo-g50-base-panel-replacement/

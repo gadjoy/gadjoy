@@ -4,9 +4,9 @@ date: '2023-03-24T11:15:32'
 slug: hp-pavillion-15p077tx-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/03/24/hp-pavillion-15p077tx-dead-condition/

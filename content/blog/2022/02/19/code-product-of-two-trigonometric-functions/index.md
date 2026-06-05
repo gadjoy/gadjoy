@@ -4,8 +4,8 @@ date: '2022-02-19T14:02:48'
 slug: code-product-of-two-trigonometric-functions
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/19/code-product-of-two-trigonometric-functions/

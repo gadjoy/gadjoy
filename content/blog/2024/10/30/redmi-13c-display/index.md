@@ -4,9 +4,9 @@ date: '2024-10-30T11:59:07'
 slug: redmi-13c-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/30/redmi-13c-display/

@@ -4,9 +4,9 @@ date: '2022-05-27T12:42:54'
 slug: dell-inspiron-15-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/05/27/dell-inspiron-15-battery-replacement/

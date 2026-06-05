@@ -4,8 +4,8 @@ date: '2022-05-07T12:15:01'
 slug: iot-gadget-repair-bytech-headphones
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/05/07/iot-gadget-repair-bytech-headphones/

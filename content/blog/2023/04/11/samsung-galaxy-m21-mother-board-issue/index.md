@@ -4,9 +4,9 @@ date: '2023-04-11T13:34:30'
 slug: samsung-galaxy-m21-mother-board-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/11/samsung-galaxy-m21-mother-board-issue/

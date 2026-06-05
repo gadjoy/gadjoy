@@ -4,9 +4,9 @@ date: '2023-10-03T12:01:12'
 slug: one-plus-nord-2-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/03/one-plus-nord-2-display/

@@ -4,9 +4,9 @@ date: '2024-10-30T12:20:38'
 slug: redmi-9-power-logo-stuck
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Software Services
+- mobiles
+- repair
+- software-services
 tags: []
 aliases:
 - /blog/2024/10/30/redmi-9-power-logo-stuck/

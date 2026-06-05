@@ -4,8 +4,8 @@ date: '2021-12-14T13:56:07'
 slug: samsung-j7-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2021/12/14/samsung-j7-display-combo-replacement/

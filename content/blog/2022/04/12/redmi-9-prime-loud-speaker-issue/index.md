@@ -4,9 +4,9 @@ date: '2022-04-12T13:15:29'
 slug: redmi-9-prime-loud-speaker-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/12/redmi-9-prime-loud-speaker-issue/

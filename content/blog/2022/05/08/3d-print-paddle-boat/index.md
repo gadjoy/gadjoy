@@ -4,8 +4,8 @@ date: '2022-05-08T10:04:01'
 slug: 3d-print-paddle-boat
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/08/3d-print-paddle-boat/

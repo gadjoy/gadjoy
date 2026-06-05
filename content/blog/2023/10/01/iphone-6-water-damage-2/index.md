@@ -4,9 +4,9 @@ date: '2023-10-01T09:23:37'
 slug: iphone-6-water-damage-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2023/10/01/iphone-6-water-damage-2/

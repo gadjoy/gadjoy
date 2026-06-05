@@ -4,9 +4,9 @@ date: '2022-05-25T12:01:46'
 slug: infix-hot-6-charging-connector-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/25/infix-hot-6-charging-connector-replacement/

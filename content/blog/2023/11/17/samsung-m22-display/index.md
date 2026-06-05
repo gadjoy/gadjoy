@@ -4,9 +4,9 @@ date: '2023-11-17T11:36:37'
 slug: samsung-m22-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/samsung-m22-display/

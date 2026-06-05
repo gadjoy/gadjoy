@@ -4,8 +4,8 @@ date: '2023-07-07T13:30:32'
 slug: boat-speaker-charging-issue
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2023/07/07/boat-speaker-charging-issue/

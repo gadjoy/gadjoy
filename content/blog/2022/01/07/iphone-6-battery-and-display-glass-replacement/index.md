@@ -4,9 +4,9 @@ date: '2022-01-07T10:58:37'
 slug: iphone-6-battery-and-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/07/iphone-6-battery-and-display-glass-replacement/

@@ -4,9 +4,9 @@ date: '2022-03-28T05:00:05'
 slug: iphone-6s-ear-loud-speaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/28/iphone-6s-ear-loud-speaker-replacement/

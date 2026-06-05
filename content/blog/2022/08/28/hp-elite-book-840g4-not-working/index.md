@@ -4,8 +4,8 @@ date: '2022-08-28T04:55:22'
 slug: hp-elite-book-840g4-not-working
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/28/hp-elite-book-840g4-not-working/

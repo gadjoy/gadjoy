@@ -4,9 +4,9 @@ date: '2023-07-08T13:08:22'
 slug: lenovo-thinkpad-e14-software-service-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/08/lenovo-thinkpad-e14-software-service-2/

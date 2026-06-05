@@ -4,8 +4,8 @@ date: '2022-03-20T12:57:52'
 slug: raspberry-pi-archery-game
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/20/raspberry-pi-archery-game/

@@ -4,9 +4,9 @@ date: '2023-04-12T12:27:35'
 slug: acer-aspire-3-hardware-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/12/acer-aspire-3-hardware-service/

@@ -4,10 +4,10 @@ date: '2021-12-15T11:50:10'
 slug: lenovo-k15-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
-- Water Damage
+- display-and-glass-replacement
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2021/12/15/lenovo-k15-display-combo-replacement/

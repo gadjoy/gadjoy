@@ -4,7 +4,7 @@ date: '2021-12-08T13:13:31'
 slug: mechanical-quick-grab-phone-stand
 draft: false
 categories:
-- 3D Print
+- 3dp
 tags: []
 aliases:
 - /blog/2021/12/08/mechanical-quick-grab-phone-stand/

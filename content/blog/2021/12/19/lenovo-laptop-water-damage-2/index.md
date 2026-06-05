@@ -4,9 +4,9 @@ date: '2021-12-19T09:01:10'
 slug: lenovo-laptop-water-damage-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/19/lenovo-laptop-water-damage-2/

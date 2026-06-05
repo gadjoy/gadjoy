@@ -4,8 +4,8 @@ date: '2022-08-23T12:37:29'
 slug: one-plus-7t-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
+- chip-level-and-ic-repair-mobile
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/23/one-plus-7t-dead-condition/

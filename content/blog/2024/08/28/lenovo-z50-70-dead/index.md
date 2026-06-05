@@ -4,9 +4,9 @@ date: '2024-08-28T13:16:33'
 slug: lenovo-z50-70-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/08/28/lenovo-z50-70-dead/

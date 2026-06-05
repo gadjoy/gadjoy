@@ -4,9 +4,9 @@ date: '2023-11-22T11:24:03'
 slug: macbook-pro-a1398-keyboard-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/11/22/macbook-pro-a1398-keyboard-issue/

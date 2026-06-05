@@ -4,8 +4,8 @@ date: '2022-04-05T13:45:58'
 slug: 3d-print-t-rex
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/05/3d-print-t-rex/

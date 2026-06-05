@@ -4,9 +4,9 @@ date: '2025-01-21T11:52:20'
 slug: samsung-galaxy-a52s-charging-port
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/samsung-galaxy-a52s-charging-port/

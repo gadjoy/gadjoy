@@ -4,8 +4,8 @@ date: '2022-04-27T12:47:07'
 slug: code-find-the-smaller-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/27/code-find-the-smaller-number/

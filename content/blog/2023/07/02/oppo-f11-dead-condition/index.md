@@ -4,9 +4,9 @@ date: '2023-07-02T12:38:42'
 slug: oppo-f11-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/02/oppo-f11-dead-condition/

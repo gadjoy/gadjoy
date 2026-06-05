@@ -4,9 +4,9 @@ date: '2023-04-23T05:53:45'
 slug: one-plus-7-dead-and-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/23/one-plus-7-dead-and-water-damage/

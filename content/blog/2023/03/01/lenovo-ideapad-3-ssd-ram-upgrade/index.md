@@ -4,9 +4,9 @@ date: '2023-03-01T13:11:48'
 slug: lenovo-ideapad-3-ssd-ram-upgrade
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/03/01/lenovo-ideapad-3-ssd-ram-upgrade/

@@ -4,9 +4,9 @@ date: '2023-06-26T13:36:04'
 slug: lenovo-yoga-6-13alc6-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/lenovo-yoga-6-13alc6-dead/

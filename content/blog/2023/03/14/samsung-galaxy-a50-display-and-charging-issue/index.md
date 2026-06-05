@@ -4,9 +4,9 @@ date: '2023-03-14T11:13:50'
 slug: samsung-galaxy-a50-display-and-charging-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/14/samsung-galaxy-a50-display-and-charging-issue/

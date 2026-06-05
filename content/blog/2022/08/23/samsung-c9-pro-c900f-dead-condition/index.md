@@ -4,9 +4,9 @@ date: '2022-08-23T12:51:37'
 slug: samsung-c9-pro-c900f-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/23/samsung-c9-pro-c900f-dead-condition/

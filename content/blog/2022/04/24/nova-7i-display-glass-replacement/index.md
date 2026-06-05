@@ -4,9 +4,9 @@ date: '2022-04-24T11:50:39'
 slug: nova-7i-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/24/nova-7i-display-glass-replacement/

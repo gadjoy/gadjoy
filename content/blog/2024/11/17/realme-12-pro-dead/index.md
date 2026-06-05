@@ -4,9 +4,9 @@ date: '2024-11-17T11:55:18'
 slug: realme-12-pro-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/realme-12-pro-dead/

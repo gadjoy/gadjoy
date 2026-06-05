@@ -4,9 +4,9 @@ date: '2024-01-15T13:32:45'
 slug: lenovo-ideapad-320-hdd-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/01/15/lenovo-ideapad-320-hdd-replacement/

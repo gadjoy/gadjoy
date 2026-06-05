@@ -4,9 +4,9 @@ date: '2023-02-12T06:30:33'
 slug: samsung-galaxy-a51-dead-condition-3
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/12/samsung-galaxy-a51-dead-condition-3/

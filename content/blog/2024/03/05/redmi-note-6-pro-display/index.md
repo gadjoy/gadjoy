@@ -4,9 +4,9 @@ date: '2024-03-05T13:38:26'
 slug: redmi-note-6-pro-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/redmi-note-6-pro-display/

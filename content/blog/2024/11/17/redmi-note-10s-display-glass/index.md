@@ -4,9 +4,9 @@ date: '2024-11-17T11:56:28'
 slug: redmi-note-10s-display-glass
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/redmi-note-10s-display-glass/

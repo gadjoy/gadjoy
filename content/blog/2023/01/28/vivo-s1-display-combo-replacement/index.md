@@ -4,9 +4,9 @@ date: '2023-01-28T12:20:04'
 slug: vivo-s1-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/28/vivo-s1-display-combo-replacement/

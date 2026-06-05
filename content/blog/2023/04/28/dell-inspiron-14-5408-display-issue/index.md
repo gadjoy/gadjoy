@@ -4,9 +4,9 @@ date: '2023-04-28T13:25:06'
 slug: dell-inspiron-14-5408-display-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/04/28/dell-inspiron-14-5408-display-issue/

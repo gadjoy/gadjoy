@@ -4,9 +4,9 @@ date: '2023-01-29T07:14:05'
 slug: lenovo-tab-pb1750m-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/29/lenovo-tab-pb1750m-charging-port-replacement/

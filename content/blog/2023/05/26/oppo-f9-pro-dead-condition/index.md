@@ -4,9 +4,9 @@ date: '2023-05-26T13:23:47'
 slug: oppo-f9-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/26/oppo-f9-pro-dead-condition/

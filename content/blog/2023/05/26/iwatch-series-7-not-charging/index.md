@@ -4,8 +4,8 @@ date: '2023-05-26T13:20:34'
 slug: iwatch-series-7-not-charging
 draft: false
 categories:
-- Apple Watch
-- Repair
+- apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2023/05/26/iwatch-series-7-not-charging/

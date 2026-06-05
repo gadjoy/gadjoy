@@ -4,9 +4,9 @@ date: '2025-01-21T11:35:19'
 slug: iphone-12-pro-max-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2025/01/21/iphone-12-pro-max-water-damage/

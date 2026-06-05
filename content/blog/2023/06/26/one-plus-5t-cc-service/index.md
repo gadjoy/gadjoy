@@ -4,9 +4,9 @@ date: '2023-06-26T13:39:11'
 slug: one-plus-5t-cc-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/one-plus-5t-cc-service/

@@ -4,9 +4,9 @@ date: '2024-12-11T12:06:45'
 slug: realme-narzo-n53-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/12/11/realme-narzo-n53-display/

@@ -4,9 +4,9 @@ date: '2021-12-31T14:51:16'
 slug: mi-note-5-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/31/mi-note-5-display-combo-replacement/

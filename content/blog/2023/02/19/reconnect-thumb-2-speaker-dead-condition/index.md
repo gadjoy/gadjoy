@@ -4,8 +4,8 @@ date: '2023-02-19T10:06:16'
 slug: reconnect-thumb-2-speaker-dead-condition
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
+- 4-0
+- build
 tags: []
 aliases:
 - /blog/2023/02/19/reconnect-thumb-2-speaker-dead-condition/

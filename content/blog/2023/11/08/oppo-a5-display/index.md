@@ -4,9 +4,9 @@ date: '2023-11-08T12:44:55'
 slug: oppo-a5-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/08/oppo-a5-display/

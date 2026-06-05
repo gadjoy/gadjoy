@@ -4,9 +4,9 @@ date: '2021-12-15T12:04:04'
 slug: samsung-galaxy-a50-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/15/samsung-galaxy-a50-display-combo-replacement/

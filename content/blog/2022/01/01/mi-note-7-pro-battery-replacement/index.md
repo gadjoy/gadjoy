@@ -4,9 +4,9 @@ date: '2022-01-01T13:59:24'
 slug: mi-note-7-pro-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/01/mi-note-7-pro-battery-replacement/

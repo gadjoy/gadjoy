@@ -4,8 +4,8 @@ date: '2022-02-13T14:33:52'
 slug: iiot-gadget-repair
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
+- 4-0
+- build
 tags: []
 aliases:
 - /blog/2022/02/13/iiot-gadget-repair/

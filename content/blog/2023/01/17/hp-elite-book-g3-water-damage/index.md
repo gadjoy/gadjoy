@@ -4,9 +4,9 @@ date: '2023-01-17T10:28:08'
 slug: hp-elite-book-g3-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/hp-elite-book-g3-water-damage/

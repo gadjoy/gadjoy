@@ -4,9 +4,9 @@ date: '2023-06-09T13:35:42'
 slug: samsung-galaxy-a7-dead-condition-network-check
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/09/samsung-galaxy-a7-dead-condition-network-check/

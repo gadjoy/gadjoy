@@ -4,9 +4,9 @@ date: '2022-01-07T10:57:00'
 slug: ipad-2-dead-condition-3
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/07/ipad-2-dead-condition-3/

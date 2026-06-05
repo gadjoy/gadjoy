@@ -4,8 +4,8 @@ date: '2022-03-20T14:38:28'
 slug: code-cutting-speed-of-the-lathe
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/20/code-cutting-speed-of-the-lathe/

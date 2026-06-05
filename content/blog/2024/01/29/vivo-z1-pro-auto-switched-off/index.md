@@ -4,9 +4,9 @@ date: '2024-01-29T13:19:01'
 slug: vivo-z1-pro-auto-switched-off
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/vivo-z1-pro-auto-switched-off/

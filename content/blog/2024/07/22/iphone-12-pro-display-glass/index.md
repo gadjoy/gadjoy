@@ -4,9 +4,9 @@ date: '2024-07-22T13:32:45'
 slug: iphone-12-pro-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/22/iphone-12-pro-display-glass/

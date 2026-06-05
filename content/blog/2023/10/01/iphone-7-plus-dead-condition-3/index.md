@@ -4,9 +4,9 @@ date: '2023-10-01T08:58:43'
 slug: iphone-7-plus-dead-condition-3
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/01/iphone-7-plus-dead-condition-3/

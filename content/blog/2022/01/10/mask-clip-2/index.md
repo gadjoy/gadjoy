@@ -4,8 +4,8 @@ date: '2022-01-10T12:07:58'
 slug: mask-clip-2
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/mask-clip-2/

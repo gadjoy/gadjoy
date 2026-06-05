@@ -4,8 +4,8 @@ date: '2022-03-13T11:37:09'
 slug: 3d-printer-calibration
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/13/3d-printer-calibration/

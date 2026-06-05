@@ -4,8 +4,8 @@ date: '2022-01-10T12:13:56'
 slug: cable-wind-up
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/cable-wind-up/

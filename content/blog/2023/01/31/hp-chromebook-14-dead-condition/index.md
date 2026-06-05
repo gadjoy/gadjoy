@@ -4,9 +4,9 @@ date: '2023-01-31T11:17:07'
 slug: hp-chromebook-14-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/31/hp-chromebook-14-dead-condition/

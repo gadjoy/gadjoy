@@ -4,9 +4,9 @@ date: '2021-12-21T14:40:40'
 slug: realme-3-pro-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/21/realme-3-pro-display-glass-replacement/

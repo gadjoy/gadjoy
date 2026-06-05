@@ -4,9 +4,9 @@ date: '2021-12-28T10:50:47'
 slug: lenovo-a6-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/28/lenovo-a6-display-combo-replacement/

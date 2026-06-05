@@ -4,9 +4,9 @@ date: '2024-01-29T13:10:08'
 slug: samsung-galaxy-a30-log-restarting
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/samsung-galaxy-a30-log-restarting/

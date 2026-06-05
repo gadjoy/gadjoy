@@ -4,9 +4,9 @@ date: '2022-06-26T14:25:25'
 slug: '4629'
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/06/26/4629/

@@ -4,9 +4,9 @@ date: '2022-04-10T12:33:27'
 slug: dell-inspiron-15-keyboard-touchpad-bottom-panel-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/10/dell-inspiron-15-keyboard-touchpad-bottom-panel-replacement/

@@ -4,8 +4,8 @@ date: '2022-04-11T12:58:55'
 slug: 3d-printer-t-rex-wall-sculpture
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/11/3d-printer-t-rex-wall-sculpture/

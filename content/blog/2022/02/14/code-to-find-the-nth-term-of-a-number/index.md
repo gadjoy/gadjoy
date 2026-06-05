@@ -4,8 +4,8 @@ date: '2022-02-14T12:59:46'
 slug: code-to-find-the-nth-term-of-a-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/14/code-to-find-the-nth-term-of-a-number/

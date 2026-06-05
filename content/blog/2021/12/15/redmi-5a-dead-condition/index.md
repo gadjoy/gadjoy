@@ -4,9 +4,9 @@ date: '2021-12-15T11:55:20'
 slug: redmi-5a-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/15/redmi-5a-dead-condition/

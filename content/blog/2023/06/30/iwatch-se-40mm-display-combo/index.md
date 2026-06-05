@@ -4,9 +4,9 @@ date: '2023-06-30T12:05:36'
 slug: iwatch-se-40mm-display-combo
 draft: false
 categories:
-- Apple Watch
-- Display & Glass Replacement
-- Repair
+- apple-watch
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2023/06/30/iwatch-se-40mm-display-combo/

@@ -4,9 +4,9 @@ date: '2023-06-14T13:21:49'
 slug: iphone-7-battery-logo-stuck
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/06/14/iphone-7-battery-logo-stuck/

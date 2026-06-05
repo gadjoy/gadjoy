@@ -4,9 +4,9 @@ date: '2024-06-05T13:12:37'
 slug: samsung-galaxy-j6-battery
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/06/05/samsung-galaxy-j6-battery/

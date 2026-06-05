@@ -4,9 +4,9 @@ date: '2023-04-28T13:55:46'
 slug: hp-14q-cs0006tu-256gb-ssd-8gb-ddr4-ram
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/28/hp-14q-cs0006tu-256gb-ssd-8gb-ddr4-ram/

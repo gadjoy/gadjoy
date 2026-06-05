@@ -4,9 +4,9 @@ date: '2025-02-18T21:07:04'
 slug: vivo-s1-display-issue-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/vivo-s1-display-issue-2/

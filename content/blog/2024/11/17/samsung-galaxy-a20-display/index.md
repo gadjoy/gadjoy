@@ -4,9 +4,9 @@ date: '2024-11-17T12:03:28'
 slug: samsung-galaxy-a20-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/samsung-galaxy-a20-display/

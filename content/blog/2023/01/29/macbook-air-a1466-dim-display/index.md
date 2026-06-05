@@ -4,9 +4,9 @@ date: '2023-01-29T05:15:58'
 slug: macbook-air-a1466-dim-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/29/macbook-air-a1466-dim-display/

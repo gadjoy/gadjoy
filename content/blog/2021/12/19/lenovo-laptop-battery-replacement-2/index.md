@@ -4,9 +4,9 @@ date: '2021-12-19T09:04:05'
 slug: lenovo-laptop-battery-replacement-2
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2021/12/19/lenovo-laptop-battery-replacement-2/

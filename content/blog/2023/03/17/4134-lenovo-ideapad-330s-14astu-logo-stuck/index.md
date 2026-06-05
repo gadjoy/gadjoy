@@ -4,9 +4,9 @@ date: '2023-03-17T12:35:42'
 slug: 4134-lenovo-ideapad-330s-14astu-logo-stuck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/03/17/4134-lenovo-ideapad-330s-14astu-logo-stuck/

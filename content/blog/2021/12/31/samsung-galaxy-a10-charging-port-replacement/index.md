@@ -4,9 +4,9 @@ date: '2021-12-31T15:00:32'
 slug: samsung-galaxy-a10-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/31/samsung-galaxy-a10-charging-port-replacement/

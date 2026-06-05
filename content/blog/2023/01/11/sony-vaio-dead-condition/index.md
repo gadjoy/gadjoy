@@ -4,9 +4,9 @@ date: '2023-01-11T12:21:40'
 slug: sony-vaio-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/11/sony-vaio-dead-condition/

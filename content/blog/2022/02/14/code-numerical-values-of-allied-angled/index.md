@@ -4,8 +4,8 @@ date: '2022-02-14T13:02:24'
 slug: code-numerical-values-of-allied-angled
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/14/code-numerical-values-of-allied-angled/

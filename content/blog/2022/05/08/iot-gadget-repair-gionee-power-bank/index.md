@@ -4,8 +4,8 @@ date: '2022-05-08T08:52:29'
 slug: iot-gadget-repair-gionee-power-bank
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/05/08/iot-gadget-repair-gionee-power-bank/

@@ -4,8 +4,8 @@ date: '2022-01-26T13:21:32'
 slug: microgreens-chickpeas
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
+- 4-0
+- build
 tags: []
 aliases:
 - /blog/2022/01/26/microgreens-chickpeas/

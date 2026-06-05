@@ -4,8 +4,8 @@ date: '2022-01-20T14:08:49'
 slug: code-numbers-to-find-divisible-by-11-2
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/20/code-numbers-to-find-divisible-by-11-2/

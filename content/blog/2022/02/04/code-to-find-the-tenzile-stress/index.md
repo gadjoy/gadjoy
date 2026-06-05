@@ -4,8 +4,8 @@ date: '2022-02-04T12:31:57'
 slug: code-to-find-the-tenzile-stress
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/04/code-to-find-the-tenzile-stress/

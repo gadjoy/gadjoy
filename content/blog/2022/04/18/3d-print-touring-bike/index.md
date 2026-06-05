@@ -4,8 +4,8 @@ date: '2022-04-18T10:36:14'
 slug: 3d-print-touring-bike
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/18/3d-print-touring-bike/

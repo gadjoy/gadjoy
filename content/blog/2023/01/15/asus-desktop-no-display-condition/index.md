@@ -4,9 +4,9 @@ date: '2023-01-15T05:15:18'
 slug: asus-desktop-no-display-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/asus-desktop-no-display-condition/

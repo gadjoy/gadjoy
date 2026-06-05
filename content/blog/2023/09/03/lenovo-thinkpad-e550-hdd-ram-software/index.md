@@ -4,9 +4,9 @@ date: '2023-09-03T13:02:34'
 slug: lenovo-thinkpad-e550-hdd-ram-software
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/09/03/lenovo-thinkpad-e550-hdd-ram-software/

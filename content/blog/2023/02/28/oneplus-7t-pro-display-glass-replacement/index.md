@@ -4,9 +4,9 @@ date: '2023-02-28T12:12:21'
 slug: oneplus-7t-pro-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/28/oneplus-7t-pro-display-glass-replacement/

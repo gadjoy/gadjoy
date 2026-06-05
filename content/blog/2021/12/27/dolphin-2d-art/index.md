@@ -4,8 +4,8 @@ date: '2021-12-27T11:55:59'
 slug: dolphin-2d-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/27/dolphin-2d-art/

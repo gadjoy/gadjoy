@@ -4,9 +4,9 @@ date: '2023-07-09T07:25:38'
 slug: hp-pavilion-360-14-cd0077tu-ram-updating
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/07/09/hp-pavilion-360-14-cd0077tu-ram-updating/

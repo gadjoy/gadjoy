@@ -4,9 +4,9 @@ date: '2022-08-27T10:48:18'
 slug: poco-f1-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/poco-f1-display-combo-replacement/

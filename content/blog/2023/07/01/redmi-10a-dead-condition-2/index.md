@@ -4,9 +4,9 @@ date: '2023-07-01T12:19:31'
 slug: redmi-10a-dead-condition-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/01/redmi-10a-dead-condition-2/

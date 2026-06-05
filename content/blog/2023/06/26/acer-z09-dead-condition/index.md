@@ -4,9 +4,9 @@ date: '2023-06-26T13:40:32'
 slug: acer-z09-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/acer-z09-dead-condition/

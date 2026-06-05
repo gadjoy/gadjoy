@@ -4,8 +4,8 @@ date: '2022-03-23T11:51:29'
 slug: iiot-raspberry-pi-boot-issue
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/23/iiot-raspberry-pi-boot-issue/

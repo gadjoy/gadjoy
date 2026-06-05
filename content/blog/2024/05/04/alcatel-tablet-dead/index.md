@@ -4,9 +4,9 @@ date: '2024-05-04T13:48:57'
 slug: alcatel-tablet-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/04/alcatel-tablet-dead/

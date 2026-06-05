@@ -4,9 +4,9 @@ date: '2024-01-29T13:05:03'
 slug: lenovo-thinkpad-t440p-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/lenovo-thinkpad-t440p-water-damage/

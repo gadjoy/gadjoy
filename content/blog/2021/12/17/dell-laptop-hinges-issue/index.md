@@ -4,9 +4,9 @@ date: '2021-12-17T12:47:23'
 slug: dell-laptop-hinges-issue
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/17/dell-laptop-hinges-issue/

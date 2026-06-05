@@ -4,9 +4,9 @@ date: '2022-03-28T04:46:42'
 slug: vivo-v7-plus-ringer-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/28/vivo-v7-plus-ringer-replacement/

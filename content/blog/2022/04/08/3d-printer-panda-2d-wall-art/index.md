@@ -4,8 +4,8 @@ date: '2022-04-08T14:08:55'
 slug: 3d-printer-panda-2d-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/08/3d-printer-panda-2d-wall-art/

@@ -4,10 +4,10 @@ date: '2022-03-26T11:06:57'
 slug: iphone-xs-display-glass-replacement-software-service
 draft: false
 categories:
-- Display & Glass Replacement
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/26/iphone-xs-display-glass-replacement-software-service/

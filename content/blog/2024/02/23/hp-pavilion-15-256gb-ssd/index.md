@@ -4,9 +4,9 @@ date: '2024-02-23T12:44:31'
 slug: hp-pavilion-15-256gb-ssd
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/02/23/hp-pavilion-15-256gb-ssd/

@@ -4,9 +4,9 @@ date: '2022-02-09T11:03:38'
 slug: redmi-c2-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/09/redmi-c2-display-combo-replacement/

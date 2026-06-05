@@ -4,9 +4,9 @@ date: '2024-01-19T14:32:17'
 slug: realme-narzo-50i-dead
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/19/realme-narzo-50i-dead/

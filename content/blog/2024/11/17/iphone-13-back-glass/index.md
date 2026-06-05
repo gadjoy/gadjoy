@@ -4,9 +4,9 @@ date: '2024-11-17T12:11:52'
 slug: iphone-13-back-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/iphone-13-back-glass/

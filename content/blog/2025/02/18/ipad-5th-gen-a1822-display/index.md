@@ -4,9 +4,9 @@ date: '2025-02-18T21:08:06'
 slug: ipad-5th-gen-a1822-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/ipad-5th-gen-a1822-display/

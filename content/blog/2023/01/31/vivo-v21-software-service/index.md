@@ -4,9 +4,9 @@ date: '2023-01-31T11:20:00'
 slug: vivo-v21-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/31/vivo-v21-software-service/

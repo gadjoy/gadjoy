@@ -4,8 +4,8 @@ date: '2022-08-24T14:00:11'
 slug: lenovo-g50-80-display-black-sport
 draft: false
 categories:
-- Display & Glass Replacement
-- Laptop & Desktop
+- display-and-glass-replacement
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/24/lenovo-g50-80-display-black-sport/

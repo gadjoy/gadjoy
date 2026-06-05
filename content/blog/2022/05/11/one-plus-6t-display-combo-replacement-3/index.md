@@ -4,9 +4,9 @@ date: '2022-05-11T14:33:15'
 slug: one-plus-6t-display-combo-replacement-3
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/11/one-plus-6t-display-combo-replacement-3/

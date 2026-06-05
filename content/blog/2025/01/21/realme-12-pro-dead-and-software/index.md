@@ -4,9 +4,9 @@ date: '2025-01-21T11:43:56'
 slug: realme-12-pro-dead-and-software
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Software Services
+- mobiles
+- repair
+- software-services
 tags: []
 aliases:
 - /blog/2025/01/21/realme-12-pro-dead-and-software/

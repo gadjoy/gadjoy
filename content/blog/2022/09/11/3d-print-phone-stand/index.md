@@ -4,8 +4,8 @@ date: '2022-09-11T09:50:58'
 slug: 3d-print-phone-stand
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/09/11/3d-print-phone-stand/

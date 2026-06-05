@@ -4,8 +4,8 @@ date: '2023-04-09T13:13:47'
 slug: amazon-eco-speaker-connecting-and-aux-issue
 draft: false
 categories:
-- 4.0 Products & Services
-- Build
+- 4-0
+- build
 tags: []
 aliases:
 - /blog/2023/04/09/amazon-eco-speaker-connecting-and-aux-issue/

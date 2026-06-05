@@ -4,9 +4,9 @@ date: '2021-12-29T12:28:24'
 slug: macbook-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/macbook-dead-condition/

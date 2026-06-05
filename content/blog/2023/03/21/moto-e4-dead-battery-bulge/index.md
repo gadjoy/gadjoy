@@ -4,9 +4,9 @@ date: '2023-03-21T13:12:46'
 slug: moto-e4-dead-battery-bulge
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/21/moto-e4-dead-battery-bulge/

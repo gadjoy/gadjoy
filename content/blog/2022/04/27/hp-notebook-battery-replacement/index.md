@@ -4,9 +4,9 @@ date: '2022-04-27T10:04:37'
 slug: hp-notebook-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/27/hp-notebook-battery-replacement/

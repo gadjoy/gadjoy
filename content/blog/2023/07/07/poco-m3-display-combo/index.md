@@ -4,9 +4,9 @@ date: '2023-07-07T13:28:01'
 slug: poco-m3-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/07/poco-m3-display-combo/

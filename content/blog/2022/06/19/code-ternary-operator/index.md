@@ -4,8 +4,8 @@ date: '2022-06-19T14:59:53'
 slug: code-ternary-operator
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/06/19/code-ternary-operator/

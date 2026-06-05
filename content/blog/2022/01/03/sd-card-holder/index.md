@@ -4,8 +4,8 @@ date: '2022-01-03T13:26:37'
 slug: sd-card-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/03/sd-card-holder/

@@ -4,9 +4,9 @@ date: '2024-03-11T14:09:39'
 slug: lenovo-g50-45-dead
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/11/lenovo-g50-45-dead/

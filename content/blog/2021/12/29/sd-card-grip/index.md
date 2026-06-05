@@ -4,9 +4,9 @@ date: '2021-12-29T12:08:26'
 slug: sd-card-grip
 draft: false
 categories:
-- 3D Print
-- Build
-- Uncategorized
+- 3dp
+- build
+- uncategorized
 tags: []
 aliases:
 - /blog/2021/12/29/sd-card-grip/

@@ -4,9 +4,9 @@ date: '2023-01-28T12:21:36'
 slug: samsung-s21-ultra-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/28/samsung-s21-ultra-display-combo-replacement/

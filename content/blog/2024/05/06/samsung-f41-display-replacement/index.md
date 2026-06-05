@@ -4,9 +4,9 @@ date: '2024-05-06T13:40:13'
 slug: samsung-f41-display-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/06/samsung-f41-display-replacement/

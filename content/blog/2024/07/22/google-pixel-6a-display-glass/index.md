@@ -4,9 +4,9 @@ date: '2024-07-22T13:38:35'
 slug: google-pixel-6a-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/22/google-pixel-6a-display-glass/

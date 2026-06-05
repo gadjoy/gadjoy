@@ -4,9 +4,9 @@ date: '2021-12-29T12:21:28'
 slug: acer-laptop-hdd-replacement
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/acer-laptop-hdd-replacement/

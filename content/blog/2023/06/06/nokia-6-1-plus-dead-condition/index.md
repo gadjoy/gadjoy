@@ -4,9 +4,9 @@ date: '2023-06-06T12:51:21'
 slug: nokia-6-1-plus-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/06/nokia-6-1-plus-dead-condition/

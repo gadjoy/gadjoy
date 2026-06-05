@@ -4,7 +4,7 @@ date: '2022-08-26T12:48:16'
 slug: vivo-y12-display-flickering
 draft: false
 categories:
-- Mobile & Tablets
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/26/vivo-y12-display-flickering/

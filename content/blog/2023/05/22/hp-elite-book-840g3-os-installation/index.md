@@ -4,9 +4,9 @@ date: '2023-05-22T12:06:14'
 slug: hp-elite-book-840g3-os-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/05/22/hp-elite-book-840g3-os-installation/

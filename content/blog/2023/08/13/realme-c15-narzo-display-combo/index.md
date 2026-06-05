@@ -4,9 +4,9 @@ date: '2023-08-13T10:42:58'
 slug: realme-c15-narzo-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/realme-c15-narzo-display-combo/

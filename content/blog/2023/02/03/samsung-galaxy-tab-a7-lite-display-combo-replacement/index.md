@@ -4,9 +4,9 @@ date: '2023-02-03T12:16:07'
 slug: samsung-galaxy-tab-a7-lite-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/03/samsung-galaxy-tab-a7-lite-display-combo-replacement/

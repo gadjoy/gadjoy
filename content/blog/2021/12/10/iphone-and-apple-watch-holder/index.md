@@ -4,7 +4,7 @@ date: '2021-12-10T11:04:52'
 slug: iphone-and-apple-watch-holder
 draft: false
 categories:
-- 3D Print
+- 3dp
 tags: []
 aliases:
 - /blog/2021/12/10/iphone-and-apple-watch-holder/

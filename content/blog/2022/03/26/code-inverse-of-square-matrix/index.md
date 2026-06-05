@@ -4,8 +4,8 @@ date: '2022-03-26T12:18:48'
 slug: code-inverse-of-square-matrix
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/26/code-inverse-of-square-matrix/

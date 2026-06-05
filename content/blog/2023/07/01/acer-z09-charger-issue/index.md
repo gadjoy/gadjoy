@@ -4,9 +4,9 @@ date: '2023-07-01T12:21:28'
 slug: acer-z09-charger-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/07/01/acer-z09-charger-issue/

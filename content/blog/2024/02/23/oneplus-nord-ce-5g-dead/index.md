@@ -4,9 +4,9 @@ date: '2024-02-23T12:43:26'
 slug: oneplus-nord-ce-5g-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/02/23/oneplus-nord-ce-5g-dead/

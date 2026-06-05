@@ -4,9 +4,9 @@ date: '2023-09-06T13:32:34'
 slug: iqoo-z7s-5g-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/iqoo-z7s-5g-display-glass/

@@ -4,8 +4,8 @@ date: '2022-03-27T13:23:43'
 slug: code-production-cost-for-ms-rod-2
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/27/code-production-cost-for-ms-rod-2/

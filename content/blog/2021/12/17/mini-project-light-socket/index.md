@@ -4,8 +4,8 @@ date: '2021-12-17T11:35:27'
 slug: mini-project-light-socket
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/17/mini-project-light-socket/

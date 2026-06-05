@@ -4,8 +4,8 @@ date: '2022-01-01T11:44:31'
 slug: program-to-find-lcm-of-2-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/01/program-to-find-lcm-of-2-numbers/

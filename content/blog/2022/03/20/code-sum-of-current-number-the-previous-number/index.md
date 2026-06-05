@@ -4,8 +4,8 @@ date: '2022-03-20T10:22:00'
 slug: code-sum-of-current-number-the-previous-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/20/code-sum-of-current-number-the-previous-number/

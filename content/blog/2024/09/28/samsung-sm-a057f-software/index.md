@@ -4,9 +4,9 @@ date: '2024-09-28T10:59:08'
 slug: samsung-sm-a057f-software
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/28/samsung-sm-a057f-software/

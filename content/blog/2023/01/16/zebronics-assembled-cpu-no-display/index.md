@@ -4,9 +4,9 @@ date: '2023-01-16T12:34:37'
 slug: zebronics-assembled-cpu-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/zebronics-assembled-cpu-no-display/

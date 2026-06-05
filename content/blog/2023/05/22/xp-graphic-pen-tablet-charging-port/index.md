@@ -4,9 +4,9 @@ date: '2023-05-22T12:04:21'
 slug: xp-graphic-pen-tablet-charging-port
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/05/22/xp-graphic-pen-tablet-charging-port/

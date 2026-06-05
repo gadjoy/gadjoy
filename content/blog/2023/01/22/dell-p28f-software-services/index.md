@@ -4,9 +4,9 @@ date: '2023-01-22T11:49:31'
 slug: dell-p28f-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/dell-p28f-software-services/

@@ -4,9 +4,9 @@ date: '2024-01-31T13:30:33'
 slug: acer-n16w1-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/31/acer-n16w1-dead-condition/

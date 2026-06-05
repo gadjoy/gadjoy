@@ -4,7 +4,7 @@ date: '2022-04-10T12:42:44'
 slug: iiot-raspberry-pi-gpio-music-box
 draft: false
 categories:
-- Uncategorized
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/04/10/iiot-raspberry-pi-gpio-music-box/

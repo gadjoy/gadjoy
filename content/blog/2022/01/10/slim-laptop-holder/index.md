@@ -4,8 +4,8 @@ date: '2022-01-10T12:09:18'
 slug: slim-laptop-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/slim-laptop-holder/

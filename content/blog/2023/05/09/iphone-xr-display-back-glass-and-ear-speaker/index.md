@@ -4,9 +4,9 @@ date: '2023-05-09T13:21:00'
 slug: iphone-xr-display-back-glass-and-ear-speaker
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/09/iphone-xr-display-back-glass-and-ear-speaker/

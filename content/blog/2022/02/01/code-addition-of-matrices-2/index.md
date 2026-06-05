@@ -4,8 +4,8 @@ date: '2022-02-01T14:24:53'
 slug: code-addition-of-matrices-2
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/01/code-addition-of-matrices-2/

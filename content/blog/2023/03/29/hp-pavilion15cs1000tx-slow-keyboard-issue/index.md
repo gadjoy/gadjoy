@@ -4,9 +4,9 @@ date: '2023-03-29T12:11:00'
 slug: hp-pavilion15cs1000tx-slow-keyboard-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/03/29/hp-pavilion15cs1000tx-slow-keyboard-issue/

@@ -4,9 +4,9 @@ date: '2023-11-14T10:19:09'
 slug: vivo-y91i-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/14/vivo-y91i-display-glass/

@@ -4,9 +4,9 @@ date: '2022-03-27T13:03:38'
 slug: zebronics-cpu-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/27/zebronics-cpu-dead-condition/

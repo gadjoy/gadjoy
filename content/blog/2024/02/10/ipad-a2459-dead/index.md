@@ -4,9 +4,9 @@ date: '2024-02-10T12:29:02'
 slug: ipad-a2459-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/02/10/ipad-a2459-dead/

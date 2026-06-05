@@ -4,9 +4,9 @@ date: '2021-12-29T14:27:16'
 slug: iphone-6s-plus-icloud-unlock
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/iphone-6s-plus-icloud-unlock/

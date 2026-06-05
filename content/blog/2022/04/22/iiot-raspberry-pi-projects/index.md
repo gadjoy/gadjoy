@@ -4,8 +4,8 @@ date: '2022-04-22T12:42:29'
 slug: iiot-raspberry-pi-projects
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/22/iiot-raspberry-pi-projects/

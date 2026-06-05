@@ -4,8 +4,8 @@ date: '2022-01-02T12:00:33'
 slug: hex-key-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/02/hex-key-holder/

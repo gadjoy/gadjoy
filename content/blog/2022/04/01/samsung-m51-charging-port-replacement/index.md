@@ -4,9 +4,9 @@ date: '2022-04-01T11:36:34'
 slug: samsung-m51-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/01/samsung-m51-charging-port-replacement/

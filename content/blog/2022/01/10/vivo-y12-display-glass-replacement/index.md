@@ -4,9 +4,9 @@ date: '2022-01-10T11:02:02'
 slug: vivo-y12-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/10/vivo-y12-display-glass-replacement/

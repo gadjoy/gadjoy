@@ -4,9 +4,9 @@ date: '2022-05-28T13:22:40'
 slug: oppo-a33f-power-button-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/28/oppo-a33f-power-button-issue/

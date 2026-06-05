@@ -4,9 +4,9 @@ date: '2024-01-29T13:11:46'
 slug: redmi-9a-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/redmi-9a-dead-condition/

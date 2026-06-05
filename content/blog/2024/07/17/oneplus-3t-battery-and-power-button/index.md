@@ -4,9 +4,9 @@ date: '2024-07-17T12:47:43'
 slug: oneplus-3t-battery-and-power-button
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/07/17/oneplus-3t-battery-and-power-button/

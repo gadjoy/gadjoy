@@ -4,9 +4,9 @@ date: '2025-02-18T21:01:24'
 slug: dell-latitude-5400-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/dell-latitude-5400-no-display/

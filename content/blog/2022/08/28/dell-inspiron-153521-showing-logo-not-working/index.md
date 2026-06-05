@@ -4,9 +4,9 @@ date: '2022-08-28T04:52:28'
 slug: dell-inspiron-153521-showing-logo-not-working
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/08/28/dell-inspiron-153521-showing-logo-not-working/

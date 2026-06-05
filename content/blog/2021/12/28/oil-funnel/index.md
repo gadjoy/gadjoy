@@ -4,8 +4,8 @@ date: '2021-12-28T14:31:57'
 slug: oil-funnel
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/28/oil-funnel/

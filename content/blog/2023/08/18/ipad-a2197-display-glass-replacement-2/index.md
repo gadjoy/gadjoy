@@ -4,9 +4,9 @@ date: '2023-08-18T14:15:33'
 slug: ipad-a2197-display-glass-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/18/ipad-a2197-display-glass-replacement-2/

@@ -4,9 +4,9 @@ date: '2024-09-03T14:00:43'
 slug: samsung-galaxy-on-6-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/samsung-galaxy-on-6-software-service/

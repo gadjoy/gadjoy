@@ -4,8 +4,8 @@ date: '2022-04-30T13:14:38'
 slug: code-find-the-absolute-difference-between-the-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/30/code-find-the-absolute-difference-between-the-numbers/

@@ -4,9 +4,9 @@ date: '2024-11-17T12:02:17'
 slug: infinix-hot-30i-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/infinix-hot-30i-display/

@@ -4,10 +4,10 @@ date: '2023-02-11T12:49:44'
 slug: dell-inspiron-15-5548-512-gb-ssd-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/02/11/dell-inspiron-15-5548-512-gb-ssd-2/

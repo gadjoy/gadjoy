@@ -4,9 +4,9 @@ date: '2022-03-11T14:44:14'
 slug: redmi-note-5-pro-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/11/redmi-note-5-pro-display-glass-replacement/

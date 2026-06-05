@@ -4,9 +4,9 @@ date: '2023-04-05T12:38:57'
 slug: hp-notebook-14-hinge-fabrication
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/05/hp-notebook-14-hinge-fabrication/

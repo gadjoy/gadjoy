@@ -4,9 +4,9 @@ date: '2022-03-09T13:38:42'
 slug: redmi-9-prime-dead-condition-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/09/redmi-9-prime-dead-condition-2/

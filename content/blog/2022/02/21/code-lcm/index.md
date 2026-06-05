@@ -4,8 +4,8 @@ date: '2022-02-21T13:52:48'
 slug: code-lcm
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/21/code-lcm/

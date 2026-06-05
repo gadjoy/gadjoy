@@ -4,9 +4,9 @@ date: '2024-12-11T12:18:45'
 slug: macbook-air-a2337-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/12/11/macbook-air-a2337-battery/

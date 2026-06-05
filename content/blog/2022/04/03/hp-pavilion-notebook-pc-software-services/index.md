@@ -4,9 +4,9 @@ date: '2022-04-03T09:07:03'
 slug: hp-pavilion-notebook-pc-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/04/03/hp-pavilion-notebook-pc-software-services/

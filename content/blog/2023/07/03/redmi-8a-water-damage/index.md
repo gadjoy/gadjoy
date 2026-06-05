@@ -4,9 +4,9 @@ date: '2023-07-03T12:00:16'
 slug: redmi-8a-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2023/07/03/redmi-8a-water-damage/

@@ -4,9 +4,9 @@ date: '2021-12-29T14:41:47'
 slug: oppo-f17-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/oppo-f17-display-glass-replacement/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:09:58'
 slug: iphone-8-plus-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/iphone-8-plus-display-combo/

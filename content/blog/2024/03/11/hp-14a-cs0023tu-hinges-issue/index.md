@@ -4,9 +4,9 @@ date: '2024-03-11T14:00:22'
 slug: hp-14a-cs0023tu-hinges-issue
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/11/hp-14a-cs0023tu-hinges-issue/

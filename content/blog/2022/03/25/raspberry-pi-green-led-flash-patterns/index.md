@@ -4,8 +4,8 @@ date: '2022-03-25T13:36:27'
 slug: raspberry-pi-green-led-flash-patterns
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/25/raspberry-pi-green-led-flash-patterns/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:41:53'
 slug: oppo-a94-5g-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/oppo-a94-5g-dead-condition/

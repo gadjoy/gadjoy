@@ -4,9 +4,9 @@ date: '2022-04-30T13:44:17'
 slug: hp-15-series-keyboard-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/30/hp-15-series-keyboard-replacement/

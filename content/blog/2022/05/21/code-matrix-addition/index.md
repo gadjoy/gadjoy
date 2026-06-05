@@ -4,8 +4,8 @@ date: '2022-05-21T14:25:30'
 slug: code-matrix-addition
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/21/code-matrix-addition/

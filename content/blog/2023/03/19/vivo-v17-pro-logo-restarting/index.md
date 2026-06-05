@@ -4,9 +4,9 @@ date: '2023-03-19T07:27:37'
 slug: vivo-v17-pro-logo-restarting
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/19/vivo-v17-pro-logo-restarting/

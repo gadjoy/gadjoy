@@ -4,8 +4,8 @@ date: '2022-03-21T14:37:13'
 slug: code-accept-a-string-from-the-user
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/21/code-accept-a-string-from-the-user/

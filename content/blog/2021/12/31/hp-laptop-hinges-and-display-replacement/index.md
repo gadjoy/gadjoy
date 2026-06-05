@@ -4,10 +4,10 @@ date: '2021-12-31T13:35:15'
 slug: hp-laptop-hinges-and-display-replacement
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- hinge-repair
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2021/12/31/hp-laptop-hinges-and-display-replacement/

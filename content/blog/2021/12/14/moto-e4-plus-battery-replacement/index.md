@@ -4,9 +4,9 @@ date: '2021-12-14T13:53:17'
 slug: moto-e4-plus-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/14/moto-e4-plus-battery-replacement/

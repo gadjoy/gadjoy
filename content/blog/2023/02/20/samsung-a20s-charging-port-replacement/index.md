@@ -4,9 +4,9 @@ date: '2023-02-20T10:34:50'
 slug: samsung-a20s-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/20/samsung-a20s-charging-port-replacement/

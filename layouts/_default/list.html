@@ -45,12 +45,10 @@
                                           {{ if isset .Params "authors" }}
 					  {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
                                           {{ end }}
-                                          {{ if isset .Params "categories" }}
-                                          {{ if gt (len .Params.categories) 0 }}
+                                          {{ $cats := .GetTerms "categories" }}
+                                          {{ if $cats }}
                                           in
-                                          {{ range $index, $category := .Params.categories }}{{ if $index }}, {{ end }}
-                                              <a href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}">{{ $category }}</a>{{ end }}
-                                          {{ end }}
+                                          {{ range $index, $term := $cats }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>{{ end }}
                                           {{ end }}
 
                                         </p>

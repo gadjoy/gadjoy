@@ -4,8 +4,8 @@ date: '2022-08-27T10:29:54'
 slug: amazon-kindle-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
+- chip-level-and-ic-repair-mobile
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/27/amazon-kindle-dead-condition/

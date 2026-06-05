@@ -4,9 +4,9 @@ date: '2021-12-23T15:10:48'
 slug: samsung-grand-prime-4g-after-power-button-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/23/samsung-grand-prime-4g-after-power-button-replacement/

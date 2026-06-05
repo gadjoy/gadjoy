@@ -4,9 +4,9 @@ date: '2024-05-24T13:05:45'
 slug: iphone-14-plus-not-activated
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/24/iphone-14-plus-not-activated/

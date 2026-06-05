@@ -4,8 +4,8 @@ date: '2022-04-06T12:46:21'
 slug: 3d-print-bed-cable-support
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/06/3d-print-bed-cable-support/

@@ -4,8 +4,8 @@ date: '2022-03-16T12:35:36'
 slug: code-successive-differentiation
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/16/code-successive-differentiation/

@@ -4,9 +4,9 @@ date: '2022-04-10T11:29:15'
 slug: samsung-a03s-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/10/samsung-a03s-display-combo-replacement/

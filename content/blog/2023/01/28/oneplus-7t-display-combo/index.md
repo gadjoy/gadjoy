@@ -4,9 +4,9 @@ date: '2023-01-28T10:29:29'
 slug: oneplus-7t-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/28/oneplus-7t-display-combo/

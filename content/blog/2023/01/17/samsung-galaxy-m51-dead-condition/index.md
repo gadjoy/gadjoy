@@ -4,9 +4,9 @@ date: '2023-01-17T12:44:35'
 slug: samsung-galaxy-m51-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/samsung-galaxy-m51-dead-condition/

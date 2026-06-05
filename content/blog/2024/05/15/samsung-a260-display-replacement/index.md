@@ -4,9 +4,9 @@ date: '2024-05-15T14:32:26'
 slug: samsung-a260-display-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/15/samsung-a260-display-replacement/

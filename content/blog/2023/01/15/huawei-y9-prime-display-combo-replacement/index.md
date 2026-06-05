@@ -4,9 +4,9 @@ date: '2023-01-15T05:19:59'
 slug: huawei-y9-prime-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/huawei-y9-prime-display-combo-replacement/

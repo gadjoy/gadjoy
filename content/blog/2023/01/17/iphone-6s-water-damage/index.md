@@ -4,9 +4,9 @@ date: '2023-01-17T10:30:29'
 slug: iphone-6s-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/iphone-6s-water-damage/

@@ -4,9 +4,9 @@ date: '2023-06-26T13:31:25'
 slug: hp-rtl8723-de-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/hp-rtl8723-de-dead-condition/

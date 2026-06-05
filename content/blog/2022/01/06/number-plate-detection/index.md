@@ -4,8 +4,8 @@ date: '2022-01-06T14:11:56'
 slug: number-plate-detection
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/06/number-plate-detection/

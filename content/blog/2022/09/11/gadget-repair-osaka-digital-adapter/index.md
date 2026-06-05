@@ -4,8 +4,8 @@ date: '2022-09-11T09:49:31'
 slug: gadget-repair-osaka-digital-adapter
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/09/11/gadget-repair-osaka-digital-adapter/

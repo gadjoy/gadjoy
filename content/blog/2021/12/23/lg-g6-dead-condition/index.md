@@ -4,9 +4,9 @@ date: '2021-12-23T15:03:05'
 slug: lg-g6-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/23/lg-g6-dead-condition/

@@ -4,8 +4,8 @@ date: '2021-12-15T14:37:36'
 slug: code-multiples-of-a-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/code-multiples-of-a-number/

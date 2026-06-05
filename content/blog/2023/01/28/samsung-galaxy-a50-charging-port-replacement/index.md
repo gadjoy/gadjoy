@@ -4,9 +4,9 @@ date: '2023-01-28T10:32:14'
 slug: samsung-galaxy-a50-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/28/samsung-galaxy-a50-charging-port-replacement/

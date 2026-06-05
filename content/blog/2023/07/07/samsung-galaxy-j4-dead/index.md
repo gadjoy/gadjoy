@@ -4,9 +4,9 @@ date: '2023-07-07T13:33:53'
 slug: samsung-galaxy-j4-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/07/samsung-galaxy-j4-dead/

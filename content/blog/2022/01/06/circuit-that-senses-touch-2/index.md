@@ -4,8 +4,8 @@ date: '2022-01-06T14:16:40'
 slug: circuit-that-senses-touch-2
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/06/circuit-that-senses-touch-2/

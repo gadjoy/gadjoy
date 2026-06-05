@@ -4,9 +4,9 @@ date: '2023-10-03T11:55:09'
 slug: redmi-note-7s-battery
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/10/03/redmi-note-7s-battery/

@@ -4,10 +4,10 @@ date: '2023-01-15T05:49:57'
 slug: iphone-6-display-combo-and-software-services
 draft: false
 categories:
-- Display & Glass Replacement
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/iphone-6-display-combo-and-software-services/

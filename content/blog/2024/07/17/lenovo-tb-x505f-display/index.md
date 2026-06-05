@@ -4,9 +4,9 @@ date: '2024-07-17T12:45:26'
 slug: lenovo-tb-x505f-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/17/lenovo-tb-x505f-display/

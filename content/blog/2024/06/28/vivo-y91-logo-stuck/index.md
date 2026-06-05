@@ -4,9 +4,9 @@ date: '2024-06-28T12:24:28'
 slug: vivo-y91-logo-stuck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/28/vivo-y91-logo-stuck/

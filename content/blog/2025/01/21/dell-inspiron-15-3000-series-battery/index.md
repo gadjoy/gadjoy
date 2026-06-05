@@ -4,9 +4,9 @@ date: '2025-01-21T12:10:21'
 slug: dell-inspiron-15-3000-series-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2025/01/21/dell-inspiron-15-3000-series-battery/

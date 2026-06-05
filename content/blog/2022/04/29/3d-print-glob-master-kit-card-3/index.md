@@ -4,8 +4,8 @@ date: '2022-04-29T14:08:01'
 slug: 3d-print-glob-master-kit-card-3
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/29/3d-print-glob-master-kit-card-3/

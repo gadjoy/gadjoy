@@ -4,9 +4,9 @@ date: '2024-06-22T14:34:07'
 slug: vivo-v3-network-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/22/vivo-v3-network-issue/

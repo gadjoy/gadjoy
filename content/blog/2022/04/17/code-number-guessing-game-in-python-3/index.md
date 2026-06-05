@@ -4,8 +4,8 @@ date: '2022-04-17T13:41:02'
 slug: code-number-guessing-game-in-python-3
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/17/code-number-guessing-game-in-python-3/

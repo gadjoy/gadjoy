@@ -4,8 +4,8 @@ date: '2022-04-25T12:28:05'
 slug: 3d-print-rose-2d-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/25/3d-print-rose-2d-wall-art/

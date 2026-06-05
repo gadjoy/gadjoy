@@ -4,9 +4,9 @@ date: '2024-09-03T13:59:48'
 slug: iphone-13-display-comb-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/iphone-13-display-comb-replacement/

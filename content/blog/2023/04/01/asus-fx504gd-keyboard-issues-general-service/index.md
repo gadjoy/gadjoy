@@ -4,9 +4,9 @@ date: '2023-04-01T12:38:10'
 slug: asus-fx504gd-keyboard-issues-general-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/01/asus-fx504gd-keyboard-issues-general-service/

@@ -4,9 +4,9 @@ date: '2022-03-06T09:23:43'
 slug: htc-desire-816-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/06/htc-desire-816-dead-condition/

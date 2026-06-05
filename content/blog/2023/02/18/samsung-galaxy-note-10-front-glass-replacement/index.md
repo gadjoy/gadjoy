@@ -4,9 +4,9 @@ date: '2023-02-18T10:26:46'
 slug: samsung-galaxy-note-10-front-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/18/samsung-galaxy-note-10-front-glass-replacement/

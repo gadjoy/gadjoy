@@ -4,9 +4,9 @@ date: '2023-05-05T13:36:22'
 slug: mi-a2-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/05/05/mi-a2-battery-replacement/

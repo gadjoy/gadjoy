@@ -4,9 +4,9 @@ date: '2023-07-11T14:14:10'
 slug: dell-inspiron-15-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/11/dell-inspiron-15-software-services/

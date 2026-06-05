@@ -4,9 +4,9 @@ date: '2023-01-17T10:42:05'
 slug: dell-inspiron-p75f-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/dell-inspiron-p75f-software-services/

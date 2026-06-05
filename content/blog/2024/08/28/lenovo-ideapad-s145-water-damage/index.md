@@ -4,9 +4,9 @@ date: '2024-08-28T12:51:41'
 slug: lenovo-ideapad-s145-water-damage
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Water Damage
+- laptop-and-desktop
+- repair
+- water-damage-laptop-and-desktop
 tags: []
 aliases:
 - /blog/2024/08/28/lenovo-ideapad-s145-water-damage/

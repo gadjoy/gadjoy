@@ -4,8 +4,8 @@ date: '2021-12-29T12:03:47'
 slug: '2489'
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/29/2489/

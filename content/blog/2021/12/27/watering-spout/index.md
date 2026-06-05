@@ -4,8 +4,8 @@ date: '2021-12-27T12:00:35'
 slug: watering-spout
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/27/watering-spout/

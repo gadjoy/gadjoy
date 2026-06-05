@@ -4,9 +4,9 @@ date: '2023-05-27T12:36:51'
 slug: macbook-air-a1466-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/27/macbook-air-a1466-dead-condition/

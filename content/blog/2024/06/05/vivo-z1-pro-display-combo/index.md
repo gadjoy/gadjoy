@@ -4,9 +4,9 @@ date: '2024-06-05T13:15:57'
 slug: vivo-z1-pro-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/vivo-z1-pro-display-combo/

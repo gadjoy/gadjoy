@@ -4,8 +4,8 @@ date: '2022-01-10T13:17:37'
 slug: code-numericals-to-words-from-0-99999
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/10/code-numericals-to-words-from-0-99999/

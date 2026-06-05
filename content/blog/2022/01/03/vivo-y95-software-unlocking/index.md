@@ -4,9 +4,9 @@ date: '2022-01-03T12:25:11'
 slug: vivo-y95-software-unlocking
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/03/vivo-y95-software-unlocking/

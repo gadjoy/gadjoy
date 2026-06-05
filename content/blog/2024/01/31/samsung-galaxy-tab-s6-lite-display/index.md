@@ -4,9 +4,9 @@ date: '2024-01-31T13:32:00'
 slug: samsung-galaxy-tab-s6-lite-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/31/samsung-galaxy-tab-s6-lite-display/

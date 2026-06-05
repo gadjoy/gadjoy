@@ -4,9 +4,9 @@ date: '2023-01-28T10:25:45'
 slug: macbook-pro-a1990-battery-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/01/28/macbook-pro-a1990-battery-issue/

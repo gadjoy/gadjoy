@@ -4,9 +4,9 @@ date: '2024-12-10T12:20:39'
 slug: ipad-air-2-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/12/10/ipad-air-2-display-combo/

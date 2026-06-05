@@ -4,9 +4,9 @@ date: '2022-01-06T14:35:43'
 slug: iphone-8-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/06/iphone-8-dead-condition/

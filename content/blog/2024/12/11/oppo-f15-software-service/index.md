@@ -4,9 +4,9 @@ date: '2024-12-11T12:24:07'
 slug: oppo-f15-software-service
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Software Services
+- mobiles
+- repair
+- software-services
 tags: []
 aliases:
 - /blog/2024/12/11/oppo-f15-software-service/

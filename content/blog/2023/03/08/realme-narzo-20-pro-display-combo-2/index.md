@@ -4,9 +4,9 @@ date: '2023-03-08T12:31:20'
 slug: realme-narzo-20-pro-display-combo-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/08/realme-narzo-20-pro-display-combo-2/

@@ -4,8 +4,8 @@ date: '2022-02-01T14:35:43'
 slug: code-arithmetic-progression-2
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/01/code-arithmetic-progression-2/

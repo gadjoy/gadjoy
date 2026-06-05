@@ -4,9 +4,9 @@ date: '2024-05-06T13:38:52'
 slug: vivo-y18-charging-port-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/05/06/vivo-y18-charging-port-issue/

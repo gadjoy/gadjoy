@@ -4,9 +4,9 @@ date: '2024-03-05T13:42:13'
 slug: dell-inspiron-15-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/dell-inspiron-15-no-display/

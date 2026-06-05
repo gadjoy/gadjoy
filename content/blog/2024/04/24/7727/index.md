@@ -4,9 +4,9 @@ date: '2024-04-24T11:48:28'
 slug: '7727'
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/04/24/7727/

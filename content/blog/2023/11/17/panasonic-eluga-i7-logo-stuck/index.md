@@ -4,9 +4,9 @@ date: '2023-11-17T11:33:45'
 slug: panasonic-eluga-i7-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/panasonic-eluga-i7-logo-stuck/

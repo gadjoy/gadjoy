@@ -4,9 +4,9 @@ date: '2022-03-12T13:52:34'
 slug: lava-hero-600-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/12/lava-hero-600-charging-port-replacement/

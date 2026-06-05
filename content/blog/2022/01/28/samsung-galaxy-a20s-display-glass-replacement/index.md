@@ -4,9 +4,9 @@ date: '2022-01-28T11:53:59'
 slug: samsung-galaxy-a20s-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/28/samsung-galaxy-a20s-display-glass-replacement/

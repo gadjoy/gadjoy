@@ -4,9 +4,9 @@ date: '2024-11-08T13:20:33'
 slug: hp-15-ac650tu-software-service
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/11/08/hp-15-ac650tu-software-service/

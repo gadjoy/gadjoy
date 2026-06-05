@@ -4,9 +4,9 @@ date: '2023-08-07T09:50:14'
 slug: hp-elitebook-820-fan-os
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/08/07/hp-elitebook-820-fan-os/

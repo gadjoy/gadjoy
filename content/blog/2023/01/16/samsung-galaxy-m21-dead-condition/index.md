@@ -4,9 +4,9 @@ date: '2023-01-16T12:40:23'
 slug: samsung-galaxy-m21-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/samsung-galaxy-m21-dead-condition/

@@ -4,9 +4,9 @@ date: '2021-12-12T06:20:48'
 slug: '1940'
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/12/1940/

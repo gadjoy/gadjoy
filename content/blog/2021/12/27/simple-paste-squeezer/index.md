@@ -4,8 +4,8 @@ date: '2021-12-27T11:58:47'
 slug: simple-paste-squeezer
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/27/simple-paste-squeezer/

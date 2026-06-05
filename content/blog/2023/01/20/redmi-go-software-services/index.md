@@ -4,9 +4,9 @@ date: '2023-01-20T12:51:38'
 slug: redmi-go-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/20/redmi-go-software-services/

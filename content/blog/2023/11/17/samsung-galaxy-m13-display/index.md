@@ -4,9 +4,9 @@ date: '2023-11-17T11:38:54'
 slug: samsung-galaxy-m13-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/samsung-galaxy-m13-display/

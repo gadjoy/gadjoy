@@ -4,9 +4,9 @@ date: '2022-01-03T11:59:26'
 slug: redmi-note-5-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/03/redmi-note-5-battery-replacement/

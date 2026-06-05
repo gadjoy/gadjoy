@@ -4,9 +4,9 @@ date: '2024-02-23T12:39:15'
 slug: lenovo-yoga-134lc6-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/02/23/lenovo-yoga-134lc6-dead/

@@ -4,8 +4,8 @@ date: '2022-04-11T11:02:31'
 slug: 3d-print-filament-dust-filter
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/11/3d-print-filament-dust-filter/

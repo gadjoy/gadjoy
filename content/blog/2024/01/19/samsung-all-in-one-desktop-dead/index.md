@@ -4,9 +4,9 @@ date: '2024-01-19T14:30:05'
 slug: samsung-all-in-one-desktop-dead
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/19/samsung-all-in-one-desktop-dead/

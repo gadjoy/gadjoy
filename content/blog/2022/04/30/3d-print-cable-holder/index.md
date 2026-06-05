@@ -4,8 +4,8 @@ date: '2022-04-30T13:13:49'
 slug: 3d-print-cable-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/30/3d-print-cable-holder/

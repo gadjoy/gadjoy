@@ -4,9 +4,9 @@ date: '2022-05-08T13:16:54'
 slug: samsung-a12-software-unlock
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/08/samsung-a12-software-unlock/

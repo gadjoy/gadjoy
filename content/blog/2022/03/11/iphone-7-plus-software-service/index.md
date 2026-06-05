@@ -4,9 +4,9 @@ date: '2022-03-11T14:16:04'
 slug: iphone-7-plus-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/11/iphone-7-plus-software-service/

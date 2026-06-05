@@ -4,9 +4,9 @@ date: '2024-09-27T14:18:55'
 slug: redmi-note-8-pro-dead-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/27/redmi-note-8-pro-dead-2/

@@ -4,8 +4,8 @@ date: '2022-04-17T11:53:05'
 slug: iiot-gadgets-repair-boat-earphone
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/17/iiot-gadgets-repair-boat-earphone/

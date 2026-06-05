@@ -4,9 +4,9 @@ date: '2022-02-23T14:48:31'
 slug: macbook-retina-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/02/23/macbook-retina-software-service/

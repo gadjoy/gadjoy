@@ -4,9 +4,9 @@ date: '2023-07-23T13:47:54'
 slug: vivo-y11-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/23/vivo-y11-display-combo-replacement/

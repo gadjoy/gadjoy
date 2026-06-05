@@ -4,9 +4,9 @@ date: '2023-09-06T13:29:44'
 slug: dell-inspiron-5558-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/dell-inspiron-5558-slow/

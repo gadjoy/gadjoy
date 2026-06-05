@@ -4,9 +4,9 @@ date: '2024-05-15T14:05:29'
 slug: oneplus-11r-5g-water-damage-battery-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/05/15/oneplus-11r-5g-water-damage-battery-issue/

@@ -4,9 +4,9 @@ date: '2024-01-21T14:05:19'
 slug: hp-notebook-15-display-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/01/21/hp-notebook-15-display-issue/

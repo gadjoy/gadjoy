@@ -4,9 +4,9 @@ date: '2021-12-29T14:48:39'
 slug: iball-laptop-hinges-repair
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/iball-laptop-hinges-repair/

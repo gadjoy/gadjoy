@@ -4,9 +4,9 @@ date: '2023-08-13T10:03:11'
 slug: lenovo-g50-80-not-charging
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/lenovo-g50-80-not-charging/

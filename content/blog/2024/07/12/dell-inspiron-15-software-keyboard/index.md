@@ -4,9 +4,9 @@ date: '2024-07-12T12:14:36'
 slug: dell-inspiron-15-software-keyboard
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/07/12/dell-inspiron-15-software-keyboard/

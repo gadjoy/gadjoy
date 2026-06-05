@@ -4,9 +4,9 @@ date: '2024-09-27T14:23:38'
 slug: one-plus-nord-ce2-lite-5g-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/27/one-plus-nord-ce2-lite-5g-display/

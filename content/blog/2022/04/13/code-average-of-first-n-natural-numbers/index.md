@@ -4,8 +4,8 @@ date: '2022-04-13T14:54:33'
 slug: code-average-of-first-n-natural-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/13/code-average-of-first-n-natural-numbers/

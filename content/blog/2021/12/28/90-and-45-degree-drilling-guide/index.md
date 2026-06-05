@@ -4,8 +4,8 @@ date: '2021-12-28T14:31:03'
 slug: 90-and-45-degree-drilling-guide
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/28/90-and-45-degree-drilling-guide/

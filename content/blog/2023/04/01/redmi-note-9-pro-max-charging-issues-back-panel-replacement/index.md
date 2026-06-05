@@ -4,9 +4,9 @@ date: '2023-04-01T12:40:33'
 slug: redmi-note-9-pro-max-charging-issues-back-panel-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/04/01/redmi-note-9-pro-max-charging-issues-back-panel-replacement/

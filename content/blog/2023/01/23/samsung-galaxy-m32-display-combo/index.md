@@ -4,9 +4,9 @@ date: '2023-01-23T12:30:19'
 slug: samsung-galaxy-m32-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/samsung-galaxy-m32-display-combo/

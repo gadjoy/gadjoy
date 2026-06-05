@@ -4,9 +4,9 @@ date: '2024-10-15T12:37:08'
 slug: hp-15-db1xxx-keyboard
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/10/15/hp-15-db1xxx-keyboard/

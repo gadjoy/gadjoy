@@ -4,8 +4,8 @@ date: '2022-06-15T14:24:10'
 slug: code-truthy-and-falsy-statements
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/06/15/code-truthy-and-falsy-statements/

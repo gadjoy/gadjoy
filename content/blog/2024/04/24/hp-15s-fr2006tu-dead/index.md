@@ -4,9 +4,9 @@ date: '2024-04-24T11:39:01'
 slug: hp-15s-fr2006tu-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/04/24/hp-15s-fr2006tu-dead/

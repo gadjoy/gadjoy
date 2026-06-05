@@ -4,9 +4,9 @@ date: '2022-05-14T12:39:52'
 slug: macbook-air-dead-condition-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/05/14/macbook-air-dead-condition-2/

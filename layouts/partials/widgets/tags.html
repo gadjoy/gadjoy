@@ -1,0 +1,28 @@
+{{/* Project override: link via the term page (clean slug URL) + real title. */}}
+{{ if .Site.Params.widgets.tags }}
+{{ if isset .Site.Taxonomies "tags" }}
+{{ if not (eq (len .Site.Taxonomies.tags) 0) }}
+<div class="panel sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">{{ i18n "tagsTitle" }}</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            {{ $current := . }}
+            {{ range $name, $items := .Site.Taxonomies.tags }}
+            {{ $term := site.GetPage (printf "/tags/%s" $name) }}
+            {{ $title := $name }}{{ $href := printf "%s%s/" ("tags/" | relLangURL) $name }}
+            {{ with $term }}{{ $title = .Title }}{{ $href = .RelPermalink }}{{ end }}
+            <li {{ with $term }}{{ if eq $current.RelPermalink .RelPermalink }}class="active"{{ end }}{{ end }}>
+                <a href="{{ $href }}"><i class="fas fa-tags"></i> {{ $title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+
+</div>
+{{ end }}
+{{ end }}
+{{ end }}

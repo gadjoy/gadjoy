@@ -4,8 +4,8 @@ date: '2022-03-01T12:01:49'
 slug: gadget-head-phone
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/01/gadget-head-phone/

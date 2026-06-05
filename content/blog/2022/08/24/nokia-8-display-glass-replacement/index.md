@@ -4,8 +4,8 @@ date: '2022-08-24T14:08:01'
 slug: nokia-8-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/nokia-8-display-glass-replacement/

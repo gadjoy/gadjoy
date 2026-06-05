@@ -4,9 +4,9 @@ date: '2024-10-04T14:05:24'
 slug: oneplus-11r-back-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/04/oneplus-11r-back-glass/

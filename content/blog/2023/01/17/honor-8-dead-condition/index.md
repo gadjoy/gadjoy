@@ -4,9 +4,9 @@ date: '2023-01-17T10:40:52'
 slug: honor-8-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/honor-8-dead-condition/

@@ -4,9 +4,9 @@ date: '2023-04-14T13:05:04'
 slug: dell-inspiron-15-booting-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/14/dell-inspiron-15-booting-issue/

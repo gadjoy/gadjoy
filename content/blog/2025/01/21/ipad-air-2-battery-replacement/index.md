@@ -4,9 +4,9 @@ date: '2025-01-21T11:46:02'
 slug: ipad-air-2-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2025/01/21/ipad-air-2-battery-replacement/

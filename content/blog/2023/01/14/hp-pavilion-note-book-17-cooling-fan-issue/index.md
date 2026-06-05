@@ -4,9 +4,9 @@ date: '2023-01-14T13:17:44'
 slug: hp-pavilion-note-book-17-cooling-fan-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/14/hp-pavilion-note-book-17-cooling-fan-issue/

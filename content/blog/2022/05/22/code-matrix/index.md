@@ -4,8 +4,8 @@ date: '2022-05-22T14:14:04'
 slug: code-matrix
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/22/code-matrix/

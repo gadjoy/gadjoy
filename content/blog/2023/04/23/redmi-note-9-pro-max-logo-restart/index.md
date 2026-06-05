@@ -4,9 +4,9 @@ date: '2023-04-23T05:56:12'
 slug: redmi-note-9-pro-max-logo-restart
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/23/redmi-note-9-pro-max-logo-restart/

@@ -4,9 +4,9 @@ date: '2021-12-29T11:59:25'
 slug: one-plus-3-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/29/one-plus-3-dead-condition/

@@ -4,9 +4,9 @@ date: '2023-07-02T12:36:59'
 slug: samsung-galaxy-tab-2-restarting
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/07/02/samsung-galaxy-tab-2-restarting/

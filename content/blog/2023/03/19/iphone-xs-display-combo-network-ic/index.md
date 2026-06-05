@@ -4,10 +4,10 @@ date: '2023-03-19T07:30:44'
 slug: iphone-xs-display-combo-network-ic
 draft: false
 categories:
-- Chip Level & IC Repair
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/19/iphone-xs-display-combo-network-ic/

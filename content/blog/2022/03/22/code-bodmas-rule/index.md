@@ -4,8 +4,8 @@ date: '2022-03-22T12:44:00'
 slug: code-bodmas-rule
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/22/code-bodmas-rule/

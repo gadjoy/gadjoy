@@ -4,9 +4,9 @@ date: '2023-01-23T12:40:10'
 slug: vivo-y91-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/vivo-y91-display-combo/

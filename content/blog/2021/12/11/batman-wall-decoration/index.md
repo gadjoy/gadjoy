@@ -4,7 +4,7 @@ date: '2021-12-11T10:09:36'
 slug: batman-wall-decoration
 draft: false
 categories:
-- 3D Print
+- 3dp
 tags: []
 aliases:
 - /blog/2021/12/11/batman-wall-decoration/

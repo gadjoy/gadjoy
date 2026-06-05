@@ -4,9 +4,9 @@ date: '2024-12-10T12:14:24'
 slug: redmi-note-10-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/12/10/redmi-note-10-display/

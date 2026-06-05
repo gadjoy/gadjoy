@@ -4,9 +4,9 @@ date: '2023-03-21T13:14:33'
 slug: macbook-a1466-water-damage
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/03/21/macbook-a1466-water-damage/

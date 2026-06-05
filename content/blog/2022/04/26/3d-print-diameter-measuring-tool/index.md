@@ -4,8 +4,8 @@ date: '2022-04-26T10:16:47'
 slug: 3d-print-diameter-measuring-tool
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/26/3d-print-diameter-measuring-tool/

@@ -4,8 +4,8 @@ date: '2022-04-29T14:06:59'
 slug: code-find-the-number-if-their-sum-and-difference-is-given
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/29/code-find-the-number-if-their-sum-and-difference-is-given/

@@ -4,9 +4,9 @@ date: '2023-06-05T12:47:28'
 slug: iphone-11-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/05/iphone-11-logo-stuck/

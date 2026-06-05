@@ -4,9 +4,9 @@ date: '2024-09-28T11:03:14'
 slug: realme-x50-pro-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/28/realme-x50-pro-display/

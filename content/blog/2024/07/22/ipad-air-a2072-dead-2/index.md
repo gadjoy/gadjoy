@@ -4,9 +4,9 @@ date: '2024-07-22T13:31:36'
 slug: ipad-air-a2072-dead-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/22/ipad-air-a2072-dead-2/

@@ -4,9 +4,9 @@ date: '2021-12-23T15:07:19'
 slug: vivo-z1-pro-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2021/12/23/vivo-z1-pro-charging-port-replacement/

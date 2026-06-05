@@ -4,9 +4,9 @@ date: '2022-08-27T08:10:58'
 slug: one-plus-6-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/one-plus-6-dead-condition/

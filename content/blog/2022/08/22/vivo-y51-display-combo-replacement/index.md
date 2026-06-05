@@ -4,8 +4,8 @@ date: '2022-08-22T13:39:14'
 slug: vivo-y51-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/08/22/vivo-y51-display-combo-replacement/

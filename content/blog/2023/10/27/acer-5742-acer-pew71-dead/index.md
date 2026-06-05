@@ -4,9 +4,9 @@ date: '2023-10-27T12:39:43'
 slug: acer-5742-acer-pew71-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/10/27/acer-5742-acer-pew71-dead/

@@ -4,9 +4,9 @@ date: '2024-05-06T13:35:12'
 slug: mi-9i-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/06/mi-9i-display-combo/

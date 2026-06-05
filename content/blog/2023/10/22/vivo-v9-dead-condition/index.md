@@ -4,9 +4,9 @@ date: '2023-10-22T12:35:49'
 slug: vivo-v9-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/22/vivo-v9-dead-condition/

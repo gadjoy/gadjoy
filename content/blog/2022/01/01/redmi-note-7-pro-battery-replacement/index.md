@@ -4,9 +4,9 @@ date: '2022-01-01T14:34:41'
 slug: redmi-note-7-pro-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/01/redmi-note-7-pro-battery-replacement/

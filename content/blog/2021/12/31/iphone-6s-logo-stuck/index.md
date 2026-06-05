@@ -4,9 +4,9 @@ date: '2021-12-31T14:49:17'
 slug: iphone-6s-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/31/iphone-6s-logo-stuck/

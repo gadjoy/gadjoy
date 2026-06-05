@@ -4,8 +4,8 @@ date: '2022-05-04T11:40:21'
 slug: 3d-print-grim-reaper-stencil-24
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/04/3d-print-grim-reaper-stencil-24/

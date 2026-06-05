@@ -4,7 +4,7 @@ date: '2022-08-27T08:18:05'
 slug: dell-inspiron-15-5566-ram-upgrade-check
 draft: false
 categories:
-- Uncategorized
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/08/27/dell-inspiron-15-5566-ram-upgrade-check/

@@ -4,9 +4,9 @@ date: '2022-04-22T14:26:49'
 slug: oppo-a3s-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/22/oppo-a3s-software-services/

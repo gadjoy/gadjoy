@@ -4,9 +4,9 @@ date: '2023-05-09T13:18:35'
 slug: redmi-note-9s-display-combo-back-panel
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/09/redmi-note-9s-display-combo-back-panel/

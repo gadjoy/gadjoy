@@ -4,9 +4,9 @@ date: '2024-05-04T13:53:41'
 slug: samsung-m31s-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/04/samsung-m31s-display-issue/

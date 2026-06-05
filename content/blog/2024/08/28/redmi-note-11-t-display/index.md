@@ -4,8 +4,8 @@ date: '2024-08-28T12:33:28'
 slug: redmi-note-11-t-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2024/08/28/redmi-note-11-t-display/

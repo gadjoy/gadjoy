@@ -4,8 +4,8 @@ date: '2022-04-19T13:57:03'
 slug: 3d-print-fishes-2d-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/19/3d-print-fishes-2d-wall-art/

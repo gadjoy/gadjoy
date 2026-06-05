@@ -4,9 +4,9 @@ date: '2023-11-08T12:43:09'
 slug: oppo-a11k-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/08/oppo-a11k-software-service/

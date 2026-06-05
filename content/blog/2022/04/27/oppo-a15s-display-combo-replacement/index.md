@@ -4,9 +4,9 @@ date: '2022-04-27T10:11:17'
 slug: oppo-a15s-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/27/oppo-a15s-display-combo-replacement/

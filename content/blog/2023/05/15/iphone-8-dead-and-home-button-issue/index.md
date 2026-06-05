@@ -4,9 +4,9 @@ date: '2023-05-15T10:28:52'
 slug: iphone-8-dead-and-home-button-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/15/iphone-8-dead-and-home-button-issue/

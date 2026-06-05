@@ -4,9 +4,9 @@ date: '2023-01-31T11:23:39'
 slug: micromax-in-note-1-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/31/micromax-in-note-1-dead-condition/

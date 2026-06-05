@@ -4,9 +4,9 @@ date: '2023-01-18T14:10:22'
 slug: vivo-y67-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/18/vivo-y67-battery-replacement/

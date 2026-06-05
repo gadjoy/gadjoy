@@ -4,8 +4,8 @@ date: '2022-01-10T12:06:58'
 slug: iphone-and-iwatch-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/iphone-and-iwatch-holder/

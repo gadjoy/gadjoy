@@ -4,9 +4,9 @@ date: '2023-01-17T10:35:46'
 slug: poco-x2-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/17/poco-x2-charging-port-replacement/

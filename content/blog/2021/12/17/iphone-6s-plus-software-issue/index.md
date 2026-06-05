@@ -4,9 +4,9 @@ date: '2021-12-17T11:58:29'
 slug: iphone-6s-plus-software-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/17/iphone-6s-plus-software-issue/

@@ -4,9 +4,9 @@ date: '2024-11-17T12:09:39'
 slug: redmi-y3-battery-and-loud-speaker
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/11/17/redmi-y3-battery-and-loud-speaker/

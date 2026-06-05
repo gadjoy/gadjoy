@@ -4,8 +4,8 @@ date: '2022-09-13T08:21:58'
 slug: gadgets-repair-vivo-headphone-dead
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/09/13/gadgets-repair-vivo-headphone-dead/

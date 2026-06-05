@@ -4,8 +4,8 @@ date: '2022-06-13T14:01:18'
 slug: code-java-script-logical-operators
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/06/13/code-java-script-logical-operators/

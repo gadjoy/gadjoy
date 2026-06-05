@@ -4,9 +4,9 @@ date: '2023-08-13T09:59:45'
 slug: redmi-note-11-t-display-software-service
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/redmi-note-11-t-display-software-service/

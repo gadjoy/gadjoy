@@ -4,9 +4,9 @@ date: '2023-10-23T09:16:53'
 slug: one-plus-7-pro-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/23/one-plus-7-pro-dead/

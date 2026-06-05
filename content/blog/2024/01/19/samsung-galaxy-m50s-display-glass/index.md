@@ -4,9 +4,9 @@ date: '2024-01-19T14:28:56'
 slug: samsung-galaxy-m50s-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/01/19/samsung-galaxy-m50s-display-glass/

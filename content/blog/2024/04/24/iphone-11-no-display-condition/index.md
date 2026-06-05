@@ -4,9 +4,9 @@ date: '2024-04-24T11:52:50'
 slug: iphone-11-no-display-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/04/24/iphone-11-no-display-condition/

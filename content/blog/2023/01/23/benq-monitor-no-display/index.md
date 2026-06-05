@@ -4,9 +4,9 @@ date: '2023-01-23T12:44:31'
 slug: benq-monitor-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/benq-monitor-no-display/

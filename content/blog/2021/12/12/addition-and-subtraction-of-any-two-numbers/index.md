@@ -4,8 +4,8 @@ date: '2021-12-12T15:11:20'
 slug: addition-and-subtraction-of-any-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/12/addition-and-subtraction-of-any-two-numbers/

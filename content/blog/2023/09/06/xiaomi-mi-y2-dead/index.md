@@ -4,9 +4,9 @@ date: '2023-09-06T13:34:44'
 slug: xiaomi-mi-y2-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/xiaomi-mi-y2-dead/

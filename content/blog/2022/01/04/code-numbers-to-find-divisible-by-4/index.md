@@ -4,8 +4,8 @@ date: '2022-01-04T14:05:05'
 slug: code-numbers-to-find-divisible-by-4
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/04/code-numbers-to-find-divisible-by-4/

@@ -4,8 +4,8 @@ date: '2022-01-01T13:34:27'
 slug: spice-lca-tejas-missile
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/spice-lca-tejas-missile/

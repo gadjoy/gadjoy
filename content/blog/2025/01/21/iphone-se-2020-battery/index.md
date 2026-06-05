@@ -4,9 +4,9 @@ date: '2025-01-21T11:30:06'
 slug: iphone-se-2020-battery
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2025/01/21/iphone-se-2020-battery/

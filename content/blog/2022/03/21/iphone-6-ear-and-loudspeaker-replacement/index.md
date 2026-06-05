@@ -4,9 +4,9 @@ date: '2022-03-21T14:28:42'
 slug: iphone-6-ear-and-loudspeaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/03/21/iphone-6-ear-and-loudspeaker-replacement/

@@ -4,8 +4,8 @@ date: '2022-08-24T11:59:56'
 slug: macbook-pro-a1502-software-services
 draft: false
 categories:
-- Laptop & Desktop
-- Software Services
+- laptop-and-desktop
+- software-services
 tags: []
 aliases:
 - /blog/2022/08/24/macbook-pro-a1502-software-services/

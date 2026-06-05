@@ -4,9 +4,9 @@ date: '2024-03-05T13:51:01'
 slug: 4989-vivo-v9-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/4989-vivo-v9-display/

@@ -4,10 +4,10 @@ date: '2022-04-05T11:00:35'
 slug: macbook-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/04/05/macbook-pro-dead-condition/

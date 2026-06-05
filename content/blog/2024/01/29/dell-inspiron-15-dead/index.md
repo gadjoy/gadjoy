@@ -4,9 +4,9 @@ date: '2024-01-29T13:08:53'
 slug: dell-inspiron-15-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/dell-inspiron-15-dead/

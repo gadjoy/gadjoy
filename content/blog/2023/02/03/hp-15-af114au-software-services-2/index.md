@@ -4,9 +4,9 @@ date: '2023-02-03T12:13:09'
 slug: hp-15-af114au-software-services-2
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/03/hp-15-af114au-software-services-2/

@@ -4,8 +4,8 @@ date: '2022-04-24T12:48:59'
 slug: code-find-the-number
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/24/code-find-the-number/

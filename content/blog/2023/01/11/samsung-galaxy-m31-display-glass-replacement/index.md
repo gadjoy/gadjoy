@@ -4,9 +4,9 @@ date: '2023-01-11T12:17:44'
 slug: samsung-galaxy-m31-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/11/samsung-galaxy-m31-display-glass-replacement/

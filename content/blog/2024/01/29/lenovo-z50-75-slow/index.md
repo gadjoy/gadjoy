@@ -4,9 +4,9 @@ date: '2024-01-29T13:17:41'
 slug: lenovo-z50-75-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/lenovo-z50-75-slow/

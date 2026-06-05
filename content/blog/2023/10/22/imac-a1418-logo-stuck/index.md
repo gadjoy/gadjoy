@@ -4,9 +4,9 @@ date: '2023-10-22T12:28:00'
 slug: imac-a1418-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/10/22/imac-a1418-logo-stuck/

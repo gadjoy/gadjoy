@@ -4,8 +4,8 @@ date: '2022-01-01T13:38:56'
 slug: secret-message-machine
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/secret-message-machine/

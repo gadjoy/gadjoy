@@ -4,9 +4,9 @@ date: '2023-09-06T13:35:54'
 slug: iphone-x-software-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/iphone-x-software-issue/

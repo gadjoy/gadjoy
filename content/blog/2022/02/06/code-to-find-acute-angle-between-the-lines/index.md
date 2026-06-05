@@ -4,8 +4,8 @@ date: '2022-02-06T13:51:26'
 slug: code-to-find-acute-angle-between-the-lines
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/06/code-to-find-acute-angle-between-the-lines/

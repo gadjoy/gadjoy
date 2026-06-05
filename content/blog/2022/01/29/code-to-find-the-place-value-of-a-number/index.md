@@ -4,8 +4,8 @@ date: '2022-01-29T13:44:52'
 slug: code-to-find-the-place-value-of-a-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/29/code-to-find-the-place-value-of-a-number/

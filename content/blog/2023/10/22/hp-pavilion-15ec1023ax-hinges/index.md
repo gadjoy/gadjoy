@@ -4,9 +4,9 @@ date: '2023-10-22T12:37:57'
 slug: hp-pavilion-15ec1023ax-hinges
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/10/22/hp-pavilion-15ec1023ax-hinges/

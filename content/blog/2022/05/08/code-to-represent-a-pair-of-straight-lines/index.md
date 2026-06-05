@@ -4,8 +4,8 @@ date: '2022-05-08T13:08:25'
 slug: code-to-represent-a-pair-of-straight-lines
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/08/code-to-represent-a-pair-of-straight-lines/

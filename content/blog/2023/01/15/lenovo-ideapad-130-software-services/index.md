@@ -4,9 +4,9 @@ date: '2023-01-15T06:01:48'
 slug: lenovo-ideapad-130-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/lenovo-ideapad-130-software-services/

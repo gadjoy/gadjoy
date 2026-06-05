@@ -4,9 +4,9 @@ date: '2023-03-14T11:15:44'
 slug: samsung-j6-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/14/samsung-j6-display-combo-replacement/

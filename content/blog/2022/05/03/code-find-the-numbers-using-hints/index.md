@@ -4,8 +4,8 @@ date: '2022-05-03T12:51:26'
 slug: code-find-the-numbers-using-hints
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/03/code-find-the-numbers-using-hints/

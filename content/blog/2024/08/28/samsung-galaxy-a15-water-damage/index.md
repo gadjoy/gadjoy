@@ -4,9 +4,9 @@ date: '2024-08-28T12:31:38'
 slug: samsung-galaxy-a15-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2024/08/28/samsung-galaxy-a15-water-damage/

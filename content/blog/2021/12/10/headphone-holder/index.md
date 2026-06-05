@@ -4,7 +4,7 @@ date: '2021-12-10T12:08:32'
 slug: headphone-holder
 draft: false
 categories:
-- 3D Print
+- 3dp
 tags: []
 aliases:
 - /blog/2021/12/10/headphone-holder/

@@ -4,8 +4,8 @@ date: '2022-03-29T11:31:33'
 slug: 3d-printer-raspberry-pi-4-case
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/29/3d-printer-raspberry-pi-4-case/

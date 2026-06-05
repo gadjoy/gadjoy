@@ -4,9 +4,9 @@ date: '2023-01-17T10:34:27'
 slug: lenovo-legion-y470-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/01/17/lenovo-legion-y470-battery-replacement/

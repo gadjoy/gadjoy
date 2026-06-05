@@ -4,9 +4,9 @@ date: '2022-03-20T12:33:51'
 slug: techno-spark-go-plus-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/20/techno-spark-go-plus-display-combo-replacement/

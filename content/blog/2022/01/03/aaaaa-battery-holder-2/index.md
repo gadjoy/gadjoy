@@ -4,8 +4,8 @@ date: '2022-01-03T13:22:09'
 slug: aaaaa-battery-holder-2
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/03/aaaaa-battery-holder-2/

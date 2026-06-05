@@ -4,9 +4,9 @@ date: '2022-05-28T13:16:26'
 slug: samsung-j2-pro-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/05/28/samsung-j2-pro-battery-replacement/

@@ -4,8 +4,8 @@ date: '2022-04-12T10:25:33'
 slug: code-check-first-last-number-of-list-is-the-same
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/12/code-check-first-last-number-of-list-is-the-same/

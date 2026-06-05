@@ -4,8 +4,8 @@ date: '2022-08-24T14:04:55'
 slug: oneplus-6-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/oneplus-6-display-combo-replacement/

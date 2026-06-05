@@ -4,9 +4,9 @@ date: '2022-01-03T12:15:49'
 slug: lenovo-laptop-hdd-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2022/01/03/lenovo-laptop-hdd-replacement/

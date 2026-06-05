@@ -4,8 +4,8 @@ date: '2022-09-11T09:57:12'
 slug: gadget-repair-sony-headphone
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/09/11/gadget-repair-sony-headphone/

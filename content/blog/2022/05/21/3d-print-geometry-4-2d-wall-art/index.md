@@ -4,8 +4,8 @@ date: '2022-05-21T10:58:48'
 slug: 3d-print-geometry-4-2d-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/21/3d-print-geometry-4-2d-wall-art/

@@ -4,9 +4,9 @@ date: '2023-01-22T11:56:41'
 slug: ipad-a1893-not-charging
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/22/ipad-a1893-not-charging/

@@ -4,8 +4,8 @@ date: '2022-01-01T13:31:22'
 slug: key-cap-remover-2
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/key-cap-remover-2/

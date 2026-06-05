@@ -4,9 +4,9 @@ date: '2022-03-23T12:04:32'
 slug: samsung-galaxy-j6-touch-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/23/samsung-galaxy-j6-touch-glass-replacement/

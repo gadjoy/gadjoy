@@ -4,9 +4,9 @@ date: '2023-01-22T11:59:54'
 slug: hp-15-ay020tu-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-Mobile
+- laptop-and-desktop
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/01/22/hp-15-ay020tu-battery-replacement/

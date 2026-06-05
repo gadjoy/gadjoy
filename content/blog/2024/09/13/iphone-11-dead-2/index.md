@@ -4,9 +4,9 @@ date: '2024-09-13T12:56:57'
 slug: iphone-11-dead-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/13/iphone-11-dead-2/

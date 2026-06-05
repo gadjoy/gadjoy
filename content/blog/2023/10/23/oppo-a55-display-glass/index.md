@@ -4,9 +4,9 @@ date: '2023-10-23T09:18:05'
 slug: oppo-a55-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/23/oppo-a55-display-glass/

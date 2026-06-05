@@ -4,9 +4,9 @@ date: '2024-05-24T13:23:44'
 slug: one-plus-nord-ce-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/24/one-plus-nord-ce-display/

@@ -4,9 +4,9 @@ date: '2024-03-05T13:36:46'
 slug: mi-10i-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/mi-10i-dead-condition/

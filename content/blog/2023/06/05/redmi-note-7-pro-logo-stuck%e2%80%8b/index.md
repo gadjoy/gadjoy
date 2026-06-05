@@ -4,9 +4,9 @@ date: '2023-06-05T12:42:02'
 slug: redmi-note-7-pro-logo-stuck%e2%80%8b
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/05/redmi-note-7-pro-logo-stuck%e2%80%8b/

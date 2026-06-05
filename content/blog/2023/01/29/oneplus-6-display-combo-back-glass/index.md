@@ -4,9 +4,9 @@ date: '2023-01-29T07:12:41'
 slug: oneplus-6-display-combo-back-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/29/oneplus-6-display-combo-back-glass/

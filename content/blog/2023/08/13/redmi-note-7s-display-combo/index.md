@@ -4,9 +4,9 @@ date: '2023-08-13T10:31:47'
 slug: redmi-note-7s-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/redmi-note-7s-display-combo/

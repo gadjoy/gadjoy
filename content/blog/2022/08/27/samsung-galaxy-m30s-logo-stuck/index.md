@@ -4,9 +4,9 @@ date: '2022-08-27T07:51:58'
 slug: samsung-galaxy-m30s-logo-stuck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/samsung-galaxy-m30s-logo-stuck/

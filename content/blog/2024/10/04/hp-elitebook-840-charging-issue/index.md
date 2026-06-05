@@ -4,9 +4,9 @@ date: '2024-10-04T13:59:16'
 slug: hp-elitebook-840-charging-issue
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/10/04/hp-elitebook-840-charging-issue/

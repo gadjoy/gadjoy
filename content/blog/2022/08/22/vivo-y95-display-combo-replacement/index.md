@@ -4,8 +4,8 @@ date: '2022-08-22T12:58:41'
 slug: vivo-y95-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/08/22/vivo-y95-display-combo-replacement/

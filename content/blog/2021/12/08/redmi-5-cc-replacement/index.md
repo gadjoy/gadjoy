@@ -4,9 +4,9 @@ date: '2021-12-08T14:06:35'
 slug: redmi-5-cc-replacement
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/08/redmi-5-cc-replacement/

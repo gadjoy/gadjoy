@@ -4,9 +4,9 @@ date: '2023-07-01T12:16:27'
 slug: oppo-a54-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/01/oppo-a54-display-combo/

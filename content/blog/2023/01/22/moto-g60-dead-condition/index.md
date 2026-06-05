@@ -4,9 +4,9 @@ date: '2023-01-22T12:04:12'
 slug: moto-g60-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/moto-g60-dead-condition/

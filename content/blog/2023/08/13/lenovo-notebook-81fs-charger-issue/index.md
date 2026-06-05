@@ -4,9 +4,9 @@ date: '2023-08-13T10:13:13'
 slug: lenovo-notebook-81fs-charger-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/lenovo-notebook-81fs-charger-issue/

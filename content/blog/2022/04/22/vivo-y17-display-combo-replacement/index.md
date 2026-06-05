@@ -4,9 +4,9 @@ date: '2022-04-22T12:26:51'
 slug: vivo-y17-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/22/vivo-y17-display-combo-replacement/

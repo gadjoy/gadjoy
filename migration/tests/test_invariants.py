@@ -63,17 +63,27 @@ def test_url_preservation_via_aliases(posts):
         assert legacy in fm["aliases"], f"{path}: legacy alias {legacy} missing"
 
 
-# SC-005 : real taxonomy, no fabricated/junk terms -----------------------------
+# SC-005 : real taxonomy (by real WP slug), no fabricated terms -----------------
 def test_taxonomy_is_real(posts, wp_terms):
-    cat_names = {c["name"] for c in wp_terms["categories"]}
-    tag_names = {t["name"] for t in wp_terms["tags"]}
-    numeric_junk = re.compile(r"^[\d\W]+$")
+    cat_slugs = {c["slug"] for c in wp_terms["categories"]}
+    tag_slugs = {t["slug"] for t in wp_terms["tags"]}
     for path, fm, _body in posts:
         for c in fm.get("categories", []):
-            assert c in cat_names, f"{path}: fabricated category {c!r}"
+            assert c in cat_slugs, f"{path}: category {c!r} is not a real WP slug"
         for t in fm.get("tags", []) or []:
-            assert t in tag_names, f"{path}: fabricated tag {t!r}"
-            assert not numeric_junk.match(t), f"{path}: numeric junk tag {t!r}"
+            assert t in tag_slugs, f"{path}: tag {t!r} is not a real WP slug"
+
+
+def test_taxonomy_term_pages_exist_with_titles(posts):
+    """Every category/tag a post references must have a term page carrying its
+    real display name, so links resolve (no 404) and show the human title."""
+    from conftest import REPO_ROOT
+    for path, fm, _body in posts:
+        for tax in ("categories", "tags"):
+            for slug in fm.get(tax, []) or []:
+                tp = REPO_ROOT / "content" / tax / slug / "_index.md"
+                assert tp.exists(), f"{path}: missing term page {tp}"
+                assert "title:" in tp.read_text(encoding="utf-8"), f"{tp}: no title"
 
 
 # Card rendering: real thumbnail + plain-text summary (homepage/list grid) ------

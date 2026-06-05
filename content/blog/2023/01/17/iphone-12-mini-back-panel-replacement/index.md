@@ -4,9 +4,9 @@ date: '2023-01-17T10:49:48'
 slug: iphone-12-mini-back-panel-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/iphone-12-mini-back-panel-replacement/

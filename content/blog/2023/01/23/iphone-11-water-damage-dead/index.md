@@ -4,9 +4,9 @@ date: '2023-01-23T12:14:06'
 slug: iphone-11-water-damage-dead
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2023/01/23/iphone-11-water-damage-dead/

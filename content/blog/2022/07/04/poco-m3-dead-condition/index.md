@@ -4,9 +4,9 @@ date: '2022-07-04T14:14:51'
 slug: poco-m3-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/07/04/poco-m3-dead-condition/

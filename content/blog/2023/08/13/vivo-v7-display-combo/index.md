@@ -4,9 +4,9 @@ date: '2023-08-13T10:11:19'
 slug: vivo-v7-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/vivo-v7-display-combo/

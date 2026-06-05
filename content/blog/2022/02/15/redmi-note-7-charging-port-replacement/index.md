@@ -4,9 +4,9 @@ date: '2022-02-15T13:39:27'
 slug: redmi-note-7-charging-port-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/15/redmi-note-7-charging-port-replacement/

@@ -4,9 +4,9 @@ date: '2021-12-23T14:50:11'
 slug: ipad-mini-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/23/ipad-mini-display-glass-replacement/

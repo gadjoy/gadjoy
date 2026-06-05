@@ -4,9 +4,9 @@ date: '2023-04-29T13:16:35'
 slug: ipad-a1395-disabled
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/29/ipad-a1395-disabled/

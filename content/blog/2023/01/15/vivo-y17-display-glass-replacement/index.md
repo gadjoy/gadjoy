@@ -4,9 +4,9 @@ date: '2023-01-15T05:56:40'
 slug: vivo-y17-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/vivo-y17-display-glass-replacement/

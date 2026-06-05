@@ -4,9 +4,9 @@ date: '2024-10-15T13:05:22'
 slug: dell-3q9t462-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/10/15/dell-3q9t462-battery-replacement/

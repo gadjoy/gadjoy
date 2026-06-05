@@ -4,9 +4,9 @@ date: '2023-05-03T12:46:51'
 slug: samsung-galaxy-m33-booting-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/03/samsung-galaxy-m33-booting-issue/

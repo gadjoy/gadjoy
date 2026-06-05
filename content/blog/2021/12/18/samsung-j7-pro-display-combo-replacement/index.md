@@ -4,9 +4,9 @@ date: '2021-12-18T15:11:34'
 slug: samsung-j7-pro-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/18/samsung-j7-pro-display-combo-replacement/

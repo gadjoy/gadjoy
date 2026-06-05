@@ -4,8 +4,8 @@ date: '2021-12-22T15:05:21'
 slug: customizer-funnel
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/22/customizer-funnel/

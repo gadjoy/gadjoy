@@ -4,8 +4,8 @@ date: '2022-01-07T12:24:48'
 slug: mini-tape-gun
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/07/mini-tape-gun/

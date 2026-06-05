@@ -4,9 +4,9 @@ date: '2025-01-21T11:37:31'
 slug: samsung-galaxy-note-10-lite-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/samsung-galaxy-note-10-lite-display-glass/

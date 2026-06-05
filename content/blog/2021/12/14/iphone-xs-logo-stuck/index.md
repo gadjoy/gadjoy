@@ -4,9 +4,9 @@ date: '2021-12-14T13:49:27'
 slug: iphone-xs-logo-stuck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/14/iphone-xs-logo-stuck/

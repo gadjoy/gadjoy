@@ -4,9 +4,9 @@ date: '2023-07-08T13:07:00'
 slug: redmi-8a-dual-logo-restarting
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/08/redmi-8a-dual-logo-restarting/

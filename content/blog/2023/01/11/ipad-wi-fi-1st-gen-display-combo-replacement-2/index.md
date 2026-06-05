@@ -4,9 +4,9 @@ date: '2023-01-11T11:56:22'
 slug: ipad-wi-fi-1st-gen-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/11/ipad-wi-fi-1st-gen-display-combo-replacement-2/

@@ -4,9 +4,9 @@ date: '2023-05-06T12:22:32'
 slug: hp-notebook-15-keyboard-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/05/06/hp-notebook-15-keyboard-battery/

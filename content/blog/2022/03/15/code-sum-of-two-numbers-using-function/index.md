@@ -4,8 +4,8 @@ date: '2022-03-15T12:44:01'
 slug: code-sum-of-two-numbers-using-function
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/15/code-sum-of-two-numbers-using-function/

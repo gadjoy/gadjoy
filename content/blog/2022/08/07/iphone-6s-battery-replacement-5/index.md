@@ -4,9 +4,9 @@ date: '2022-08-07T10:37:44'
 slug: iphone-6s-battery-replacement-5
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/08/07/iphone-6s-battery-replacement-5/

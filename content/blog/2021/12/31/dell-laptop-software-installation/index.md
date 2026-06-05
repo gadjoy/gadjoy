@@ -4,9 +4,9 @@ date: '2021-12-31T13:37:42'
 slug: dell-laptop-software-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2021/12/31/dell-laptop-software-installation/

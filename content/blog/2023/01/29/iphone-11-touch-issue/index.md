@@ -4,9 +4,9 @@ date: '2023-01-29T07:16:06'
 slug: iphone-11-touch-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/29/iphone-11-touch-issue/

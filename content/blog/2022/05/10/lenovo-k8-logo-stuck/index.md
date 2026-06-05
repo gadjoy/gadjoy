@@ -4,9 +4,9 @@ date: '2022-05-10T12:45:48'
 slug: lenovo-k8-logo-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/05/10/lenovo-k8-logo-stuck/

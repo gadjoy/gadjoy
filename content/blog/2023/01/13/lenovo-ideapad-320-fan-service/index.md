@@ -4,9 +4,9 @@ date: '2023-01-13T11:49:59'
 slug: lenovo-ideapad-320-fan-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/13/lenovo-ideapad-320-fan-service/

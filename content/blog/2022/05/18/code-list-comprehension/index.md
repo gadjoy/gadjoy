@@ -4,8 +4,8 @@ date: '2022-05-18T14:07:14'
 slug: code-list-comprehension
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/18/code-list-comprehension/

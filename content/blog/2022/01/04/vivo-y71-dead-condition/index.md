@@ -4,9 +4,9 @@ date: '2022-01-04T11:42:29'
 slug: vivo-y71-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/04/vivo-y71-dead-condition/

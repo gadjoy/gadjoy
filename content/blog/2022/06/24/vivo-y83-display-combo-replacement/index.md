@@ -4,8 +4,8 @@ date: '2022-06-24T12:44:23'
 slug: vivo-y83-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/06/24/vivo-y83-display-combo-replacement/

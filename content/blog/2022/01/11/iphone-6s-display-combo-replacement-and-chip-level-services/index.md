@@ -4,10 +4,10 @@ date: '2022-01-11T12:01:59'
 slug: iphone-6s-display-combo-replacement-and-chip-level-services
 draft: false
 categories:
-- Chip Level & IC Repair
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/11/iphone-6s-display-combo-replacement-and-chip-level-services/

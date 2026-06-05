@@ -4,9 +4,9 @@ date: '2023-01-15T05:28:53'
 slug: iphone-7-display-combo-replacement-3
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/iphone-7-display-combo-replacement-3/

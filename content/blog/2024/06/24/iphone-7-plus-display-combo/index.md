@@ -4,9 +4,9 @@ date: '2024-06-24T12:11:01'
 slug: iphone-7-plus-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/24/iphone-7-plus-display-combo/

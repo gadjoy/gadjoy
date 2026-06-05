@@ -4,9 +4,9 @@ date: '2023-01-24T11:26:48'
 slug: dell-p75f905-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/24/dell-p75f905-software-service/

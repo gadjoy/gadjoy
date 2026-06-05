@@ -4,9 +4,9 @@ date: '2022-01-01T11:24:51'
 slug: lenovo-laptop-hinges-repair
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/01/01/lenovo-laptop-hinges-repair/

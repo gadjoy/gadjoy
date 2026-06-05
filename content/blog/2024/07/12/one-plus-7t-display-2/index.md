@@ -4,9 +4,9 @@ date: '2024-07-12T11:57:17'
 slug: one-plus-7t-display-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/12/one-plus-7t-display-2/

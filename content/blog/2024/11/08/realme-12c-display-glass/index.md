@@ -4,9 +4,9 @@ date: '2024-11-08T13:14:49'
 slug: realme-12c-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/08/realme-12c-display-glass/

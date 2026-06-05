@@ -4,8 +4,8 @@ date: '2022-08-24T14:11:20'
 slug: mi-6a-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
+- display-and-glass-replacement
+- mobiles
 tags: []
 aliases:
 - /blog/2022/08/24/mi-6a-display-glass-replacement/

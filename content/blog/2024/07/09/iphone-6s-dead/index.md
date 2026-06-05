@@ -4,9 +4,9 @@ date: '2024-07-09T12:01:40'
 slug: iphone-6s-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/07/09/iphone-6s-dead/

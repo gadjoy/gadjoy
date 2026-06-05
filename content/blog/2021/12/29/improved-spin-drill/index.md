@@ -4,8 +4,8 @@ date: '2021-12-29T12:25:58'
 slug: improved-spin-drill
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/29/improved-spin-drill/

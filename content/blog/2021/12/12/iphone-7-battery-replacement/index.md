@@ -4,9 +4,9 @@ date: '2021-12-12T07:31:06'
 slug: iphone-7-battery-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/12/iphone-7-battery-replacement/

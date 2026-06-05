@@ -4,9 +4,9 @@ date: '2021-12-29T14:29:56'
 slug: moto-e-power-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/moto-e-power-dead-condition/

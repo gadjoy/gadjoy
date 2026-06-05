@@ -4,9 +4,9 @@ date: '2023-10-22T12:19:10'
 slug: ipad-5-a1822-software-and-home-button
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/10/22/ipad-5-a1822-software-and-home-button/

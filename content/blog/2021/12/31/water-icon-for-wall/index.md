@@ -4,8 +4,8 @@ date: '2021-12-31T13:10:06'
 slug: water-icon-for-wall
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/31/water-icon-for-wall/

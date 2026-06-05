@@ -4,8 +4,8 @@ date: '2022-03-04T12:19:20'
 slug: code-to-find-prime-factors
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/04/code-to-find-prime-factors/

@@ -4,8 +4,8 @@ date: '2022-01-26T14:12:53'
 slug: code-subtraction-of-matrices
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/26/code-subtraction-of-matrices/

@@ -4,9 +4,9 @@ date: '2023-08-13T09:50:08'
 slug: realme-c21-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/realme-c21-dead-condition/

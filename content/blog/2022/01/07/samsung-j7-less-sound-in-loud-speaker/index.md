@@ -4,9 +4,9 @@ date: '2022-01-07T10:55:26'
 slug: samsung-j7-less-sound-in-loud-speaker
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/07/samsung-j7-less-sound-in-loud-speaker/

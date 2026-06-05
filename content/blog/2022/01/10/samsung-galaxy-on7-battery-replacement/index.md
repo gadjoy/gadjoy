@@ -4,9 +4,9 @@ date: '2022-01-10T10:57:14'
 slug: samsung-galaxy-on7-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/10/samsung-galaxy-on7-battery-replacement/

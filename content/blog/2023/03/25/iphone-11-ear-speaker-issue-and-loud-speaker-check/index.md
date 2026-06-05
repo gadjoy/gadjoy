@@ -4,9 +4,9 @@ date: '2023-03-25T12:39:13'
 slug: iphone-11-ear-speaker-issue-and-loud-speaker-check
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/25/iphone-11-ear-speaker-issue-and-loud-speaker-check/

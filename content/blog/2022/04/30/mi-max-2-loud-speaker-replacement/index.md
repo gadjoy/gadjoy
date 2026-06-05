@@ -4,9 +4,9 @@ date: '2022-04-30T13:42:44'
 slug: mi-max-2-loud-speaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/30/mi-max-2-loud-speaker-replacement/

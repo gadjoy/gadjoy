@@ -4,9 +4,9 @@ date: '2023-02-11T12:41:29'
 slug: realme-c1-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/11/realme-c1-display-combo/

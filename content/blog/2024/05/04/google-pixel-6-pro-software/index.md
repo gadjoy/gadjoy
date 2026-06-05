@@ -4,9 +4,9 @@ date: '2024-05-04T13:55:10'
 slug: google-pixel-6-pro-software
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/04/google-pixel-6-pro-software/

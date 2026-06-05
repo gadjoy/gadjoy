@@ -4,8 +4,8 @@ date: '2021-12-24T11:56:52'
 slug: smallest-multiple-from-1-20
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/24/smallest-multiple-from-1-20/

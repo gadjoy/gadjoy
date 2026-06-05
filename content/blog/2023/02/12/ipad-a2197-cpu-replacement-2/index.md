@@ -4,9 +4,9 @@ date: '2023-02-12T06:27:15'
 slug: ipad-a2197-cpu-replacement-2
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/12/ipad-a2197-cpu-replacement-2/

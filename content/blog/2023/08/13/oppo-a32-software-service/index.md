@@ -4,9 +4,9 @@ date: '2023-08-13T10:05:47'
 slug: oppo-a32-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/oppo-a32-software-service/

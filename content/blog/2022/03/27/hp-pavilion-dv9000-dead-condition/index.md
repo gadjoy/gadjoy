@@ -4,9 +4,9 @@ date: '2022-03-27T13:00:31'
 slug: hp-pavilion-dv9000-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/27/hp-pavilion-dv9000-dead-condition/

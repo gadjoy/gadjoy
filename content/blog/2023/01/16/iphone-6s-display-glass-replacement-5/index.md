@@ -4,9 +4,9 @@ date: '2023-01-16T12:43:04'
 slug: iphone-6s-display-glass-replacement-5
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/iphone-6s-display-glass-replacement-5/

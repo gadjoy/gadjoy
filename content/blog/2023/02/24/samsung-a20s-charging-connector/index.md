@@ -4,9 +4,9 @@ date: '2023-02-24T11:46:58'
 slug: samsung-a20s-charging-connector
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/24/samsung-a20s-charging-connector/

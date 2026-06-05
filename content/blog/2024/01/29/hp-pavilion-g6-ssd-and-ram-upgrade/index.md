@@ -4,9 +4,9 @@ date: '2024-01-29T13:13:11'
 slug: hp-pavilion-g6-ssd-and-ram-upgrade
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/01/29/hp-pavilion-g6-ssd-and-ram-upgrade/

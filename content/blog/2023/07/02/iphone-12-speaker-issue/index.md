@@ -4,9 +4,9 @@ date: '2023-07-02T12:27:46'
 slug: iphone-12-speaker-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/07/02/iphone-12-speaker-issue/

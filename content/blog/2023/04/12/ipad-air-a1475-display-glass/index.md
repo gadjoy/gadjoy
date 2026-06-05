@@ -4,9 +4,9 @@ date: '2023-04-12T12:22:22'
 slug: ipad-air-a1475-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/12/ipad-air-a1475-display-glass/

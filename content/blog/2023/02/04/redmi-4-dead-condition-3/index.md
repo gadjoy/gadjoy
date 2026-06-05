@@ -4,9 +4,9 @@ date: '2023-02-04T12:04:06'
 slug: redmi-4-dead-condition-3
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/04/redmi-4-dead-condition-3/

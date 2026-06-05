@@ -4,9 +4,9 @@ date: '2023-07-21T13:27:01'
 slug: ipad-a1396-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/21/ipad-a1396-dead-condition/

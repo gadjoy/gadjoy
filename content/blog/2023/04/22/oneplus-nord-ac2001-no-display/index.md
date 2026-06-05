@@ -4,9 +4,9 @@ date: '2023-04-22T12:53:22'
 slug: oneplus-nord-ac2001-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/22/oneplus-nord-ac2001-no-display/

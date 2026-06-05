@@ -4,9 +4,9 @@ date: '2023-10-03T12:00:07'
 slug: iphone-se-2020-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2023/10/03/iphone-se-2020-water-damage/

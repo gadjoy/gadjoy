@@ -4,9 +4,9 @@ date: '2023-01-28T10:21:57'
 slug: acer-helios-300-general-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/28/acer-helios-300-general-service/

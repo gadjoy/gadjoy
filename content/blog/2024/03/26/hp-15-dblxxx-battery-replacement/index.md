@@ -4,9 +4,9 @@ date: '2024-03-26T12:23:47'
 slug: hp-15-dblxxx-battery-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/03/26/hp-15-dblxxx-battery-replacement/

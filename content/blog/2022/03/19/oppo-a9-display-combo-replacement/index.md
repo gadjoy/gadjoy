@@ -4,9 +4,9 @@ date: '2022-03-19T12:39:36'
 slug: oppo-a9-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/19/oppo-a9-display-combo-replacement/

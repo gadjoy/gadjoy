@@ -4,8 +4,8 @@ date: '2021-12-27T12:04:57'
 slug: universal-bottle-opener
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/27/universal-bottle-opener/

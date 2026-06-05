@@ -4,9 +4,9 @@ date: '2023-01-14T13:23:52'
 slug: macbook-pro-a1989-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/14/macbook-pro-a1989-dead-condition/

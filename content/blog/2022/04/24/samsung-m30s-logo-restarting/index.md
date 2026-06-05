@@ -4,9 +4,9 @@ date: '2022-04-24T11:52:09'
 slug: samsung-m30s-logo-restarting
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/24/samsung-m30s-logo-restarting/

@@ -4,9 +4,9 @@ date: '2022-04-10T12:21:54'
 slug: lenovo-yoga-tab-2-dead-condition
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/10/lenovo-yoga-tab-2-dead-condition/

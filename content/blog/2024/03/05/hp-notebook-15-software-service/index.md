@@ -4,9 +4,9 @@ date: '2024-03-05T13:49:52'
 slug: hp-notebook-15-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/hp-notebook-15-software-service/

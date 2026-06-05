@@ -4,9 +4,9 @@ date: '2023-02-04T12:07:31'
 slug: iphone-14-pro-back-panel-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/04/iphone-14-pro-back-panel-replacement/

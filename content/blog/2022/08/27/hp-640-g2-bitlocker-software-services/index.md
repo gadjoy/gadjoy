@@ -4,8 +4,8 @@ date: '2022-08-27T10:13:25'
 slug: hp-640-g2-bitlocker-software-services
 draft: false
 categories:
-- Laptop & Desktop
-- Software Services
+- laptop-and-desktop
+- software-services
 tags: []
 aliases:
 - /blog/2022/08/27/hp-640-g2-bitlocker-software-services/

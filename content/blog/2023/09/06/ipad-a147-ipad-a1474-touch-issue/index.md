@@ -4,9 +4,9 @@ date: '2023-09-06T13:13:26'
 slug: ipad-a147-ipad-a1474-touch-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/ipad-a147-ipad-a1474-touch-issue/

@@ -4,9 +4,9 @@ date: '2023-07-23T13:46:32'
 slug: iphone-se-2-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/23/iphone-se-2-display-issue/

@@ -4,9 +4,9 @@ date: '2023-06-05T12:40:38'
 slug: iphone-6-display-combo-replacement-12
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/05/iphone-6-display-combo-replacement-12/

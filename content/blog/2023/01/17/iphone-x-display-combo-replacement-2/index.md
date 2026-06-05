@@ -4,9 +4,9 @@ date: '2023-01-17T10:31:47'
 slug: iphone-x-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/iphone-x-display-combo-replacement-2/

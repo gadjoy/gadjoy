@@ -4,9 +4,9 @@ date: '2022-04-04T11:53:44'
 slug: mi-max-2-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/04/mi-max-2-display-glass-replacement/

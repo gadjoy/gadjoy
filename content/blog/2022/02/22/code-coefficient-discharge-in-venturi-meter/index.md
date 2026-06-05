@@ -4,8 +4,8 @@ date: '2022-02-22T13:51:01'
 slug: code-coefficient-discharge-in-venturi-meter
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/22/code-coefficient-discharge-in-venturi-meter/

@@ -4,9 +4,9 @@ date: '2024-09-27T14:24:48'
 slug: hp-14s-cf1056tu-battery-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/09/27/hp-14s-cf1056tu-battery-issue/

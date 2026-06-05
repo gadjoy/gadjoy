@@ -4,9 +4,9 @@ date: '2023-06-26T13:34:35'
 slug: samsung-a30-over-heating
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/26/samsung-a30-over-heating/

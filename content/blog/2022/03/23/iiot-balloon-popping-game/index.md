@@ -4,8 +4,8 @@ date: '2022-03-23T11:27:59'
 slug: iiot-balloon-popping-game
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/23/iiot-balloon-popping-game/

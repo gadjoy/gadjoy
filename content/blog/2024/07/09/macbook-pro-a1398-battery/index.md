@@ -4,9 +4,9 @@ date: '2024-07-09T11:54:08'
 slug: macbook-pro-a1398-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/07/09/macbook-pro-a1398-battery/

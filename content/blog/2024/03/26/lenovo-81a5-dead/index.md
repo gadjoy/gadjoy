@@ -4,9 +4,9 @@ date: '2024-03-26T12:37:50'
 slug: lenovo-81a5-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/26/lenovo-81a5-dead/

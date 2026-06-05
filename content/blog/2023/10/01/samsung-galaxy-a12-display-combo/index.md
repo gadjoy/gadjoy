@@ -4,9 +4,9 @@ date: '2023-10-01T09:12:02'
 slug: samsung-galaxy-a12-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/01/samsung-galaxy-a12-display-combo/

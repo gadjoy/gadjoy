@@ -4,9 +4,9 @@ date: '2023-04-29T13:18:48'
 slug: iqoo-3-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/29/iqoo-3-display-combo-replacement/

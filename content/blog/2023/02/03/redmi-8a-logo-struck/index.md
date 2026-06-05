@@ -4,9 +4,9 @@ date: '2023-02-03T12:10:45'
 slug: redmi-8a-logo-struck
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/03/redmi-8a-logo-struck/

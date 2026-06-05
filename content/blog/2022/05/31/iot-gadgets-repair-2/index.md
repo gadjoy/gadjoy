@@ -4,8 +4,8 @@ date: '2022-05-31T14:49:17'
 slug: iot-gadgets-repair-2
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/05/31/iot-gadgets-repair-2/

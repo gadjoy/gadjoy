@@ -4,8 +4,8 @@ date: '2022-01-10T12:12:09'
 slug: charging-cable-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/charging-cable-holder/

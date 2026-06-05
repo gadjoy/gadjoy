@@ -4,9 +4,9 @@ date: '2021-12-17T12:14:38'
 slug: oppo-f7-software
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/17/oppo-f7-software/

@@ -4,9 +4,9 @@ date: '2024-03-18T13:49:42'
 slug: iphone-7-plus-not-charging
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/18/iphone-7-plus-not-charging/

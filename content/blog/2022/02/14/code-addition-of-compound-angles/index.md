@@ -4,8 +4,8 @@ date: '2022-02-14T14:02:57'
 slug: code-addition-of-compound-angles
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/14/code-addition-of-compound-angles/

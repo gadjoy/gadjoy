@@ -4,9 +4,9 @@ date: '2023-06-04T12:24:14'
 slug: ipad-pro-a1701-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/04/ipad-pro-a1701-display-glass/

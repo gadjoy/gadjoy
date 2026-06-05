@@ -4,8 +4,8 @@ date: '2022-01-06T14:20:08'
 slug: turn-on-light-with-lemon
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/06/turn-on-light-with-lemon/

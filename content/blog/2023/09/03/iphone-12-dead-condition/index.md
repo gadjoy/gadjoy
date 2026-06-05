@@ -4,9 +4,9 @@ date: '2023-09-03T12:50:26'
 slug: iphone-12-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/03/iphone-12-dead-condition/

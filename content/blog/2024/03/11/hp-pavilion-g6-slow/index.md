@@ -4,9 +4,9 @@ date: '2024-03-11T14:04:33'
 slug: hp-pavilion-g6-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/11/hp-pavilion-g6-slow/

@@ -4,9 +4,9 @@ date: '2023-05-14T12:29:29'
 slug: samsung-galaxy-a22-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/14/samsung-galaxy-a22-display-combo/

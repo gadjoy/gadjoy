@@ -4,9 +4,9 @@ date: '2023-11-03T13:22:28'
 slug: mi-a2-dead-condition
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/11/03/mi-a2-dead-condition/

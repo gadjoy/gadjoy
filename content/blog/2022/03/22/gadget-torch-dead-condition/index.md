@@ -4,8 +4,8 @@ date: '2022-03-22T12:53:24'
 slug: gadget-torch-dead-condition
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/03/22/gadget-torch-dead-condition/

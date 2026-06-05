@@ -4,9 +4,9 @@ date: '2025-01-21T11:31:25'
 slug: infinix-hot-11-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/infinix-hot-11-display/

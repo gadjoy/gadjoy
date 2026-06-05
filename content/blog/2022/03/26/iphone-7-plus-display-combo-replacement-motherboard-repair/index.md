@@ -4,10 +4,10 @@ date: '2022-03-26T11:10:57'
 slug: iphone-7-plus-display-combo-replacement-motherboard-repair
 draft: false
 categories:
-- Chip Level & IC Repair
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/26/iphone-7-plus-display-combo-replacement-motherboard-repair/

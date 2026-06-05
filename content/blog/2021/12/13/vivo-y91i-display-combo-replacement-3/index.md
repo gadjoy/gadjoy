@@ -4,9 +4,9 @@ date: '2021-12-13T13:06:45'
 slug: vivo-y91i-display-combo-replacement-3
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/13/vivo-y91i-display-combo-replacement-3/

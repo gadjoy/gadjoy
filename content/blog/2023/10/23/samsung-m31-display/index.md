@@ -4,9 +4,9 @@ date: '2023-10-23T09:12:06'
 slug: samsung-m31-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/10/23/samsung-m31-display/

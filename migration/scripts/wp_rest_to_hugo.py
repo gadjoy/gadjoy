@@ -26,7 +26,8 @@ from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-CONTENT_BLOG_DIR = REPO_ROOT / "content" / "blog"
+CONTENT_DIR = REPO_ROOT / "content"
+CONTENT_BLOG_DIR = CONTENT_DIR / "blog"
 STATIC_UPLOADS_DIR = REPO_ROOT / "static" / "img" / "uploads"
 MISSING_MEDIA_REPORT = REPO_ROOT / "migration" / "missing_media_report.txt"
 DEFAULT_BASE_URL = "http://localhost:8080"
@@ -112,11 +113,13 @@ def _strip_tags(s: str) -> str:
 
 
 def _terms(post: dict, taxonomy: str):
+    """Real WP terms for a post: list of {slug, name}. Slugs are URL-safe and
+    distinguish categories that share a display name (e.g. two 'Water Damage')."""
     out = []
     for grp in post.get("_embedded", {}).get("wp:term", []):
         for t in grp:
             if t.get("taxonomy") == taxonomy:
-                out.append(html.unescape(t["name"]))
+                out.append({"slug": t["slug"], "name": html.unescape(t["name"])})
     return out
 
 
@@ -161,8 +164,10 @@ def build_front_matter(post: dict) -> dict:
         "date": date,
         "slug": slug,
         "draft": False,
-        "categories": _terms(post, "category"),
-        "tags": _terms(post, "post_tag"),
+        # store real WP slugs; display names live on the term pages (Hugo links
+        # by slug, so this avoids the '&'->double-hyphen mismatch that 404'd).
+        "categories": [t["slug"] for t in _terms(post, "category")],
+        "tags": [t["slug"] for t in _terms(post, "post_tag")],
         # canonical URL == original WP URL (via permalink config); rescue the
         # broken live site's /blog/ path so old inbound links don't 404.
         "aliases": [f"/blog/{y}/{m}/{d}/{slug}/"],
@@ -177,7 +182,7 @@ def build_front_matter(post: dict) -> dict:
     return fm
 
 
-def render_post(post: dict) -> tuple[Path, str, list]:
+def render_post(post: dict):
     fm = build_front_matter(post)
     date = post["date"]
     y, m, d = date[0:4], date[5:7], date[8:10]
@@ -185,7 +190,19 @@ def render_post(post: dict) -> tuple[Path, str, list]:
     body = html_to_markdown(post["content"]["rendered"])
     body, missing = prune_missing_media(body)
     front = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=10000).strip()
-    return post_dir / "index.md", f"---\n{front}\n---\n\n{body}\n", missing
+    terms = {"categories": _terms(post, "category"), "tags": _terms(post, "post_tag")}
+    return post_dir / "index.md", f"---\n{front}\n---\n\n{body}\n", missing, terms
+
+
+def write_term_pages(term_titles: dict):
+    """Create content/<taxonomy>/<slug>/_index.md carrying the real display name,
+    so taxonomy archives resolve at clean slugs and links show human titles."""
+    for taxonomy, mapping in term_titles.items():
+        for slug, name in sorted(mapping.items()):
+            d = CONTENT_DIR / taxonomy / slug
+            d.mkdir(parents=True, exist_ok=True)
+            front = yaml.safe_dump({"title": name}, allow_unicode=True).strip()
+            (d / "_index.md").write_text(f"---\n{front}\n---\n", encoding="utf-8")
 
 
 def fetch_all_posts(base_url: str):
@@ -210,19 +227,28 @@ def fetch_all_posts(base_url: str):
 
 
 def migrate(base_url: str = DEFAULT_BASE_URL, clean: bool = True) -> int:
-    if clean and CONTENT_BLOG_DIR.exists():
-        shutil.rmtree(CONTENT_BLOG_DIR)
+    if clean:
+        for d in (CONTENT_BLOG_DIR, CONTENT_DIR / "categories", CONTENT_DIR / "tags"):
+            if d.exists():
+                shutil.rmtree(d)
     CONTENT_BLOG_DIR.mkdir(parents=True, exist_ok=True)
 
     posts = fetch_all_posts(base_url)
     print(f"Fetched {len(posts)} posts from {base_url}")
     all_missing = []
+    term_titles = {"categories": {}, "tags": {}}
     for post in posts:
-        path, content, missing = render_post(post)
+        path, content, missing, terms = render_post(post)
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(content, encoding="utf-8")
         all_missing += [(post["slug"], ref) for ref in missing]
+        for t in terms["categories"]:
+            term_titles["categories"][t["slug"]] = t["name"]
+        for t in terms["tags"]:
+            term_titles["tags"][t["slug"]] = t["name"]
+    write_term_pages(term_titles)
     print(f"Wrote {len(posts)} blog post bundles to {CONTENT_BLOG_DIR}")
+    print(f"Wrote {len(term_titles['categories'])} category + {len(term_titles['tags'])} tag term pages")
     if all_missing:
         lines = [f"{slug}\t{ref}" for slug, ref in sorted(all_missing)]
         MISSING_MEDIA_REPORT.write_text(

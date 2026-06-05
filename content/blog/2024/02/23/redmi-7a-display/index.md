@@ -4,9 +4,9 @@ date: '2024-02-23T12:56:13'
 slug: redmi-7a-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/02/23/redmi-7a-display/

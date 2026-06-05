@@ -4,9 +4,9 @@ date: '2022-08-26T13:14:01'
 slug: oppo-f11-pro-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/26/oppo-f11-pro-dead-condition/

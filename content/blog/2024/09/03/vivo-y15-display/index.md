@@ -4,9 +4,9 @@ date: '2024-09-03T14:09:36'
 slug: vivo-y15-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/vivo-y15-display/

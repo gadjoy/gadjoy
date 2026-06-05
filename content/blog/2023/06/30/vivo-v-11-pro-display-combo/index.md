@@ -4,9 +4,9 @@ date: '2023-06-30T11:58:12'
 slug: vivo-v-11-pro-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/30/vivo-v-11-pro-display-combo/

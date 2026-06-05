@@ -4,9 +4,9 @@ date: '2022-04-12T13:17:24'
 slug: samsung-tab-2-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/12/samsung-tab-2-display-glass-replacement/

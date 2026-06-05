@@ -4,9 +4,9 @@ date: '2022-08-27T08:47:10'
 slug: samsung-a51s-dead
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/27/samsung-a51s-dead/

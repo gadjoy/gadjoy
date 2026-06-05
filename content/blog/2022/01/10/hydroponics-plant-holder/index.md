@@ -4,8 +4,8 @@ date: '2022-01-10T12:12:55'
 slug: hydroponics-plant-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/10/hydroponics-plant-holder/

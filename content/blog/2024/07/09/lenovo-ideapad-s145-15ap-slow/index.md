@@ -4,9 +4,9 @@ date: '2024-07-09T12:03:25'
 slug: lenovo-ideapad-s145-15ap-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/07/09/lenovo-ideapad-s145-15ap-slow/

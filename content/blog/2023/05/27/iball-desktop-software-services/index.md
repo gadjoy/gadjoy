@@ -4,9 +4,9 @@ date: '2023-05-27T12:38:13'
 slug: iball-desktop-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/05/27/iball-desktop-software-services/

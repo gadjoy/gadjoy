@@ -4,9 +4,9 @@ date: '2025-02-18T21:17:58'
 slug: samsung-galaxy-a03s-no-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/samsung-galaxy-a03s-no-display/

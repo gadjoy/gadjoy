@@ -4,10 +4,10 @@ date: '2022-02-21T13:06:22'
 slug: iphone-6-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/21/iphone-6-dead-condition/

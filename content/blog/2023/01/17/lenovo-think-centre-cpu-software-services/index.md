@@ -4,9 +4,9 @@ date: '2023-01-17T10:51:36'
 slug: lenovo-think-centre-cpu-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/lenovo-think-centre-cpu-software-services/

@@ -4,9 +4,9 @@ date: '2022-03-23T12:07:31'
 slug: redmi-note-8-pro-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/03/23/redmi-note-8-pro-display-combo-replacement/

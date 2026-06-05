@@ -4,8 +4,8 @@ date: '2022-07-03T13:53:59'
 slug: java-script-the-switch-keyword
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/07/03/java-script-the-switch-keyword/

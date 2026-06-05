@@ -4,9 +4,9 @@ date: '2023-09-06T13:00:08'
 slug: poco-x2-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/poco-x2-dead-condition/

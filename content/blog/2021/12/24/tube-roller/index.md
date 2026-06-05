@@ -4,8 +4,8 @@ date: '2021-12-24T12:06:26'
 slug: tube-roller
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/24/tube-roller/

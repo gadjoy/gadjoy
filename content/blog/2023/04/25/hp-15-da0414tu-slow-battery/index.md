@@ -4,9 +4,9 @@ date: '2023-04-25T12:39:50'
 slug: hp-15-da0414tu-slow-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/04/25/hp-15-da0414tu-slow-battery/

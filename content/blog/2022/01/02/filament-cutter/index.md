@@ -4,8 +4,8 @@ date: '2022-01-02T12:02:27'
 slug: filament-cutter
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/02/filament-cutter/

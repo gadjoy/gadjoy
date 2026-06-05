@@ -4,8 +4,8 @@ date: '2022-02-14T12:58:43'
 slug: code-express-radians-into-angles
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/14/code-express-radians-into-angles/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:38:53'
 slug: vivo-a53s-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/vivo-a53s-display-combo/

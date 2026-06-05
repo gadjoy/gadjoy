@@ -4,9 +4,9 @@ date: '2021-12-29T12:07:32'
 slug: samsung-j7-prime-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/29/samsung-j7-prime-display-glass-replacement/

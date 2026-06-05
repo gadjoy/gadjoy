@@ -4,9 +4,9 @@ date: '2023-01-17T10:38:29'
 slug: vivo-y91c-dead-conditon
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/vivo-y91c-dead-conditon/

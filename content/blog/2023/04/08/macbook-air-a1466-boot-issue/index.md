@@ -4,9 +4,9 @@ date: '2023-04-08T13:44:45'
 slug: macbook-air-a1466-boot-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/08/macbook-air-a1466-boot-issue/

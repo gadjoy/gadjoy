@@ -4,8 +4,8 @@ date: '2022-03-23T11:50:32'
 slug: code-3rd-order-determinant
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/23/code-3rd-order-determinant/

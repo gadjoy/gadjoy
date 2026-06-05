@@ -4,9 +4,9 @@ date: '2023-04-23T05:57:33'
 slug: samsung-galaxy-m02s-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/23/samsung-galaxy-m02s-display-combo/

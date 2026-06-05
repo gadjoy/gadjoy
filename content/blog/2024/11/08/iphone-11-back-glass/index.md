@@ -4,9 +4,9 @@ date: '2024-11-08T13:17:35'
 slug: iphone-11-back-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/08/iphone-11-back-glass/

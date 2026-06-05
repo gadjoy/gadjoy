@@ -4,9 +4,9 @@ date: '2023-02-15T12:09:00'
 slug: vivo-y83-pro-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/15/vivo-y83-pro-display-issue/

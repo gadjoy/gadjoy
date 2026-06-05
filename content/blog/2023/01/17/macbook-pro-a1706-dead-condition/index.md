@@ -4,9 +4,9 @@ date: '2023-01-17T12:42:58'
 slug: macbook-pro-a1706-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/17/macbook-pro-a1706-dead-condition/

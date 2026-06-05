@@ -4,8 +4,8 @@ date: '2022-02-16T13:48:42'
 slug: code-digital-clock
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/16/code-digital-clock/

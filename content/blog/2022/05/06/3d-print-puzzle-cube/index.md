@@ -4,8 +4,8 @@ date: '2022-05-06T14:23:34'
 slug: 3d-print-puzzle-cube
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/06/3d-print-puzzle-cube/

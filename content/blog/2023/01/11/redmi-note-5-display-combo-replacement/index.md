@@ -4,9 +4,9 @@ date: '2023-01-11T12:16:14'
 slug: redmi-note-5-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/11/redmi-note-5-display-combo-replacement/

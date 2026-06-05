@@ -4,9 +4,9 @@ date: '2024-09-27T14:29:54'
 slug: samsung-galaxy-note-10-plus-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/27/samsung-galaxy-note-10-plus-display/

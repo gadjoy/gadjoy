@@ -4,9 +4,9 @@ date: '2022-04-30T13:52:18'
 slug: redmi-k20-front-camera-error
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/30/redmi-k20-front-camera-error/

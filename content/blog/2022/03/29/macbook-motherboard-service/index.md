@@ -4,9 +4,9 @@ date: '2022-03-29T07:23:26'
 slug: macbook-motherboard-service
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/03/29/macbook-motherboard-service/

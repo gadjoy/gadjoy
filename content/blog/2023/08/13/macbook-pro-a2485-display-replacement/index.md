@@ -4,9 +4,9 @@ date: '2023-08-13T09:56:12'
 slug: macbook-pro-a2485-display-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/08/13/macbook-pro-a2485-display-replacement/

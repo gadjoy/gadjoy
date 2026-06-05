@@ -4,8 +4,8 @@ date: '2022-08-22T13:09:59'
 slug: asus-zen-5x-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Repair
+- chip-level-and-ic-repair-mobile
+- repair
 tags: []
 aliases:
 - /blog/2022/08/22/asus-zen-5x-dead-condition/

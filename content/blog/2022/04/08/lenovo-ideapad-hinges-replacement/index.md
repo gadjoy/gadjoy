@@ -4,9 +4,9 @@ date: '2022-04-08T09:49:40'
 slug: lenovo-ideapad-hinges-replacement
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2022/04/08/lenovo-ideapad-hinges-replacement/

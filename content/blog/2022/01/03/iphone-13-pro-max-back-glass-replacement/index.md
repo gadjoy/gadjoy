@@ -4,9 +4,9 @@ date: '2022-01-03T12:01:32'
 slug: iphone-13-pro-max-back-glass-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/03/iphone-13-pro-max-back-glass-replacement/

@@ -4,8 +4,8 @@ date: '2022-01-03T13:23:58'
 slug: 3du-borehole-cleaning-aid
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/03/3du-borehole-cleaning-aid/

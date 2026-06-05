@@ -4,9 +4,9 @@ date: '2022-04-23T14:22:23'
 slug: iphone-11-pro-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/23/iphone-11-pro-display-glass-replacement/

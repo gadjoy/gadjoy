@@ -4,8 +4,8 @@ date: '2022-04-13T12:12:12'
 slug: 3d-print-spinosaurus-kit-card
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/13/3d-print-spinosaurus-kit-card/

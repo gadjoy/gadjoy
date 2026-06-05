@@ -4,8 +4,8 @@ date: '2021-12-17T11:37:47'
 slug: 3d-print-bird-feeder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/17/3d-print-bird-feeder/

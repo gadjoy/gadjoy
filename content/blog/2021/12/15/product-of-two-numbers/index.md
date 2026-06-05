@@ -4,8 +4,8 @@ date: '2021-12-15T11:53:09'
 slug: product-of-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/product-of-two-numbers/

@@ -4,9 +4,9 @@ date: '2023-01-23T12:38:09'
 slug: hp-15-au006tx-top-panel-display-flickering-hardware-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/23/hp-15-au006tx-top-panel-display-flickering-hardware-service/

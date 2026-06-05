@@ -4,9 +4,9 @@ date: '2024-09-28T11:00:34'
 slug: iphone-11-battery-replacement-2
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/09/28/iphone-11-battery-replacement-2/

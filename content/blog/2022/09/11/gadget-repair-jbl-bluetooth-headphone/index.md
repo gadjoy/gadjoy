@@ -4,8 +4,8 @@ date: '2022-09-11T09:56:06'
 slug: gadget-repair-jbl-bluetooth-headphone
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/09/11/gadget-repair-jbl-bluetooth-headphone/

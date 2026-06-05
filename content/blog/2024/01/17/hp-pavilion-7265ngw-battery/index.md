@@ -4,9 +4,9 @@ date: '2024-01-17T14:01:36'
 slug: hp-pavilion-7265ngw-battery
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/17/hp-pavilion-7265ngw-battery/

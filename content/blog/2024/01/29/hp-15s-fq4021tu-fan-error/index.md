@@ -4,9 +4,9 @@ date: '2024-01-29T13:15:37'
 slug: hp-15s-fq4021tu-fan-error
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/29/hp-15s-fq4021tu-fan-error/

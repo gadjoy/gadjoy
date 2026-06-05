@@ -4,9 +4,9 @@ date: '2024-06-24T12:12:41'
 slug: samsung-galaxy-m32-display
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/06/24/samsung-galaxy-m32-display/

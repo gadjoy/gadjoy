@@ -4,9 +4,9 @@ date: '2023-08-06T14:56:40'
 slug: vivo-y71-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/06/vivo-y71-display-combo/

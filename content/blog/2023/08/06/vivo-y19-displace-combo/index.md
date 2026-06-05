@@ -4,9 +4,9 @@ date: '2023-08-06T15:01:11'
 slug: vivo-y19-displace-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/06/vivo-y19-displace-combo/

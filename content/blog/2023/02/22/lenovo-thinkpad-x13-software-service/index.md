@@ -4,9 +4,9 @@ date: '2023-02-22T12:19:54'
 slug: lenovo-thinkpad-x13-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/22/lenovo-thinkpad-x13-software-service/

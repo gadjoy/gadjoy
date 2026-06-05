@@ -4,8 +4,8 @@ date: '2022-05-16T14:20:03'
 slug: code-adding-and-subtracting-matrices-in-python
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/16/code-adding-and-subtracting-matrices-in-python/

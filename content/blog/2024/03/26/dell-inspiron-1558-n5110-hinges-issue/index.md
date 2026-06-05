@@ -4,9 +4,9 @@ date: '2024-03-26T12:49:40'
 slug: dell-inspiron-1558-n5110-hinges-issue
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/03/26/dell-inspiron-1558-n5110-hinges-issue/

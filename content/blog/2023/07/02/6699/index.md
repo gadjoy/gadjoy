@@ -4,9 +4,9 @@ date: '2023-07-02T12:19:39'
 slug: '6699'
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/02/6699/

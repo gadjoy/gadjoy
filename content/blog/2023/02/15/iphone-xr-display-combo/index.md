@@ -4,9 +4,9 @@ date: '2023-02-15T12:17:11'
 slug: iphone-xr-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/15/iphone-xr-display-combo/

@@ -4,9 +4,9 @@ date: '2023-01-15T05:18:42'
 slug: vivo-y21t-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/vivo-y21t-display-combo-replacement/

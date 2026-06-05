@@ -4,9 +4,9 @@ date: '2024-09-03T13:57:29'
 slug: oneplus-11r-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2024/09/03/oneplus-11r-water-damage/

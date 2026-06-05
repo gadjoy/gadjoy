@@ -4,8 +4,8 @@ date: '2022-03-27T12:46:38'
 slug: 3d-printer-sparrow-2d-wall-art-2
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/27/3d-printer-sparrow-2d-wall-art-2/

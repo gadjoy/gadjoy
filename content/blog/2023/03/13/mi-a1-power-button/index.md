@@ -4,9 +4,9 @@ date: '2023-03-13T12:56:33'
 slug: mi-a1-power-button
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/03/13/mi-a1-power-button/

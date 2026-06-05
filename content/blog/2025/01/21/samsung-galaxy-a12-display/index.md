@@ -4,9 +4,9 @@ date: '2025-01-21T12:00:47'
 slug: samsung-galaxy-a12-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/samsung-galaxy-a12-display/

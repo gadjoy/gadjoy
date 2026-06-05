@@ -4,9 +4,9 @@ date: '2022-04-12T13:10:54'
 slug: one-plus-5t-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/12/one-plus-5t-display-combo-replacement/

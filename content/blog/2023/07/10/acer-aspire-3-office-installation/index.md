@@ -4,9 +4,9 @@ date: '2023-07-10T13:43:53'
 slug: acer-aspire-3-office-installation
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/07/10/acer-aspire-3-office-installation/

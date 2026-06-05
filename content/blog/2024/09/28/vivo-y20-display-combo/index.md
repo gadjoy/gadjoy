@@ -4,9 +4,9 @@ date: '2024-09-28T11:05:21'
 slug: vivo-y20-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/28/vivo-y20-display-combo/

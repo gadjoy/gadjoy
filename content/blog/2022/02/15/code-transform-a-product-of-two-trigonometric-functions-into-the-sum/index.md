@@ -4,8 +4,8 @@ date: '2022-02-15T11:10:17'
 slug: code-transform-a-product-of-two-trigonometric-functions-into-the-sum
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/15/code-transform-a-product-of-two-trigonometric-functions-into-the-sum/

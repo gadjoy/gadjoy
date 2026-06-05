@@ -4,9 +4,9 @@ date: '2024-05-15T14:09:01'
 slug: realme-c2-water-damage
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Water Damage
+- mobiles
+- repair
+- water-damage
 tags: []
 aliases:
 - /blog/2024/05/15/realme-c2-water-damage/

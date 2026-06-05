@@ -4,9 +4,9 @@ date: '2022-04-23T14:23:59'
 slug: redmi-note-8-pro-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/23/redmi-note-8-pro-battery-replacement/

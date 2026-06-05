@@ -4,8 +4,8 @@ date: '2022-02-23T13:27:43'
 slug: code-find-lcm-of-any-two-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/23/code-find-lcm-of-any-two-numbers/

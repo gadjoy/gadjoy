@@ -4,9 +4,9 @@ date: '2023-09-06T13:19:52'
 slug: samsung-m20-display
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/samsung-m20-display/

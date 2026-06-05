@@ -4,8 +4,8 @@ date: '2022-01-29T13:48:42'
 slug: code-odd-or-even-number
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/29/code-odd-or-even-number/

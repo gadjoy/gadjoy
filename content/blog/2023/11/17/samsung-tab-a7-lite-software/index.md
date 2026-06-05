@@ -4,9 +4,9 @@ date: '2023-11-17T11:49:24'
 slug: samsung-tab-a7-lite-software
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/17/samsung-tab-a7-lite-software/

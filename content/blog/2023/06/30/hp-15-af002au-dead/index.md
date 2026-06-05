@@ -4,9 +4,9 @@ date: '2023-06-30T11:59:33'
 slug: hp-15-af002au-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/30/hp-15-af002au-dead/

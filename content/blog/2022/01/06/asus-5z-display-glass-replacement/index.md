@@ -4,9 +4,9 @@ date: '2022-01-06T14:01:45'
 slug: asus-5z-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/01/06/asus-5z-display-glass-replacement/

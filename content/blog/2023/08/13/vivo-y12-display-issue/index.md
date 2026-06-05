@@ -4,9 +4,9 @@ date: '2023-08-13T10:08:54'
 slug: vivo-y12-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/vivo-y12-display-issue/

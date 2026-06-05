@@ -4,8 +4,8 @@ date: '2023-01-30T12:31:17'
 slug: bluetooth-speaker-charging-port
 draft: false
 categories:
-- Chip Level & IC Repair
-- Repair
+- chip-level-and-ic-repair-mobile
+- repair
 tags: []
 aliases:
 - /blog/2023/01/30/bluetooth-speaker-charging-port/

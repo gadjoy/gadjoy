@@ -4,8 +4,8 @@ date: '2021-12-24T12:07:22'
 slug: eagle-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/24/eagle-wall-art/

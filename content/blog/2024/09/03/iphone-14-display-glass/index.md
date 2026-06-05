@@ -4,9 +4,9 @@ date: '2024-09-03T13:52:32'
 slug: iphone-14-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/09/03/iphone-14-display-glass/

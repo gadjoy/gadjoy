@@ -4,8 +4,8 @@ date: '2022-01-10T13:13:56'
 slug: code-numbers-to-find-divisible-by-8
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/10/code-numbers-to-find-divisible-by-8/

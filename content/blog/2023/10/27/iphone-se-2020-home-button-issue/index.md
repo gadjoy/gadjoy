@@ -4,9 +4,9 @@ date: '2023-10-27T12:32:39'
 slug: iphone-se-2020-home-button-issue
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/10/27/iphone-se-2020-home-button-issue/

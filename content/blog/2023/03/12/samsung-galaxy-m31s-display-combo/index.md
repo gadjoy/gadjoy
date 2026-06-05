@@ -4,9 +4,9 @@ date: '2023-03-12T10:32:45'
 slug: samsung-galaxy-m31s-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/03/12/samsung-galaxy-m31s-display-combo/

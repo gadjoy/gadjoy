@@ -4,9 +4,9 @@ date: '2024-04-24T11:29:57'
 slug: samsung-m02s-dead
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/04/24/samsung-m02s-dead/

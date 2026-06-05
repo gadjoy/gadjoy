@@ -4,9 +4,9 @@ date: '2023-01-21T14:04:47'
 slug: vivo-y51-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/21/vivo-y51-display-combo-replacement-2/

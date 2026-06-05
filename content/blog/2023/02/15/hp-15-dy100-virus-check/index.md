@@ -4,9 +4,9 @@ date: '2023-02-15T12:14:07'
 slug: hp-15-dy100-virus-check
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/02/15/hp-15-dy100-virus-check/

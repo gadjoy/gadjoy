@@ -4,9 +4,9 @@ date: '2024-03-05T13:47:40'
 slug: 4985-vivo-y20-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/05/4985-vivo-y20-dead-condition/

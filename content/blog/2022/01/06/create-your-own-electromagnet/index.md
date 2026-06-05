@@ -4,8 +4,8 @@ date: '2022-01-06T14:14:09'
 slug: create-your-own-electromagnet
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/01/06/create-your-own-electromagnet/

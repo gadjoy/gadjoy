@@ -4,9 +4,9 @@ date: '2023-02-20T10:30:23'
 slug: alcatel-9030q-tab-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/20/alcatel-9030q-tab-dead-condition/

@@ -4,9 +4,9 @@ date: '2024-07-12T12:11:05'
 slug: dell-ttyfja00-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/07/12/dell-ttyfja00-dead/

@@ -4,9 +4,9 @@ date: '2023-01-22T12:02:33'
 slug: samsung-note-10-plus-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/samsung-note-10-plus-software-services/

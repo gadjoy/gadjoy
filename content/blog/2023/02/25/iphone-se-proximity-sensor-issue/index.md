@@ -4,9 +4,9 @@ date: '2023-02-25T12:06:50'
 slug: iphone-se-proximity-sensor-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/02/25/iphone-se-proximity-sensor-issue/

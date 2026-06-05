@@ -4,9 +4,9 @@ date: '2023-04-05T12:42:24'
 slug: iphone-xs-max-display-glass-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/05/iphone-xs-max-display-glass-replacement/

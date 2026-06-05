@@ -4,9 +4,9 @@ date: '2024-05-06T13:41:17'
 slug: lenovo-thinkpad-l420-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/05/06/lenovo-thinkpad-l420-software-service/

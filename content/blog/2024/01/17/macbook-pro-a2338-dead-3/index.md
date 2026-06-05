@@ -4,9 +4,9 @@ date: '2024-01-17T13:54:41'
 slug: macbook-pro-a2338-dead-3
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/01/17/macbook-pro-a2338-dead-3/

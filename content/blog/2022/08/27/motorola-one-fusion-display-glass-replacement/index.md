@@ -4,7 +4,7 @@ date: '2022-08-27T08:28:18'
 slug: motorola-one-fusion-display-glass-replacement
 draft: false
 categories:
-- Uncategorized
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/08/27/motorola-one-fusion-display-glass-replacement/

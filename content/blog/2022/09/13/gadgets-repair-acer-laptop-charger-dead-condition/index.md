@@ -4,8 +4,8 @@ date: '2022-09-13T08:19:15'
 slug: gadgets-repair-acer-laptop-charger-dead-condition
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/09/13/gadgets-repair-acer-laptop-charger-dead-condition/

@@ -4,9 +4,9 @@ date: '2021-12-23T14:55:12'
 slug: moto-one-power-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/23/moto-one-power-dead-condition/

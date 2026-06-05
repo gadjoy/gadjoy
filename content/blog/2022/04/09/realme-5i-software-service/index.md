@@ -4,9 +4,9 @@ date: '2022-04-09T10:57:42'
 slug: realme-5i-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/09/realme-5i-software-service/

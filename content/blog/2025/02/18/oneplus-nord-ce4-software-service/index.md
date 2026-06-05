@@ -4,9 +4,9 @@ date: '2025-02-18T21:14:11'
 slug: oneplus-nord-ce4-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/oneplus-nord-ce4-software-service/

@@ -4,9 +4,9 @@ date: '2022-01-10T11:04:07'
 slug: samsung-galaxy-j2-loud-speaker-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/10/samsung-galaxy-j2-loud-speaker-replacement/

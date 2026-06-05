@@ -4,8 +4,8 @@ date: '2022-04-04T14:11:12'
 slug: code-to-find-productivity
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/04/04/code-to-find-productivity/

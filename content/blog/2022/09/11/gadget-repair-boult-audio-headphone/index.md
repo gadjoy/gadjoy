@@ -4,9 +4,9 @@ date: '2022-09-11T09:47:53'
 slug: gadget-repair-boult-audio-headphone
 draft: false
 categories:
-- Build
-- IIOT
-- Uncategorized
+- build
+- iiot
+- uncategorized
 tags: []
 aliases:
 - /blog/2022/09/11/gadget-repair-boult-audio-headphone/

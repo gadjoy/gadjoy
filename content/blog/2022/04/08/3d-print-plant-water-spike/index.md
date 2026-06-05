@@ -4,8 +4,8 @@ date: '2022-04-08T14:41:01'
 slug: 3d-print-plant-water-spike
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/08/3d-print-plant-water-spike/

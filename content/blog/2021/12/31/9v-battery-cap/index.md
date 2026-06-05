@@ -4,8 +4,8 @@ date: '2021-12-31T13:24:52'
 slug: 9v-battery-cap
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/31/9v-battery-cap/

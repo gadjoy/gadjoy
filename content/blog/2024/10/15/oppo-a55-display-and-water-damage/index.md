@@ -4,9 +4,9 @@ date: '2024-10-15T12:10:48'
 slug: oppo-a55-display-and-water-damage
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/15/oppo-a55-display-and-water-damage/

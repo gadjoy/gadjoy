@@ -4,9 +4,9 @@ date: '2024-04-24T11:34:14'
 slug: poco-x2-touch-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/04/24/poco-x2-touch-issue/

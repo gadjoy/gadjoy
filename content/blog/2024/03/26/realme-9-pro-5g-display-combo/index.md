@@ -4,9 +4,9 @@ date: '2024-03-26T12:48:17'
 slug: realme-9-pro-5g-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/26/realme-9-pro-5g-display-combo/

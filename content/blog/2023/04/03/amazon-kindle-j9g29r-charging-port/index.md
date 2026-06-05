@@ -4,9 +4,9 @@ date: '2023-04-03T10:10:34'
 slug: amazon-kindle-j9g29r-charging-port
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/04/03/amazon-kindle-j9g29r-charging-port/

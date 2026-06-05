@@ -4,9 +4,9 @@ date: '2022-02-04T13:24:47'
 slug: nokia-3310-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/02/04/nokia-3310-battery-replacement/

@@ -4,9 +4,9 @@ date: '2023-08-16T13:50:50'
 slug: oppo-reno-2f-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/16/oppo-reno-2f-dead-condition/

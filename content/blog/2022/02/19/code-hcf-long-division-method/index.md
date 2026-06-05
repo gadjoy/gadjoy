@@ -4,8 +4,8 @@ date: '2022-02-19T11:31:06'
 slug: code-hcf-long-division-method
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/19/code-hcf-long-division-method/

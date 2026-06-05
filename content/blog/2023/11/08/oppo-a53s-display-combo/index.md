@@ -4,9 +4,9 @@ date: '2023-11-08T12:49:55'
 slug: oppo-a53s-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/08/oppo-a53s-display-combo/

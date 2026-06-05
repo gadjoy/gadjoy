@@ -4,9 +4,9 @@ date: '2023-05-03T13:04:04'
 slug: redmi-power-9-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/03/redmi-power-9-dead-condition/

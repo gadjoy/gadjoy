@@ -4,9 +4,9 @@ date: '2023-06-09T13:33:25'
 slug: hp-14-ac108tu-booting-issue
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/06/09/hp-14-ac108tu-booting-issue/

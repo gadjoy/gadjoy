@@ -4,9 +4,9 @@ date: '2024-10-04T14:00:24'
 slug: google-pixel-7-pro-display-glass-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/10/04/google-pixel-7-pro-display-glass-2/

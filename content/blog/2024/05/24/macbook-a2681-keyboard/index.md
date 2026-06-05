@@ -4,9 +4,9 @@ date: '2024-05-24T13:26:06'
 slug: macbook-a2681-keyboard
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/05/24/macbook-a2681-keyboard/

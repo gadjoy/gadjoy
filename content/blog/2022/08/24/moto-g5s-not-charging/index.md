@@ -4,8 +4,8 @@ date: '2022-08-24T14:24:39'
 slug: moto-g5s-not-charging
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/08/24/moto-g5s-not-charging/

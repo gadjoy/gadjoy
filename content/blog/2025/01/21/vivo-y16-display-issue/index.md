@@ -4,9 +4,9 @@ date: '2025-01-21T12:11:38'
 slug: vivo-y16-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/01/21/vivo-y16-display-issue/

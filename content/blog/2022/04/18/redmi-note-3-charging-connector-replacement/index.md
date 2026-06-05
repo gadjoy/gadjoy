@@ -4,9 +4,9 @@ date: '2022-04-18T11:49:18'
 slug: redmi-note-3-charging-connector-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/04/18/redmi-note-3-charging-connector-replacement/

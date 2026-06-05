@@ -4,9 +4,9 @@ date: '2024-09-13T12:55:07'
 slug: dell-latitude-7480-battery
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/09/13/dell-latitude-7480-battery/

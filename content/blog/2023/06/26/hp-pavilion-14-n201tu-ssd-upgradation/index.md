@@ -4,9 +4,9 @@ date: '2023-06-26T13:29:56'
 slug: hp-pavilion-14-n201tu-ssd-upgradation
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/06/26/hp-pavilion-14-n201tu-ssd-upgradation/

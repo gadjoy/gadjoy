@@ -4,9 +4,9 @@ date: '2023-04-08T13:42:35'
 slug: samsung-galaxy-f41-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/04/08/samsung-galaxy-f41-dead-condition/

@@ -4,8 +4,8 @@ date: '2022-08-21T14:00:00'
 slug: samsung-a50-a506f-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Repair
+- display-and-glass-replacement-apple-watch
+- repair
 tags: []
 aliases:
 - /blog/2022/08/21/samsung-a50-a506f-display-combo-replacement/

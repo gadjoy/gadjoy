@@ -4,9 +4,9 @@ date: '2024-11-17T12:05:08'
 slug: ipad-a1567-dead
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/ipad-a1567-dead/

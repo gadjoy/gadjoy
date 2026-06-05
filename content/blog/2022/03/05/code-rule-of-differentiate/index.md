@@ -4,8 +4,8 @@ date: '2022-03-05T10:36:32'
 slug: code-rule-of-differentiate
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/05/code-rule-of-differentiate/

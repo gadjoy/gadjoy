@@ -4,8 +4,8 @@ date: '2022-04-12T14:33:54'
 slug: iiot-raspberry-pi-leds-buzzers
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/12/iiot-raspberry-pi-leds-buzzers/

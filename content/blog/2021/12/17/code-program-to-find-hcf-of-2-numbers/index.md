@@ -4,8 +4,8 @@ date: '2021-12-17T11:42:48'
 slug: code-program-to-find-hcf-of-2-numbers
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/17/code-program-to-find-hcf-of-2-numbers/

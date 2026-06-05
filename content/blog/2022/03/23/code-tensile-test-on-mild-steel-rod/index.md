@@ -4,8 +4,8 @@ date: '2022-03-23T11:05:09'
 slug: code-tensile-test-on-mild-steel-rod
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/23/code-tensile-test-on-mild-steel-rod/

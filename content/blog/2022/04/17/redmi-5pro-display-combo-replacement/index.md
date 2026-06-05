@@ -4,9 +4,9 @@ date: '2022-04-17T11:33:26'
 slug: redmi-5pro-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/17/redmi-5pro-display-combo-replacement/

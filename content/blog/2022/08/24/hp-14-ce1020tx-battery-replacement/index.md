@@ -4,8 +4,8 @@ date: '2022-08-24T13:50:22'
 slug: hp-14-ce1020tx-battery-replacement
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
+- general-hardware-and-software-services
+- laptop-and-desktop
 tags: []
 aliases:
 - /blog/2022/08/24/hp-14-ce1020tx-battery-replacement/

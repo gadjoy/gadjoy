@@ -4,9 +4,9 @@ date: '2024-11-17T12:08:36'
 slug: poco-c50-charging-port
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/11/17/poco-c50-charging-port/

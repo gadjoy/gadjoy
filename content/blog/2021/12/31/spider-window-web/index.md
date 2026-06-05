@@ -4,8 +4,8 @@ date: '2021-12-31T13:28:52'
 slug: spider-window-web
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/31/spider-window-web/

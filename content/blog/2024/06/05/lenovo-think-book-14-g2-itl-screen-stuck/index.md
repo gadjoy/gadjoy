@@ -4,9 +4,9 @@ date: '2024-06-05T13:36:41'
 slug: lenovo-think-book-14-g2-itl-screen-stuck
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/06/05/lenovo-think-book-14-g2-itl-screen-stuck/

@@ -4,8 +4,8 @@ date: '2022-01-01T11:42:35'
 slug: program-to-find-even-or-odd
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/01/01/program-to-find-even-or-odd/

@@ -4,9 +4,9 @@ date: '2023-08-13T10:07:37'
 slug: samsung-galaxy-a21s-dead
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/samsung-galaxy-a21s-dead/

@@ -4,9 +4,9 @@ date: '2023-01-30T12:32:50'
 slug: dell-lattitude-3400-charging-port
 draft: false
 categories:
-- Chip Level & IC Repair
-- Laptop & Desktop
-- Repair
+- chip-level-and-ic-repair-laptop
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/30/dell-lattitude-3400-charging-port/

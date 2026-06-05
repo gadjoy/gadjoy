@@ -4,9 +4,9 @@ date: '2023-04-22T13:06:07'
 slug: acer-aspire-3-ssd-replacement
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/04/22/acer-aspire-3-ssd-replacement/

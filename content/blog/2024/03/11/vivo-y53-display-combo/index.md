@@ -4,9 +4,9 @@ date: '2024-03-11T14:01:52'
 slug: vivo-y53-display-combo
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2024/03/11/vivo-y53-display-combo/

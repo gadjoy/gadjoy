@@ -4,8 +4,8 @@ date: '2022-03-07T12:31:04'
 slug: code-conversion-of-the-decimal-into-the-fraction
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/07/code-conversion-of-the-decimal-into-the-fraction/

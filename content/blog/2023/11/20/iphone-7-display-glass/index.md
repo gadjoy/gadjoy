@@ -4,9 +4,9 @@ date: '2023-11-20T13:15:06'
 slug: iphone-7-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/11/20/iphone-7-display-glass/

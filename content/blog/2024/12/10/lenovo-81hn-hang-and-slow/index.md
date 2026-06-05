@@ -4,9 +4,9 @@ date: '2024-12-10T12:23:46'
 slug: lenovo-81hn-hang-and-slow
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2024/12/10/lenovo-81hn-hang-and-slow/

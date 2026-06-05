@@ -4,9 +4,9 @@ date: '2024-07-12T11:58:46'
 slug: realme-7-pro-power-button
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2024/07/12/realme-7-pro-power-button/

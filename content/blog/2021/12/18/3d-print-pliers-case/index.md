@@ -4,8 +4,8 @@ date: '2021-12-18T14:07:15'
 slug: 3d-print-pliers-case
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2021/12/18/3d-print-pliers-case/

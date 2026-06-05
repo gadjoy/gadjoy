@@ -4,8 +4,8 @@ date: '2022-03-20T12:49:05'
 slug: code-derivatives-of-x-y
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/03/20/code-derivatives-of-x-y/

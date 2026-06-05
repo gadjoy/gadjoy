@@ -4,9 +4,9 @@ date: '2023-02-04T11:31:29'
 slug: samsung-a50-cc-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2023/02/04/samsung-a50-cc-replacement/

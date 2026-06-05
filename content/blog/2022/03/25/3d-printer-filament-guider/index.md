@@ -4,8 +4,8 @@ date: '2022-03-25T12:43:31'
 slug: 3d-printer-filament-guider
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/03/25/3d-printer-filament-guider/

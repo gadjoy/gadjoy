@@ -4,8 +4,8 @@ date: '2022-05-07T12:04:31'
 slug: code-find-the-age-of-your-father
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/05/07/code-find-the-age-of-your-father/

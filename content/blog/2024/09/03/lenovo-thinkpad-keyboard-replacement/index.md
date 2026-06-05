@@ -4,9 +4,9 @@ date: '2024-09-03T14:10:49'
 slug: lenovo-thinkpad-keyboard-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2024/09/03/lenovo-thinkpad-keyboard-replacement/

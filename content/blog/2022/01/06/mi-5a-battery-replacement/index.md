@@ -4,9 +4,9 @@ date: '2022-01-06T14:41:35'
 slug: mi-5a-battery-replacement
 draft: false
 categories:
-- Mobile & Tablets
-- Repair
-- Replacements-Mobile
+- mobiles
+- repair
+- replacements
 tags: []
 aliases:
 - /blog/2022/01/06/mi-5a-battery-replacement/

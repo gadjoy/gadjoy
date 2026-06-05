@@ -4,9 +4,9 @@ date: '2025-02-18T21:00:15'
 slug: mi-11x-display-issue
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/mi-11x-display-issue/

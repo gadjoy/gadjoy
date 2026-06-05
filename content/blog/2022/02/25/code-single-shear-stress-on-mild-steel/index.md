@@ -4,8 +4,8 @@ date: '2022-02-25T13:04:38'
 slug: code-single-shear-stress-on-mild-steel
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2022/02/25/code-single-shear-stress-on-mild-steel/

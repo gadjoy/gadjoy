@@ -4,9 +4,9 @@ date: '2022-02-25T12:47:54'
 slug: realme-c15-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/25/realme-c15-display-combo-replacement/

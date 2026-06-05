@@ -4,9 +4,9 @@ date: '2025-02-18T21:13:34'
 slug: fusion-5-tab-dead-condition
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2025/02/18/fusion-5-tab-dead-condition/

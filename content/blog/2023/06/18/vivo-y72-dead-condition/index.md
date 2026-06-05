@@ -4,9 +4,9 @@ date: '2023-06-18T07:10:00'
 slug: vivo-y72-dead-condition
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/18/vivo-y72-dead-condition/

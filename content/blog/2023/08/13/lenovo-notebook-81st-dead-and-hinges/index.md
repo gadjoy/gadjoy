@@ -4,9 +4,9 @@ date: '2023-08-13T10:14:18'
 slug: lenovo-notebook-81st-dead-and-hinges
 draft: false
 categories:
-- Hinge Repair
-- Laptop & Desktop
-- Repair
+- hinge-repair
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/08/13/lenovo-notebook-81st-dead-and-hinges/

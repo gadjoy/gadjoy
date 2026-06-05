@@ -4,8 +4,8 @@ date: '2021-12-17T11:41:18'
 slug: code-project-euler-the-largest-prime-factor
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/17/code-project-euler-the-largest-prime-factor/

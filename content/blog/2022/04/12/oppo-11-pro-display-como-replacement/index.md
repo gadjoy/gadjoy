@@ -4,9 +4,9 @@ date: '2022-04-12T13:13:15'
 slug: oppo-11-pro-display-como-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/04/12/oppo-11-pro-display-como-replacement/

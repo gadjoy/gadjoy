@@ -4,9 +4,9 @@ date: '2023-01-22T12:01:12'
 slug: asus-k510u-ssd-replacement
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/01/22/asus-k510u-ssd-replacement/

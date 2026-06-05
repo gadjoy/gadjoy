@@ -4,8 +4,8 @@ date: '2022-01-04T13:17:57'
 slug: tiger-wall-art
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/04/tiger-wall-art/

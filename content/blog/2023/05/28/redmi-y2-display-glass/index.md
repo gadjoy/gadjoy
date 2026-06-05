@@ -4,9 +4,9 @@ date: '2023-05-28T13:10:32'
 slug: redmi-y2-display-glass
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/05/28/redmi-y2-display-glass/

@@ -4,9 +4,9 @@ date: '2023-06-03T12:44:36'
 slug: iphone-11-back-panel-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/06/03/iphone-11-back-panel-replacement/

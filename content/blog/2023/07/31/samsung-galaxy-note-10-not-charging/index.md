@@ -4,9 +4,9 @@ date: '2023-07-31T13:00:07'
 slug: samsung-galaxy-note-10-not-charging
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/07/31/samsung-galaxy-note-10-not-charging/

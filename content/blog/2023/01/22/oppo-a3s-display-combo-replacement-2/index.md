@@ -4,9 +4,9 @@ date: '2023-01-22T11:46:20'
 slug: oppo-a3s-display-combo-replacement-2
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/01/22/oppo-a3s-display-combo-replacement-2/

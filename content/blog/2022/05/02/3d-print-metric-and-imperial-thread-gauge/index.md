@@ -4,8 +4,8 @@ date: '2022-05-02T17:11:28'
 slug: 3d-print-metric-and-imperial-thread-gauge
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/05/02/3d-print-metric-and-imperial-thread-gauge/

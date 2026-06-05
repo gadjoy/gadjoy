@@ -4,8 +4,8 @@ date: '2022-04-16T14:32:11'
 slug: iiot-gadgets-repair-bose-speaker
 draft: false
 categories:
-- Build
-- IIOT
+- build
+- iiot
 tags: []
 aliases:
 - /blog/2022/04/16/iiot-gadgets-repair-bose-speaker/

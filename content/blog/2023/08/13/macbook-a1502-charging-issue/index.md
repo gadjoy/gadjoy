@@ -4,9 +4,9 @@ date: '2023-08-13T09:55:55'
 slug: macbook-a1502-charging-issue
 draft: false
 categories:
-- Laptop & Desktop
-- Repair
-- Replacements-laptop
+- laptop-and-desktop
+- repair
+- replacements-laptop
 tags: []
 aliases:
 - /blog/2023/08/13/macbook-a1502-charging-issue/

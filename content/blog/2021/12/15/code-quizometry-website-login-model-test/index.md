@@ -4,8 +4,8 @@ date: '2021-12-15T15:21:18'
 slug: code-quizometry-website-login-model-test
 draft: false
 categories:
-- Build
-- Code
+- build
+- code
 tags: []
 aliases:
 - /blog/2021/12/15/code-quizometry-website-login-model-test/

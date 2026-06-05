@@ -4,8 +4,8 @@ date: '2022-01-03T13:15:11'
 slug: plant-holder
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/03/plant-holder/

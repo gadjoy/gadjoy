@@ -4,9 +4,9 @@ date: '2023-01-15T05:59:39'
 slug: sony-vaio-sve-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/15/sony-vaio-sve-software-services/

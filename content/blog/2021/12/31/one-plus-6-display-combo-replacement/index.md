@@ -4,9 +4,9 @@ date: '2021-12-31T14:56:33'
 slug: one-plus-6-display-combo-replacement
 draft: false
 categories:
-- Display & Glass Replacement
-- Mobile & Tablets
-- Repair
+- display-and-glass-replacement
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/31/one-plus-6-display-combo-replacement/

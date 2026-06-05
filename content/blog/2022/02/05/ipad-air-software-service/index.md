@@ -4,9 +4,9 @@ date: '2022-02-05T11:36:48'
 slug: ipad-air-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2022/02/05/ipad-air-software-service/

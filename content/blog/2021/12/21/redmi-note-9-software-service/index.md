@@ -4,9 +4,9 @@ date: '2021-12-21T14:14:12'
 slug: redmi-note-9-software-service
 draft: false
 categories:
-- General Hardware & Software Services
-- Mobile & Tablets
-- Repair
+- general-hardware-software-services
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2021/12/21/redmi-note-9-software-service/

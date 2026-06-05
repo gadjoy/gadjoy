@@ -4,8 +4,8 @@ date: '2022-04-17T11:44:27'
 slug: 3d-print-t-rex-skeleton
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/04/17/3d-print-t-rex-skeleton/

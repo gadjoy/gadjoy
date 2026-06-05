@@ -4,9 +4,9 @@ date: '2023-01-16T13:08:05'
 slug: lenovo-x205t-software-services
 draft: false
 categories:
-- General Hardware & Software Services
-- Laptop & Desktop
-- Repair
+- general-hardware-and-software-services
+- laptop-and-desktop
+- repair
 tags: []
 aliases:
 - /blog/2023/01/16/lenovo-x205t-software-services/

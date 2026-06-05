@@ -4,9 +4,9 @@ date: '2023-09-06T13:25:50'
 slug: redmi-9-power-network
 draft: false
 categories:
-- Chip Level & IC Repair
-- Mobile & Tablets
-- Repair
+- chip-level-and-ic-repair-mobile
+- mobiles
+- repair
 tags: []
 aliases:
 - /blog/2023/09/06/redmi-9-power-network/

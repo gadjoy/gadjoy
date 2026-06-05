@@ -4,8 +4,8 @@ date: '2022-01-01T13:32:22'
 slug: hummingbird-wall-sculpture-2d
 draft: false
 categories:
-- 3D Print
-- Build
+- 3dp
+- build
 tags: []
 aliases:
 - /blog/2022/01/01/hummingbird-wall-sculpture-2d/
