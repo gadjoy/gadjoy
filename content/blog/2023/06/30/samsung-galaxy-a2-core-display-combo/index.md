@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/samsung-galaxy-a2-core-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-88.png
 ---
 
 ## Before

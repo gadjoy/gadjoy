@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/15/foxin-cpu-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-41.png
 ---
 
 ## Before

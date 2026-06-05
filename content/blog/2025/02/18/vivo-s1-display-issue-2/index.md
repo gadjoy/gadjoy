@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/vivo-s1-display-issue-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-14.png
 ---
 
 ## Before

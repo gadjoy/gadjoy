@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/05/hp-notebook-15-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-8.png
 ---
 
 ## Before

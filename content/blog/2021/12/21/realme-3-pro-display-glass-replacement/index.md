@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/21/realme-3-pro-display-glass-replacement/
 description: Before After Phone was given to us with the display glass cracked severely We had replaced the display glass ONLY and got it operating
+summary: Before After Phone was given to us with the display glass cracked severely We had replaced the display glass ONLY and got it operating
+banner: /img/uploads/2021/12/Realme-3-pro-before-display-glass-replacment.jpg
 ---
 
 #### Before

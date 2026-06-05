@@ -8,6 +8,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/11/batman-wall-decoration/
+banner: /img/uploads/2021/09/WhatsApp-Image-2021-09-07-at-4.55.05-PM-1024x613.jpeg
 ---
 
 ![](/img/uploads/2021/09/WhatsApp-Image-2021-09-07-at-4.55.05-PM-1024x613.jpeg)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/hp-spectre-13-4103dx-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-9.png
 ---
 
 ## Before

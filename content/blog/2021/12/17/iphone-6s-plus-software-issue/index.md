@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/iphone-6s-plus-software-issue/
 description: Before After When phone was given to us customer was  forgotten the password We did software unlock and gave back to customer with fully working condition
+summary: Before After When phone was given to us customer was  forgotten the password We did software unlock and gave back to customer with fully working condition
+banner: /img/uploads/2021/12/iphone-6s-plus-before-sorftware-issue.png
 ---
 
 #### Before

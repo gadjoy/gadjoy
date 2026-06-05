@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/samsung-galaxy-tab-7-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-220.png
 ---
 
 ## Before

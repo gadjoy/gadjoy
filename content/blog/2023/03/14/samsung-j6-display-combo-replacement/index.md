@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/14/samsung-j6-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-29.png
 ---
 
 ## Before

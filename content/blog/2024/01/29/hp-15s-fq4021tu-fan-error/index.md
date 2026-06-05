@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/hp-15s-fq4021tu-fan-error/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-58.png
 ---
 
 ## Before

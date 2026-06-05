@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/23/samsung-c9-pro-c900f-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Samsung-C9-Pro-C900F-–-Dead-condition.png
 ---
 
 ## Before

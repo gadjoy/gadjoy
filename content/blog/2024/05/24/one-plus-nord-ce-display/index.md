@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/24/one-plus-nord-ce-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-48.png
 ---
 
 ## Before

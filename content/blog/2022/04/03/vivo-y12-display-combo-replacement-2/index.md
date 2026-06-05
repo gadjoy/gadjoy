@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/03/vivo-y12-display-combo-replacement-2/
 description: Before
+summary: Before
+banner: /img/uploads/2022/04/image-8.png
 ---
 
 #### Before

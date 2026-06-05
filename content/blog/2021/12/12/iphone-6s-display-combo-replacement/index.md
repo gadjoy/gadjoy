@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/12/iphone-6s-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2021/12/iPhone-6-Before-Water-Damage-1-edited.jpg
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/29/vivo-y11-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-287.png
 ---
 
 ## Before

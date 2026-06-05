@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/11/samsung-galaxy-m21-mother-board-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-26.png
 ---
 
 ## Before

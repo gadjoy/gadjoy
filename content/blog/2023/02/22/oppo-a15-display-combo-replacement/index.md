@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/22/oppo-a15-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-100.png
 ---
 
 ## Before

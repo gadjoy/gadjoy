@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/28/samsung-s6-lite-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-47.png
 ---
 
 ## Before

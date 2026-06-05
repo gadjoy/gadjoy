@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/19/samsung-galaxy-m50s-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-30.png
 ---
 
 ## Before

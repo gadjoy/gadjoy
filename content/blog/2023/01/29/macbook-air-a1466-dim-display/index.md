@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/29/macbook-air-a1466-dim-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-285.png
 ---
 
 ## Before

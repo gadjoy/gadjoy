@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/12/realme-7-pro-power-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-21.png
 ---
 
 ## Before

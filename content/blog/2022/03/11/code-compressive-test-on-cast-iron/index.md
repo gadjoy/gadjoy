@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/11/code-compressive-test-on-cast-iron/
 description: Problem Statement -Compressive test on Cast iron Scope of work – Build a program to find out the compressive test on the cast iron Challenges –    Nil Execution Strategy -Windows Terminal -VS Code -MOM -www.vlab.co.in -Basic Python learnt Value Added -If the user or the diploma student wants to know the bending movement of the […]
+summary: Problem Statement -Compressive test on Cast iron Scope of work – Build a program to find out the compressive test on the cast iron Challenges –    Nil Execution Strategy -Windows Terminal -VS Code -MOM -www.vlab.co.in -Basic Python learnt Value Added -If the user or the diploma student wants to know the bending movement of the […]
+banner: /img/uploads/2022/03/image-15.png
 ---
 
 ![](/img/uploads/2022/03/image-15.png)

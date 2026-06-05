@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/lenovo-z50-75-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-60.png
 ---
 
 ## Before

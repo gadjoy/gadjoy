@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/30/lenovo-g50-base-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-67.png
 ---
 
 #### Before

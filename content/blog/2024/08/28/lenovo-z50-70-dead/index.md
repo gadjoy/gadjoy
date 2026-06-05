@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/lenovo-z50-70-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-26.png
 ---
 
 ## Before

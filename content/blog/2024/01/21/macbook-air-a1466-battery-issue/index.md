@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/21/macbook-air-a1466-battery-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-41.png
 ---
 
 ## Before

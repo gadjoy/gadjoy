@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/redmi-9-power-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Redmi-9-Power-Dead-condition.png
 ---
 
 ## Before

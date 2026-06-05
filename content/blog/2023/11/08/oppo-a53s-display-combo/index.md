@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/08/oppo-a53s-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-8.png
 ---
 
 ## Before

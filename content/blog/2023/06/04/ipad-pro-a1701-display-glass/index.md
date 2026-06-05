@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/04/ipad-pro-a1701-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-14.png
 ---
 
 ## Before

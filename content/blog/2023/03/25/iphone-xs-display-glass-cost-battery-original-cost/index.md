@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/25/iphone-xs-display-glass-cost-battery-original-cost/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-63.png
 ---
 
 ## Before

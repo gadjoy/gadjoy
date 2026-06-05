@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/30/mi-max-2-loud-speaker-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-135.png
 ---
 
 #### Before

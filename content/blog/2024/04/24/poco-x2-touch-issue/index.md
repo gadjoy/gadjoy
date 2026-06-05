@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/04/24/poco-x2-touch-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/04/image-6.png
 ---
 
 ## Before

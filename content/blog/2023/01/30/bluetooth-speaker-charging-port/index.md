@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/01/30/bluetooth-speaker-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-295.png
 ---
 
 ## Before

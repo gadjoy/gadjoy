@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/macbook-pro-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-36.png
 ---
 
 ## Before

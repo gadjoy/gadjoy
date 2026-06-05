@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/vivo-z1-pro-display-combo-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-9.png
 ---
 
 ## Before

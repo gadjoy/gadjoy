@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/17/samsung-tab-a7-lite-software/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-34.png
 ---
 
 ## Before

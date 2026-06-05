@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/ipad-a2459-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-13.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/11/sony-vaio-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-14.png
 ---
 
 ## Before

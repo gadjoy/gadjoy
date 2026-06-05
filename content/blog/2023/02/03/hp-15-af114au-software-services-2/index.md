@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/03/hp-15-af114au-software-services-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-6.png
 ---
 
 ## Before

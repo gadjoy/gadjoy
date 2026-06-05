@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/19/iphone-6-display-combo-replacement-2/
 description: Before After When phone was given to us it was not switching on We replaced display combo and got it fully working.
+summary: Before After When phone was given to us it was not switching on We replaced display combo and got it fully working.
+banner: /img/uploads/2021/12/iphone-6-before-dead-conditon.jpg
 ---
 
 #### Before

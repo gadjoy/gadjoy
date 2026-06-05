@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/oppo-a50s-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Oppo-A50s-before.png
 ---
 
 ## Before

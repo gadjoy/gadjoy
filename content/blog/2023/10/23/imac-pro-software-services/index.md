@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/23/imac-pro-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-37.png
 ---
 
 ## Before

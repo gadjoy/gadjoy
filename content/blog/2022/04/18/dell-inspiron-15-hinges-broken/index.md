@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/18/dell-inspiron-15-hinges-broken/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-70.png
 ---
 
 #### Before

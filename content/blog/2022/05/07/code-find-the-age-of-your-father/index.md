@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/05/07/code-find-the-age-of-your-father/
 description: Problem Statement -Finding the ages of the persons Scope of work – Build a program to find the age of the person Challenges -Nil Execution Strategy •Before writing the python script,  pseudocode is written on paper and practiced • Value Added -A code which will calculate the age of his father, who enters the details
+summary: Problem Statement -Finding the ages of the persons Scope of work – Build a program to find the age of the person Challenges -Nil Execution Strategy •Before writing the python script,  pseudocode is written on paper and practiced • Value Added -A code which will calculate the age of his father, who enters the details
+banner: /img/uploads/2022/05/image-15.png
 ---
 
 ![](/img/uploads/2022/05/image-15.png)

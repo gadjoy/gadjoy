@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/samsung-tab-a-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-128.png
 ---
 
 ## Before

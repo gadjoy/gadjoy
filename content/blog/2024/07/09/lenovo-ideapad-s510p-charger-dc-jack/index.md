@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/09/lenovo-ideapad-s510p-charger-dc-jack/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-6.png
 ---
 
 ## Before

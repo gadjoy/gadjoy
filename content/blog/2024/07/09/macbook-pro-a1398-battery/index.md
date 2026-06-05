@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/09/macbook-pro-a1398-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image.png
 ---
 
 ## Before

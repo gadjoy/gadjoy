@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/19/raspberry-pi-an-led-game/
 description: Problem Statement -Write a scratch program to control a led circuit Scope of work -Build a scratch program of an LED game Challenges -Connecting general purpose(GP) pins on raspberry pi Execution Strategy -Entering same pin number in the scratch program which we have connected in raspberry pi -Scratch Desktop -An LED, resistor, jumper wires Value […]
+summary: Problem Statement -Write a scratch program to control a led circuit Scope of work -Build a scratch program of an LED game Challenges -Connecting general purpose(GP) pins on raspberry pi Execution Strategy -Entering same pin number in the scratch program which we have connected in raspberry pi -Scratch Desktop -An LED, resistor, jumper wires Value […]
+banner: /img/uploads/2022/03/Raspberry-pi-–-An-LED-Game.png
 ---
 
 ![](/img/uploads/2022/03/Raspberry-pi-–-An-LED-Game.png)

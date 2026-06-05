@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/12/dell-ttyfja00-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-23.png
 ---
 
 ## Before

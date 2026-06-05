@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/23/apple-iphone-se-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-35.png
 ---
 
 ## Before

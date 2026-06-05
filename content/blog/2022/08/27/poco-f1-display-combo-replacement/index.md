@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/poco-f1-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Poco-F1-before.png
 ---
 
 ## Before

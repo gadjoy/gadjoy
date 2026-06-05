@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/iphone-12-mini-back-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-150.png
 ---
 
 ## Before

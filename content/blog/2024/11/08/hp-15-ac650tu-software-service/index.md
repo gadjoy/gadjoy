@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/hp-15-ac650tu-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-16.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/26/hp-15-dblxxx-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-42.png
 ---
 
 ## Before

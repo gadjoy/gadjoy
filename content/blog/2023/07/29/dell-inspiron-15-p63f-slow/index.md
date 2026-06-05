@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/29/dell-inspiron-15-p63f-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-57.png
 ---
 
 ## Before

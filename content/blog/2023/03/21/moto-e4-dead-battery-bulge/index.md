@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/21/moto-e4-dead-battery-bulge/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-52.png
 ---
 
 ## Before

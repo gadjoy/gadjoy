@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/15/oppo-a55-display-and-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-10.png
 ---
 
 ## Before

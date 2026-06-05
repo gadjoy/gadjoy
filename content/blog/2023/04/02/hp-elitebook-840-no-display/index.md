@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/02/hp-elitebook-840-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-5.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/27/acer-aspire-3-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-267.png
 ---
 
 ## Before

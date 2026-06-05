@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2023/03/24/macbook-pro-a1398-speaker/
 description: Before After
+summary: Before After
 ---
 
 ## Before

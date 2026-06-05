@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/redmi-9a-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-28.png
 ---
 
 ## Before

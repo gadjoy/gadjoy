@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/03/iphone-6s-water-damage-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-6.png
 ---
 
 ## Before

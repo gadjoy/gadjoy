@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/31/mi-note-5-display-combo-replacement/
 description: Before After This phone was given to us with no display and only vibrating. We replaced Display combo and made it operating
+summary: Before After This phone was given to us with no display and only vibrating. We replaced Display combo and made it operating
+banner: /img/uploads/2021/12/Mi-Note-5-before-Display-Combo-Replacement.jpg
 ---
 
 #### Before

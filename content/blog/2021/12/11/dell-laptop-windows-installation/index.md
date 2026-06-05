@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2021/12/11/dell-laptop-windows-installation/
 description: Before After
+summary: Before After
 ---
 
 > Before

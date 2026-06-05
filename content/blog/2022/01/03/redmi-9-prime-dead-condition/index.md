@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/redmi-9-prime-dead-condition/
 description: Before After When phone was given to us it was not switching on We replaced Charging Port and made it Charging
+summary: Before After When phone was given to us it was not switching on We replaced Charging Port and made it Charging
+banner: /img/uploads/2022/01/Redmi-9-Prime-–-before-Dead-Condition.png
 ---
 
 #### Before

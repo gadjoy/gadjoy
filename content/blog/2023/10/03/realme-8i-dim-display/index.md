@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/03/realme-8i-dim-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-16.png
 ---
 
 ## Before

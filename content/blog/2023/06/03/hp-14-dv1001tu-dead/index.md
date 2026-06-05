@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/03/hp-14-dv1001tu-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-8.png
 ---
 
 ## Before

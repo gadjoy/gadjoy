@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/samsung-galaxy-m12-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-9.png
 ---
 
 ## Before

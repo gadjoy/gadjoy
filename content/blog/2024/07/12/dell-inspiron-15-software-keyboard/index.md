@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/12/dell-inspiron-15-software-keyboard/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-27.png
 ---
 
 ## Before

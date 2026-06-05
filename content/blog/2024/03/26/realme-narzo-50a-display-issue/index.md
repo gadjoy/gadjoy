@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/26/realme-narzo-50a-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-48.png
 ---
 
 ## Before

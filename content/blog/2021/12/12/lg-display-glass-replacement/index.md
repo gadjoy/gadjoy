@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/12/lg-display-glass-replacement/
 description: Before After Front glass was broken before repairing the device.
+summary: Before After Front glass was broken before repairing the device.
+banner: /img/uploads/2021/12/LG-Before-Display-Glass-Replacement-edited.jpg
 ---
 
 #### Before

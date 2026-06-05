@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/15/realme-narzo-20-pro-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-61.png
 ---
 
 ## Before

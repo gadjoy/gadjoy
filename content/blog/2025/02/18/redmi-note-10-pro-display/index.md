@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/redmi-note-10-pro-display/
+banner: /img/uploads/2025/02/image-28-1024x557.png
 ---
 
 ![](/img/uploads/2025/02/image-28-1024x557.png)

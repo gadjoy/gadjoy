@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/15/code-sum-of-two-numbers-using-function/
 description: Problem Statement -Finding sum of two numbers using function Scope of work -Build a program to find the sum of two numbers using function Challenges -Nil Execution Strategy -Finding sum of two numbers using int data type and function -Windows Terminal -Quant aptitude -Tested with edge cases Value Added -Using this function, we can call […]
+summary: Problem Statement -Finding sum of two numbers using function Scope of work -Build a program to find the sum of two numbers using function Challenges -Nil Execution Strategy -Finding sum of two numbers using int data type and function -Windows Terminal -Quant aptitude -Tested with edge cases Value Added -Using this function, we can call […]
+banner: /img/uploads/2022/03/Code-–-Sum-of-two-numbers-using-function.png
 ---
 
 ![](/img/uploads/2022/03/Code-–-Sum-of-two-numbers-using-function.png)

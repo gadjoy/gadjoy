@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/02/hp-pavilion-g6-software-service-general-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-2.png
 ---
 
 ## Before

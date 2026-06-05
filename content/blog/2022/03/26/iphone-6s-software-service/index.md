@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2022/03/26/iphone-6s-software-service/
 description: Before After When the phone was given to us, it was automatically shutdown We did Software Service and got it working
+summary: Before After When the phone was given to us, it was automatically shutdown We did Software Service and got it working
 ---
 
 #### **Before**

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/23/moto-one-power-dead-condition/
 description: Before After When phone was given to us it was not switching on We replaced Charging IC got it working
+summary: Before After When phone was given to us it was not switching on We replaced Charging IC got it working
+banner: /img/uploads/2021/12/Moto-One-Power-before-dead-condition.png
 ---
 
 #### Before

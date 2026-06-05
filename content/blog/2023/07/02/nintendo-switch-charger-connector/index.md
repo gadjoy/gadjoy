@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/02/nintendo-switch-charger-connector/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-8.png
 ---
 
 ## Before

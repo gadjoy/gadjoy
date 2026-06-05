@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/24/hp-14-r053tu-blank-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-58.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/iphone-7-display-combo-replacement-4/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-194.png
 ---
 
 ## Before

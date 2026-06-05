@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/04/iphone-14-pro-back-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-21.png
 ---
 
 ## Before

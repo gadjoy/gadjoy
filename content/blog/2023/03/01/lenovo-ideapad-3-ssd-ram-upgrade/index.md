@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/01/lenovo-ideapad-3-ssd-ram-upgrade/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-2.png
 ---
 
 ## Before

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/09/13/gadgets-repair-vivo-headphone-dead/
 description: Problem Statement -Both the headphones were not working Scope of work – Changing the speaker of the headphones Challenges –  Soldering the wire to the speaker Execution Strategy •Before soldering the wire to the speaker dip it in the soldering wax •Value Added -Made it working
+summary: Problem Statement -Both the headphones were not working Scope of work – Changing the speaker of the headphones Challenges –  Soldering the wire to the speaker Execution Strategy •Before soldering the wire to the speaker dip it in the soldering wax •Value Added -Made it working
+banner: /img/uploads/2022/09/image-20.png
 ---
 
 **Problem Statement** -Both the headphones were not working

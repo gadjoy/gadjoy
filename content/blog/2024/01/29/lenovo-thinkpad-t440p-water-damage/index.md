@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/lenovo-thinkpad-t440p-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-48.png
 ---
 
 ## Before

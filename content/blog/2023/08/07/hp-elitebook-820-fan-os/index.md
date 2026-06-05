@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/07/hp-elitebook-820-fan-os/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-6.png
 ---
 
 ## Before

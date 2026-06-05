@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/samsung-galaxy-a12-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-36.png
 ---
 
 ## Before

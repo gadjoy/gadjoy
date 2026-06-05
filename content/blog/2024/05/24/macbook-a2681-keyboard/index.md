@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/24/macbook-a2681-keyboard/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-52.png
 ---
 
 ## Before

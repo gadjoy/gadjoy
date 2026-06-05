@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/oppo-a94-5g-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-56.png
 ---
 
 ## Before

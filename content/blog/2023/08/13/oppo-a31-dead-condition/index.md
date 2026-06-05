@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/oppo-a31-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-50.png
 ---
 
 ## Before

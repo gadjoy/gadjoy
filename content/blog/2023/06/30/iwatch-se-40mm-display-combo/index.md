@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/iwatch-se-40mm-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-80.png
 ---
 
 ## Before

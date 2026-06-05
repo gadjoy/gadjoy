@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/01/gadget-head-phone/
 description: Problem Statement -Headphone one side not working Scope of work -Can be used to attend online classes or to listen to songs on the phone Challenges -Nil Execution Strategy -One side of the speaker’s wire came out, so we soldiered on it. Value Added -This same headphone can be used in laptops, tabs etc…
+summary: Problem Statement -Headphone one side not working Scope of work -Can be used to attend online classes or to listen to songs on the phone Challenges -Nil Execution Strategy -One side of the speaker’s wire came out, so we soldiered on it. Value Added -This same headphone can be used in laptops, tabs etc…
+banner: /img/uploads/2022/03/Gadget-–-Head-Phone.png
 ---
 
 ![](/img/uploads/2022/03/Gadget-–-Head-Phone.png)

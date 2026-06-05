@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/09/11/ipad-wi-fi-1st-gen-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/09/image-11.png
 ---
 
 ## Before

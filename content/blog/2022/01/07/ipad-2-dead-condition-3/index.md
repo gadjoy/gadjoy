@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/07/ipad-2-dead-condition-3/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/iPad-2-Dead-Condition-Before.jpg
 ---
 
 #### Before

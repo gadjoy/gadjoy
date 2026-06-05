@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/05/26/iwatch-series-7-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-55.png
 ---
 
 ## Before

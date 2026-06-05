@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/vivo-z1-pro-auto-switched-off/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-62.png
 ---
 
 ## Before

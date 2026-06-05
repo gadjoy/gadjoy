@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/23/code-tensile-test-on-mild-steel-rod/
 description: Problem Statement -Tensile test on a mild steel rod Scope of work – Build a program to calculate the tensile strength of a mild steel Challenges –    To find out the area of the rod after breaking, use the failure diameter of the workpiece Execution Strategy -Before writing the python script, the pseudocode was written […]
+summary: Problem Statement -Tensile test on a mild steel rod Scope of work – Build a program to calculate the tensile strength of a mild steel Challenges –    To find out the area of the rod after breaking, use the failure diameter of the workpiece Execution Strategy -Before writing the python script, the pseudocode was written […]
+banner: /img/uploads/2022/03/image-42.png
 ---
 
 ![](/img/uploads/2022/03/image-42.png)

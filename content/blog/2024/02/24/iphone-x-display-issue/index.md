@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/24/iphone-x-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-41.png
 ---
 
 ## Before

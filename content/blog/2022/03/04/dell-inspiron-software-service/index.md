@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/04/dell-inspiron-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-2.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/lenovo-ideapad-gaming-3-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-84.png
 ---
 
 ## Before

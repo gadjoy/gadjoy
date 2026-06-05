@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/17/hp-pavilion-7265ngw-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-28.png
 ---
 
 ## Before

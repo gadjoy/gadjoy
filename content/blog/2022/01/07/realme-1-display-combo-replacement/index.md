@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/07/realme-1-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Realme-1-Display-Combo-Replacement-Befoe.jpg
 ---
 
 #### Before

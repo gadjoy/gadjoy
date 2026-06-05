@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/04/alcatel-tablet-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-10.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/17/panasonic-eluga-i7-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-26.png
 ---
 
 ## Before

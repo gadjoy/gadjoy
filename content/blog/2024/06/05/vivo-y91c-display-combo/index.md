@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/vivo-y91c-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image.png
 ---
 
 ## Before

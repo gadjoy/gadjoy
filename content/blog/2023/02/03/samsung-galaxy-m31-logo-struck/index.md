@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/03/samsung-galaxy-m31-logo-struck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-12.png
 ---
 
 ## Before

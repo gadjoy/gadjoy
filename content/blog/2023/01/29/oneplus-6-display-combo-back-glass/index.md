@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/29/oneplus-6-display-combo-back-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-289.png
 ---
 
 ## Before

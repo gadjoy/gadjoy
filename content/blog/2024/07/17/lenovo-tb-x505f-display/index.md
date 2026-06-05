@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/lenovo-tb-x505f-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-32.png
 ---
 
 ## Before

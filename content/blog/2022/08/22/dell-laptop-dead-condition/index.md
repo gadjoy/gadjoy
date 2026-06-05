@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/22/dell-laptop-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Dell-Laptop-–-Dead-condition.png
 ---
 
 ## Before

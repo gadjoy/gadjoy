@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/acer-n15c4-os/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-17.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/lenovo-yoga-6-13alc6-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-64.png
 ---
 
 ## Before

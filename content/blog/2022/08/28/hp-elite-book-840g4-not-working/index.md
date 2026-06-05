@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/28/hp-elite-book-840g4-not-working/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-86.png
 ---
 
 ## Before

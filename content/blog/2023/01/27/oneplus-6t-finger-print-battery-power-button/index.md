@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/27/oneplus-6t-finger-print-battery-power-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-269.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/10/poco-m2-network-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-36.png
 ---
 
 ## Before

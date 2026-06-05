@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/08/vivo-y22-display-and-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-2.png
 ---
 
 ## Before

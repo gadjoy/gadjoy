@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/oppo-f11-pro-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-17.png
 ---
 
 ## Before

@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/hp-14-software-services-and-ssd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-214.png
 ---
 
 ## Before

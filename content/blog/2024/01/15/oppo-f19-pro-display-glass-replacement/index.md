@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/15/oppo-f19-pro-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-16.png
 ---
 
 ## Before

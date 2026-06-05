@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/19/dell-g3-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-40.png
 ---
 
 ## Before

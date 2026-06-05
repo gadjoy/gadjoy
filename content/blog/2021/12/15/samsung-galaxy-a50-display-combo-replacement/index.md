@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/samsung-galaxy-a50-display-combo-replacement/
 description: Before After Only a single red line was coming on the display, so we replaced the display combo.
+summary: Before After Only a single red line was coming on the display, so we replaced the display combo.
+banner: /img/uploads/2021/12/Samsung-Galaxy-A50-Before-Display-Combo-Replacement.png
 ---
 
 #### Before

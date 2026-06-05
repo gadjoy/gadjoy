@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/29/lenovo-tab-pb1750m-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-291.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/vivo-y19-display-issue-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-5.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/22/oppo-a3s-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-91.png
 ---
 
 #### Before

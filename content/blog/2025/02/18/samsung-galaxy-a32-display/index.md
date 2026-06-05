@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/samsung-galaxy-a32-display/
+banner: /img/uploads/2025/02/image-30-1024x563.png
 ---
 
 ![](/img/uploads/2025/02/image-30-1024x563.png)

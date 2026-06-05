@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/28/vivo-v7-plus-ringer-replacement/
 description: Before After When the phone was given to us, ringer sound was coming very less We replaced Ringer and got it functioning
+summary: Before After When the phone was given to us, ringer sound was coming very less We replaced Ringer and got it functioning
+banner: /img/uploads/2022/03/Vivo-V7-Plus-–-beforeRinger-Replacement.png
 ---
 
 #### **Before**

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/03/redmi-8a-logo-struck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-4.png
 ---
 
 ## Before

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/22/gadget-torch-dead-condition/
 description: Problem Statement -The chargeable torch was in dead –Scope of work – Check were is the problem with the torch and resolve it Challenges –    Nil Execution Strategy -Before soldering the wire check the power supply and if other wires are working or not Value-Added -The negative (-) wire was soldered to the charging input […]
+summary: Problem Statement -The chargeable torch was in dead –Scope of work – Check were is the problem with the torch and resolve it Challenges –    Nil Execution Strategy -Before soldering the wire check the power supply and if other wires are working or not Value-Added -The negative (-) wire was soldered to the charging input […]
+banner: /img/uploads/2022/03/image-41.png
 ---
 
 ![](/img/uploads/2022/03/image-41.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/19/samsung-all-in-one-desktop-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-32.png
 ---
 
 ## Before

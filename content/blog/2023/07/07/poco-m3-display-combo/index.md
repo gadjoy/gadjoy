@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/07/poco-m3-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-24.png
 ---
 
 ## Before

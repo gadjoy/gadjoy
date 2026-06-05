@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/14/asus-desktop-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-44.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/ipad-air-a2072-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-30.png
 ---
 
 ## Before

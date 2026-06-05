@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/dell-inspiron-5558-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-28.png
 ---
 
 ## Before

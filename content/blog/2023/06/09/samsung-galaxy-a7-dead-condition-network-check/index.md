@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/09/samsung-galaxy-a7-dead-condition-network-check/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-34.png
 ---
 
 ## Before

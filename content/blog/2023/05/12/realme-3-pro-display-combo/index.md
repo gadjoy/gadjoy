@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/12/realme-3-pro-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-26.png
 ---
 
 ## Before

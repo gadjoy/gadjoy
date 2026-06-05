@@ -9,6 +9,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/motorola-one-fusion-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-74.png
 ---
 
 ## Before

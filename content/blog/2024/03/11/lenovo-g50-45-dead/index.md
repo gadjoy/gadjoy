@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/lenovo-g50-45-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-22.png
 ---
 
 ## Before

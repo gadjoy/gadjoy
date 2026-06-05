@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/infinix-hot-30i-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-24.png
 ---
 
 ## Before

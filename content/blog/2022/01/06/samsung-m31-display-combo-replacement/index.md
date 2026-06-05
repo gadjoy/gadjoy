@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/samsung-m31-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-Before.jpg
 ---
 
 #### Before

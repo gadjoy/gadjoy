@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/04/redmi-9i-dead-condition/
 description: Before After The phone was given to us in dead condition We had Replaced the Charging strip and got it working
+summary: Before After The phone was given to us in dead condition We had Replaced the Charging strip and got it working
+banner: /img/uploads/2022/04/Redmi-9i-–-before-Dead-Condition.png
 ---
 
 #### **Before**

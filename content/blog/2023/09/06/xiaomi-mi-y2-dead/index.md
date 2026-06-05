@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/xiaomi-mi-y2-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-35.png
 ---
 
 ## Before

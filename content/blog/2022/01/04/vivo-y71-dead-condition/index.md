@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/vivo-y71-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Vivo-Y71-Dead-Condition-Before.jpg
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/hp-15-af002au-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-76.png
 ---
 
 ## Before

@@ -8,6 +8,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/10/headphone-holder/
+banner: /img/uploads/2021/12/Screenshot-2021-12-03-175205.png
 ---
 
 ![](/img/uploads/2021/12/Screenshot-2021-12-03-175205.png)

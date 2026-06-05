@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/vivo-y91c-dead-conditon/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-142.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/07/moto-g5-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.jpg
 ---
 
 #### Before

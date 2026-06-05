@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/27/iphone-se-2020-home-button-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-54.png
 ---
 
 ## Before

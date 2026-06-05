@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/25/oppo-a3s-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-106.png
 ---
 
 #### Before

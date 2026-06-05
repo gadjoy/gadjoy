@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/samsung-galaxy-a20-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-26.png
 ---
 
 ## Before

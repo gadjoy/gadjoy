@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/24/ipad-4-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-106.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/realme-9-pro-5g-display-glass-re/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-72.png
 ---
 
 ## Before

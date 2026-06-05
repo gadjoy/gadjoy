@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/oneplus-3t-battery-and-power-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-36.png
 ---
 
 ## Before

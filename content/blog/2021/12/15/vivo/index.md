@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/vivo/
 description: Before After Mother board repair done for this device
+summary: Before After Mother board repair done for this device
+banner: /img/uploads/2021/12/Vivo-Y93-Before-Dead-Condition-1.png
 ---
 
 #### Before

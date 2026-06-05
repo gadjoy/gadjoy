@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/31/iphone-13-pro-max-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-74.png
 ---
 
 ## Before

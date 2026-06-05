@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/2835/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-Before.jpg
 ---
 
 #### Before

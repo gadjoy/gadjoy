@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/05/mobiistar-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/Mobistar-Dead-Condition-Charging-Port-Replacement-577x1024.jpg
 ---
 
 #### Before

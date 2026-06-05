@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/26/lenovo-81a5-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-44.png
 ---
 
 ## Before

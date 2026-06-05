@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/31/samsung-galaxy-m31-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-76.png
 ---
 
 ## Before

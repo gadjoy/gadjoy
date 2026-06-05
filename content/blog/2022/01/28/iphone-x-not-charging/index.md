@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/28/iphone-x-not-charging/
 description: Before After When phone was given to us, it was not charging We did General Service on Charging Port and made it charging
+summary: Before After When phone was given to us, it was not charging We did General Service on Charging Port and made it charging
+banner: /img/uploads/2022/01/iPhone-X-–-Before-Not-Charging.png
 ---
 
 #### Before

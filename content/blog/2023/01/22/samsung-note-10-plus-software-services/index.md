@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/samsung-note-10-plus-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-210.png
 ---
 
 ## Before

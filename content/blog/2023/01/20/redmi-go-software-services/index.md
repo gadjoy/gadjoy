@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/20/redmi-go-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-176.png
 ---
 
 ## Before

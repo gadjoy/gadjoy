@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/vivo-v17-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Vivo-V17-Charging-Port-Replacement-Before.jpg
 ---
 
 #### Before

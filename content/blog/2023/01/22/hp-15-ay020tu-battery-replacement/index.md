@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/hp-15-ay020tu-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-206.png
 ---
 
 ## Before

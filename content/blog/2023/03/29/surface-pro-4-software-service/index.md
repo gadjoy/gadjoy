@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/29/surface-pro-4-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-70.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/06/mi-9i-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-22.png
 ---
 
 ## Before

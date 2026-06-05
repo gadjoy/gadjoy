@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/18/iphone-7-plus-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-35.png
 ---
 
 ## Before

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/hp-640-g2-bitlocker-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-80.png
 ---
 
 ## Before

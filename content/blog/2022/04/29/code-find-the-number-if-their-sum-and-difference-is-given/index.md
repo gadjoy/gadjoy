@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/04/29/code-find-the-number-if-their-sum-and-difference-is-given/
 description: Problem Statement  Find the number if their sum and the difference is given Scope of work – Build a program to find the number as per the given problem Challenges -“str” and “int” files should be in a different directory -Importing ‘random’ numbers Execution Strategy •Math functions are used to do the code •Value Added […]
+summary: Problem Statement  Find the number if their sum and the difference is given Scope of work – Build a program to find the number as per the given problem Challenges -“str” and “int” files should be in a different directory -Importing ‘random’ numbers Execution Strategy •Math functions are used to do the code •Value Added […]
+banner: /img/uploads/2022/04/image-123.png
 ---
 
 ![](/img/uploads/2022/04/image-123.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/22/hp-elite-book-840g3-os-installation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-53.png
 ---
 
 ## Before

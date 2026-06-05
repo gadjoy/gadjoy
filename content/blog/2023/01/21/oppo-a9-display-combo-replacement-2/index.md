@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/oppo-a9-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-184.png
 ---
 
 ## Before

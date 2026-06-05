@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/samsung-m21-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-50.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/10/iphone-7-dead-home-button-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-17.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/03/lenovo-thinkpad-e550-hdd-ram-software/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-3.png
 ---
 
 ## Before

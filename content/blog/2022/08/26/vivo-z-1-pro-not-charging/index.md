@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/vivo-z-1-pro-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Vivo-z-1-pro-Not-charging.png
 ---
 
 ## Before

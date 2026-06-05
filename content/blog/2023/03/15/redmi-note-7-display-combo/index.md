@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/15/redmi-note-7-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-33.png
 ---
 
 ## Before

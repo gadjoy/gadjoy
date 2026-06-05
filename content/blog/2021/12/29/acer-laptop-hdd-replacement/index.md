@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/29/acer-laptop-hdd-replacement/
 description: Before After When laptop was given to us, Hard Disk health was bad We replaced Hard Disk and done software service to made it working condition
+summary: Before After When laptop was given to us, Hard Disk health was bad We replaced Hard Disk and done software service to made it working condition
+banner: /img/uploads/2021/12/Acer-Laptop-Before-HDD-Replacement.jpg
 ---
 
 #### Before

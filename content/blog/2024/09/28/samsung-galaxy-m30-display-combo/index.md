@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/28/samsung-galaxy-m30-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-41.png
 ---
 
 ## Before

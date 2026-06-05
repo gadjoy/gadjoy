@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/11/iphone-x-dead-condtion/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-33.png
 ---
 
 #### Before

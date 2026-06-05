@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/motorola-one-power-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-6.png
 ---
 
 ## Before

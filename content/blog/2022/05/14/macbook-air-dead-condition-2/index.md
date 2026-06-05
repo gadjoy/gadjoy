@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/14/macbook-air-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-39.png
 ---
 
 #### Before

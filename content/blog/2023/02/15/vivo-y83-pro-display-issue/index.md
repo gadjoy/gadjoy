@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/15/vivo-y83-pro-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-55.png
 ---
 
 ## Before

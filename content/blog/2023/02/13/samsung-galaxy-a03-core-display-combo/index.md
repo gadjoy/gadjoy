@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/13/samsung-galaxy-a03-core-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-53.png
 ---
 
 ## Before

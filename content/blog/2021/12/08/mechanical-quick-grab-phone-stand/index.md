@@ -8,6 +8,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/08/mechanical-quick-grab-phone-stand/
+banner: /img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.jpeg
 ---
 
 ![](/img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.jpeg)

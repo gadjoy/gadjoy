@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/17/4134-lenovo-ideapad-330s-14astu-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-39.png
 ---
 
 ## Before

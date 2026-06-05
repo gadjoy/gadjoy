@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/15/dell-3q9t462-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-19.png
 ---
 
 ## Before

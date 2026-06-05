@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/dell-p28f-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-200.png
 ---
 
 ## Before

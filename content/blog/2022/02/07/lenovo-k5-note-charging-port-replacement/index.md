@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/07/lenovo-k5-note-charging-port-replacement/
 description: Before After When phone was given to us, it was in dead condition We replaced Charging Connector and made it working
+summary: Before After When phone was given to us, it was in dead condition We replaced Charging Connector and made it working
+banner: /img/uploads/2022/02/Picture4.pngLenovo-K5-Note-–-Before-Charging-Port-Replacement.png
 ---
 
 #### **Before**

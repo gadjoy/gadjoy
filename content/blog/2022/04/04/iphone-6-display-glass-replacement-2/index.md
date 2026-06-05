@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/04/iphone-6-display-glass-replacement-2/
 description: Before After When the phone was given to us, the display was fully cracked We had replaced Only the Display glass with a glass finish
+summary: Before After When the phone was given to us, the display was fully cracked We had replaced Only the Display glass with a glass finish
+banner: /img/uploads/2022/04/iPhone-6-–-before-Display-Glass-Replacement.png
 ---
 
 #### **Before**

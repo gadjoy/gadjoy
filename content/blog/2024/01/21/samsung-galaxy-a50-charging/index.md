@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/21/samsung-galaxy-a50-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-44.png
 ---
 
 ## Before

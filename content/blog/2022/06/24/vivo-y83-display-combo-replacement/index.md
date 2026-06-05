@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/06/24/vivo-y83-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/06/3294-8095863961-Vivo-Y83-Display-Combo-Replacement-Before-768x1024.jpg
 ---
 
 #### Before

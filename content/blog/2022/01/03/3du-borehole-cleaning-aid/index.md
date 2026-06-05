@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/3du-borehole-cleaning-aid/
 description: Problem Statement -Drill dust cleaning aid Sow –  Build dust cleaner wile drilling Challenges -Fix it to vacuum cleaner Execution Strategy -3D – Printed -PLA – Filament Value Added -The 3DU Borehole cleaning aid will make sure that hands are free while working with drill. -Dust free
+summary: Problem Statement -Drill dust cleaning aid Sow –  Build dust cleaner wile drilling Challenges -Fix it to vacuum cleaner Execution Strategy -3D – Printed -PLA – Filament Value Added -The 3DU Borehole cleaning aid will make sure that hands are free while working with drill. -Dust free
+banner: /img/uploads/2022/01/3DU-BOREHOLE-CLEANING-AID.jpg
 ---
 
 ![](/img/uploads/2022/01/3DU-BOREHOLE-CLEANING-AID.jpg)

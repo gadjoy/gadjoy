@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/18/samsung-galaxy-a02-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-70.png
 ---
 
 ## Before

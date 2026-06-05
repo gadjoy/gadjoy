@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/05/dell-inspiron-15-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-4.png
 ---
 
 ## Before

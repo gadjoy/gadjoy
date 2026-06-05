@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/vivo-y17-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-92.png
 ---
 
 ## Before

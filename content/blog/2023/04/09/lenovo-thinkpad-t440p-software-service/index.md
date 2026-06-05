@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/04/09/lenovo-thinkpad-t440p-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-20.png
 ---
 
 ## Before

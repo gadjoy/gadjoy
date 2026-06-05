@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/oppo-a32-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-26.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/14/iphone-11-pro-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-2.png
 ---
 
 ## Before

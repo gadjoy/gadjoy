@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/07/04/one-plus-5t-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/07/image-10.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/benq-monitor-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-253.png
 ---
 
 ## Before

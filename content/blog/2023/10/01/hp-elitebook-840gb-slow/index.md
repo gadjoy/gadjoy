@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/01/hp-elitebook-840gb-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-7.png
 ---
 
 ## Before

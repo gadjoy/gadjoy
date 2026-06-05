@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/06/dell-precision-5520-software-service/
 description: Before After When the laptop was given to us bootable device was not found. We reinstalled Operating System and got it working
+summary: Before After When the laptop was given to us bootable device was not found. We reinstalled Operating System and got it working
+banner: /img/uploads/2022/05/Dell-Precision-5520-–-before-Software-Service.png
 ---
 
 #### **Before**

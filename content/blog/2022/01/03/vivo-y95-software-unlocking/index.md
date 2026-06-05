@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/vivo-y95-software-unlocking/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Vivo-Y95-Software-Unlocking-Before.jpg
 ---
 
 #### Before

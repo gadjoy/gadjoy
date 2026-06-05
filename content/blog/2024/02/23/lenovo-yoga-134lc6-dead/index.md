@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/23/lenovo-yoga-134lc6-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-25.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/samsung-galaxy-m30s-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-51.png
 ---
 
 ## Before

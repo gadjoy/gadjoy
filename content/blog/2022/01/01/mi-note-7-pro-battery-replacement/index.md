@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/01/mi-note-7-pro-battery-replacement/
 description: Before After Phone was given to us to replace the battery We had replaced the Battery and checked for good charging and discharging cycles
+summary: Before After Phone was given to us to replace the battery We had replaced the Battery and checked for good charging and discharging cycles
+banner: /img/uploads/2022/01/Mi-Note-7-pro-before-Battery-Replacement.jpg
 ---
 
 #### Before

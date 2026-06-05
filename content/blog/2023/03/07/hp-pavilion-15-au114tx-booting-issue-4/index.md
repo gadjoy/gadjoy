@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/07/hp-pavilion-15-au114tx-booting-issue-4/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-6.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/22/lenovo-thinkpad-x13-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-98.png
 ---
 
 ## Before

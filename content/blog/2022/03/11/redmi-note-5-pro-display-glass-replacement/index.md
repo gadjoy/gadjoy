@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/11/redmi-note-5-pro-display-glass-replacement/
 description: Before After When this phone was given to us, there was a cracks on the display. We had replaced Display Glass and made it work smoothly.
+summary: Before After When this phone was given to us, there was a cracks on the display. We had replaced Display Glass and made it work smoothly.
+banner: /img/uploads/2022/03/Redmi-Note-5-Pro-–-Before-Display-Glass-Replacement.png
 ---
 
 #### **Before**

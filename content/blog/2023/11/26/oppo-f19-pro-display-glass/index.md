@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/26/oppo-f19-pro-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-48.png
 ---
 
 ## Before

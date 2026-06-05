@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/23/hp-pavilion-15-256gb-ssd/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-33.png
 ---
 
 ## Before

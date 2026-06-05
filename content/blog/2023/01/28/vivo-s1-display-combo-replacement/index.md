@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/28/vivo-s1-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-281.png
 ---
 
 ## Before

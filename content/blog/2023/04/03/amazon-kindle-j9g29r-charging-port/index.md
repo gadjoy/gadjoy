@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/03/amazon-kindle-j9g29r-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-8.png
 ---
 
 ## Before

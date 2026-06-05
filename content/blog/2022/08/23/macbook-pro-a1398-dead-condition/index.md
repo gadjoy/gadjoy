@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/23/macbook-pro-a1398-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Before-MacBook-Pro-A1398-Data-Backup-Software-Reset.png
 ---
 
 ## Before

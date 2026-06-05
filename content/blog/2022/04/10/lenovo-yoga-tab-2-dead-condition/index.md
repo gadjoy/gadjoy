@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/10/lenovo-yoga-tab-2-dead-condition/
 description: Before After The tablet was given to us, in a dead condition We had done Software Service and made it usable.
+summary: Before After The tablet was given to us, in a dead condition We had done Software Service and made it usable.
+banner: /img/uploads/2022/04/Lenovo-Yoga-Tab-2-–-Before-Dead-Condition.png
 ---
 
 #### **Before**

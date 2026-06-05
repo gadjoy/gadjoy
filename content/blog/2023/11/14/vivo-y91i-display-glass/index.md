@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/14/vivo-y91i-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-14.png
 ---
 
 ## Before

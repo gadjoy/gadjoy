@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/14/ipad-a1566-flickering/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-18.png
 ---
 
 ## Before

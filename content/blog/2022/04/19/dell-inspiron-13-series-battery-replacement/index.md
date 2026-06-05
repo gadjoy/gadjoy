@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/19/dell-inspiron-13-series-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-78.png
 ---
 
 #### Before

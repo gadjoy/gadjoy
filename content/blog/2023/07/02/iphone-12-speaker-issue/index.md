@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2023/07/02/iphone-12-speaker-issue/
 description: Before After
+summary: Before After
 ---
 
 ## Before

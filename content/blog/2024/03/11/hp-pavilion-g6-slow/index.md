@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/hp-pavilion-g6-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-18.png
 ---
 
 ## Before

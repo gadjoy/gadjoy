@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/oppo-a1k-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-82.png
 ---
 
 ## Before

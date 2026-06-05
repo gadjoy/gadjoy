@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/samsung-galaxy-m31-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-52.png
 ---
 
 ## Before

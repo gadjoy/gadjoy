@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/lenovo-ideapad-320s-141kb-os/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-22.png
 ---
 
 ## Before

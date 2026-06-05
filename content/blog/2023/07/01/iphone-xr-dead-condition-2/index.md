@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/01/iphone-xr-dead-condition-2/
 description: Before Before
+summary: Before Before
+banner: /img/uploads/2023/07/image-6.png
 ---
 
 ## Before

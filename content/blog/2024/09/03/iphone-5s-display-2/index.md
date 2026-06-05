@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/iphone-5s-display-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-9.png
 ---
 
 ## Before

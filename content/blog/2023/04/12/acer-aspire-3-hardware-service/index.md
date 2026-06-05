@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/12/acer-aspire-3-hardware-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-32.png
 ---
 
 ## Before

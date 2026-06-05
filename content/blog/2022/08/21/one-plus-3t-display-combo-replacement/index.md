@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/21/one-plus-3t-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-One-Plus-3T-–-Dead-Condition.png
 ---
 
 ## Before

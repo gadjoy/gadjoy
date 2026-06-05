@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/29/macbook-motherboard-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-63.png
 ---
 
 #### Before

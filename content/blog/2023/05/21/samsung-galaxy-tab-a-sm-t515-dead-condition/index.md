@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/21/samsung-galaxy-tab-a-sm-t515-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-47.png
 ---
 
 ## Before

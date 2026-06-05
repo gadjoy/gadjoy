@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/31/samsung-galaxy-tab-s6-lite-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-69.png
 ---
 
 ## Before

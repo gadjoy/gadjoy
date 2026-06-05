@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/redmi-10-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-16.png
 ---
 
 ## Before

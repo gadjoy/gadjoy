@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/ipad-air-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/iPad-Air-Display-Glass-Replacement-Before.jpg
 ---
 
 #### Before

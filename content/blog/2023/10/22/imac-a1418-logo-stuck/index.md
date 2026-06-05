@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/22/imac-a1418-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-27.png
 ---
 
 ## Before

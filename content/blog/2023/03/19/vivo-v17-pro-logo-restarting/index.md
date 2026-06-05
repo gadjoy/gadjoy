@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/19/vivo-v17-pro-logo-restarting/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-44.png
 ---
 
 ## Before

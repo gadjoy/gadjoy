@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2022/04/30/redmi-k20-front-camera-error/
+banner: /img/uploads/2022/04/image-139.png
 ---
 
 ####

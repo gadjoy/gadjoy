@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/06/vivo-y19-displace-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-4.png
 ---
 
 ## Before

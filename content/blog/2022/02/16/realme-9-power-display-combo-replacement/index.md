@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/16/realme-9-power-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/image-12.png
 ---
 
 #### Before

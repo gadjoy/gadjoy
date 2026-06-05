@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/09/hp-pavilion-x360-battery-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-32.png
 ---
 
 ## Before

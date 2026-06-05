@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2022/03/28/iphone-6s-ear-loud-speaker-replacement/
 description: Before After When the phone was given to us, less sound was coming on a ear speaker and loudspeaker We had replaced the Ear and Loudspeaker and got it working
+summary: Before After When the phone was given to us, less sound was coming on a ear speaker and loudspeaker We had replaced the Ear and Loudspeaker and got it working
 ---
 
 #### **Before**

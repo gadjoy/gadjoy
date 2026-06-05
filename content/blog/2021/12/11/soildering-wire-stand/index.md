@@ -8,6 +8,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/11/soildering-wire-stand/
+banner: /img/uploads/2021/11/Picture4.jpg
 ---
 
 ![](/img/uploads/2021/11/Picture4.jpg)

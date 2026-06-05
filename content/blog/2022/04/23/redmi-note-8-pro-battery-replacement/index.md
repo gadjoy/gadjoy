@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/23/redmi-note-8-pro-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-95.png
 ---
 
 #### Before

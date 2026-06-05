@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/vivo-y12-display-combo-replacement/
 description: Before After The phone was given to us with fully covered with black dots We replaced display combo and got it fully functional.
+summary: Before After The phone was given to us with fully covered with black dots We replaced display combo and got it fully functional.
+banner: /img/uploads/2021/12/vivo-y12-before-display-combo-replacement.png
 ---
 
 #### Before

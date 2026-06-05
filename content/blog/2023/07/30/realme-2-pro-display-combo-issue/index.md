@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/30/realme-2-pro-display-combo-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-69.png
 ---
 
 ## Before

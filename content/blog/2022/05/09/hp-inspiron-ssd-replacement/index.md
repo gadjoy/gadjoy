@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/09/hp-inspiron-ssd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-27.png
 ---
 
 #### Before

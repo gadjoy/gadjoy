@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/dell-inspiron-15-3000-office-installation-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-20.png
 ---
 
 ## Before

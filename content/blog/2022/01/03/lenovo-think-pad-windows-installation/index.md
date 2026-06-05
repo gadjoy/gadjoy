@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/lenovo-think-pad-windows-installation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-Before.jpg
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/16/ipad-a1893-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-66.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/28/oppo-a18-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-73.png
 ---
 
 ## Before

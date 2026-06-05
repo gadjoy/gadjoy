@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/05/iphone-11-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-22.png
 ---
 
 ## Before

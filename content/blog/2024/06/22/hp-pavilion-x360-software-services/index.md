@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/22/hp-pavilion-x360-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-21.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/13/dell-inspiron-5421-charger-keyboard/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-49.png
 ---
 
 ## Before

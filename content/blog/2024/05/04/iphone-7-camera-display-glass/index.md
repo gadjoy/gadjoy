@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/04/iphone-7-camera-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-12.png
 ---
 
 ## Before

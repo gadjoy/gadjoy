@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/samsung-galaxy-m31-display-combo-replacement-4/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-144.png
 ---
 
 ## Before

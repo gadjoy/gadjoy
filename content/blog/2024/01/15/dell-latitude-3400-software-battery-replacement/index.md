@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/15/dell-latitude-3400-software-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-10.png
 ---
 
 ## Before

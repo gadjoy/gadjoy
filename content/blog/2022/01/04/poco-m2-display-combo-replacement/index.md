@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/poco-m2-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-Before.jpg
 ---
 
 #### Before

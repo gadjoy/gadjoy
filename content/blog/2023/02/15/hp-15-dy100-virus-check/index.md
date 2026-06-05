@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/15/hp-15-dy100-virus-check/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-59.png
 ---
 
 ## Before

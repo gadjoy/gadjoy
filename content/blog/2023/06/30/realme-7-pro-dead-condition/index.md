@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/realme-7-pro-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-78.png
 ---
 
 ## Before

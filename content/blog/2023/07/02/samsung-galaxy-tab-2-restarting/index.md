@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2023/07/02/samsung-galaxy-tab-2-restarting/
 description: Before After
+summary: Before After
 ---
 
 ## Before

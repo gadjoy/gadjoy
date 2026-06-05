@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/06/iphone-xs-max-display-glass-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-14.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/iphone-11-display-combo-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-2.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/18/lenovo-idea-pad-5-hinges-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-164.png
 ---
 
 ## Before

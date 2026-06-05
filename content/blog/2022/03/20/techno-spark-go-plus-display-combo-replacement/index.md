@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/20/techno-spark-go-plus-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-23.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/dell-inspiron-p75f-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-148.png
 ---
 
 ## Before

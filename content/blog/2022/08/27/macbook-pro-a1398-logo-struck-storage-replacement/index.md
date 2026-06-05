@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/macbook-pro-a1398-logo-struck-storage-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-66.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/03/iphone-12-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image.png
 ---
 
 ## Before

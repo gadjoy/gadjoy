@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/samsung-galaxy-a21s-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-28.png
 ---
 
 ## Before

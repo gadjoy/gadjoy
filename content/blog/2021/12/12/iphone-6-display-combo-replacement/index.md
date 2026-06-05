@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/12/iphone-6-display-combo-replacement/
 description: Before After White shaded lines on the display before repairing the device.
+summary: Before After White shaded lines on the display before repairing the device.
+banner: /img/uploads/2021/12/iPhone-6-Before-Display-Combo-Replacement-2-576x1024.jpg
 ---
 
 #### Before

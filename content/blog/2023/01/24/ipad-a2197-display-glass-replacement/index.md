@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/24/ipad-a2197-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-257.png
 ---
 
 ## Before

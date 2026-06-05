@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/iphone-6s-dead-condition-3/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-iPhone-6s-Dead-Condition-1.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/zebronics-desktop-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-11.png
 ---
 
 ## Before

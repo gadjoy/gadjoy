@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/01/dell-inspiron-p112f105-hinges-repair/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-3.png
 ---
 
 ## Before

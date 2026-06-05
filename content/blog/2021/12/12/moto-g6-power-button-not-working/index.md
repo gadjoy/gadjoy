@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/12/moto-g6-power-button-not-working/
 description: Before After The power button was not working earlier in this device.
+summary: Before After The power button was not working earlier in this device.
+banner: /img/uploads/2021/12/Moto-G6-Before-Power-Burton-Iissue-edited.jpg
 ---
 
 #### Before

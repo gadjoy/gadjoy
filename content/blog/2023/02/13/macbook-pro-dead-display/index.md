@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/13/macbook-pro-dead-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-47.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/14/samsung-a71-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-42.png
 ---
 
 ## Before

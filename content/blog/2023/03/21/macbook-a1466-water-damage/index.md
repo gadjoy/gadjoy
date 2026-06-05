@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/21/macbook-a1466-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-55.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/05/mi-a2-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-10.png
 ---
 
 ## Before

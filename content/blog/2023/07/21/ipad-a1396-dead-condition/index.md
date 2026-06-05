@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/21/ipad-a1396-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-49.png
 ---
 
 ## Before

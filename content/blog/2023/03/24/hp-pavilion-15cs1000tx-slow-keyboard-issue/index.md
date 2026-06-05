@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/24/hp-pavilion-15cs1000tx-slow-keyboard-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-57.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/asus-desktop-no-display-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-54.png
 ---
 
 ## Before

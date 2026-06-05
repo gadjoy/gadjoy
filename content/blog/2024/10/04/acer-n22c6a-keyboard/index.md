@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/04/acer-n22c6a-keyboard/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-4.png
 ---
 
 ## Before

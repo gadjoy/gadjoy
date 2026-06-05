@@ -76,6 +76,25 @@ def test_taxonomy_is_real(posts, wp_terms):
             assert not numeric_junk.match(t), f"{path}: numeric junk tag {t!r}"
 
 
+# Card rendering: real thumbnail + plain-text summary (homepage/list grid) ------
+def test_card_banner_present_and_resolves(posts):
+    img_re = re.compile(r"/img/uploads/[^\s\)\"'<>]+\.(?:png|jpe?g|gif|webp)", re.I)
+    for path, fm, body in posts:
+        if img_re.search(body):
+            assert fm.get("banner"), f"{path}: post has images but no card banner"
+        banner = fm.get("banner")
+        if banner:
+            rel = banner[len("/img/"):]
+            assert (STATIC_DIR / "img" / rel).exists(), f"{path}: banner missing on disk {banner}"
+
+
+def test_summary_is_plaintext(posts):
+    for path, fm, _body in posts:
+        s = fm.get("summary")
+        if s:
+            assert "<" not in s, f"{path}: summary contains HTML (would overflow card)"
+
+
 # SC-003 : every referenced media file exists on disk --------------------------
 def test_all_media_resolve_on_disk(posts):
     missing = []

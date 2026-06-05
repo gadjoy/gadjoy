@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/hp-14a-cs0023tu-hinges-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-15.png
 ---
 
 ## Before

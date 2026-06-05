@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/asus-k510u-ssd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-208.png
 ---
 
 ## Before

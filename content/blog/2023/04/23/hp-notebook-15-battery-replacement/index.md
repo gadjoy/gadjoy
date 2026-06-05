@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/23/hp-notebook-15-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-49.png
 ---
 
 ## Before

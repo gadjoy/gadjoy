@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/30/dell-latitude-5591-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-29.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/30/dell-inspiron-3501-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-65.png
 ---
 
 ## Before

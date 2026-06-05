@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/iphone-se-display-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-2.png
 ---
 
 ## Before

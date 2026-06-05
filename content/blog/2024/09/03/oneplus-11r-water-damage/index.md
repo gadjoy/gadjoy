@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/oneplus-11r-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-13.png
 ---
 
 ## Before

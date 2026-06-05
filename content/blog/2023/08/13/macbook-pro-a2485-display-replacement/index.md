@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/macbook-pro-a2485-display-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-16.png
 ---
 
 ## Before

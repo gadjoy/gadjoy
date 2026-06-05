@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/02/redmi-note-7-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image.png
 ---
 
 #### Before

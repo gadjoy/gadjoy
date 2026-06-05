@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/19/realme-narzo-50i-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-36.png
 ---
 
 ## Before

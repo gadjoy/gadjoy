@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/25/infix-hot-6-charging-connector-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-63.png
 ---
 
 #### Before

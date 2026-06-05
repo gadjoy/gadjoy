@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/06/hp-notebook-15-keyboard-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-12.png
 ---
 
 ## Before

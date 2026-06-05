@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/samsung-galaxy-m31-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-24.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/infinix-hot-30i-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-24.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/lenovo-thinkpad-t450-fan-error/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-20.png
 ---
 
 ## Before

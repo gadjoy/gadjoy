@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/17/realme-c12-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-72.png
 ---
 
 ## Before

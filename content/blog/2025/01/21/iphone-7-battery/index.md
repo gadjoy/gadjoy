@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/iphone-7-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-4.png
 ---
 
 ## Before

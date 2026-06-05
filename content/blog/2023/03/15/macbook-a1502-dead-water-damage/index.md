@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/15/macbook-a1502-dead-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-31.png
 ---
 
 ## Before

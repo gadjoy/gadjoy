@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/28/oneplus-7t-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-277.png
 ---
 
 ## Before

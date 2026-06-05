@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/product-of-two-numbers/
 description: Problem Statement -To find product of two numbers Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges – Nil Execution Strategy -Nil Value Added -This code help user to find product of two numbers
+summary: Problem Statement -To find product of two numbers Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges – Nil Execution Strategy -Nil Value Added -This code help user to find product of two numbers
+banner: /img/uploads/2021/12/Poduct-of-two-numbers.png
 ---
 
 ![](/img/uploads/2021/12/Poduct-of-two-numbers.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/27/iball-desktop-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-61.png
 ---
 
 ## Before

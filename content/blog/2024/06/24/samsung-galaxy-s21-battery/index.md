@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/24/samsung-galaxy-s21-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-31.png
 ---
 
 ## Before

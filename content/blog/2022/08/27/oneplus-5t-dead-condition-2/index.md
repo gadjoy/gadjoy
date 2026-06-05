@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/oneplus-5t-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-71.png
 ---
 
 ## Before

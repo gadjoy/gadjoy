@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/samsung-galaxy-f22-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-22.png
 ---
 
 ## Before

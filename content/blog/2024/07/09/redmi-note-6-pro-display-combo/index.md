@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/09/redmi-note-6-pro-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-15.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/18/redmi-note-3-charging-connector-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-72.png
 ---
 
 #### Before

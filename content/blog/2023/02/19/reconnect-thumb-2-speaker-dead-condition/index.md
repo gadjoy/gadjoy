@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/02/19/reconnect-thumb-2-speaker-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-82.png
 ---
 
 ## Before

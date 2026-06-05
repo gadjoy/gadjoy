@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2023/07/08/redmi-8a-dual-logo-restarting/
 description: Before After
+summary: Before After
 ---
 
 ## Before

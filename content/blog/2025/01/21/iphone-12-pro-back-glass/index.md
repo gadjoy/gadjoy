@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/iphone-12-pro-back-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-26.png
 ---
 
 ## Before

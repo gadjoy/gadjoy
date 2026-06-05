@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/25/iphone-se-proximity-sensor-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-114.png
 ---
 
 ## Before

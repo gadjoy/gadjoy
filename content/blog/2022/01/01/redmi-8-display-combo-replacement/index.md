@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/01/redmi-8-display-combo-replacement/
 description: Before After When phone was given to us downside of the display was damaged. We replaced Display Combo and got it functional
+summary: Before After When phone was given to us downside of the display was damaged. We replaced Display Combo and got it functional
+banner: /img/uploads/2022/01/Redmi-8-before-Display-Combo-Replacement.jpg
 ---
 
 #### Before

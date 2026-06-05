@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/23/oppo-a55-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-45.png
 ---
 
 ## Before

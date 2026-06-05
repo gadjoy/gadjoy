@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2022/04/05/macbook-pro-dead-condition/
 description: Before After When the laptop was given to us it was in dead condition We had repaired Charging IC, Charging Port and replaced Speaker and got it functional
+summary: Before After When the laptop was given to us it was in dead condition We had repaired Charging IC, Charging Port and replaced Speaker and got it functional
+banner: /img/uploads/2022/04/MacBook-Pro-–-Before-Dead-Condition.png
 ---
 
 #### **Before**

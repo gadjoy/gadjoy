@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/vivo-y20-display-after/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-64.png
 ---
 
 ## Before

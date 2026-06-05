@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/oneplus-nord-ce4-software-service/
+banner: /img/uploads/2025/02/image-25-1024x549.png
 ---
 
 ![](/img/uploads/2025/02/image-25-1024x549.png)

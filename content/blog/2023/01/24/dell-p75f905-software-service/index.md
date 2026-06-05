@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/24/dell-p75f905-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-255.png
 ---
 
 ## Before

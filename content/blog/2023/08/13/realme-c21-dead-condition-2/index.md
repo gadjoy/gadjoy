@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/realme-c21-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-54.png
 ---
 
 ## Before

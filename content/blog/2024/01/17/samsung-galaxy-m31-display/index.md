@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/17/samsung-galaxy-m31-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-26.png
 ---
 
 ## Before

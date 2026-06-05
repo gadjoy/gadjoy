@@ -8,6 +8,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/07/aaaaa-battery-holder/
+banner: /img/uploads/2021/03/image.png
 ---
 
 ![](/img/uploads/2021/03/image.png)

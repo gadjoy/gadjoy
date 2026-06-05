@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/22/hp-pavilion-15ec1023ax-hinges/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-33.png
 ---
 
 ## Before

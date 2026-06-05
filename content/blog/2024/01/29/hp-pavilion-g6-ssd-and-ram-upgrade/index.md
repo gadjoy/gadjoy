@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/hp-pavilion-g6-ssd-and-ram-upgrade/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-56.png
 ---
 
 ## Before

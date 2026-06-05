@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/12/iphone-se-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-37.png
 ---
 
 ## Before

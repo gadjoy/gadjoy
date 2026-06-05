@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/samsung-galaxy-m31s-logo-restarting/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Samsung-Galaxy-M31s-–-Logo-Restarting.png
 ---
 
 ## Before

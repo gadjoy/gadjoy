@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/21/asus-laptop-battery-replacement/
 description: Before After The laptop was given to us with No battery back-up We had replaced the battery, and it had good charging and discharging cycles
+summary: Before After The laptop was given to us with No battery back-up We had replaced the battery, and it had good charging and discharging cycles
+banner: /img/uploads/2021/12/Asus-laptop-Before-Battery-Replacement.jpg
 ---
 
 #### Before

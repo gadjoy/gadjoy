@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/25/iphone-11-ear-speaker-issue-and-loud-speaker-check/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-65.png
 ---
 
 ## Before

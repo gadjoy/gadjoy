@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/22/vivo-y95-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Vivo-Y95-–-Dead-Condition-2.png
 ---
 
 ## Before

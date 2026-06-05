@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/22/macbook-pro-a1398-keyboard-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-44.png
 ---
 
 ## Before

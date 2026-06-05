@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/hp-pavilion-14-n201tu-ssd-upgradation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-56.png
 ---
 
 ## Before

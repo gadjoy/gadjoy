@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/oneplus-nord-2-5g-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-8.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/lenovo-thinkpad-t470-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-94.png
 ---
 
 ## Before

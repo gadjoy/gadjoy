@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/11/acer-aspire-a-515-53k-ram-upgrade/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-16.png
 ---
 
 ## Before

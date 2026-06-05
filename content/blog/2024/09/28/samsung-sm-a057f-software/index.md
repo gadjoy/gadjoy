@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/28/samsung-sm-a057f-software/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-43.png
 ---
 
 ## Before

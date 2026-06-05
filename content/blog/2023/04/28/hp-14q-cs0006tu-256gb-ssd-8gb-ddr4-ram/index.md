@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/28/hp-14q-cs0006tu-256gb-ssd-8gb-ddr4-ram/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-69.png
 ---
 
 ## Before

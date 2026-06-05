@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/vivo-y21t-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-56.png
 ---
 
 ## Before

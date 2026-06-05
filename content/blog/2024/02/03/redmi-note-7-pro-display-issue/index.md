@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/03/redmi-note-7-pro-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-3.png
 ---
 
 ## Before

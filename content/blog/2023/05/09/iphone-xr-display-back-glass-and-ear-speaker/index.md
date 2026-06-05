@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/09/iphone-xr-display-back-glass-and-ear-speaker/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-24.png
 ---
 
 ## Before

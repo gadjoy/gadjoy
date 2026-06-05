@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/04/22/iiot-raspberry-pi-projects-2/
 description: Problem Statement -How to detect distance Scope of work •How to detect distances with an ultrasonic distance sensor •How to play different tones using a tonal buzzer •How to map one range of values to another range of values Challenges •Set up the distance sensor •Map distances to midi notes Execution Strategy •A Raspberry Pi […]
+summary: Problem Statement -How to detect distance Scope of work •How to detect distances with an ultrasonic distance sensor •How to play different tones using a tonal buzzer •How to map one range of values to another range of values Challenges •Set up the distance sensor •Map distances to midi notes Execution Strategy •A Raspberry Pi […]
+banner: /img/uploads/2022/04/image-90.png
 ---
 
 ![](/img/uploads/2022/04/image-90.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/oppo-f7-software/
 description: Before After When phone was given to us customer was  forgotten the password We did software unlock and got it fully functional
+summary: Before After When phone was given to us customer was  forgotten the password We did software unlock and got it fully functional
+banner: /img/uploads/2021/12/oppo-f7-before-software.png
 ---
 
 #### Before

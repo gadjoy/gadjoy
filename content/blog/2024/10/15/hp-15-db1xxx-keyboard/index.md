@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/15/hp-15-db1xxx-keyboard/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-15.png
 ---
 
 ## Before

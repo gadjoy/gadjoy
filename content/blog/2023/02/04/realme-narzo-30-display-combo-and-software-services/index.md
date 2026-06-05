@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/02/04/realme-narzo-30-display-combo-and-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-24.png
 ---
 
 ## Before

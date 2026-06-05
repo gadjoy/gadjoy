@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/12/samsung-galaxy-a12-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-21.png
 ---
 
 ## Before

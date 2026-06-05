@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/20/lenovo-ideapad-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-31.png
 ---
 
 #### Before

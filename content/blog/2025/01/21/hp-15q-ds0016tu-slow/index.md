@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/hp-15q-ds0016tu-slow/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-34.png
 ---
 
 ## Before

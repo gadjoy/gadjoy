@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/18/vivo-y67-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-172.png
 ---
 
 ## Before

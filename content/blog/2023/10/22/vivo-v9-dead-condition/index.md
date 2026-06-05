@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/22/vivo-v9-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-31.png
 ---
 
 ## Before

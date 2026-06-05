@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2022/02/04/hp-elite-book-dead-condition/
 description: Before After
+summary: Before After
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/nokia-8-1-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-239.png
 ---
 
 ## Before

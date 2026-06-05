@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/20/moto-g5s-plus-touch-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/image-16.png
 ---
 
 #### Before

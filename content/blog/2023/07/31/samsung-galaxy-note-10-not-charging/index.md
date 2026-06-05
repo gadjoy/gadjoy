@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/31/samsung-galaxy-note-10-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-71.png
 ---
 
 ## Before

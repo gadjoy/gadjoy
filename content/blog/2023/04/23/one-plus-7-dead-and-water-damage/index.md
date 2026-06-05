@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/23/one-plus-7-dead-and-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-51.png
 ---
 
 ## Before

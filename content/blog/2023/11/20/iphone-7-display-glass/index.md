@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/20/iphone-7-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-38.png
 ---
 
 ## Before

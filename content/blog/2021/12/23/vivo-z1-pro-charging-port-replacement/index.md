@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/23/vivo-z1-pro-charging-port-replacement/
 description: Before After When phone was given to us it was not charging We replaced Charging connector and got it functioning
+summary: Before After When phone was given to us it was not charging We replaced Charging connector and got it functioning
+banner: /img/uploads/2021/12/Vivo-Z1-Pro-before-charging-port-replacement.jpg
 ---
 
 #### Before

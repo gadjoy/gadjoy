@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/03/samsung-galaxy-m30s-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-14.png
 ---
 
 ## Before

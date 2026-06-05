@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/18/asus-x515-camera-not-wolking/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-33.png
 ---
 
 ## Before

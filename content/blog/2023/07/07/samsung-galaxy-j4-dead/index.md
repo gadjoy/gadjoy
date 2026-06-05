@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/07/samsung-galaxy-j4-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-28.png
 ---
 
 ## Before

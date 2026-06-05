@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/lenovo-thinkpad-e480-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-10.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/23/one-plus-7-pro-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-43.png
 ---
 
 ## Before

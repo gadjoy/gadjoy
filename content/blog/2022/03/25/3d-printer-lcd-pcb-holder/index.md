@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/25/3d-printer-lcd-pcb-holder/
 description: Problem Statement -Ender 3 Cover LCD PCB with Drawer –Scope of work – Print a holder for the ender 3, LCD PCB display Challenges –    Printing the whole part without the support and with correct dimensions Execution Strategy -The size and support was edited before printing Value Added -A Cover/Case I made for the PCB […]
+summary: Problem Statement -Ender 3 Cover LCD PCB with Drawer –Scope of work – Print a holder for the ender 3, LCD PCB display Challenges –    Printing the whole part without the support and with correct dimensions Execution Strategy -The size and support was edited before printing Value Added -A Cover/Case I made for the PCB […]
+banner: /img/uploads/2022/03/image-50.png
 ---
 
 ![](/img/uploads/2022/03/image-50.png)

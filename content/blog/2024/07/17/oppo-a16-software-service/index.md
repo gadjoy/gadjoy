@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/oppo-a16-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-40.png
 ---
 
 ## Before

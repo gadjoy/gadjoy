@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/11/vivo-y28e-5g-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image-11.png
 ---
 
 ## Before

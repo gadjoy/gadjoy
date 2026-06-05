@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/07/06/iwatch-series-5-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/07/image-12.png
 ---
 
 ## Before

@@ -9,6 +9,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/hydroponics/
 description: Problem Statement -Plants holder Scope of work –  To grow plants using only water. Challenges –    Arranging its position on correct way on box was difficult. Execution Strategy -We arranged it center by using spirit level and arranged the cap such a way that water should go through all the pipes. -Hydroponics setup -3D printed […]
+summary: Problem Statement -Plants holder Scope of work –  To grow plants using only water. Challenges –    Arranging its position on correct way on box was difficult. Execution Strategy -We arranged it center by using spirit level and arranged the cap such a way that water should go through all the pipes. -Hydroponics setup -3D printed […]
+banner: /img/uploads/2022/01/Hydroponics.png
 ---
 
 ![](/img/uploads/2022/01/Hydroponics.png)

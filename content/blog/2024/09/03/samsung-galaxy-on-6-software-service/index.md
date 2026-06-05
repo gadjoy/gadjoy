@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/samsung-galaxy-on-6-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-19.png
 ---
 
 ## Before

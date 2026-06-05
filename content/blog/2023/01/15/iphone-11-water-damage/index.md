@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/iphone-11-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-76.png
 ---
 
 ## Before

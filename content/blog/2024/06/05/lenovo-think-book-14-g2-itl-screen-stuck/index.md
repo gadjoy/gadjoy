@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/lenovo-think-book-14-g2-itl-screen-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-13.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/15/oneplus-11r-5g-water-damage-battery-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-31.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/26/macbook-pro-a2338-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-46.png
 ---
 
 ## Before

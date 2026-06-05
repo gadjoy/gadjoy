@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/redmi-5a-dead-condition/
 description: Before After Mother board service has done for this device
+summary: Before After Mother board service has done for this device
+banner: /img/uploads/2021/12/Redmi-5A-Before-Dead-Condition.png
 ---
 
 #### Before

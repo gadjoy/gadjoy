@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/17/dell-latitude-3400-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-68.png
 ---
 
 ## Before

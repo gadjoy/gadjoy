@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/ipad-a1567-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-28.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/31/dell-inspiron-15-5548-512-gb-ssd/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-312.png
 ---
 
 ## Before

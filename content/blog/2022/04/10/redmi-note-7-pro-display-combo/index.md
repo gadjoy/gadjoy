@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/10/redmi-note-7-pro-display-combo/
 description: Before After When the phone was given to us, lines were coming across the display. We had replaced Display Combo and made it operating.
+summary: Before After When the phone was given to us, lines were coming across the display. We had replaced Display Combo and made it operating.
+banner: /img/uploads/2022/04/Redmi-Note-7-Pro-–-Before-Display-Combo.png
 ---
 
 #### **Before**

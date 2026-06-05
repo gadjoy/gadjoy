@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/15/google-pixel-pro-6-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-36.png
 ---
 
 ## Before

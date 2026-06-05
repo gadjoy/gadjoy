@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2021/12/31/hp-laptop-hinges-and-display-replacement/
 description: Before After When this laptop was given to us it was not switching on and hinges was broken. We replaced Display & did fabrication on Hinges and got it functioning
+summary: Before After When this laptop was given to us it was not switching on and hinges was broken. We replaced Display & did fabrication on Hinges and got it functioning
+banner: /img/uploads/2021/12/HP-Laptop-Before-Hinges-and-Display-Replacement.jpg
 ---
 
 #### Before

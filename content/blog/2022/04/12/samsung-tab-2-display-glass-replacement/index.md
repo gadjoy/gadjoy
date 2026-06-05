@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/12/samsung-tab-2-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-56.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/15/dell-inspiron-14-hinges/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-20.png
 ---
 
 ## Before

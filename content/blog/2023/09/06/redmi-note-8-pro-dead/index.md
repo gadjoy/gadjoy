@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/redmi-note-8-pro-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-12.png
 ---
 
 ## Before

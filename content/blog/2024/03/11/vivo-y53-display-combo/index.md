@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/11/vivo-y53-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-16.png
 ---
 
 ## Before

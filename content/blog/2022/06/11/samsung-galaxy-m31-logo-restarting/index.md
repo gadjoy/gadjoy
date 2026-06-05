@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2022/06/11/samsung-galaxy-m31-logo-restarting/
+banner: /img/uploads/2022/06/image-8.png
 ---
 
 ##

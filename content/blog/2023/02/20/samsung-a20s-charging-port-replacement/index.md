@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/20/samsung-a20s-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-90.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/macbook-a1502-charging-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-18.png
 ---
 
 ## Before

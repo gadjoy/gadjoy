@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/06/htc-desire-816-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-4.png
 ---
 
 #### Before

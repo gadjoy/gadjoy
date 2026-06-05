@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/27/code-production-cost-for-ms-rod-2/
 description: Problem Statement -Prepare a production cost with the selling price Scope of work – Build a program to find the details on the production of the MS rod Challenges -The pseudocode is written before writing the python script in excel Execution Strategy -Use “IF” and “Else” functions to write the code smaller and clear Value […]
+summary: Problem Statement -Prepare a production cost with the selling price Scope of work – Build a program to find the details on the production of the MS rod Challenges -The pseudocode is written before writing the python script in excel Execution Strategy -Use “IF” and “Else” functions to write the code smaller and clear Value […]
+banner: /img/uploads/2022/03/image-61.png
 ---
 
 ![](/img/uploads/2022/03/image-61.png)

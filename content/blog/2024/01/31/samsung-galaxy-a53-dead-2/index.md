@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/31/samsung-galaxy-a53-dead-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-71.png
 ---
 
 ## Before

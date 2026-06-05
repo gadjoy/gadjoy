@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/dell-inspiron-p89g107-ms-office-activation-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-10.png
 ---
 
 ## Before

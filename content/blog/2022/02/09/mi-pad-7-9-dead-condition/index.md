@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2022/02/09/mi-pad-7-9-dead-condition/
 description: Before After When this tab was given to us, it was not switching on We replaced Charging Port and got it working
+summary: Before After When this tab was given to us, it was not switching on We replaced Charging Port and got it working
+banner: /img/uploads/2022/02/Mi-Pad-7.9-–-Before-Dead-Condition.png
 ---
 
 #### **Before**

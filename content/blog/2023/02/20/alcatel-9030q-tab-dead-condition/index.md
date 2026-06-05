@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/20/alcatel-9030q-tab-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-88.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/11/oppo-f15-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image-21.png
 ---
 
 ## Before

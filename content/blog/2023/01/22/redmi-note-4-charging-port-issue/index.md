@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/redmi-note-4-charging-port-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-226.png
 ---
 
 ## Before

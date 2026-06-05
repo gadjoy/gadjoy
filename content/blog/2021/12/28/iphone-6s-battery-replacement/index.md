@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/28/iphone-6s-battery-replacement/
 description: Before After This phone was given to us to replace the battery We replaced Battery and checked for charging and discharging cycles
+summary: Before After This phone was given to us to replace the battery We replaced Battery and checked for charging and discharging cycles
+banner: /img/uploads/2021/12/iPhone-6Sbefore-Battery-Replacement.jpg
 ---
 
 #### Before

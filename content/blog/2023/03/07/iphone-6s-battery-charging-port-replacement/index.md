@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/07/iphone-6s-battery-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-8.png
 ---
 
 ## Before

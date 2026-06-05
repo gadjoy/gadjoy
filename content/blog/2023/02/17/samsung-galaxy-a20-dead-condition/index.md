@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/17/samsung-galaxy-a20-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-70.png
 ---
 
 ## Before

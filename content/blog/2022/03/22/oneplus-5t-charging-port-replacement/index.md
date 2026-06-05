@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/22/oneplus-5t-charging-port-replacement/
 description: Before After When the phone was given to us it was not charging We did General Service on CC and got it charging
+summary: Before After When the phone was given to us it was not charging We did General Service on CC and got it charging
+banner: /img/uploads/2022/03/OnePlus-5T–-before-Charging-Port-Replacement.png
 ---
 
 #### **Before**

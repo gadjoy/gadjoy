@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/24/ipad-mini-ipad-disable/
 description: Before After The iPad was given to us for software unlock We did the software services and unlocked the device
+summary: Before After The iPad was given to us for software unlock We did the software services and unlocked the device
+banner: /img/uploads/2021/12/iPad-Mini-before-ipad-is-disable.jpg
 ---
 
 #### Before

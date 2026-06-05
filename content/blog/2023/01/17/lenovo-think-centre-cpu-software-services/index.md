@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/lenovo-think-centre-cpu-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-152.png
 ---
 
 ## Before

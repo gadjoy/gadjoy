@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/09/oppo-a3s-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-17.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/28/vivo-y91-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-37.png
 ---
 
 ## Before

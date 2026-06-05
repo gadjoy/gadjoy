@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/05/vivo-y20-display-combo-replacement/
 description: Before After When the phone was given to us, the display was fully broken We had replaced the Display Combo and made it operating
+summary: Before After When the phone was given to us, the display was fully broken We had replaced the Display Combo and made it operating
+banner: /img/uploads/2022/04/Vivo-Y20-–-before-Display-Combo-Replacement.png
 ---
 
 #### **Before**

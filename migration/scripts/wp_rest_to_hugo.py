@@ -120,11 +120,35 @@ def _terms(post: dict, taxonomy: str):
     return out
 
 
+def _exists(url: str) -> bool:
+    return bool(url) and url.startswith("/img/uploads/") and \
+        (STATIC_UPLOADS_DIR / url[len("/img/uploads/"):]).exists()
+
+
 def _featured(post: dict):
     for media in post.get("_embedded", {}).get("wp:featuredmedia", []):
         if isinstance(media, dict) and media.get("source_url"):
             return normalize_media_url(media["source_url"])
     return None
+
+
+def _first_existing_image(rendered_html: str):
+    """First in-content image whose file exists on disk — used as the card thumbnail."""
+    soup = BeautifulSoup(rendered_html or "", "html.parser")
+    for img in soup.find_all("img"):
+        src = normalize_media_url(img.get("src", ""))
+        if _exists(src):
+            return src
+    return None
+
+
+def _card_banner(post: dict):
+    """Pick a real thumbnail: the featured image if present+on-disk, else the
+    first in-content image that resolves. The theme renders .Params.banner."""
+    feat = _featured(post)
+    if _exists(feat):
+        return feat
+    return _first_existing_image(post["content"]["rendered"])
 
 
 def build_front_matter(post: dict) -> dict:
@@ -146,9 +170,10 @@ def build_front_matter(post: dict) -> dict:
     desc = _strip_tags(post.get("excerpt", {}).get("rendered", ""))
     if desc:
         fm["description"] = desc
-    img = _featured(post)
-    if img:
-        fm["image"] = img
+        fm["summary"] = desc          # plain-text card summary (avoids image overflow)
+    banner = _card_banner(post)
+    if banner:
+        fm["banner"] = banner         # card/list thumbnail (theme reads .Params.banner)
     return fm
 
 

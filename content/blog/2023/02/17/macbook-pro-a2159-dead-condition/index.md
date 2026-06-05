@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/17/macbook-pro-a2159-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-74.png
 ---
 
 ## Before

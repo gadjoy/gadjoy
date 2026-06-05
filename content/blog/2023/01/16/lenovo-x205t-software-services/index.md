@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/lenovo-x205t-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-122.png
 ---
 
 ## Before

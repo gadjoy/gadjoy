@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/oppo-a16-display-glass-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-62.png
 ---
 
 ## Before

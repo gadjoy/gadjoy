@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/24/iphone-6-home-button-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-259.png
 ---
 
 ## Before

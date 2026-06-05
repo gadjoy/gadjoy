@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/samsung-galaxy-a30-log-restarting/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-52.png
 ---
 
 ## Before

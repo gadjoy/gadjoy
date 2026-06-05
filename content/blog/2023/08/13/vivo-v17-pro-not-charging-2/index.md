@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/vivo-v17-pro-not-charging-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-14.png
 ---
 
 ## Before

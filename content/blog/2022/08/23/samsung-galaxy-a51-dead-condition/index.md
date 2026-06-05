@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/23/samsung-galaxy-a51-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Samsung-Galaxy-A51-Dead-Condition.png
 ---
 
 ## Before

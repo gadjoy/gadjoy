@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/vivo-y17-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-54.png
 ---
 
 ## Before

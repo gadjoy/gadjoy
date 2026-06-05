@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/lenovo-laptop-hdd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-Before.jpg
 ---
 
 #### Before

@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2022/04/05/acer-aspire-5742-loud-speaker-replacement/
 description: Before After When the laptop was given to us loudspeaker was not working We had replaced Loudspeaker and got it working
+summary: Before After When the laptop was given to us loudspeaker was not working We had replaced Loudspeaker and got it working
 ---
 
 #### **Before**

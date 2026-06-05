@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/05/4985-vivo-y20-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-6.png
 ---
 
 ## Before

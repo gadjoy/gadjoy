@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/28/samsung-j2-pro-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-70.png
 ---
 
 #### Before

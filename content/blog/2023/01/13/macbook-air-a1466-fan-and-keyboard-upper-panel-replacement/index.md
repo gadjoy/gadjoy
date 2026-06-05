@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/13/macbook-air-a1466-fan-and-keyboard-upper-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-28.png
 ---
 
 ## Before

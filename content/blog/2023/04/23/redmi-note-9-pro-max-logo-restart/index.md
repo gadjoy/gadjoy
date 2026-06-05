@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/23/redmi-note-9-pro-max-logo-restart/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-54.png
 ---
 
 ## Before

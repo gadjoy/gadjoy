@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/dell-inspiron-15-3251-wi-fi-not-working/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-12.png
 ---
 
 ## Before

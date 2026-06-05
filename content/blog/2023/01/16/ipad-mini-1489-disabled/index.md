@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/ipad-mini-1489-disabled/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-101.png
 ---
 
 ## Before

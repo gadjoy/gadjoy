@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/15/hp-elitebook-840-g5-display-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-57.png
 ---
 
 ## Before

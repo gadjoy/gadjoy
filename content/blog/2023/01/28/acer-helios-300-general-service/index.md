@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/28/acer-helios-300-general-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-271.png
 ---
 
 ## Before

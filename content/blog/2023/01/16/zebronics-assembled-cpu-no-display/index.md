@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/zebronics-assembled-cpu-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-99.png
 ---
 
 ## Before

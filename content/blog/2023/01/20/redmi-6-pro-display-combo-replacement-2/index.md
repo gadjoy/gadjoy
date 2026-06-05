@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/20/redmi-6-pro-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-178.png
 ---
 
 ## Before

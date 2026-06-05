@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/23/samsung-galaxy-m02s-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-55.png
 ---
 
 ## Before

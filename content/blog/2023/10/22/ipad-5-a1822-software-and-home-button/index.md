@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/22/ipad-5-a1822-software-and-home-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-22.png
 ---
 
 ## Before

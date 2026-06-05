@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2023/04/05/hp-notebook-14-hinge-fabrication/
 description: Before After
+summary: Before After
 ---
 
 ## Before

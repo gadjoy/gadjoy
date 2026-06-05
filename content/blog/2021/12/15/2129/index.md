@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/2129/
 description: Before After Display combo is fully broken before we replace the display
+summary: Before After Display combo is fully broken before we replace the display
+banner: /img/uploads/2021/12/iPhone-8-Before-Display-Combo-Replacement.png
 ---
 
 #### Before

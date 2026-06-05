@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/redmi-y3-battery-and-loud-speaker/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-36.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/29/ipad-a1395-disabled/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-71.png
 ---
 
 ## Before

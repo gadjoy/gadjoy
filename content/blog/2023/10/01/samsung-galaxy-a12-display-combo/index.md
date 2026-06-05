@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/01/samsung-galaxy-a12-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-5.png
 ---
 
 ## Before

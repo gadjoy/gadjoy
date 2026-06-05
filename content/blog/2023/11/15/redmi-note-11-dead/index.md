@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/15/redmi-note-11-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-22.png
 ---
 
 ## Before

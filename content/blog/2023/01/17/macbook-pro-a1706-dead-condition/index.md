@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/macbook-pro-a1706-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-156.png
 ---
 
 ## Before

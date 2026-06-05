@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/04/oneplus-11r-back-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-6.png
 ---
 
 ## Before

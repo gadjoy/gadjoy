@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/03/redmi-8a-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-20.png
 ---
 
 ## Before

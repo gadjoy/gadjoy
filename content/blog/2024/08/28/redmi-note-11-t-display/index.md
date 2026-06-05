@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/redmi-note-11-t-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-2.png
 ---
 
 ## Before

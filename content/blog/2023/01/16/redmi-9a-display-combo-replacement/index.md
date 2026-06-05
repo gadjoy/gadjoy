@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/redmi-9a-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-118.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/24/samsung-galaxy-c7-pro-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-56.png
 ---
 
 ## Before

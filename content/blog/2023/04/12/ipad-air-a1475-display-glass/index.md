@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/12/ipad-air-a1475-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-28.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/vivo-y51-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-192.png
 ---
 
 ## Before

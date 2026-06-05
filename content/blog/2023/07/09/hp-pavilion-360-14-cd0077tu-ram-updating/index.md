@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/09/hp-pavilion-360-14-cd0077tu-ram-updating/
 description: Before
+summary: Before
+banner: /img/uploads/2023/07/image-34.png
 ---
 
 ## Before

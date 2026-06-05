@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/10/redmi-note-10-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image-2.png
 ---
 
 ## Before

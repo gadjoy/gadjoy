@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/24/lcm-of-any-two-numbers/
 description: Problem Statement -Code to find LCM Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges -If randomly any  two numbers are given, it should find out the LCM of that two numbers Execution Strategy -Nil Value Added -If user wants to find out the LCM of any two numbers, […]
+summary: Problem Statement -Code to find LCM Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges -If randomly any  two numbers are given, it should find out the LCM of that two numbers Execution Strategy -Nil Value Added -If user wants to find out the LCM of any two numbers, […]
+banner: /img/uploads/2021/12/LCM-of-any-two-numbers.png
 ---
 
 ![](/img/uploads/2021/12/LCM-of-any-two-numbers.png)

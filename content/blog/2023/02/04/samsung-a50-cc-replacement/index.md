@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/04/samsung-a50-cc-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-15.png
 ---
 
 ## Before

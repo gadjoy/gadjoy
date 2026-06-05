@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/19/hp-14s-cr3003tu-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-34.png
 ---
 
 ## Before

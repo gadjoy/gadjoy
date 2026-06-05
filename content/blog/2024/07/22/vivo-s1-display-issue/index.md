@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/22/vivo-s1-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-46.png
 ---
 
 ## Before

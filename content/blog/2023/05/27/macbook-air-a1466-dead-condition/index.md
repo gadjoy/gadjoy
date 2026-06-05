@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/27/macbook-air-a1466-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-59.png
 ---
 
 ## Before

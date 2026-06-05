@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/15/redmi-note-7-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/Redmi-note-7s-Not-charging-edited.jpg
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/28/vivo-v17-display-front-camera-dust/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-65.png
 ---
 
 ## Before

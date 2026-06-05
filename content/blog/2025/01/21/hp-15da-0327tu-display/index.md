@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/hp-15da-0327tu-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-12.png
 ---
 
 ## Before

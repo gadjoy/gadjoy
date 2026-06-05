@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/10/dell-inspiron-battery-replacement/
 description: Before After When the laptop was given to us, battery was not charging We had replaced Battery and made it working
+summary: Before After When the laptop was given to us, battery was not charging We had replaced Battery and made it working
+banner: /img/uploads/2022/04/Dell-Inspiron-–-Before-Battery-Replacement.png
 ---
 
 #### **Before**

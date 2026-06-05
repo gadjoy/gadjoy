@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/22/xp-graphic-pen-tablet-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-51.png
 ---
 
 ## Before

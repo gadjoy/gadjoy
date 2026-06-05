@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/12/samsung-m31s-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-58.png
 ---
 
 #### Before

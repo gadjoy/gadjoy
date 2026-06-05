@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/28/oppo-a33f-power-button-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-71.png
 ---
 
 ## Before

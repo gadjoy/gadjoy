@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/18/oneplus-7t-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-40.png
 ---
 
 ## Before

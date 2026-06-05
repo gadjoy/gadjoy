@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2022/03/20/lenovo-a6000-dead-condition/
+banner: /img/uploads/2022/03/image-29.png
 ---
 
 ####

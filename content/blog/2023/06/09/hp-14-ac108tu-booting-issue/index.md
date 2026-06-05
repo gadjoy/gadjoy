@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/09/hp-14-ac108tu-booting-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-32.png
 ---
 
 ## Before

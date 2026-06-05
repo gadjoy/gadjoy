@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/acer-z09-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-70.png
 ---
 
 ## Before

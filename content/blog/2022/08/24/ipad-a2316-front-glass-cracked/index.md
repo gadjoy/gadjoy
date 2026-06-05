@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/ipad-a2316-front-glass-cracked/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-5.png
 ---
 
 ## Before

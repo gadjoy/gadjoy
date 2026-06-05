@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/26/realme-9-pro-5g-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-52.png
 ---
 
 ## Before

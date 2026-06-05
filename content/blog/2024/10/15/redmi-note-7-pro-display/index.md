@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/15/redmi-note-7-pro-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-17.png
 ---
 
 ## Before

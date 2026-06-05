@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/samsung-galaxy-j6-dead-condition/
 description: before After
+summary: before After
+banner: /img/uploads/2023/01/image-132.png
 ---
 
 ## before

@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/15/iphone-6s-display-combo-replacement-3/
+banner: /img/uploads/2021/12/Samsung-J7-pro-before-Display-Combo-Replacement-1.jpg
 ---
 
 #### Before

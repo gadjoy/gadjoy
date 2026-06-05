@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/28/samsung-a10s-touch-not-working/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-before.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/lenovo-laptop-software-service/
 description: Before After When laptop was given to us OS was corrupted We replaced Operating system and gave to customer with full working condition
+summary: Before After When laptop was given to us OS was corrupted We replaced Operating system and gave to customer with full working condition
+banner: /img/uploads/2021/12/lenovo-laptop-before-software-service.png
 ---
 
 #### Before

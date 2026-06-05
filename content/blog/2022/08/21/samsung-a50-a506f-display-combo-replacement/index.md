@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/21/samsung-a50-a506f-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Samsung-A50-A506F-Display-Combo-Replacement.png
 ---
 
 ## Before

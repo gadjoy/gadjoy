@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/14/realme-9-pro-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-16.png
 ---
 
 ## Before

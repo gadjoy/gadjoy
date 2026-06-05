@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/10/acer-aspire-3-office-installation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-38.png
 ---
 
 ## Before

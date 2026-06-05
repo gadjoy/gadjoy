@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/infinix-hot-11-display-cc/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-30.png
 ---
 
 ## Before

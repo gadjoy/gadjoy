@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/18/realme-c21y-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-31.png
 ---
 
 ## Before

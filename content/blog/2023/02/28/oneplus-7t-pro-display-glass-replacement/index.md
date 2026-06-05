@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/28/oneplus-7t-pro-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-118.png
 ---
 
 ## Before

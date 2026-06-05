@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/27/dell-inspiron-15-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-65.png
 ---
 
 #### Before

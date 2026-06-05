@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/17/mi-6a-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-64.png
 ---
 
 #### Before

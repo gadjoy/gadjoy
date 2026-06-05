@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/31/water-icon-for-wall/
 description: Problem Statement -Water-Icon For Wall SOW -3D – Printed -PLA – Filament Challenges -Decorating item for wall Value Added -This is a simple decorating item for wall, -2D Art
+summary: Problem Statement -Water-Icon For Wall SOW -3D – Printed -PLA – Filament Challenges -Decorating item for wall Value Added -This is a simple decorating item for wall, -2D Art
+banner: /img/uploads/2021/12/Water-–-Icon-For-Wall.jpg
 ---
 
 ![](/img/uploads/2021/12/Water-–-Icon-For-Wall.jpg)

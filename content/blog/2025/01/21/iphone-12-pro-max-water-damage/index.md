@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/iphone-12-pro-max-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-10.png
 ---
 
 ## Before

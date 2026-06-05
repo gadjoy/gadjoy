@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/14/iphone-7-battery-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-40.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/03/redmi-note-7s-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-11.png
 ---
 
 ## Before

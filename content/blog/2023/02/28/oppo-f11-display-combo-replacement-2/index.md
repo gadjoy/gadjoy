@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/28/oppo-f11-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-120.png
 ---
 
 ## Before

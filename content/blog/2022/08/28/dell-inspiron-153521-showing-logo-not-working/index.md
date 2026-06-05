@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/28/dell-inspiron-153521-showing-logo-not-working/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-84.png
 ---
 
 ## Before

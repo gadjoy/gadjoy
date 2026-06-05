@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/15/lenovo-ideapad-320-hdd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-18.png
 ---
 
 ## Before

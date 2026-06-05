@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/01/asus-fx504gd-keyboard-issues-general-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image.png
 ---
 
 ## Before

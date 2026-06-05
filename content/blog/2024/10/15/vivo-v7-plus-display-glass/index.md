@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/15/vivo-v7-plus-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-13.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/redmi-note-7s-battery-and-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-46.png
 ---
 
 ## Before

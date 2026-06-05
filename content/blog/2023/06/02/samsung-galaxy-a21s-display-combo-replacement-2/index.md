@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/02/samsung-galaxy-a21s-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-4.png
 ---
 
 ## Before

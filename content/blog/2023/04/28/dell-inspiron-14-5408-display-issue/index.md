@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/28/dell-inspiron-14-5408-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-67.png
 ---
 
 ## Before

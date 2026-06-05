@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/11/realme-narzo-n53-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image-13.png
 ---
 
 ## Before

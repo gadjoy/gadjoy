@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/14/iphone-x-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-38.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/15/asus-zenfone-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-41.png
 ---
 
 #### Before

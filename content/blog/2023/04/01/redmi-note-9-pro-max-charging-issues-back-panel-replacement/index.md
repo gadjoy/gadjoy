@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/01/redmi-note-9-pro-max-charging-issues-back-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-2.png
 ---
 
 ## Before

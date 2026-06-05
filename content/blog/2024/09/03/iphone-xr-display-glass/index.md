@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/iphone-xr-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-11.png
 ---
 
 ## Before

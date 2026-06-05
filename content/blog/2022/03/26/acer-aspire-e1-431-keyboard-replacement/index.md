@@ -9,6 +9,7 @@ tags: []
 aliases:
 - /blog/2022/03/26/acer-aspire-e1-431-keyboard-replacement/
 description: Before After When this laptop was given to us, some of the keys were not working We replaced Keyboard and made it operating
+summary: Before After When this laptop was given to us, some of the keys were not working We replaced Keyboard and made it operating
 ---
 
 #### **Before**

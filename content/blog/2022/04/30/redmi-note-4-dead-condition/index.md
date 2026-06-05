@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/30/redmi-note-4-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-133.png
 ---
 
 #### Before

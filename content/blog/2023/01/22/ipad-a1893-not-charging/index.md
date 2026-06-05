@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/ipad-a1893-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-202.png
 ---
 
 ## Before

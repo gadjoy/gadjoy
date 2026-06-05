@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/08/hp-laptop-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2021/12/Hp-Laptop-Before-Dead-Condition-1024x577.jpg
 ---
 
 ![](/img/uploads/2021/12/Hp-Laptop-Before-Dead-Condition-1024x577.jpg)

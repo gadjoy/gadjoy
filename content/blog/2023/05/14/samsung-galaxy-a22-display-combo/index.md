@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2023/05/14/samsung-galaxy-a22-display-combo/
+banner: /img/uploads/2023/05/image-30.png
 ---
 
 ![](/img/uploads/2023/05/image-30.png)

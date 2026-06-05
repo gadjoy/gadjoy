@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/07/04/poco-m3-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/07/image-6.png
 ---
 
 ## Before

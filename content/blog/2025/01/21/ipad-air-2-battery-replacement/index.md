@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/ipad-air-2-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-22.png
 ---
 
 ## Before

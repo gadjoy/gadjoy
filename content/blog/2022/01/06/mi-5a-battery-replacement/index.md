@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/mi-5a-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Mi-5A-Battery-Replacement-Before.jpg
 ---
 
 #### Before

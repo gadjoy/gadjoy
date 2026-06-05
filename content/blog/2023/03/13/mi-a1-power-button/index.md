@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/13/mi-a1-power-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-25.png
 ---
 
 ## Before

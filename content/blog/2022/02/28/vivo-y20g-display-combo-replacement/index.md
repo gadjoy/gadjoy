@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/28/vivo-y20g-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/image-34.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/2863/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-Before.jpg
 ---
 
 #### Before

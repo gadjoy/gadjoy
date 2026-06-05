@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/03/iphone-11-back-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-10.png
 ---
 
 ## Before

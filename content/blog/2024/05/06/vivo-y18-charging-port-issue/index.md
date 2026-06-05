@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/06/vivo-y18-charging-port-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-24.png
 ---
 
 ## Before

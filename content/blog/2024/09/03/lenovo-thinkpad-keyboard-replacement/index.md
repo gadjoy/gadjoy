@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/lenovo-thinkpad-keyboard-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-23.png
 ---
 
 ## Before

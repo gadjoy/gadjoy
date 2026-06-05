@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/03/06/code-rectangular-notch/
 description: Problem Statement -To find the flow of water in a Rectangular Notch Scope of work -Make a program to find head loss in the triangular notch Challenges -Nil Execution Strategy -Windows Terminal -VS Code -FPE – Fluid Power Engineering problem Value Added -If the user or diploma student wants to find out head loss of […]
+summary: Problem Statement -To find the flow of water in a Rectangular Notch Scope of work -Make a program to find head loss in the triangular notch Challenges -Nil Execution Strategy -Windows Terminal -VS Code -FPE – Fluid Power Engineering problem Value Added -If the user or diploma student wants to find out head loss of […]
+banner: /img/uploads/2022/03/Code-–-Rectangular-Notch.png
 ---
 
 ![](/img/uploads/2022/03/Code-–-Rectangular-Notch.png)

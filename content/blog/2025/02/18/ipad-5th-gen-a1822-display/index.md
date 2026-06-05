@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/ipad-5th-gen-a1822-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-16.png
 ---
 
 ## Before

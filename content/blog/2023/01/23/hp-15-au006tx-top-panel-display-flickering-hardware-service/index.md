@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/hp-15-au006tx-top-panel-display-flickering-hardware-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-243.png
 ---
 
 ## Before

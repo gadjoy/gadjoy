@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/15/realme-c2-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-34.png
 ---
 
 ## Before

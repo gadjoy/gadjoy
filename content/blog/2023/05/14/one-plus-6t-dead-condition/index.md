@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/14/one-plus-6t-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-32.png
 ---
 
 ## Before

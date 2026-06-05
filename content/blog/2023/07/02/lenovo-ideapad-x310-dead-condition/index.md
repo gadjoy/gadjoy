@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/02/lenovo-ideapad-x310-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-14.png
 ---
 
 ## Before

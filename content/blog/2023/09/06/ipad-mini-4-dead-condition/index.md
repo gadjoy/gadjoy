@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/ipad-mini-4-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-14.png
 ---
 
 ## Before

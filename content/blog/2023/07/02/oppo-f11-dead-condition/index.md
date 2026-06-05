@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/02/oppo-f11-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-12.png
 ---
 
 ## Before

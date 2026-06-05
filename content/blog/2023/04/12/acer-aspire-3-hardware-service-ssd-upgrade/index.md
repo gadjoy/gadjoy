@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/12/acer-aspire-3-hardware-service-ssd-upgrade/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-30.png
 ---
 
 ## Before

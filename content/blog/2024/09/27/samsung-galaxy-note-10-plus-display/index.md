@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/27/samsung-galaxy-note-10-plus-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-39.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/20/mi-note-4-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-33.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/13/lenovo-ideapad-320-fan-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-30-edited.png
 ---
 
 ## Before

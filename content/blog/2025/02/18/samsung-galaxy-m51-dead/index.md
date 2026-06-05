@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/samsung-galaxy-m51-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-8.png
 ---
 
 ## Before

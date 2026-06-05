@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/06/lenovo-thinkpad-l420-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-28.png
 ---
 
 ## Before

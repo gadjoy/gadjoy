@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/30/redmi-13c-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-23.png
 ---
 
 ## Before

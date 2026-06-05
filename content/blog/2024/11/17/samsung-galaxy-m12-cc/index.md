@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/samsung-galaxy-m12-cc/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-38.png
 ---
 
 ## Before

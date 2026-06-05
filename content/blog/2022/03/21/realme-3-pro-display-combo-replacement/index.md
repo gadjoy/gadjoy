@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/21/realme-3-pro-display-combo-replacement/
 description: Before After This phone was given to us with black lines on the display We had replaced the Display Combo and made it operating
+summary: Before After This phone was given to us with black lines on the display We had replaced the Display Combo and made it operating
+banner: /img/uploads/2022/03/Realme-3-Pro-–-Before-Display-Combo-Replacement.png
 ---
 
 #### **Before**

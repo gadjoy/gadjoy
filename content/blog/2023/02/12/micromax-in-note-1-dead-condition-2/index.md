@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/12/micromax-in-note-1-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-41.png
 ---
 
 ## Before

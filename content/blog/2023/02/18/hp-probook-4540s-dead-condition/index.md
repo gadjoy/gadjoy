@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/18/hp-probook-4540s-dead-condition/
 description: After Before
+summary: After Before
+banner: /img/uploads/2023/02/image-78.png
 ---
 
 ## After

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/04/22/iiot-raspberry-pi-projects/
 description: Problem Statement -Create a game using python Scope of work •How to wire a simple circuit that includes a breadboard, LED, resistor, wires, and buttons •How to write a program to control the circuit •How to use variables to store information •How to get user information like a player’s name and use it in the […]
+summary: Problem Statement -Create a game using python Scope of work •How to wire a simple circuit that includes a breadboard, LED, resistor, wires, and buttons •How to write a program to control the circuit •How to use variables to store information •How to get user information like a player’s name and use it in the […]
+banner: /img/uploads/2022/04/image-89.png
 ---
 
 ![](/img/uploads/2022/04/image-89.png)

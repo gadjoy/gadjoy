@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/18/samsung-galaxy-note-10-front-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-80.png
 ---
 
 ## Before

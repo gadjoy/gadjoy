@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/zebronics-desktop-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-14.png
 ---
 
 ## Before

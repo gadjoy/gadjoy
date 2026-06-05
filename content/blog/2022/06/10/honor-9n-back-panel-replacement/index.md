@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/06/10/honor-9n-back-panel-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/06/image-4.png
 ---
 
 ## Before

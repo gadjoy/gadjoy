@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/14/samsung-galaxy-a50-display-and-charging-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-27.png
 ---
 
 ## Before

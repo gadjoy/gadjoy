@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/poco-c50-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-34.png
 ---
 
 ## Before

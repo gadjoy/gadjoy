@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/28/lg-q6-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-before.png
 ---
 
 ## Before

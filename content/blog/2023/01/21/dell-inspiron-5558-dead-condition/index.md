@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/dell-inspiron-5558-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-182.png
 ---
 
 ## Before

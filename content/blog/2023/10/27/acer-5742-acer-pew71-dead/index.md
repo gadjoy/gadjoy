@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/27/acer-5742-acer-pew71-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-56.png
 ---
 
 ## Before

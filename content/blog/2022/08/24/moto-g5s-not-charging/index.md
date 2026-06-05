@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/moto-g5s-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-34.png
 ---
 
 ## Before

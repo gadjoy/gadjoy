@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/22/honor-9i-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-96.png
 ---
 
 ## Before

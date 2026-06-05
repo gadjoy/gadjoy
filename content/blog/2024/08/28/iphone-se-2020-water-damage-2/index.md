@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/iphone-se-2020-water-damage-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-11.png
 ---
 
 ## Before

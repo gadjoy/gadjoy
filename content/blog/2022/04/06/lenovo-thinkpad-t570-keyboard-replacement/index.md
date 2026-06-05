@@ -11,6 +11,7 @@ tags: []
 aliases:
 - /blog/2022/04/06/lenovo-thinkpad-t570-keyboard-replacement/
 description: Before After When the laptop was given to us keyboard was not working We had replaced Keyboard and made it operating
+summary: Before After When the laptop was given to us keyboard was not working We had replaced Keyboard and made it operating
 ---
 
 #### **Before**

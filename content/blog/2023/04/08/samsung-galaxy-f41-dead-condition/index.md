@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/08/samsung-galaxy-f41-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-16.png
 ---
 
 ## Before

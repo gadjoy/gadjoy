@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/31/acer-n16w1-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-66.png
 ---
 
 ## Before

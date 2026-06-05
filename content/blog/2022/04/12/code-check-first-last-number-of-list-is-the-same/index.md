@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/04/12/code-check-first-last-number-of-list-is-the-same/
 description: Problem Statement -Checking if the first and last number of a list is the same. Scope of work -Build a program to find the first & last number on the list is the same or not Challenges -Used the list index method and used the if, else statement to found the first & last number of […]
+summary: Problem Statement -Checking if the first and last number of a list is the same. Scope of work -Build a program to find the first & last number on the list is the same or not Challenges -Used the list index method and used the if, else statement to found the first & last number of […]
+banner: /img/uploads/2022/04/Code-–-Check-first-last-number-of-list-is-the-same.png
 ---
 
 ![](/img/uploads/2022/04/Code-–-Check-first-last-number-of-list-is-the-same.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/23/iphone-se-2-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-53.png
 ---
 
 ## Before

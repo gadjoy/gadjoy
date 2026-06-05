@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/samsung-galaxy-m32-display-combo-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-249.png
 ---
 
 ## Before

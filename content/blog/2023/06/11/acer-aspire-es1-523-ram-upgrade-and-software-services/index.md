@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/11/acer-aspire-es1-523-ram-upgrade-and-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-36.png
 ---
 
 ## Before

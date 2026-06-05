@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/12/oppo-11-pro-display-como-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-52.png
 ---
 
 #### Before

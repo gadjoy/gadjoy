@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/12/redmi-9-prime-loud-speaker-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-54.png
 ---
 
 #### Before

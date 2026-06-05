@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/17/oppo-realme-1-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-76.png
 ---
 
 ## Before

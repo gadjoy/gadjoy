@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/vivo-y53s-display-issue-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-34.png
 ---
 
 ## Before

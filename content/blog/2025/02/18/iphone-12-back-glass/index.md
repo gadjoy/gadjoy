@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/iphone-12-back-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-18.png
 ---
 
 ## Before

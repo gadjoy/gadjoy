@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/moto-g24-power-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-20.png
 ---
 
 ## Before

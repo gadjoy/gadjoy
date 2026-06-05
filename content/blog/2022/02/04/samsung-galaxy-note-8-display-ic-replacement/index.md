@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/04/samsung-galaxy-note-8-display-ic-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/Samsung-Galaxy-Note-8-Display-IC-Replacement-Before-1.png
 ---
 
 #### Before

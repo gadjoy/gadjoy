@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/16/oppo-reno-2f-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-69.png
 ---
 
 ## Before

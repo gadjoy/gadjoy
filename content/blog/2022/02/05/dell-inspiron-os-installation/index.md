@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/05/dell-inspiron-os-installation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/Dell-Inspiron-F2-Before-Auto-Restart-1024x577.jpg
 ---
 
 #### Before

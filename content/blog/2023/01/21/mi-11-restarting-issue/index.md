@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/mi-11-restarting-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-188.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/11/lenovo-ideapad-s145-dead-hinges/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-42.png
 ---
 
 ## Before

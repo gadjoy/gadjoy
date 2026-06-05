@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/30/5710/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-303.png
 ---
 
 ## Before

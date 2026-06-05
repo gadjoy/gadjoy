@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/24/samsung-a51-display-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-61.png
 ---
 
 ## Before

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/hp-rtl872be-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-82.png
 ---
 
 ## Before

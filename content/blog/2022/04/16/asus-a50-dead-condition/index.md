@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/16/asus-a50-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-60.png
 ---
 
 #### Before

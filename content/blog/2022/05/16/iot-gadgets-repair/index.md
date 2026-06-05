@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/05/16/iot-gadgets-repair/
 description: Problem Statement -One side not working Scope of work -Make it work or give a possible solution Challenges -Skin the wire Execution Strategy -Soldering Machine -Tool holder to hold the headset Value Added -Made it working
+summary: Problem Statement -One side not working Scope of work -Make it work or give a possible solution Challenges -Skin the wire Execution Strategy -Soldering Machine -Tool holder to hold the headset Value Added -Made it working
+banner: /img/uploads/2022/05/image-43.png
 ---
 
 ![](/img/uploads/2022/05/image-43.png)

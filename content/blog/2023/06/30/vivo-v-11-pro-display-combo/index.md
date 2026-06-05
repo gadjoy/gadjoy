@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/30/vivo-v-11-pro-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-74.png
 ---
 
 ## Before

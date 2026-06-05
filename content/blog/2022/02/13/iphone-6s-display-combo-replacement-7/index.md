@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/13/iphone-6s-display-combo-replacement-7/
 description: Before After When the phone was given to us, the top of the display was covered with black dots We replaced Display Combo got it working
+summary: Before After When the phone was given to us, the top of the display was covered with black dots We replaced Display Combo got it working
+banner: /img/uploads/2022/02/iPhone-6S-–-Before-Display-Combo-Replacement.png
 ---
 
 #### **Before**

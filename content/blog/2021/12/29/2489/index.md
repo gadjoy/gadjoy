@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/29/2489/
 description: Problem Statement -Mini tap wrench Sow -3D – Printed -PLA – Filament Challenges – Nil Execution Strategy – Nil Value Added -This is small and simple handle, we can use this tap handle to easily make a thread for plastic
+summary: Problem Statement -Mini tap wrench Sow -3D – Printed -PLA – Filament Challenges – Nil Execution Strategy – Nil Value Added -This is small and simple handle, we can use this tap handle to easily make a thread for plastic
+banner: /img/uploads/2021/12/Tap-Wrench.jpg
 ---
 
 ![](/img/uploads/2021/12/Tap-Wrench.jpg)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/05/moto-g5s-plus-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/Moto-G5s-plus-Befoer-Dead-Condition-577x1024.jpg
 ---
 
 #### Before

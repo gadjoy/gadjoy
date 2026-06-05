@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/10/one-plus-6t-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-15.png
 ---
 
 ## Before

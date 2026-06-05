@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/iphone-6s-display-glass-replacement-5/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-107.png
 ---
 
 ## Before

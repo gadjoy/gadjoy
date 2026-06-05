@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/17/samsung-galaxy-note-10-plus-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-36.png
 ---
 
 ## Before

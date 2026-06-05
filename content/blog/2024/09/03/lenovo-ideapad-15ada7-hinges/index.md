@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/lenovo-ideapad-15ada7-hinges/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image.png
 ---
 
 ## Before

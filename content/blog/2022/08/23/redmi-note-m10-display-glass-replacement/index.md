@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2022/08/23/redmi-note-m10-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Redmi-Note-M10-Display-Glass-Replacement.png
 ---
 
 ## Before

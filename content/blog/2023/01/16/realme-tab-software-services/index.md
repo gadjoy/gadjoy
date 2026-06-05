@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/realme-tab-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-120.png
 ---
 
 ## Before

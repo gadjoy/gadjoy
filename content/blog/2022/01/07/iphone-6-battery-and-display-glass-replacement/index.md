@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/07/iphone-6-battery-and-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/iPhone-6-Battery-and-Display-Glass-Replacement-Before.jpg
 ---
 
 #### Before

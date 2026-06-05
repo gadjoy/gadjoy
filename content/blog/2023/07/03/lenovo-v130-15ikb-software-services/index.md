@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/03/lenovo-v130-15ikb-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-18.png
 ---
 
 ## Before

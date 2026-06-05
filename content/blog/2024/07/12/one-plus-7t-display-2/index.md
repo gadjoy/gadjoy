@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/12/one-plus-7t-display-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-19.png
 ---
 
 ## Before

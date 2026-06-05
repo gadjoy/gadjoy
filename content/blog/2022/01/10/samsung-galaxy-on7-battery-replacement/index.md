@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/10/samsung-galaxy-on7-battery-replacement/
 description: Before After When phone was given to us, the battery was fully bulged. We replaced the Battery and checked for good charging and discharging Cycle’s
+summary: Before After When phone was given to us, the battery was fully bulged. We replaced the Battery and checked for good charging and discharging Cycle’s
+banner: /img/uploads/2022/01/Samsung-Galaxy-On7-before-Battery-Replacement-.jpg
 ---
 
 #### Before

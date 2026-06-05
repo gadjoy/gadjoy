@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/nokia-8-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-27.png
 ---
 
 ## Before

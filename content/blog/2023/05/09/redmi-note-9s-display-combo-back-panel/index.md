@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/09/redmi-note-9s-display-combo-back-panel/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-22.png
 ---
 
 ## Before

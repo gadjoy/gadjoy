@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/mini-project-light-socket/
 description: Problem Statement -Mini electrical project Sow -3D Printed -PLA Filament Challenges – Build a holder for electrical bulb Value Added -Built in 3D print -We can save money, which we will spend in buying the bulbs holders
+summary: Problem Statement -Mini electrical project Sow -3D Printed -PLA Filament Challenges – Build a holder for electrical bulb Value Added -Built in 3D print -We can save money, which we will spend in buying the bulbs holders
+banner: /img/uploads/2021/12/Light-socket.png
 ---
 
 ![](/img/uploads/2021/12/Light-socket.png)

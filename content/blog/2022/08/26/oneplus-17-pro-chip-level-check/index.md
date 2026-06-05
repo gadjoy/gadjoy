@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/oneplus-17-pro-chip-level-check/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-OnePlus-17-Pro-Chip-Level-Check.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/28/samsung-s21-ultra-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-283.png
 ---
 
 ## Before

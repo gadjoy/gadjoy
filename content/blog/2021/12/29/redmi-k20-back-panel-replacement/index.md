@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/29/redmi-k20-back-panel-replacement/
 description: Before After When phone was given to us, the back panel was fully cracked We had replaced the Back Panel and made it better
+summary: Before After When phone was given to us, the back panel was fully cracked We had replaced the Back Panel and made it better
+banner: /img/uploads/2021/12/Redmi-K20-Before-Back-Panel-Replacement.jpg
 ---
 
 #### Before

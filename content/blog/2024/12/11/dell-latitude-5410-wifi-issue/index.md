@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/11/dell-latitude-5410-wifi-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image-25.png
 ---
 
 ## Before

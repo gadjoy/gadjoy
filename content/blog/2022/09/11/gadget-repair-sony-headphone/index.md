@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/09/11/gadget-repair-sony-headphone/
 description: Problem Statement -Aux cable of the headphone is not working Scope of work – Replace the aux connector with the four soldering spots Challenges –  Soldering the wire to the correct spot Execution Strategy •Before soldering the wire to the aux connector, skin the wire and burn it and dip it in the soldering wax […]
+summary: Problem Statement -Aux cable of the headphone is not working Scope of work – Replace the aux connector with the four soldering spots Challenges –  Soldering the wire to the correct spot Execution Strategy •Before soldering the wire to the aux connector, skin the wire and burn it and dip it in the soldering wax […]
+banner: /img/uploads/2022/09/image-9.png
 ---
 
 **Problem Statement** -Aux cable of the headphone is not working

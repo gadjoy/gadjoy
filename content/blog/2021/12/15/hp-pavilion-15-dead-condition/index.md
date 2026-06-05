@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/15/hp-pavilion-15-dead-condition/
 description: Before After Chip – level service (Multi shot on mother board) has done on this device.
+summary: Before After Chip – level service (Multi shot on mother board) has done on this device.
+banner: /img/uploads/2021/12/Hp-Laptop-Pavilion-15-Before-Dead-Condition-2.png
 ---
 
 #### Before

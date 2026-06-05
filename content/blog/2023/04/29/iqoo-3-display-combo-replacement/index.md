@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/29/iqoo-3-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-73.png
 ---
 
 ## Before

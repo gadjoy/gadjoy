@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/14/macbook-pro-a1989-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-46.png
 ---
 
 ## Before

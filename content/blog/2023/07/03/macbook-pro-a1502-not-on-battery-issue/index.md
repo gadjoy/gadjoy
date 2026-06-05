@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/03/macbook-pro-a1502-not-on-battery-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-16.png
 ---
 
 ## Before

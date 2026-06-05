@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/11/realme-c11-display-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-38.png
 ---
 
 ## Before

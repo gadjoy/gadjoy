@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/24/hp-pavillion-15p077tx-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-60.png
 ---
 
 ## Before

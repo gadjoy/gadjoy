@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/11/realme-c1-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-29.png
 ---
 
 ## Before

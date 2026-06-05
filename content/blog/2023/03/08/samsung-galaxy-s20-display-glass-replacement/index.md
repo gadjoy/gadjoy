@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/08/samsung-galaxy-s20-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-10.png
 ---
 
 ## Before

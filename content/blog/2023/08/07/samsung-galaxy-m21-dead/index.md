@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/07/samsung-galaxy-m21-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-8.png
 ---
 
 ## Before

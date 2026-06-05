@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/24/hp-pavilion-14-ec1008au-slow-not-booting/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-57.png
 ---
 
 ## Before

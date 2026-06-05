@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/08/oppo-a11k-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-4.png
 ---
 
 ## Before

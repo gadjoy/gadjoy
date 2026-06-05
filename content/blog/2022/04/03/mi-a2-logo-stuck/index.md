@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/03/mi-a2-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-10.png
 ---
 
 #### Before

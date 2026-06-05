@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/hp-15-ay005tx-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-72.png
 ---
 
 ## Before

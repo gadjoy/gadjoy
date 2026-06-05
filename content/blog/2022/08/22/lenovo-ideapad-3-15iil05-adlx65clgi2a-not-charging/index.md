@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/22/lenovo-ideapad-3-15iil05-adlx65clgi2a-not-charging/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/Before-Lenovo-IdeaPad-3-15IIL05-ADLX65CLGI2A-–-Not-Charging.png
 ---
 
 ## Before

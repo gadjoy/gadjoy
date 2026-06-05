@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/08/28/vivo-y19-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/08/image-6.png
 ---
 
 ## Before

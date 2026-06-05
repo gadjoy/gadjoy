@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/17/sony-svt13-b11l-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-24.png
 ---
 
 ## Before

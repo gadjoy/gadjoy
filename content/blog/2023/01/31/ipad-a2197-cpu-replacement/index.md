@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/31/ipad-a2197-cpu-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-316.png
 ---
 
 ## Before

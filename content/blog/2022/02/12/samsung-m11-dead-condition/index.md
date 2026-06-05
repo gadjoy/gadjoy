@@ -13,6 +13,8 @@ tags: []
 aliases:
 - /blog/2022/02/12/samsung-m11-dead-condition/
 description: Before After When the phone was given to us, it was in dead condition We replaced Display Combo & Charging Connector and got it working
+summary: Before After When the phone was given to us, it was in dead condition We replaced Display Combo & Charging Connector and got it working
+banner: /img/uploads/2022/02/Samsung-M11-–-Before-Dead-Condition.png
 ---
 
 #### **Before**

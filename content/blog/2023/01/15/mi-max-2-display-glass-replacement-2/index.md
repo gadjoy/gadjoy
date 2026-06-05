@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/mi-max-2-display-glass-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-60.png
 ---
 
 ## Before

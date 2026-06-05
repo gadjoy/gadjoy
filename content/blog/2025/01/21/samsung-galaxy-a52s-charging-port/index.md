@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/01/21/samsung-galaxy-a52s-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/01/image-32.png
 ---
 
 ## Before

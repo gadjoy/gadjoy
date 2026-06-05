@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/lenovo-legion-y470-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-138.png
 ---
 
 ## Before

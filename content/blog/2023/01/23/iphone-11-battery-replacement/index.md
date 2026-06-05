@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/iphone-11-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-237.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/01/iphone-7-plus-dead-condition-3/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image.png
 ---
 
 ## Before

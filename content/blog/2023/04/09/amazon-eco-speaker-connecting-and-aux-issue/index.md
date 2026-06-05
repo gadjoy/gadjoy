@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/04/09/amazon-eco-speaker-connecting-and-aux-issue/
 description: Before After Testing
+summary: Before After Testing
+banner: /img/uploads/2023/04/image-24.png
 ---
 
 ## Before

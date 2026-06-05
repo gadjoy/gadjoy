@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/23/ipad-mini-display-glass-replacement/
 description: Before After When iPad was given to us touch was not working properly We replaced ONLY Touch Glass, and got it working for the customer
+summary: Before After When iPad was given to us touch was not working properly We replaced ONLY Touch Glass, and got it working for the customer
+banner: /img/uploads/2021/12/iPad-Mini-before-display-glass-replacement.png
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/03/one-plus-nord-2-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-20.png
 ---
 
 ## Before

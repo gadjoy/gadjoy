@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/03/mi-a2-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image.png
 ---
 
 ## Before

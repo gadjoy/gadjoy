@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/03/samsung-galaxy-j7-prime-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-4.png
 ---
 
 ## Before

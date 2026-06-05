@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/01/samsung-m51-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image.png
 ---
 
 #### Before

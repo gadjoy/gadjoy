@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2021/12/17/code-project-euler-the-largest-prime-factor/
 description: Problem Statement -Project Euler Sow -The_Largest_Prime_Factor Challenges – Solve the 3rd problem from the “Project Euler” Value Added -Solved the 3rd problem from Project Euler – “The Largest Prime Factor”
+summary: Problem Statement -Project Euler Sow -The_Largest_Prime_Factor Challenges – Solve the 3rd problem from the “Project Euler” Value Added -Solved the 3rd problem from Project Euler – “The Largest Prime Factor”
+banner: /img/uploads/2021/12/The-largest-prime-factor.png
 ---
 
 ![](/img/uploads/2021/12/The-largest-prime-factor.png)

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/oneplus-nord-ce-5g-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-4.png
 ---
 
 ## Before

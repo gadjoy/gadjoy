@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/03/hp-pavilion-notebook-pc-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-4.png
 ---
 
 #### Before

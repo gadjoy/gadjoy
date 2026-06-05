@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/oneplus-6-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-24.png
 ---
 
 ## Before

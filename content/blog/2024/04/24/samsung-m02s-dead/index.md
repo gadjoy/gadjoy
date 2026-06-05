@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/04/24/samsung-m02s-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/04/image-2.png
 ---
 
 ## Before

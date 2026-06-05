@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/samsung-a-50s-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Samsung-A-50s-Display-Glass-Replacement.png
 ---
 
 ## Before

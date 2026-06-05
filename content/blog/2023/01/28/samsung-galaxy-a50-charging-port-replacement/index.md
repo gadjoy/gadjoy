@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/28/samsung-galaxy-a50-charging-port-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-279.png
 ---
 
 ## Before

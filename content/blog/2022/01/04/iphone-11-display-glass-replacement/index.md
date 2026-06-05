@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/iphone-11-display-glass-replacement/
 description: Before Before
+summary: Before Before
+banner: /img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-Before.jpg
 ---
 
 #### Before

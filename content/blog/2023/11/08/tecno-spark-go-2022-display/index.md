@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/08/tecno-spark-go-2022-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-10.png
 ---
 
 ## Before

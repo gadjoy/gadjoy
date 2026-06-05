@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/21/dell-inspiron-15r-5521-display-issue-and-backup-software/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-48.png
 ---
 
 ## Before

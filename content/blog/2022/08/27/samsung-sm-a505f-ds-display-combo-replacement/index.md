@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/samsung-sm-a505f-ds-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-41.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/29/redmi-8a-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/05/image-75.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/09/realme-5i-software-service/
 description: Before After The phone was given to us, to reset the device forgotten password. We did Software Unlock and got it working
+summary: Before After The phone was given to us, to reset the device forgotten password. We did Software Unlock and got it working
+banner: /img/uploads/2022/04/Realme-5i-–-before-Software-Service.png
 ---
 
 #### **Before**

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/05/28/redmi-y2-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/05/image-63.png
 ---
 
 ## Before

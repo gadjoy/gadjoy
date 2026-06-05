@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/05/08/ipad-mini-1-touch-glass-replacement/
 description: Before After When the iPad was given to us bottom of the display was fully cracked We had replaced Only the Touch Glass with glass finishing
+summary: Before After When the iPad was given to us bottom of the display was fully cracked We had replaced Only the Touch Glass with glass finishing
+banner: /img/uploads/2022/05/iPad-Mini-1-–-before-Touch-Glass-Replacement.png
 ---
 
 #### **Before**

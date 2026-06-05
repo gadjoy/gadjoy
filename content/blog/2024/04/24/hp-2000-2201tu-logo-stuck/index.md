@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/04/24/hp-2000-2201tu-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/04/image-4.png
 ---
 
 ## Before

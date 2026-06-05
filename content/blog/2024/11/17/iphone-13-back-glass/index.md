@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/iphone-13-back-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-40.png
 ---
 
 ## Before

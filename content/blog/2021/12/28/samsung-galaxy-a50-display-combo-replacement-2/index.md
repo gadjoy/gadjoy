@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/28/samsung-galaxy-a50-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2021/12/Samsung-Galaxy-A50-Before-Display-Combo-Replacement.jpg
 ---
 
 #### Before

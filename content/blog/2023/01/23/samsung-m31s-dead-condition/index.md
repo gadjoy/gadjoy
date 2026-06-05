@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/23/samsung-m31s-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-251.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/samsung-t231-tab-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-8.png
 ---
 
 ## Before

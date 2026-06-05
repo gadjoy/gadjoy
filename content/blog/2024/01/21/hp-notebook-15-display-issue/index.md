@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/21/hp-notebook-15-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-42.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/asus-zenfone-pro-max-loud-speaker-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Asus-Zenfone-Pro-Max-Loud-Speaker-Replacement-Before.jpg
 ---
 
 #### Before

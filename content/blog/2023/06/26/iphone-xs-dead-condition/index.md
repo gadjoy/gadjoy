@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/iphone-xs-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-54.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/redmi-note-8-pro-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-218.png
 ---
 
 ## Before

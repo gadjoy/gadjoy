@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/honor-8-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-146.png
 ---
 
 ## Before

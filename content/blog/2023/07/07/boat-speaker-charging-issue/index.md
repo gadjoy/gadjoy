@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2023/07/07/boat-speaker-charging-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-26.png
 ---
 
 ## Before

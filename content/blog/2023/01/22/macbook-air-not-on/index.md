@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/22/macbook-air-not-on/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-196.png
 ---
 
 ## Before

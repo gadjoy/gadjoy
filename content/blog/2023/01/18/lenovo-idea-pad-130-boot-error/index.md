@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/18/lenovo-idea-pad-130-boot-error/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-168.png
 ---
 
 ## Before

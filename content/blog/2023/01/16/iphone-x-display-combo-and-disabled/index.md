@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/01/16/iphone-x-display-combo-and-disabled/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-112.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/03/redmi-note-5-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/iPhone-6s-Battery-Replacement-Before-1.jpg
 ---
 
 #### Before

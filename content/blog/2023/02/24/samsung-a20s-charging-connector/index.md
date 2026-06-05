@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/24/samsung-a20s-charging-connector/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-104.png
 ---
 
 ## Before

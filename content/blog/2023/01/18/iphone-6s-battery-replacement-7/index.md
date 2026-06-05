@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/18/iphone-6s-battery-replacement-7/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-166.png
 ---
 
 ## Before

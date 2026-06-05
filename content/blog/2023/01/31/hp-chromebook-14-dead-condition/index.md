@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/31/hp-chromebook-14-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-311.png
 ---
 
 ## Before

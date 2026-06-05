@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/27/hp-14s-cf1056tu-battery-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-35.png
 ---
 
 ## Before

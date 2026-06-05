@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/poco-x2-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-5.png
 ---
 
 ## Before

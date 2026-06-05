@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/30/iphone-6-chip-level-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-69.png
 ---
 
 #### Before

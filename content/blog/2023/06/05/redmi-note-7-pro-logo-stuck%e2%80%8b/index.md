@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/05/redmi-note-7-pro-logo-stuck%e2%80%8b/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-18.png
 ---
 
 ## Before

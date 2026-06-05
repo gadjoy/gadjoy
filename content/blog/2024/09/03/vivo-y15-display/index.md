@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/vivo-y15-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-21.png
 ---
 
 ## Before

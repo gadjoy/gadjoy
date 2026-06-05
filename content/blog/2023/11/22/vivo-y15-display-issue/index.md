@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/22/vivo-y15-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-42.png
 ---
 
 ## Before

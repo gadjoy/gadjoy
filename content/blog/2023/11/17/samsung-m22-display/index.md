@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/17/samsung-m22-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-28.png
 ---
 
 ## Before

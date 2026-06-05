@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/25/motorola-one-power-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-112.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/redmi-8-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-11.png
 ---
 
 ## Before

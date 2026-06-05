@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/06/26/iphone-7-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/06/image-24.png
 ---
 
 #### Before

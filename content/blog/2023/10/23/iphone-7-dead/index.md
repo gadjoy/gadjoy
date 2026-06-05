@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/10/23/iphone-7-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/10/image-50.png
 ---
 
 ## Before

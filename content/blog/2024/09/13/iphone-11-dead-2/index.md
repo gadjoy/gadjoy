@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/13/iphone-11-dead-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-27.png
 ---
 
 ## Before

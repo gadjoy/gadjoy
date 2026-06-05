@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/29/iball-laptop-hinges-repair/
 description: Before After This laptop was given to us with broken hinges We did brazing on Hinges and made it better
+summary: Before After This laptop was given to us with broken hinges We did brazing on Hinges and made it better
+banner: /img/uploads/2021/12/iball-Laptop-Before-Hinges-Repair.jpg
 ---
 
 #### Before

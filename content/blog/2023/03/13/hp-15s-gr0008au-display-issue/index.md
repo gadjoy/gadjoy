@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/03/13/hp-15s-gr0008au-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-23.png
 ---
 
 ## Before

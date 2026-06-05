@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/12/10/sony-e-series-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/12/image.png
 ---
 
 ## Before

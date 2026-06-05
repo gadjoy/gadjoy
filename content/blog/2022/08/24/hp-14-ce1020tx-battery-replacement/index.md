@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/hp-14-ce1020tx-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-18.png
 ---
 
 ## Before

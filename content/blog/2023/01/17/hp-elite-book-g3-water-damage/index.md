@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/hp-elite-book-g3-water-damage/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-130.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/04/2839/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Mi-Note-5-Display-Combo-Replacement-Before-1.jpg
 ---
 
 #### Before

@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2022/03/26/iphone-xs-display-glass-replacement-software-service/
 description: Before When the phone was given to us, the top of the display was cracked & it was disabled After We replaced Only Display Glass & did Software Service and made it functioning
+summary: Before When the phone was given to us, the top of the display was cracked & it was disabled After We replaced Only Display Glass & did Software Service and made it functioning
+banner: /img/uploads/2022/03/iPhone-XS-–-before-Display-Glass-Replacement-Software-Service.png
 ---
 
 #### **Before**

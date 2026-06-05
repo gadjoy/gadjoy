@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/one-plus-5t-cc-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-68.png
 ---
 
 ## Before

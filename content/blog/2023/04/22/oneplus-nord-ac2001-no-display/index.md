@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/22/oneplus-nord-ac2001-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-43.png
 ---
 
 ## Before

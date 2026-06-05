@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/01/oppo-a54-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image.png
 ---
 
 ## Before

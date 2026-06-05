@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/14/honor-c7-display-glass-back-panel-cc/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-34.png
 ---
 
 ## Before

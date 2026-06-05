@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/05/iphone-8-dead-and-home-button/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-20.png
 ---
 
 ## Before

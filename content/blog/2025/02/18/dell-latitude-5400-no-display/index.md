@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/dell-latitude-5400-no-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-6.png
 ---
 
 ## Before

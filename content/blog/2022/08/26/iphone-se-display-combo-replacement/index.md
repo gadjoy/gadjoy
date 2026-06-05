@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/iphone-se-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-iPhone-SE-Display-Combo-Replacement.png
 ---
 
 ## Before

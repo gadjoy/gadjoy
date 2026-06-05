@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/23/tecno-spark-go-3-bf7-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-29.png
 ---
 
 ## Before

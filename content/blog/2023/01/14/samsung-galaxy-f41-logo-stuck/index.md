@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/14/samsung-galaxy-f41-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-42.png
 ---
 
 ## Before

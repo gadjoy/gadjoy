@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/03/google-pixel-3a-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-6.png
 ---
 
 #### Before

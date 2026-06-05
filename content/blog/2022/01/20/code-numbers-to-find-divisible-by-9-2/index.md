@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/01/20/code-numbers-to-find-divisible-by-9-2/
 description: Problem Statement -To find if number is divisible by 9 Scope of work -Build a program to find a number which is divisible by 9 Challenges –    Finding the sum of digits of given number. Execution Strategy -Converting string to integer and adding them individually. -Write pseudocode -Write the code in python -Tested with edge […]
+summary: Problem Statement -To find if number is divisible by 9 Scope of work -Build a program to find a number which is divisible by 9 Challenges –    Finding the sum of digits of given number. Execution Strategy -Converting string to integer and adding them individually. -Write pseudocode -Write the code in python -Tested with edge […]
+banner: /img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-9-1.png
 ---
 
 ![](/img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-9-1.png)

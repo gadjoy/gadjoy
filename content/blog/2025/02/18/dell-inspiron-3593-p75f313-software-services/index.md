@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/dell-inspiron-3593-p75f313-software-services/
+banner: /img/uploads/2025/02/image-29-1024x434.png
 ---
 
 ![](/img/uploads/2025/02/image-29-1024x434.png)

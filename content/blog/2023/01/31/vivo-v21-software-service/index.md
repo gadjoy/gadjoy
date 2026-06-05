@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/31/vivo-v21-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-314.png
 ---
 
 ## Before

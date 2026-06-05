@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/11/08/oppo-a5-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/11/image-6.png
 ---
 
 ## Before

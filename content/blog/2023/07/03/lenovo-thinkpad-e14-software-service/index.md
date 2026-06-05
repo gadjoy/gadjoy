@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/03/lenovo-thinkpad-e14-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-22.png
 ---
 
 ## Before

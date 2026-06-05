@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/02/03/samsung-galaxy-tab-a7-lite-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/02/image-10.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/06/26/samsung-a30-over-heating/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/06/image-62.png
 ---
 
 ## Before

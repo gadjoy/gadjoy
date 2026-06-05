@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/08/27/redmi-note-8-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Redmi-Note-8.png
 ---
 
 ## Before

@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2022/04/17/redmi-5pro-display-combo-replacement/
+banner: /img/uploads/2022/04/image-66.png
 ---
 
 ####

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/01/07/tv-remote-adapter/
 description: Problem Statement -Remote Adapter Scope of work –    Build an adapter for TV remote. Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -This type of remote adapter can also be used for different remotes to keep safe.
+summary: Problem Statement -Remote Adapter Scope of work –    Build an adapter for TV remote. Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -This type of remote adapter can also be used for different remotes to keep safe.
+banner: /img/uploads/2022/01/TV-Remote-Adapter.jpg
 ---
 
 ![](/img/uploads/2022/01/TV-Remote-Adapter.jpg)

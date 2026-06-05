@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/realme-c15-narzo-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-58.png
 ---
 
 ## Before

@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/07/04/one-plus-5-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/07/image-8.png
 ---
 
 ## Before

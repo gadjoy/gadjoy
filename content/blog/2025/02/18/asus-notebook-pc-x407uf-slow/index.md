@@ -10,6 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/asus-notebook-pc-x407uf-slow/
+banner: /img/uploads/2025/02/image-27-1024x444.png
 ---
 
 ![](/img/uploads/2025/02/image-27-1024x444.png)

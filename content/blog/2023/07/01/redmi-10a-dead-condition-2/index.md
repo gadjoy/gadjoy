@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/01/redmi-10a-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-2.png
 ---
 
 ## Before

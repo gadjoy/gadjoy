@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/24/ipad-pro-a1673-2016-model-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/image-2.png
 ---
 
 ## Before

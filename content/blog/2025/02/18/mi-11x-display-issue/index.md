@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2025/02/18/mi-11x-display-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2025/02/image-4.png
 ---
 
 ## Before

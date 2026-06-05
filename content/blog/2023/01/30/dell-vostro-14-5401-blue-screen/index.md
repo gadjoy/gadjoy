@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/30/dell-vostro-14-5401-blue-screen/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-299.png
 ---
 
 ## Before

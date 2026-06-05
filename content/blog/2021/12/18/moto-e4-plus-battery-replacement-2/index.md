@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2021/12/18/moto-e4-plus-battery-replacement-2/
 description: Before After When phone was given to us battery was fully bulged We replaced battery and got it in fully working condition
+summary: Before After When phone was given to us battery was fully bulged We replaced battery and got it in fully working condition
+banner: /img/uploads/2021/12/Moto-E4-–-Plus-Battery-Replacement-Before-1.jpg
 ---
 
 #### Before

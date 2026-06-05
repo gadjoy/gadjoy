@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/dell-inspiron-15-fan-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-25.png
 ---
 
 ## Before

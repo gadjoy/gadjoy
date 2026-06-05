@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/dell-inspiron-15-dead/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-50.png
 ---
 
 ## Before

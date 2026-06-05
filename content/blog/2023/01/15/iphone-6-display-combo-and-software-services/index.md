@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/iphone-6-display-combo-and-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-88.png
 ---
 
 ## Before

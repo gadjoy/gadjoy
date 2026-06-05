@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/13/lenovo-think-pad-t440-display-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-24.png
 ---
 
 ## Before

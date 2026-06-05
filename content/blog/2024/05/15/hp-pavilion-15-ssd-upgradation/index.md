@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/05/15/hp-pavilion-15-ssd-upgradation/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/05/image-43.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/iphone-x-software-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-36.png
 ---
 
 ## Before

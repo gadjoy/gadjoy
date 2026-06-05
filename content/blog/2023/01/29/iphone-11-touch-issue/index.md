@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/29/iphone-11-touch-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-293.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/10/30/redmi-9-power-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/10/image-25.png
 ---
 
 ## Before

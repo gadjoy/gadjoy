@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/redmi-9-power-network/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-22.png
 ---
 
 ## Before

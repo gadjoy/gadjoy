@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/hp-pavilion-15-dead-condition-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-60.png
 ---
 
 ## Before

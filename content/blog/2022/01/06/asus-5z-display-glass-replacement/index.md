@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/06/asus-5z-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Asus-5z-Display-Glass-Replacement-Before.jpg
 ---
 
 #### Before

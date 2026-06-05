@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/iphone-12-mini-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-180.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/06/05/samsung-galaxy-s20-fe-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/06/image-15.png
 ---
 
 ## Before

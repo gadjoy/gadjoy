@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/28/honor-7x-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-68.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/17/redmi-note-10s-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-20.png
 ---
 
 ## Before

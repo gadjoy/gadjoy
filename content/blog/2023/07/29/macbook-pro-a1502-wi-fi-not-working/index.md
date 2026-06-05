@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/29/macbook-pro-a1502-wi-fi-not-working/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-63.png
 ---
 
 ## Before

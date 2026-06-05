@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/03/26/dell-inspiron-1558-n5110-hinges-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/03/image-54.png
 ---
 
 ## Before

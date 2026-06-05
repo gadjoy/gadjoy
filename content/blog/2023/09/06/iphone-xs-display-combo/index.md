@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/iphone-xs-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-26.png
 ---
 
 ## Before

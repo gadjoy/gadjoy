@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/08/22/asus-zen-5x-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-ASUS-zen-5x-Dead-Condition.png
 ---
 
 ## Before

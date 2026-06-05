@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/01/12/mi-5a-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/01/Mi-5A-before-Display-Combo-Replacement.jpg
 ---
 
 #### Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/17/iphone-x-display-combo-replacement-2/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-136.png
 ---
 
 ## Before

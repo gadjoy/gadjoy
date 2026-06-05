@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/15/vivo-v21-display-glass-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-62.png
 ---
 
 ## Before

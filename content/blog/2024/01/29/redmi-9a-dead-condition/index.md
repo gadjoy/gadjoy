@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/01/29/redmi-9a-dead-condition/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/01/image-54.png
 ---
 
 ## Before

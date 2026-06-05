@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/04/22/acer-aspire-3-ssd-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/04/image-45.png
 ---
 
 ## Before

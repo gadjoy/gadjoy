@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/22/vivo-y71-t-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-50.png
 ---
 
 ## Before

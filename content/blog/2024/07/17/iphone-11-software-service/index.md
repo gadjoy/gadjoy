@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/07/17/iphone-11-software-service/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/07/image-38.png
 ---
 
 ## Before

@@ -1,0 +1,28 @@
+/* Gadjoy custom styles (loaded by the theme via headers.html). */
+
+/* Uniform thumbnail grid for the homepage "Recent Repairs" and blog list cards.
+   Repair photos vary wildly in aspect ratio; a fixed thumbnail box with
+   object-fit: cover keeps a clean, even grid. */
+.box-image-text.blog .top .image,
+#blog-listing-medium .post .image,
+#blog-listing-big .post .image {
+  height: 200px;
+  overflow: hidden;
+}
+.box-image-text.blog .top .image img,
+#blog-listing-medium .post .image img,
+#blog-listing-big .post .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Clamp the (plain-text) card summary so cards stay even height. */
+.box-image-text.blog .content .intro,
+#blog-listing-medium .post .intro,
+#blog-listing-big .post .intro {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

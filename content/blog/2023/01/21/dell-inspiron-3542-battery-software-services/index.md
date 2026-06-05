@@ -12,6 +12,8 @@ tags: []
 aliases:
 - /blog/2023/01/21/dell-inspiron-3542-battery-software-services/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-190.png
 ---
 
 ## Before

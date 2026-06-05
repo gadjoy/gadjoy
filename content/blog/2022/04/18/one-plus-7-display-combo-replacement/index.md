@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/04/18/one-plus-7-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/04/image-74.png
 ---
 
 #### Before

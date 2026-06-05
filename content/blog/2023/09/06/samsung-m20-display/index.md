@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/09/06/samsung-m20-display/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/09/image-20.png
 ---
 
 ## Before

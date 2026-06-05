@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/03/macbook-air-a1466-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-15.png
 ---
 
 ## Before

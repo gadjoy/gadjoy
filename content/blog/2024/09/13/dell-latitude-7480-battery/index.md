@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/09/13/dell-latitude-7480-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/09/image-25.png
 ---
 
 ## Before

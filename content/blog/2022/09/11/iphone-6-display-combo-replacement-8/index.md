@@ -10,6 +10,8 @@ tags: []
 aliases:
 - /blog/2022/09/11/iphone-6-display-combo-replacement-8/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/09/image-15.png
 ---
 
 ## Before

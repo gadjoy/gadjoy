@@ -9,6 +9,7 @@ categories:
 tags: []
 aliases:
 - /blog/2022/01/07/addition-and-subtraction-of-any-two-numbers-2/
+banner: /img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.png
 ---
 
 ![](/img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.png)

@@ -9,6 +9,8 @@ tags: []
 aliases:
 - /blog/2022/08/26/vivo-y12-display-flickering/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/08/before-Vivo-Y12-Display-Flickering.png
 ---
 
 ## Before

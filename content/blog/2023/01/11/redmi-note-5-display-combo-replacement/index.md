@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/11/redmi-note-5-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-8.png
 ---
 
 ## Before

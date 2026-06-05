@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/asus-zenfone-max-pro-m2-battery/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image.png
 ---
 
 ## Before

@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/11/08/realme-12c-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/11/image-8.png
 ---
 
 ## Before

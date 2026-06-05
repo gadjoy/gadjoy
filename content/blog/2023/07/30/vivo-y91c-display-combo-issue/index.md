@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/30/vivo-y91c-display-combo-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-67.png
 ---
 
 ## Before

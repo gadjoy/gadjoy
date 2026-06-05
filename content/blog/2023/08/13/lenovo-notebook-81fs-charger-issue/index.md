@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/08/13/lenovo-notebook-81fs-charger-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/08/image-38.png
 ---
 
 ## Before

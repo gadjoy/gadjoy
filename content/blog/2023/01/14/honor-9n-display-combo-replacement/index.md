@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/14/honor-9n-display-combo-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-34.png
 ---
 
 ## Before

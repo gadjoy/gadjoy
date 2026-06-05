@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/01/30/dell-lattitude-3400-charging-port/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/01/image-297.png
 ---
 
 ## Before

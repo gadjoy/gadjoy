@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/03/01/tecno-pop-5-display-combo/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/03/image-4.png
 ---
 
 ## Before

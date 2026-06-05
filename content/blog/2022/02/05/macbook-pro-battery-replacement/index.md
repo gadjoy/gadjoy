@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/02/05/macbook-pro-battery-replacement/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/02/3106-MacBook-Air-Before-Battery-Replacement-1024x577.jpg
 ---
 
 #### Before

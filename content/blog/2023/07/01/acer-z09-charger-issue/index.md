@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2023/07/01/acer-z09-charger-issue/
 description: Before After
+summary: Before After
+banner: /img/uploads/2023/07/image-4.png
 ---
 
 ## Before

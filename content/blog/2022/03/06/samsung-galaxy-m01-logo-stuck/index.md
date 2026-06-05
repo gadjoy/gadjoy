@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2022/03/06/samsung-galaxy-m01-logo-stuck/
 description: Before After
+summary: Before After
+banner: /img/uploads/2022/03/image-6.png
 ---
 
 #### Before

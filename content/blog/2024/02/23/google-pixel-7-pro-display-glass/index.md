@@ -11,6 +11,8 @@ tags: []
 aliases:
 - /blog/2024/02/23/google-pixel-7-pro-display-glass/
 description: Before After
+summary: Before After
+banner: /img/uploads/2024/02/image-39.png
 ---
 
 ## Before
