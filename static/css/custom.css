@@ -29,24 +29,53 @@
 
 /* ---------- Base ---------- */
 html, body { background: var(--bg); color: var(--fg); }
-body { -webkit-font-smoothing: antialiased; }
+/* Lift the theme's small 14px base to a comfortable, consistent 16px. */
+body { font-size: 16px; line-height: 1.7; -webkit-font-smoothing: antialiased; }
 a { color: #000; }
 a:hover, a:focus { color: #555; }
 
-/* ---------- Typography ---------- */
+/* ===================================================================
+   Typography system — one consistent scale across the whole site.
+   Body = Inter; headings = Sora. Sizes in rem off the 16px base.
+   =================================================================== */
 body,
-p, li, a, span, div, input, textarea, button, select, label, blockquote, .lead {
+p, li, a, span, div, input, textarea, button, select, label, blockquote, .lead,
+td, th, dd, dt, figcaption {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 h1, h2, h3, h4, h5, h6,
-.navbar-brand, .box-image-text h4, .panel-title {
+.navbar-brand, .box-image-text h4, .panel-title, .heading h2, .num, .pnum {
   font-family: 'Sora', 'Inter', sans-serif !important;
   color: var(--fg-strong);
   letter-spacing: -0.02em;
+  line-height: 1.2;
 }
-h1 { font-weight: 800; }
-h2, h3 { font-weight: 700; }
-.lead { color: var(--fg-muted); font-weight: 400; }
+/* Consistent heading scale (overrides theme's px sizes everywhere) */
+h1, .h1 { font-size: 2.4rem; font-weight: 800; margin: 0 0 .5em; }
+h2, .h2 { font-size: 1.85rem; font-weight: 700; margin: 0 0 .55em; }
+h3, .h3 { font-size: 1.45rem; font-weight: 700; margin: 1.2em 0 .5em; }
+h4, .h4 { font-size: 1.2rem;  font-weight: 600; margin: 1em 0 .4em; }
+h5, .h5 { font-size: 1.05rem; font-weight: 600; }
+h6, .h6 { font-size: .95rem;  font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+p { margin: 0 0 1.1em; }
+.lead { color: var(--fg-muted); font-weight: 400; font-size: 1.18rem; line-height: 1.6; }
+
+/* Long-form content (blog posts, service & contact pages) — readable rhythm */
+#post-content { font-size: 1.06rem; line-height: 1.8; }
+#post-content p, #post-content li { font-size: 1.06rem; }
+#post-content h2 { margin-top: 1.4em; }
+#post-content h3, #post-content h4 { margin-top: 1.3em; }
+#post-content ul, #post-content ol { margin: 0 0 1.1em 1.2em; }
+#post-content li { margin-bottom: .4em; }
+
+/* Sidebar, footer, nav, buttons — bumped off 13–14px for consistency */
+.panel-body, .panel-body a, .nav-pills > li > a, .panel.sidebar-menu .panel-body { font-size: .95rem; }
+.panel-title { font-size: 1.05rem; }
+#footer, #footer p, #footer li, #footer a { font-size: .95rem; line-height: 1.7; }
+#copyright, #copyright p, #copyright a { font-size: .9rem; }
+.navbar-default .navbar-nav > li > a { font-size: 1rem; }
+.btn { font-size: .98rem; }
+#blog-listing-medium .post .intro, .box-image-text .intro { font-size: .98rem; line-height: 1.6; }
 
 /* ---------- Buttons (black bg, white text / black outline) ---------- */
 .btn { border-radius: 999px; font-weight: 600; letter-spacing: .01em; padding: 11px 26px;
@@ -98,7 +127,7 @@ h2, h3 { font-weight: 700; }
   content: ""; position: absolute; left: 50%; bottom: 0; transform: translateX(-50%);
   width: 56px; height: 4px; border-radius: 2px; background: #000;
 }
-.bar .lead { font-size: 1.12rem; max-width: 720px; margin: 0 auto; }
+.bar .lead { font-size: 1.18rem; max-width: 720px; margin: 0 auto 8px; text-align: center; }
 
 /* ---------- Black accent bands (stats / CTA) ---------- */
 .bar.gadjoy-dark { background: var(--ink-band); }
@@ -218,6 +247,30 @@ h2, h3 { font-weight: 700; }
 .gadjoy-scroll-item.review { flex: 0 0 340px; }
 .gadjoy-scroll-item.review .gadjoy-review { height: 100%; margin-bottom: 0; }
 @media (max-width: 767px) { .gadjoy-scroll-item.review { flex-basis: 84%; } }
+
+/* Gallery page — responsive grid of real repair photos */
+.gadjoy-gallery-intro { max-width: 760px; margin: 36px auto 8px; }
+.gadjoy-gallery-intro h2 { margin-top: 0; }
+.gadjoy-gallery {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 16px; margin: 28px 0 8px;
+}
+.gadjoy-gallery-item {
+  position: relative; display: block; aspect-ratio: 1 / 1; overflow: hidden;
+  border-radius: 14px; border: 1px solid var(--line); background: var(--bg-2);
+}
+.gadjoy-gallery-item img { width: 100%; height: 100%; object-fit: cover; display: block;
+  transition: transform .4s ease; }
+.gadjoy-gallery-item:hover img { transform: scale(1.07); }
+.gadjoy-gallery-item .cap {
+  position: absolute; left: 0; right: 0; bottom: 0; padding: 26px 12px 10px;
+  color: #fff; font-size: .82rem; font-weight: 600; line-height: 1.25;
+  background: linear-gradient(transparent, rgba(0,0,0,.78));
+  opacity: 0; transform: translateY(8px); transition: opacity .2s ease, transform .2s ease;
+}
+.gadjoy-gallery-item:hover .cap { opacity: 1; transform: none; }
+.gadjoy-gallery-more { margin-top: 30px; }
+@media (max-width: 575px) { .gadjoy-gallery { grid-template-columns: repeat(2, 1fr); } }
 
 /* Uniform thumbnail grid for homepage "Recent Repairs" + blog list cards */
 .box-image-text.blog .top .image,

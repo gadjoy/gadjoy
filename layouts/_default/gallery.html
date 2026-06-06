@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+    <div id="all">
+        {{ partial "top.html" . }}
+        {{ partial "nav.html" . }}
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div id="post-content" class="text-center gadjoy-gallery-intro">
+                    {{ .Content }}
+                </div>
+
+                {{ $shots := where site.RegularPages "Section" "blog" }}
+                {{ $shots = where $shots ".Params.banner" "!=" nil }}
+                {{ $shots = first 48 (sort $shots "Date" "desc") }}
+                <div class="gadjoy-gallery">
+                    {{ range $shots }}
+                    <a class="gadjoy-gallery-item" href="{{ .Permalink }}" title="{{ .Title }}">
+                        <img src="{{ .Params.banner | relURL }}" alt="{{ .Title }}" loading="lazy">
+                        <span class="cap">{{ .Title }}</span>
+                    </a>
+                    {{ end }}
+                </div>
+
+                <p class="text-center gadjoy-gallery-more">
+                    <a href="/blog/" class="btn btn-template-main">Browse all repairs &rarr;</a>
+                </p>
+
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>
