@@ -20,7 +20,7 @@ Bangalore, India
 ### 📞 Reach us
 
 - **Call / WhatsApp:** [+91 91106 24049](tel:+919110624049)
-- **Email:** [info@gadjoyrepair.com](mailto:info@gadjoyrepair.com)
+- **Email:** [vivek@gadjoy.in](mailto:vivek@gadjoy.in) or [kalai@gadjoy.in](mailto:kalai@gadjoy.in)
 - **Hours:** Mon–Sun, 10am–8pm · *(Thursday: weekly off)*
 
 ### What to expect

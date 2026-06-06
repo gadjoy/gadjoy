@@ -74,7 +74,7 @@ params:
   contact_form_ajax: false
   
   # Contact details
-  email: "info@gadjoyrepair.com"
+  email: "vivek@gadjoy.in"
   phone: "+91 9110624049"
 
   # Google reviews (live via Places API; key comes from GOOGLE_PLACES_API_KEY env, never committed)
@@ -102,7 +102,7 @@ params:
       <p class="hidden-sm hidden-xs">⚡ Free diagnosis · 90-day warranty · 📞 +91 9110624049</p>
       <p class="hidden-md hidden-lg"><a href="tel:+919110624049" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="https://wa.me/919110624049" data-animate-hover="pulse"><i class="fab fa-whatsapp"></i></a>
-      <a href="mailto:info@gadjoyrepair.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:vivek@gadjoy.in" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
 
   # Enable and disable widgets for the right sidebar
@@ -217,5 +217,5 @@ menu:
 
     - weight: 2
       name: "Email"
-      url: "mailto:info@gadjoyrepair.com"
+      url: "mailto:vivek@gadjoy.in"
       pre: "<i class='fas fa-2x fa-envelope'></i>"
