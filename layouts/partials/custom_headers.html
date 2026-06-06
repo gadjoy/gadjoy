@@ -47,6 +47,24 @@
     } else {
       nums.forEach(run);
     }
+
+    /* Scroll-reveal for .gj-reveal elements (staggered per group) */
+    var reveals = [].slice.call(document.querySelectorAll('.gj-reveal'));
+    if (!('IntersectionObserver' in window) || reduce) {
+      reveals.forEach(function (el) { el.classList.add('no-observer'); });
+    } else {
+      var ro = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) {
+            var el = e.target;
+            var sibs = [].slice.call(el.parentNode.children).filter(function (n) { return n.classList.contains('gj-reveal'); });
+            el.style.transitionDelay = (sibs.indexOf(el) * 0.09) + 's';
+            el.classList.add('in'); ro.unobserve(el);
+          }
+        });
+      }, { threshold: 0.2 });
+      reveals.forEach(function (el) { ro.observe(el); });
+    }
   });
 })();
 </script>

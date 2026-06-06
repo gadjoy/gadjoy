@@ -1,37 +1,45 @@
 ---
 title: "We Repair"
 description: "Phone, laptop, tablet and desktop repair in Bangalore — chip-level fixes, genuine parts, 90-day warranty. Free diagnosis."
+hero:
+  eyebrow: "Device Repair · Bangalore"
+  headline: "If it switches on (or used to), we can probably fix it."
+  sub: "Cracked screen. Dead board. Water damage. A battery that quits by lunch. We've seen it 1,500+ times — and most of it walks back out the door in 24 hours."
+cardsTitle: "What we fix"
+cardsLead: "If it runs on a battery or a plug, chances are it's on the bench already."
+cards:
+  - icon: "fa-mobile-screen-button"
+    name: "Phones"
+    text: "iPhone, Samsung, Xiaomi/Redmi, OnePlus, Realme, Vivo, Oppo & more — displays, batteries, charging ports, cameras, water damage, dead boards."
+  - icon: "fa-laptop"
+    name: "Laptops & MacBooks"
+    text: "Screens, hinges, keyboards, batteries, charging, motherboard & chip-level repair, SSD/RAM upgrades, OS & data recovery."
+  - icon: "fa-tablet-screen-button"
+    name: "Tablets & iPads"
+    text: "Glass & display, touch faults, battery & charging, software."
+  - icon: "fa-desktop"
+    name: "Desktops"
+    text: "Diagnosis, component swaps, Windows setup, upgrades & tune-ups."
+steps:
+  - title: "Free diagnosis"
+    text: "We find the real fault and explain it in plain language."
+  - title: "Honest quote"
+    text: "A firm price upfront. No work starts until you say go."
+  - title: "Expert repair"
+    text: "Genuine-grade parts, fitted right, tested twice."
+  - title: "90-day warranty"
+    text: "If it acts up, bring it back. We'll make it right."
+reasons:
+  - icon: "fa-bolt"
+    name: "Fast"
+    text: "Most repairs back in your hands within 24 hours."
+  - icon: "fa-microchip"
+    name: "Chip-level skill"
+    text: "Board-level work other shops turn away."
+  - icon: "fa-gem"
+    name: "Genuine-grade parts"
+    text: "No cheap knock-offs, ever."
+  - icon: "fa-tags"
+    name: "No surprise bills"
+    text: "You approve the quote before we touch a screwdriver."
 ---
-
-## If it switches on (or used to), we can probably fix it.
-
-Cracked screen. Dead board. Water damage. Battery that quits by lunch. We've seen it
-**1,500+ times** — and most of it walks back out the door in 24 hours.
-
-### What we fix
-
-- **📱 Phones** — iPhone, Samsung, Xiaomi/Redmi, OnePlus, Realme, Vivo, Oppo and more.
-  Displays, batteries, charging ports, cameras, water damage, dead boards.
-- **💻 Laptops & MacBooks** — screens, hinges, keyboards, batteries, charging, motherboard &
-  chip-level repair, SSD/RAM upgrades, OS and data recovery.
-- **📟 Tablets & iPads** — glass and display, touch faults, battery and charging, software.
-- **🖥️ Desktops** — diagnosis, component swaps, Windows setup, upgrades and tune-ups.
-
-### How it works
-
-1. **Free diagnosis** — we find the real fault and explain it in plain language.
-2. **Honest quote** — a firm price upfront. No work starts until you say go.
-3. **Expert repair** — genuine-grade parts, fitted right, tested twice.
-4. **90-day warranty** — if it acts up, bring it back. We'll make it right.
-
-### Why people pick Gadjoy
-
-⚡ **Fast** — most repairs back in your hands within 24 hours.
-🔬 **Chip-level skill** — board-level work other shops turn away.
-💎 **Genuine-grade parts** — no cheap knock-offs, ever.
-💰 **No surprise bills** — you approve the quote before we touch a screwdriver.
-
----
-
-**Got a device acting up?** [Get a free quote](/contact/) or
-[WhatsApp us](https://wa.me/919110624049) — we'll take it from there.
