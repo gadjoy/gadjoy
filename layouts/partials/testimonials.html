@@ -44,9 +44,9 @@
         </p>
         {{ end }}
 
-        <div class="row gadjoy-reviews">
-          {{ range first 6 $good }}
-          <div class="col-md-4 col-sm-6">
+        <div class="gadjoy-scroller gadjoy-reviews">
+          {{ range first 8 $good }}
+          <div class="gadjoy-scroll-item review">
             <div class="gadjoy-review">
               <div class="g-stars">{{ range seq .rating }}★{{ end }}</div>
               <p class="g-text">{{ .text | truncate 240 }}</p>

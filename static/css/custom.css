@@ -78,10 +78,10 @@ h2, h3 { font-weight: 700; }
 .navbar-default { background: #fff !important; border: none; box-shadow: 0 2px 14px rgba(0,0,0,.06); }
 .navbar-default .navbar-brand { color: #000; font-weight: 800; }
 /* Larger, more prominent logo (theme caps it at 42px) */
-.navbar-brand { height: 96px; padding-top: 14px; padding-bottom: 14px; }
-.navbar-brand img { max-height: 74px; width: auto; }
-.navbar-nav > li > a { padding-top: 38px; padding-bottom: 38px; }
-@media (max-width: 767px) { .navbar-brand { height: 70px; } .navbar-brand img { max-height: 50px; } }
+.navbar-brand { height: 110px; padding-top: 14px; padding-bottom: 14px; }
+.navbar-brand img { max-height: 88px; width: auto; }
+.navbar-nav > li > a { padding-top: 45px; padding-bottom: 45px; }
+@media (max-width: 767px) { .navbar-brand { height: 74px; } .navbar-brand img { max-height: 56px; } }
 .navbar-default .navbar-nav > li > a { color: #000; font-weight: 600; }
 .navbar-default .navbar-nav > li > a:hover { background: var(--navbar-focus); color: #000; }
 .navbar-default .navbar-nav > .active > a,
@@ -212,6 +212,12 @@ h2, h3 { font-weight: 700; }
 .gadjoy-scroll-hint { margin-top: 16px; color: var(--fg-muted); font-size: .92rem; }
 .gadjoy-scroll-hint a { font-weight: 600; }
 @media (max-width: 767px) { .gadjoy-scroll-item { flex-basis: 78%; } }
+
+/* Review cards are text-heavy → wider scroll items, equal height */
+.gadjoy-scroller.gadjoy-reviews { margin-top: 18px; }
+.gadjoy-scroll-item.review { flex: 0 0 340px; }
+.gadjoy-scroll-item.review .gadjoy-review { height: 100%; margin-bottom: 0; }
+@media (max-width: 767px) { .gadjoy-scroll-item.review { flex-basis: 84%; } }
 
 /* Uniform thumbnail grid for homepage "Recent Repairs" + blog list cards */
 .box-image-text.blog .top .image,

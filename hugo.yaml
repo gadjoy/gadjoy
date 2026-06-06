@@ -178,35 +178,30 @@ menu:
       url: "/"
       weight: 1
 
-    - name: "Services"
-      identifier: "menu.services"
-      url: ""
-      weight: 2
-
     - name: "We Repair"
+      identifier: "menu.werepair"
       url: "/services/we-repair/"
-      weight: 1
-      parent: "menu.services"
+      weight: 2
 
     - name: "We Build"
+      identifier: "menu.webuild"
       url: "/services/we-build/"
-      weight: 2
-      parent: "menu.services"
+      weight: 3
 
     - name: "Blog"
       identifier: "menu.blog"
       url: "/blog/"
-      weight: 3
+      weight: 4
 
     - name: "Gallery"
       identifier: "menu.gallery"
       url: "/gallery/"
-      weight: 4
+      weight: 5
 
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"
-      weight: 5
+      weight: 6
 
   # Top bar social links menu
   topbar:
