@@ -315,29 +315,61 @@ p { margin: 0 0 1.1em; }
 .svc-reason h4 { margin: 0 0 4px; }
 .svc-reason p { color: var(--fg-muted); margin: 0; font-size: .96rem; }
 
-/* Gallery page — responsive grid of real repair photos */
-.gadjoy-gallery-intro { max-width: 760px; margin: 36px auto 8px; }
+/* ============ Contact page ============ */
+.gj-contact { margin-top: 26px; }
+.gj-contact .heading h2 { margin-top: 0; }
+.gj-contact .form-group { margin-bottom: 16px; }
+.gj-contact label { font-weight: 600; margin-bottom: 6px; display: inline-block; }
+.gj-contact textarea.form-control { min-height: 130px; }
+.gj-contact-card {
+  display: flex; gap: 16px; align-items: flex-start; background: var(--bg-2);
+  border: 1px solid var(--line); border-radius: 16px; padding: 20px; margin-bottom: 16px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.gj-contact-card:hover { transform: translateY(-3px); box-shadow: 0 14px 30px rgba(0,0,0,.1); }
+.gj-contact-card .ic {
+  flex: 0 0 auto; width: 48px; height: 48px; border-radius: 12px; background: #000; color: #fff;
+  display: flex; align-items: center; justify-content: center; font-size: 1.2rem;
+}
+.gj-contact-card h4 { margin: 0 0 6px; }
+.gj-contact-card p { margin: 0 0 6px; color: var(--fg); }
+.gj-contact-card .gj-link { font-weight: 600; }
+.gj-map { line-height: 0; border-top: 1px solid var(--line); }
+.gj-map iframe { display: block; filter: grayscale(1) contrast(1.05); }
+
+/* ============ Gallery — before/after wall + lightbox ============ */
+.gadjoy-gallery-intro { max-width: 760px; margin: 36px auto 6px; }
 .gadjoy-gallery-intro h2 { margin-top: 0; }
-.gadjoy-gallery {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-  gap: 16px; margin: 28px 0 8px;
+.gj-wall { column-count: 4; column-gap: 12px; margin: 26px 0 8px; }
+.gj-wall-item {
+  display: block; width: 100%; padding: 0; border: 1px solid var(--line); background: var(--bg-2);
+  border-radius: 12px; overflow: hidden; margin: 0 0 12px; cursor: zoom-in;
+  break-inside: avoid; -webkit-column-break-inside: avoid;
 }
-.gadjoy-gallery-item {
-  position: relative; display: block; aspect-ratio: 1 / 1; overflow: hidden;
-  border-radius: 14px; border: 1px solid var(--line); background: var(--bg-2);
-}
-.gadjoy-gallery-item img { width: 100%; height: 100%; object-fit: cover; display: block;
-  transition: transform .4s ease; }
-.gadjoy-gallery-item:hover img { transform: scale(1.07); }
-.gadjoy-gallery-item .cap {
-  position: absolute; left: 0; right: 0; bottom: 0; padding: 26px 12px 10px;
-  color: #fff; font-size: .82rem; font-weight: 600; line-height: 1.25;
-  background: linear-gradient(transparent, rgba(0,0,0,.78));
-  opacity: 0; transform: translateY(8px); transition: opacity .2s ease, transform .2s ease;
-}
-.gadjoy-gallery-item:hover .cap { opacity: 1; transform: none; }
+.gj-wall-item img { width: 100%; height: auto; display: block; transition: transform .35s ease, opacity .2s ease; }
+.gj-wall-item:hover img { transform: scale(1.05); opacity: .92; }
 .gadjoy-gallery-more { margin-top: 30px; }
-@media (max-width: 575px) { .gadjoy-gallery { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 991px) { .gj-wall { column-count: 3; } }
+@media (max-width: 767px) { .gj-wall { column-count: 2; } }
+@media (max-width: 420px) { .gj-wall { column-count: 1; } }
+
+/* Lightbox */
+.gj-lightbox {
+  position: fixed; inset: 0; z-index: 2000; display: none;
+  align-items: center; justify-content: center; background: rgba(0,0,0,.92);
+}
+.gj-lightbox.open { display: flex; }
+.gj-lightbox .gj-lb-img { max-width: 90vw; max-height: 86vh; border-radius: 6px; box-shadow: 0 20px 60px rgba(0,0,0,.6); }
+.gj-lb-close, .gj-lb-nav {
+  position: absolute; background: rgba(255,255,255,.12); color: #fff; border: none;
+  cursor: pointer; border-radius: 50%; width: 50px; height: 50px; font-size: 1.8rem; line-height: 1;
+  transition: background .15s ease;
+}
+.gj-lb-close:hover, .gj-lb-nav:hover { background: rgba(255,255,255,.28); }
+.gj-lb-close { top: 20px; right: 20px; font-size: 2rem; }
+.gj-lb-nav { top: 50%; transform: translateY(-50%); }
+.gj-lb-prev { left: 18px; } .gj-lb-next { right: 18px; }
+@media (max-width: 575px) { .gj-lb-nav { width: 42px; height: 42px; } }
 
 /* Uniform thumbnail grid for homepage "Recent Repairs" + blog list cards */
 .box-image-text.blog .top .image,
