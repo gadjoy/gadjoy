@@ -33,15 +33,19 @@
                 <div class="heading"><h2>Send us a message</h2></div>
                 <p class="text-muted">We reply fast — usually within the hour during shop hours.</p>
                 <div id="contact-message"></div>
-                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ end }} method="post" action="{{ .Site.Params.formspree_action }}">
+                <form id="gj-contact-form" method="post" action="https://api.web3forms.com/submit">
+                  {{ with .Site.Params.web3forms_key }}<input type="hidden" name="access_key" value="{{ . }}">{{ end }}
+                  <input type="hidden" name="subject" value="New enquiry from the gadjoy.in contact form">
+                  <input type="hidden" name="from_name" value="Gadjoy Website">
+                  <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" style="display:none !important">
                   <div class="row">
                     <div class="col-sm-6"><div class="form-group">
                       <label for="name">Your name</label>
                       <input type="text" class="form-control" name="name" id="name" required>
                     </div></div>
                     <div class="col-sm-6"><div class="form-group">
-                      <label for="email">Email</label>
-                      <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
+                      <label for="email">Email <span class="text-muted">(optional)</span></label>
+                      <input type="email" autocomplete="email" class="form-control" name="email" id="email">
                     </div></div>
                     <div class="col-sm-12"><div class="form-group">
                       <label for="phone">Phone / WhatsApp <span class="text-muted">(optional)</span></label>
@@ -51,9 +55,15 @@
                       <label for="message">What's wrong with your device?</label>
                       <textarea id="message" class="form-control" name="message" rows="5" required></textarea>
                     </div></div>
-                    <div class="col-sm-12">
-                      <button type="submit" class="btn btn-template-main"><i class="far fa-paper-plane"></i> Send message</button>
+                    <div class="col-sm-12 gj-form-actions">
+                      <button type="button" class="btn btn-template-main" id="gj-wa-send"><i class="fab fa-whatsapp"></i> Send on WhatsApp</button>
+                      {{ if .Site.Params.web3forms_key }}
+                      <button type="submit" class="btn btn-template-transparent-primary"><i class="far fa-envelope"></i> Email instead</button>
+                      {{ else }}
+                      <a href="mailto:vivek@gadjoy.in" id="gj-mailto" class="btn btn-template-transparent-primary"><i class="far fa-envelope"></i> Email instead</a>
+                      {{ end }}
                     </div>
+                    <div class="col-sm-12"><p class="text-muted gj-form-note">Tip: WhatsApp is fastest — attach a photo of the device in the chat.</p></div>
                   </div>
                 </form>
               </div>

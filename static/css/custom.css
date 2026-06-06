@@ -334,6 +334,9 @@ p { margin: 0 0 1.1em; }
 .gj-contact-card h4 { margin: 0 0 6px; }
 .gj-contact-card p { margin: 0 0 6px; color: var(--fg); }
 .gj-contact-card .gj-link { font-weight: 600; }
+.gj-form-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 4px; }
+.gj-form-actions .btn { margin: 0; }
+.gj-form-note { margin-top: 12px; font-size: .9rem; }
 .gj-map { line-height: 0; border-top: 1px solid var(--line); }
 .gj-map iframe { display: block; filter: grayscale(1) contrast(1.05); }
 
