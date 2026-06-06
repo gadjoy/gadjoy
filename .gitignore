@@ -1,0 +1,21 @@
+# Hugo build output (rebuilt by GitHub Actions on deploy — not committed)
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Python migration tooling
+migration/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets — never commit
+.env
+.env.*
+
+# Machine-local Claude Code settings
+.claude/settings.local.json
+
+# OS cruft
+.DS_Store
+wordpress/docker-compose.override.yml

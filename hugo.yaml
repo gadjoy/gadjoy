@@ -1,7 +1,21 @@
-baseURL: 'https://gadjoyrepair.com/'
+baseURL: 'https://gadjoy.in/'
 languageCode: 'en-us'
 title: 'Gadjoy Repair Service'
 theme: 'hugo-universal-theme'
+
+# Preserve raw HTML (e.g. migrated <video> blocks) through Markdown rendering
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Allow the build to read the Google Places API key from the environment
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^GOOGLE_PLACES_API_KEY$'
 
 # Define the number of posts per page
 pagination:
@@ -61,11 +75,15 @@ params:
   
   # Contact details
   email: "info@gadjoyrepair.com"
-  phone: "+91-XXX-XXX-XXXX"
+  phone: "+91 9110624049"
+
+  # Google reviews (live via Places API; key comes from GOOGLE_PLACES_API_KEY env, never committed)
+  googlePlaceId: "ChIJaR2k26gTrjsRcc8FG20jpfk"
+  googleReviewsUrl: "https://maps.google.com/?cid=17988823238113087345"
 
   # Site info
-  about_us: "<p>Professional electronics repair service specializing in mobile devices, laptops, and tablets.</p>"
-  copyright: "Copyright (c) 2025, Gadjoy Repair Service; all rights reserved."
+  about_us: "<p>Bangalore's go-to repair bench for phones, laptops, tablets and desktops. Chip-level fixes, genuine parts, honest quotes — and a 90-day warranty on every job.</p>"
+  copyright: "Copyright (c) 2026, Gadjoy Repair Service; all rights reserved."
 
   # Format dates with Go's time formatting
   date_format: "January 2, 2006"
@@ -81,8 +99,9 @@ params:
   topbar:
     enable: true
     text: |
-      <p class="hidden-sm hidden-xs">Contact us for all your device repair needs</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+91-XXX-XXX-XXXX" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <p class="hidden-sm hidden-xs">⚡ Free diagnosis · 90-day warranty · 📞 +91 9110624049</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+919110624049" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="https://wa.me/919110624049" data-animate-hover="pulse"><i class="fab fa-whatsapp"></i></a>
       <a href="mailto:info@gadjoyrepair.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
 
@@ -116,32 +135,35 @@ params:
     
   testimonials:
     enable: true
-    title: "Customer Reviews"
-    subtitle: "See what our customers say about our repair services"
+    title: "What Bangalore Says About Us"
+    subtitle: "Real reviews from customers who walked in worried and left happy."
 
   see_more:
     enable: true
-    icon: "far fa-wrench"
-    title: "Need a repair?"
-    subtitle: "We fix all types of electronic devices with professional service"
-    link_url: "/contact"
-    link_text: "Contact us today"
+    icon: "fas fa-wrench"
+    title: "Got a device that's misbehaving?"
+    subtitle: "Free diagnosis, honest quote, fast turnaround. Bring it in or message us — we'll take it from there."
+    link_url: "/contact/"
+    link_text: "Get a free quote"
 
   clients:
     enable: false
 
   recent_posts:
     enable: true
-    title: "Recent Repairs"
-    subtitle: "Check out our latest repair work and case studies"
+    title: "Real Repairs, Real Results"
+    subtitle: "Fresh from the bench — a few devices we recently brought back to life."
     hide_summary: false
 
   footer:
     recent_posts:
       enable: true
 
+# Reproduce the original WordPress permalink structure exactly
+# (wp_options.permalink_structure = /%year%/%monthnum%/%day%/%postname%/).
+# Note: NO /blog/ prefix — the old migration's /blog/... URLs are rescued via per-post aliases.
 permalinks:
-  blog: "/blog/:year/:month/:day/:contentbasename/"
+  blog: "/:year/:month/:day/:slug/"
 
 taxonomies:
   category: "categories"
@@ -190,7 +212,7 @@ menu:
   topbar:
     - weight: 1
       name: "Phone"
-      url: "tel:+91-XXX-XXX-XXXX"
+      url: "tel:+919110624049"
       pre: "<i class='fas fa-2x fa-phone'></i>"
 
     - weight: 2

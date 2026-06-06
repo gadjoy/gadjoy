@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "name": "3D Print",
+      "slug": "3dp"
+    },
+    {
+      "name": "4.0 Products & Services",
+      "slug": "4-0"
+    },
+    {
+      "name": "Apple Watch",
+      "slug": "apple-watch"
+    },
+    {
+      "name": "Build",
+      "slug": "build"
+    },
+    {
+      "name": "Chip Level & IC Repair",
+      "slug": "chip-level-and-ic-repair-mobile"
+    },
+    {
+      "name": "Chip Level & IC Repair",
+      "slug": "chip-level-and-ic-repair-laptop"
+    },
+    {
+      "name": "Code",
+      "slug": "code"
+    },
+    {
+      "name": "Display & Glass Replacement",
+      "slug": "display-and-glass-replacement-apple-watch"
+    },
+    {
+      "name": "Display & Glass Replacement",
+      "slug": "display-and-glass-replacement"
+    },
+    {
+      "name": "General Hardware & Software Services",
+      "slug": "general-hardware-software-services"
+    },
+    {
+      "name": "General Hardware & Software Services",
+      "slug": "general-hardware-and-software-services"
+    },
+    {
+      "name": "Hinge Repair",
+      "slug": "hinge-repair"
+    },
+    {
+      "name": "IIOT",
+      "slug": "iiot"
+    },
+    {
+      "name": "Laptop & Desktop",
+      "slug": "laptop-and-desktop"
+    },
+    {
+      "name": "Mobile & Tablets",
+      "slug": "mobiles"
+    },
+    {
+      "name": "Repair",
+      "slug": "repair"
+    },
+    {
+      "name": "Replacements-laptop",
+      "slug": "replacements-laptop"
+    },
+    {
+      "name": "Replacements-Mobile",
+      "slug": "replacements"
+    },
+    {
+      "name": "Software Services",
+      "slug": "software-services"
+    },
+    {
+      "name": "Uncategorized",
+      "slug": "uncategorized"
+    },
+    {
+      "name": "Water Damage",
+      "slug": "water-damage"
+    },
+    {
+      "name": "Water Damage",
+      "slug": "water-damage-laptop-and-desktop"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Before",
+      "slug": "before"
+    },
+    {
+      "name": "Tips",
+      "slug": "tips"
+    },
+    {
+      "name": "Tricks",
+      "slug": "tricks"
+    }
+  ]
+}
