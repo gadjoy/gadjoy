@@ -69,9 +69,10 @@ params:
   # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
   style: "default"
 
-  # Contact form (Formspree or Netlify)
-  formspree_action: "https://formspree.io/f/xpznvjgd"  # Replace with your Formspree form ID
-  contact_form_ajax: false
+  # Contact form: WhatsApp works with no setup. For the "Email instead" path, paste a free
+  # Web3Forms access key (web3forms.com → enter vivek@gadjoy.in → copy key). Public by design;
+  # leave empty to fall back to a mailto: link.
+  web3forms_key: ""
   
   # Contact details
   email: "vivek@gadjoy.in"

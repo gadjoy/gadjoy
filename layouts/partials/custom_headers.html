@@ -48,6 +48,32 @@
       nums.forEach(run);
     }
 
+    /* Contact form → WhatsApp composer + mailto fallback */
+    var cform = document.getElementById('gj-contact-form');
+    if (cform) {
+      function field(n) { var el = cform.querySelector('[name="' + n + '"]'); return el ? el.value.trim() : ''; }
+      function compose() {
+        var name = field('name'), phone = field('phone'), email = field('email'), msg = field('message');
+        var lines = ['Hi Gadjoy!'];
+        lines.push(name ? ("I'm " + name + '.') : 'I need help with my device.');
+        if (msg) lines.push('Issue: ' + msg);
+        if (phone) lines.push('Phone: ' + phone);
+        if (email) lines.push('Email: ' + email);
+        return lines.join('\n');
+      }
+      var waBtn = document.getElementById('gj-wa-send');
+      if (waBtn) waBtn.addEventListener('click', function () {
+        if (!field('message') && !field('name')) { cform.reportValidity && cform.reportValidity(); return; }
+        window.open('https://wa.me/919110624049?text=' + encodeURIComponent(compose()), '_blank', 'noopener');
+      });
+      var mailBtn = document.getElementById('gj-mailto');
+      if (mailBtn) mailBtn.addEventListener('click', function () {
+        var body = compose().replace('Hi Gadjoy!', '').trim();
+        mailBtn.setAttribute('href', 'mailto:vivek@gadjoy.in?subject=' +
+          encodeURIComponent('Repair enquiry — gadjoy.in') + '&body=' + encodeURIComponent(body));
+      });
+    }
+
     /* Gallery lightbox */
     var lb = document.getElementById('gj-lightbox');
     if (lb) {
