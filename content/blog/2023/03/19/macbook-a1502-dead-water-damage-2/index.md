@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/19/macbook-a1502-dead-water-damage-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-42.png
+banner: /img/uploads/2023/03/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-42.png)
+![](/img/uploads/2023/03/image-42.webp)
 
 **The device was given to us with water damage**
 
-![](/img/uploads/2023/03/image-43.png)
+![](/img/uploads/2023/03/image-43.webp)
 
 **We did the motherboard chip level service and made the device function well.**

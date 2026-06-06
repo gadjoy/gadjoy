@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/10/ipad-a2459-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-13.png
+banner: /img/uploads/2024/02/image-13.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-13.png)
+![](/img/uploads/2024/02/image-13.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/02/image-14.png)
+![](/img/uploads/2024/02/image-14.webp)
 
 **We did the chip level service on the device and got it active**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/23/samsung-c9-pro-c900f-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-Samsung-C9-Pro-C900F-–-Dead-condition.png
+banner: /img/uploads/2022/08/before-Samsung-C9-Pro-C900F-–-Dead-condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-Samsung-C9-Pro-C900F-–-Dead-condition.png)
+![](/img/uploads/2022/08/before-Samsung-C9-Pro-C900F-–-Dead-condition.webp)
 
 Samsung C9 Pro – C900F – Dead condition
 
-![](/img/uploads/2022/08/after-Samsung-C9-Pro-C900F-–-Dead-condition.png)
+![](/img/uploads/2022/08/after-Samsung-C9-Pro-C900F-–-Dead-condition.webp)
 
 Samsung C9 Pro – C900F – Dead condition

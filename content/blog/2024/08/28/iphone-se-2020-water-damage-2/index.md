@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/08/28/iphone-se-2020-water-damage-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/08/image-11.png
+banner: /img/uploads/2024/08/image-11.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/08/image-11.png)
+![](/img/uploads/2024/08/image-11.webp)
 
 **The device was received dead with water damage condition**
 
-![](/img/uploads/2024/08/image-12.png)
+![](/img/uploads/2024/08/image-12.webp)
 
 **We did the chip-level service and also the display replacement due to heavy damage of the components and made the device back active**

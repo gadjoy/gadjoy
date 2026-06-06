@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/18/ipad-a2197-display-glass-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-72.png
+banner: /img/uploads/2023/08/image-72.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-72.png)
+![](/img/uploads/2023/08/image-72.webp)
 
 **The device was given to us with broken display glass**
 
-![](/img/uploads/2023/08/image-73.png)
+![](/img/uploads/2023/08/image-73.webp)
 
 **We replaced display glass and made the device functioning well**

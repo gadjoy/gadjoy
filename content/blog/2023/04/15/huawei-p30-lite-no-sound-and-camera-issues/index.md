@@ -12,14 +12,14 @@ aliases:
 - /blog/2023/04/15/huawei-p30-lite-no-sound-and-camera-issues/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-41.png
+banner: /img/uploads/2023/04/image-41.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-41.png)
+![](/img/uploads/2023/04/image-41.webp)
 
 **The device was given to us with no sound and camera issues**
 

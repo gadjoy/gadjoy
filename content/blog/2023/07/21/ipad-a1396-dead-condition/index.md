@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/21/ipad-a1396-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-49.png
+banner: /img/uploads/2023/07/image-49.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-49.png)
+![](/img/uploads/2023/07/image-49.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/07/image-50.png)
+![](/img/uploads/2023/07/image-50.webp)
 
 **We did chip level service and made the device functioning well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/realme-c21-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-12.png
+banner: /img/uploads/2023/08/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-12.png)
+![](/img/uploads/2023/08/image-12.webp)
 
 **The device was not working when we got it.**
 
-![](/img/uploads/2023/08/image-13.png)
+![](/img/uploads/2023/08/image-13.webp)
 
 **We fixed the charging port and restored the device functionality**

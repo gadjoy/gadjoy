@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/31/samsung-galaxy-m31-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-76.png
+banner: /img/uploads/2023/03/image-76.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-76.png)
+![](/img/uploads/2023/03/image-76.webp)
 
 **The device was given to us in screen lock forgotten condition**
 
-![](/img/uploads/2023/03/image-77.png)
+![](/img/uploads/2023/03/image-77.webp)
 
 **We had done the software services and made the device work.**

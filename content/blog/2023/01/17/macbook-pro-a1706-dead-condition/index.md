@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/macbook-pro-a1706-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-156.png
+banner: /img/uploads/2023/01/image-156.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-156.png)
+![](/img/uploads/2023/01/image-156.webp)
 
 The device was given to us in a condition in which while booting error was occurring
 
-![](/img/uploads/2023/01/image-157.png)
+![](/img/uploads/2023/01/image-157.webp)
 
 We had done the software services and made the device functioning

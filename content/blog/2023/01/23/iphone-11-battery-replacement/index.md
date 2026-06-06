@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/23/iphone-11-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-237.png
+banner: /img/uploads/2023/01/image-237.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-237.png)
+![](/img/uploads/2023/01/image-237.webp)
 
 The device was given to us with battery issue
 
-![](/img/uploads/2023/01/image-238.png)
+![](/img/uploads/2023/01/image-238.webp)
 
 We had replaced battery in the device and made it charging well

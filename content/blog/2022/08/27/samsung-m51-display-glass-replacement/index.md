@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/samsung-m51-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-57.png
+banner: /img/uploads/2022/08/image-57.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-57.png)
+![](/img/uploads/2022/08/image-57.webp)
 
 Samsung M51 – Display glass replacement
 
-![](/img/uploads/2022/08/image-56.png)
+![](/img/uploads/2022/08/image-56.webp)
 
 Samsung M51 – Display glass replacement

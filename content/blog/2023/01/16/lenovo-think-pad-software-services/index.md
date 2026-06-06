@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/lenovo-think-pad-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-126.png
+banner: /img/uploads/2023/01/image-126.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-126.png)
+![](/img/uploads/2023/01/image-126.webp)
 
 The device was given to us slow state
 
-![](/img/uploads/2023/01/image-127.png)
+![](/img/uploads/2023/01/image-127.webp)
 
 We had done the software services on the device and made it fast

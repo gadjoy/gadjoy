@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/01/oppo-a54-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image.png
+banner: /img/uploads/2023/07/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image.png)
+![](/img/uploads/2023/07/image.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/07/image-1.png)
+![](/img/uploads/2023/07/image-1.webp)
 
 **The device was given to us display glass broken condition, we had replaced only the display glass of the device and got it working**

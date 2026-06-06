@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/iphone-11-display-glass-replacement/
 description: Before Before
 summary: Before Before
-banner: /img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-Before.jpg
+banner: /img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-Before.webp
 ---
 
 #### Before
 
 #### Before
 
-![](/img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-Before.jpg)
+![](/img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-Before.webp)
 
 The iPhone was given to us with the touch glass broken
 
-![](/img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-After.jpg)
+![](/img/uploads/2022/01/iPhone-11-Display-Glass-Replacement-After.webp)
 
 We had replaced the **Touch Glass** ONLY with Glass finish

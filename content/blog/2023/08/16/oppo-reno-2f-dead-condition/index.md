@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/16/oppo-reno-2f-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-69.png
+banner: /img/uploads/2023/08/image-69.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-69.png)
+![](/img/uploads/2023/08/image-69.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/08/image-68.png)
+![](/img/uploads/2023/08/image-68.webp)
 
 **We did chip level service and made the device work well**

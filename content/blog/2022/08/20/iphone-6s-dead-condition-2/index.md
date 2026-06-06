@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/20/iphone-6s-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-iPhone-6s-Dead-Condition.png
+banner: /img/uploads/2022/08/before-iPhone-6s-Dead-Condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-iPhone-6s-Dead-Condition.png)
+![](/img/uploads/2022/08/before-iPhone-6s-Dead-Condition.webp)
 
 **iPhone 6s – Dead Condition**
 
-![](/img/uploads/2022/08/after-iPhone-6s-Dead-Condition.png)
+![](/img/uploads/2022/08/after-iPhone-6s-Dead-Condition.webp)
 
 **iPhone 6s – Display combo replacement**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/28/vivo-y91-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-37.png
+banner: /img/uploads/2024/06/image-37.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-37.png)
+![](/img/uploads/2024/06/image-37.webp)
 
 **The device was received in logo stuck and sometimes restarting condition**
 
-![](/img/uploads/2024/06/image-38.png)
+![](/img/uploads/2024/06/image-38.webp)
 
 **We did the service on the device motherboard and got it active again**

@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/10/charging-cable-holder/
 description: Problem Statement -Build a Charging Cable holder Sow – 3D Printed – PLA Filament Challenges – Minimum 8 cables should be kept Value Added – Can use like a cable holders in offices where lots of cable’s can      keep in one place neatly – 3D printed
 summary: Problem Statement -Build a Charging Cable holder Sow – 3D Printed – PLA Filament Challenges – Minimum 8 cables should be kept Value Added – Can use like a cable holders in offices where lots of cable’s can      keep in one place neatly – 3D printed
-banner: /img/uploads/2022/01/CHARGING-CABLE-HOLDER.jpg
+banner: /img/uploads/2022/01/CHARGING-CABLE-HOLDER.webp
 ---
 
-![](/img/uploads/2022/01/CHARGING-CABLE-HOLDER.jpg)
+![](/img/uploads/2022/01/CHARGING-CABLE-HOLDER.webp)
 
 **Problem Statement** -Build a Charging Cable holder
 

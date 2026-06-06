@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/iphone-11-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-26.png
+banner: /img/uploads/2024/03/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-26.png)
+![](/img/uploads/2024/03/image-26.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/03/image-27.png)
+![](/img/uploads/2024/03/image-27.webp)
 
 **We repaired the device by replacing the broken display with restoring its functionality.**

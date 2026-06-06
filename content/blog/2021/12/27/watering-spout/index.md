@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/27/watering-spout/
 description: Problem Statement -Watering spout for bottle Scope of work -To pour water for plants without buying watering can for plants Challenges -To remove supports in tiny holes was difficult Execution Strategy -We placed the 3D object in such a way that the larger surface on the bottom and the smaller surface on the top so […]
 summary: Problem Statement -Watering spout for bottle Scope of work -To pour water for plants without buying watering can for plants Challenges -To remove supports in tiny holes was difficult Execution Strategy -We placed the 3D object in such a way that the larger surface on the bottom and the smaller surface on the top so […]
-banner: /img/uploads/2021/12/Watering-spout.png
+banner: /img/uploads/2021/12/Watering-spout.webp
 ---
 
-![](/img/uploads/2021/12/Watering-spout.png)
+![](/img/uploads/2021/12/Watering-spout.webp)
 
 Problem Statement
 

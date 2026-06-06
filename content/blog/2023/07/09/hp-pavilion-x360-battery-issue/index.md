@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/09/hp-pavilion-x360-battery-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-32.png
+banner: /img/uploads/2023/07/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-32.png)
+![](/img/uploads/2023/07/image-32.webp)
 
 **The device was given to us with battery issue**
 
-![](/img/uploads/2023/07/image-33.png)
+![](/img/uploads/2023/07/image-33.webp)
 
 **We replaced battery and made the device work.**

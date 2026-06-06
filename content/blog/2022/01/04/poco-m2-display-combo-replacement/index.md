@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/poco-m2-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-Before.jpg
+banner: /img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-Before.jpg)
+![](/img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-Before.webp)
 
 Phone was given to us with the display damaged and blank
 
-![](/img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-After.jpg)
+![](/img/uploads/2022/01/Poco-M2-Display-Combo-Replacement-After.webp)
 
 We had replaced the **Display Combo** and made it fully Functioning

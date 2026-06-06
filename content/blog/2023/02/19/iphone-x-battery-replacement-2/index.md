@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/19/iphone-x-battery-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-86.png
+banner: /img/uploads/2023/02/image-86.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-86.png)
+![](/img/uploads/2023/02/image-86.webp)
 
 The device was given to us with a maximum capacity of the battery with 100%
 
-![](/img/uploads/2023/02/image-87.png)
+![](/img/uploads/2023/02/image-87.webp)
 
 We replaced the battery of the device and checked the battery charge and discharge cycles

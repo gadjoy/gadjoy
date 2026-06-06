@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/20/lenovo-ideapad-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-31.png
+banner: /img/uploads/2022/03/image-31.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-31.png)
+![](/img/uploads/2022/03/image-31.webp)
 
 The laptop was given to us with the dead condition and water damage in it
 
-![](/img/uploads/2022/03/image-32.png)
+![](/img/uploads/2022/03/image-32.webp)
 
 We had **Done the chip level service on the Board** and made it switch ON

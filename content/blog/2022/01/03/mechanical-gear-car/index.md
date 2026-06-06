@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/03/mechanical-gear-car/
 description: Problem Statement -Showcase car Sow Build a Car module in 3D print Challenges – Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Mechanical gear car can be kept in showcase -Children’s can have knowledge how gear will work or how this car is moving
 summary: Problem Statement -Showcase car Sow Build a Car module in 3D print Challenges – Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Mechanical gear car can be kept in showcase -Children’s can have knowledge how gear will work or how this car is moving
-banner: /img/uploads/2022/01/MECHANICAL-GEAR-CAR.jpg
+banner: /img/uploads/2022/01/MECHANICAL-GEAR-CAR.webp
 ---
 
-![](/img/uploads/2022/01/MECHANICAL-GEAR-CAR.jpg)
+![](/img/uploads/2022/01/MECHANICAL-GEAR-CAR.webp)
 
 Problem Statement
 

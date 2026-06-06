@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/13/lenovo-ideapad-320-fan-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-30-edited.png
+banner: /img/uploads/2023/01/image-30-edited.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-30-edited.png)
+![](/img/uploads/2023/01/image-30-edited.webp)
 
 The device was given to us fan was filled up with dust
 
-![](/img/uploads/2023/01/image-31.png)
+![](/img/uploads/2023/01/image-31.webp)
 
 We had done the general service and made the device work better

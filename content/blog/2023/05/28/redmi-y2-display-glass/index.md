@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/28/redmi-y2-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-63.png
+banner: /img/uploads/2023/05/image-63.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-63.png)
+![](/img/uploads/2023/05/image-63.webp)
 
 **The device was given to us with broken display glass**
 
-![](/img/uploads/2023/05/image-64.png)
+![](/img/uploads/2023/05/image-64.webp)
 
 **We replaced only the display glass and made the device work.**

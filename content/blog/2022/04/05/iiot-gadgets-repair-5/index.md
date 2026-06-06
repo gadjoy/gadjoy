@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/04/05/iiot-gadgets-repair-5/
 description: Problem Statement -Not working Scope of work – Service Challenges -Nil –Execution Strategy -Additional plug is added Value Added -Made it working
 summary: Problem Statement -Not working Scope of work – Service Challenges -Nil –Execution Strategy -Additional plug is added Value Added -Made it working
-banner: /img/uploads/2022/04/image-27.png
+banner: /img/uploads/2022/04/image-27.webp
 ---
 
-![](/img/uploads/2022/04/image-27.png)
+![](/img/uploads/2022/04/image-27.webp)
 
 **Problem Statement** -Not working
 
@@ -26,4 +26,4 @@ banner: /img/uploads/2022/04/image-27.png
 
 **Value Added** -Made it working
 
-![](/img/uploads/2022/04/image-28.png)
+![](/img/uploads/2022/04/image-28.webp)

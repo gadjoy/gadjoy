@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/23/samsung-m31s-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-251.png
+banner: /img/uploads/2023/01/image-251.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-251.png)
+![](/img/uploads/2023/01/image-251.webp)
 
 The device was given to us with dead condition
 
-![](/img/uploads/2023/01/image-252.png)
+![](/img/uploads/2023/01/image-252.webp)
 
 We had done software service and made it working well

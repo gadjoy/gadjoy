@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/03/13/hp-15s-gr0008au-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-23.png
+banner: /img/uploads/2023/03/image-23.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-23.png)
+![](/img/uploads/2023/03/image-23.webp)
 
 **The device was given to us with display & hinge issue**
 
-![](/img/uploads/2023/03/image-24.png)
+![](/img/uploads/2023/03/image-24.webp)
 
 **We replaced the display and serviced hinge and made the device work.**

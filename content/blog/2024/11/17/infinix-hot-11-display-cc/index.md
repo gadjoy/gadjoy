@@ -13,17 +13,17 @@ aliases:
 - /blog/2024/11/17/infinix-hot-11-display-cc/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-30.png
+banner: /img/uploads/2024/11/image-30.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-30.png)
+![](/img/uploads/2024/11/image-30.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/11/image-31.png)
+![](/img/uploads/2024/11/image-31.webp)
 
 **After the check on the mother board of the device, we got to know that the device had issue with the CC and Display**

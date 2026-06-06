@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/12/iphone-6s-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2021/12/iPhone-6-Before-Water-Damage-1-edited.jpg
+banner: /img/uploads/2021/12/iPhone-6-Before-Water-Damage-1-edited.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/iPhone-6-Before-Water-Damage-1-edited.jpg)
+![](/img/uploads/2021/12/iPhone-6-Before-Water-Damage-1-edited.webp)
 
 Only vibration of the phone, before repairing.
 
-![](/img/uploads/2021/12/iPhone-6-After-Water-Damage-1-577x1024.jpg)
+![](/img/uploads/2021/12/iPhone-6-After-Water-Damage-1-577x1024.webp)
 
 We had Replaced the Display Combo and made it Working

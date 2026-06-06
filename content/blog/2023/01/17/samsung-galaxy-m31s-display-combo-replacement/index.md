@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/samsung-galaxy-m31s-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-160.png
+banner: /img/uploads/2023/01/image-160.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-160.png)
+![](/img/uploads/2023/01/image-160.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/01/image-161.png)
+![](/img/uploads/2023/01/image-161.webp)
 
 We had found that the device has a display issue and we replaced the display of the device and got it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/09/redmi-note-9s-display-combo-back-panel/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-22.png
+banner: /img/uploads/2023/05/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-22.png)
+![](/img/uploads/2023/05/image-22.webp)
 
 **The device was given to us with display and back panel  issues**
 
-![](/img/uploads/2023/05/image-23.png)
+![](/img/uploads/2023/05/image-23.webp)
 
 **We replaced display and back panel  and made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/vivo-v15-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-86.png
+banner: /img/uploads/2023/06/image-86.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-86.png)
+![](/img/uploads/2023/06/image-86.webp)
 
 **The device was given to us in display issue, lines were coming on the display**
 
-![](/img/uploads/2023/06/image-87.png)
+![](/img/uploads/2023/06/image-87.webp)
 
 **We had replaced the display combo of the device and got it working**

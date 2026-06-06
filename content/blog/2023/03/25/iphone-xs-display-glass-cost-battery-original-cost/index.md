@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/25/iphone-xs-display-glass-cost-battery-original-cost/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-63.png
+banner: /img/uploads/2023/03/image-63.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-63.png)
+![](/img/uploads/2023/03/image-63.webp)
 
 **The device was given to us broken display glass and battery issue**
 
-![](/img/uploads/2023/03/image-64.png)
+![](/img/uploads/2023/03/image-64.webp)
 
 **We had replaced only the display glass of the device and made it better to use**

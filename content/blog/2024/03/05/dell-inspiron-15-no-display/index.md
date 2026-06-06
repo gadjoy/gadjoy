@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/05/dell-inspiron-15-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-4.png
+banner: /img/uploads/2024/03/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-4.png)
+![](/img/uploads/2024/03/image-4.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2024/03/image-5.png)
+![](/img/uploads/2024/03/image-5.webp)
 
 **After diagnosing the device, we identified a faulty RAM module. Upon replacing the defective RAM, the device successfully powered on and exhibited enhanced operational efficiency.**

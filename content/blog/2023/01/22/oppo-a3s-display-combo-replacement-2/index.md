@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/oppo-a3s-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-198.png
+banner: /img/uploads/2023/01/image-198.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-198.png)
+![](/img/uploads/2023/01/image-198.webp)
 
 The device was given to us in display broken condition
 
-![](/img/uploads/2023/01/image-199.png)
+![](/img/uploads/2023/01/image-199.webp)
 
 We had replaced the display combo of the device and made it functioning

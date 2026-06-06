@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/06/vivo-y18-charging-port-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-24.png
+banner: /img/uploads/2024/05/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-24.png)
+![](/img/uploads/2024/05/image-24.webp)
 
 **The device was give to us in dead and CC broken condition**
 
-![](/img/uploads/2024/05/image-25.png)
+![](/img/uploads/2024/05/image-25.webp)
 
 **After replacing the charging connector got the device charged and switched**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/22/vivo-y15-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-42.png
+banner: /img/uploads/2023/11/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-42.png)
+![](/img/uploads/2023/11/image-42.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/11/image-43.png)
+![](/img/uploads/2023/11/image-43.webp)
 
 **We had to replace the display combo of the device to get it working well**

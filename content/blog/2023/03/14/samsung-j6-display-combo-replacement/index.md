@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/14/samsung-j6-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-29.png
+banner: /img/uploads/2023/03/image-29.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-29.png)
+![](/img/uploads/2023/03/image-29.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/03/image-30.png)
+![](/img/uploads/2023/03/image-30.webp)
 
 **We replaced display combo and made the device functioning.**

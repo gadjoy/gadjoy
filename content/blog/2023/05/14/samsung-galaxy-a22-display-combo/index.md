@@ -10,13 +10,13 @@ categories:
 tags: []
 aliases:
 - /blog/2023/05/14/samsung-galaxy-a22-display-combo/
-banner: /img/uploads/2023/05/image-30.png
+banner: /img/uploads/2023/05/image-30.webp
 ---
 
-![](/img/uploads/2023/05/image-30.png)
+![](/img/uploads/2023/05/image-30.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/05/image-31.png)
+![](/img/uploads/2023/05/image-31.webp)
 
 **We had replaced the display combo of the device and made it working**

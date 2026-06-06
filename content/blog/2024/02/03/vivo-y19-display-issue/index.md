@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/03/vivo-y19-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-1.png
+banner: /img/uploads/2024/02/image-1.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-1.png)
+![](/img/uploads/2024/02/image-1.webp)
 
 **The device was received in whiles lines were occurring on the device display**
 
-![](/img/uploads/2024/02/image-2.png)
+![](/img/uploads/2024/02/image-2.webp)
 
 **We diagnosed it and got to change the display to resolve the issues and make it better**

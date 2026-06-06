@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/ipad-a1567-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-28.png
+banner: /img/uploads/2024/11/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-28.png)
+![](/img/uploads/2024/11/image-28.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/11/image-29.png)
+![](/img/uploads/2024/11/image-29.webp)
 
 **After the service on the mother board, we got the device functioning again**

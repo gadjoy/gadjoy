@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/15/realme-narzo-20-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-24.png
+banner: /img/uploads/2023/11/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-24.png)
+![](/img/uploads/2023/11/image-24.webp)
 
 **The device was given to us in only vibrating condition**
 
-![](/img/uploads/2023/11/image-25.png)
+![](/img/uploads/2023/11/image-25.webp)
 
 **We got the that display has to be replaced and we have done the service and made it working**

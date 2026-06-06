@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/26/redmi-9-power-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-Redmi-9-Power-Dead-condition.png
+banner: /img/uploads/2022/08/before-Redmi-9-Power-Dead-condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-Redmi-9-Power-Dead-condition.png)
+![](/img/uploads/2022/08/before-Redmi-9-Power-Dead-condition.webp)
 
 Redmi 9 Power – Dead condition
 
-![](/img/uploads/2022/08/after-Redmi-9-Power-Dead-condition.png)
+![](/img/uploads/2022/08/after-Redmi-9-Power-Dead-condition.webp)
 
 Redmi 9 Power – Dead condition

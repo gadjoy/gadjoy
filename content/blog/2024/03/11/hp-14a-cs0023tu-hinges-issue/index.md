@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/11/hp-14a-cs0023tu-hinges-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-15.png
+banner: /img/uploads/2024/03/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-15.png)
+![](/img/uploads/2024/03/image-15.webp)
 
 **The device was received in a condition in which the hinges of the laptop was damaged**
 
-![](/img/uploads/2024/03/image-13.png)
+![](/img/uploads/2024/03/image-13.webp)
 
 **We had done the fabrication service on the hinges and got the working again**

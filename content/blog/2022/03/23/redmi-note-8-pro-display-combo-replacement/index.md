@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/23/redmi-note-8-pro-display-combo-replacement/
 description: Before After When the phone was given to us, Display was cracked, and it was in dead condition. We had replaced the Display Combo and made it operating
 summary: Before After When the phone was given to us, Display was cracked, and it was in dead condition. We had replaced the Display Combo and made it operating
-banner: /img/uploads/2022/03/Redmi-Note-8-Pro-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/03/Redmi-Note-8-Pro-–-before-Display-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/Redmi-Note-8-Pro-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/03/Redmi-Note-8-Pro-–-before-Display-Combo-Replacement.webp)
 
 > When the phone was given to us, Display was cracked, and it was in dead condition.
 
-![](/img/uploads/2022/03/Redmi-Note-8-Pro-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/03/Redmi-Note-8-Pro-–-after-Display-Combo-Replacement.webp)
 
 > We had replaced the **Display Combo** and made it operating

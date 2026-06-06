@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/iphone-xr-display-combo-replacement/
 description: Before After This phone was given to with fully cracked and black dots were there on display. This phone was given to with fully cracked and black dots were there on display.
 summary: Before After This phone was given to with fully cracked and black dots were there on display. This phone was given to with fully cracked and black dots were there on display.
-banner: /img/uploads/2022/01/iPhone-XR-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/01/iPhone-XR-–-before-Display-Combo-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-XR-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/iPhone-XR-–-before-Display-Combo-Replacement.webp)
 
 > This phone was given to with fully cracked and black dots were there on display.
 
-![](/img/uploads/2022/01/iPhone-XR-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/iPhone-XR-–-after-Display-Combo-Replacement.webp)
 
 > This phone was given to with fully cracked and black dots were there on display.

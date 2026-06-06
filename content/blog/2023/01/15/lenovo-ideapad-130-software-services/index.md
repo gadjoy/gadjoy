@@ -12,13 +12,13 @@ aliases:
 - /blog/2023/01/15/lenovo-ideapad-130-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-98.png
+banner: /img/uploads/2023/01/image-98.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-98.png)
+![](/img/uploads/2023/01/image-98.webp)
 
 The device was given us in OS was not installed

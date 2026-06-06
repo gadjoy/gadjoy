@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/27/zebronics-cpu-dead-condition/
 description: Before After The CPU was given to us in a dead condition We did Water damage Service on the Motherboard & replaced SMPS and got it functional
 summary: Before After The CPU was given to us in a dead condition We did Water damage Service on the Motherboard & replaced SMPS and got it functional
-banner: /img/uploads/2022/03/Zebronics-CPU-–-before-Dead-Condition.png
+banner: /img/uploads/2022/03/Zebronics-CPU-–-before-Dead-Condition.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/Zebronics-CPU-–-before-Dead-Condition.png)
+![](/img/uploads/2022/03/Zebronics-CPU-–-before-Dead-Condition.webp)
 
 > The CPU was given to us in a dead condition
 
-![](/img/uploads/2022/03/Zebronics-CPU-–-after-Dead-Condition.png)
+![](/img/uploads/2022/03/Zebronics-CPU-–-after-Dead-Condition.webp)
 
 > We did **Water damage Service on the Motherboard & replaced SMPS** and got it functional

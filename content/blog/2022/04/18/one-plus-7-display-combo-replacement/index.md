@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/18/one-plus-7-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-74.png
+banner: /img/uploads/2022/04/image-74.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-74.png)
+![](/img/uploads/2022/04/image-74.webp)
 
 The device was given to us with display fully broken
 
-![](/img/uploads/2022/04/image-75.png)
+![](/img/uploads/2022/04/image-75.webp)
 
 We had replaced the **Display combo** and made is working

@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/10/code-numericals-to-words-from-0-99999/
 description: Problem Statement -To find numerical to word from 0 – 9999 Scope of work -Build a program that converts Numericals to words. Challenges -Nil Execution Strategy -Write pseudocode -Write the code in python -Tested with edge cases Value Added -If user wants to know the Numericals words from 0 – 99999 this code will be […]
 summary: Problem Statement -To find numerical to word from 0 – 9999 Scope of work -Build a program that converts Numericals to words. Challenges -Nil Execution Strategy -Write pseudocode -Write the code in python -Tested with edge cases Value Added -If user wants to know the Numericals words from 0 – 99999 this code will be […]
-banner: /img/uploads/2022/01/Code-–-Numericals-to-words-from-0-99999.png
+banner: /img/uploads/2022/01/Code-–-Numericals-to-words-from-0-99999.webp
 ---
 
-![](/img/uploads/2022/01/Code-–-Numericals-to-words-from-0-99999.png)
+![](/img/uploads/2022/01/Code-–-Numericals-to-words-from-0-99999.webp)
 
 **Problem Statement**
 

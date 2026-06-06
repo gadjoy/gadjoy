@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/18/samsung-galaxy-a02-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-70.png
+banner: /img/uploads/2023/08/image-70.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-70.png)
+![](/img/uploads/2023/08/image-70.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/08/image-71.png)
+![](/img/uploads/2023/08/image-71.webp)
 
 **We did chip level service and made the device work well**

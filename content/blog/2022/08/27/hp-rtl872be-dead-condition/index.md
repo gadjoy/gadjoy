@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/27/hp-rtl872be-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-82.png
+banner: /img/uploads/2022/08/image-82.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-82.png)
+![](/img/uploads/2022/08/image-82.webp)
 
 HP RTL872BE – Dead Condition
 
-![](/img/uploads/2022/08/image-83.png)
+![](/img/uploads/2022/08/image-83.webp)
 
 HP RTL872BE – Dead Condition

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/dell-inspiron-15-fan-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-25.png
+banner: /img/uploads/2023/08/image-25.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-25.png)
+![](/img/uploads/2023/08/image-25.webp)
 
 **The customer reported that the device was running slow and also the FAN error our service.**
 
-![](/img/uploads/2023/08/image-24.png)
+![](/img/uploads/2023/08/image-24.webp)
 
 **We successfully restored the functionality of the device by installing a new fan.**

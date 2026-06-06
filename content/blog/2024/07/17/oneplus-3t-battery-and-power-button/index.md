@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/17/oneplus-3t-battery-and-power-button/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-36.png
+banner: /img/uploads/2024/07/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-36.png)
+![](/img/uploads/2024/07/image-36.webp)
 
 **The device was received in only charging showing the condition and also unable to power It on**
 
-![](/img/uploads/2024/07/image-37.png)
+![](/img/uploads/2024/07/image-37.webp)
 
 **We got the device working and also able to use the power button by replacing of power button and the battery(checked the charging and discharging cycles)**

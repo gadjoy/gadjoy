@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/oneplus-5t-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-71.png
+banner: /img/uploads/2022/08/image-71.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-71.png)
+![](/img/uploads/2022/08/image-71.webp)
 
 OnePlus 5T – Dead Condition
 
-![](/img/uploads/2022/08/image-70.png)
+![](/img/uploads/2022/08/image-70.webp)
 
 OnePlus 5T – Dead Condition

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/vivo-v-11-pro-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-74.png
+banner: /img/uploads/2023/06/image-74.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-74.png)
+![](/img/uploads/2023/06/image-74.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-75.png)
+![](/img/uploads/2023/06/image-75.webp)
 
 **We had found that the display has to be changed and changed the display of the device got it working**

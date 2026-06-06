@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/20/samsung-m01-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-25.png
+banner: /img/uploads/2022/03/image-25.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-25.png)
+![](/img/uploads/2022/03/image-25.webp)
 
 The phone was given to us, with water damage in it
 
-![](/img/uploads/2022/03/image-26.png)
+![](/img/uploads/2022/03/image-26.webp)
 
 We had done the **General water Service** and made it switch ON

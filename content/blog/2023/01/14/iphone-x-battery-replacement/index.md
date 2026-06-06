@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/iphone-x-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-38.png
+banner: /img/uploads/2023/01/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-38.png)
+![](/img/uploads/2023/01/image-38.webp)
 
 The device was given to us in a less battery heath
 
-![](/img/uploads/2023/01/image-39.png)
+![](/img/uploads/2023/01/image-39.webp)
 
 We had replaced the battery of the device and checked the battery charging and discharging

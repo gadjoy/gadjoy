@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/01/samsung-galaxy-a12-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-5.png
+banner: /img/uploads/2023/10/image-5.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-5.png)
+![](/img/uploads/2023/10/image-5.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/10/image-6.png)
+![](/img/uploads/2023/10/image-6.webp)
 
 **We replaced display and made the device functioning well**

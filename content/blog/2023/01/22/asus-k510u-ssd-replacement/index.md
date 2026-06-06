@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/asus-k510u-ssd-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-208.png
+banner: /img/uploads/2023/01/image-208.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-208.png)
+![](/img/uploads/2023/01/image-208.webp)
 
 The device was given to us in slow condition
 
-![](/img/uploads/2023/01/image-209.png)
+![](/img/uploads/2023/01/image-209.webp)
 
 We had replaced the SSD of the device and made it fast

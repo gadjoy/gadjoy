@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/iphone-13-display-comb-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-17.png
+banner: /img/uploads/2024/09/image-17.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-17.png)
+![](/img/uploads/2024/09/image-17.webp)
 
 **The device was received in display was cracked and coloured lines was displacing**
 
-![](/img/uploads/2024/09/image-18.png)
+![](/img/uploads/2024/09/image-18.webp)
 
 **After the replacement of the device we got the device working without any issue**

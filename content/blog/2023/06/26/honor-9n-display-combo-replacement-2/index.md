@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/26/honor-9n-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-66.png
+banner: /img/uploads/2023/06/image-66.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-66.png)
+![](/img/uploads/2023/06/image-66.webp)
 
 **The device was given to us in a display glass cracked condition**
 
-![](/img/uploads/2023/06/image-67.png)
+![](/img/uploads/2023/06/image-67.webp)
 
 **We have repealed the display combo and made it working**

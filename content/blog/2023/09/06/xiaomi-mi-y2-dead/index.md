@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/xiaomi-mi-y2-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-35.png
+banner: /img/uploads/2023/09/image-35.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-35.png)
+![](/img/uploads/2023/09/image-35.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-34.png)
+![](/img/uploads/2023/09/image-34.webp)
 
 **We carried out a chip level service and improved the device performance**

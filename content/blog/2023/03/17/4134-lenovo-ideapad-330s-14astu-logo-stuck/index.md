@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/17/4134-lenovo-ideapad-330s-14astu-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-39.png
+banner: /img/uploads/2023/03/image-39.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-39.png)
+![](/img/uploads/2023/03/image-39.webp)
 
 **The device was given to us with Logo Struck condition**
 
-![](/img/uploads/2023/03/image-38.png)
+![](/img/uploads/2023/03/image-38.webp)
 
 **We did the Motherboard chip level service and solve the Logo stuck issue.**

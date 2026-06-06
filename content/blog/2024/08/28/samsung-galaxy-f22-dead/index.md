@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/08/28/samsung-galaxy-f22-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/08/image-22.png
+banner: /img/uploads/2024/08/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/08/image-22.png)
+![](/img/uploads/2024/08/image-22.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/08/image-23.png)
+![](/img/uploads/2024/08/image-23.webp)
 
 **After doing the services on the device mother bord we got the device working**

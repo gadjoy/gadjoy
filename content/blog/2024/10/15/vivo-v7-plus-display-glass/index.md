@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/15/vivo-v7-plus-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image-13.png
+banner: /img/uploads/2024/10/image-13.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image-13.png)
+![](/img/uploads/2024/10/image-13.webp)
 
 **The device was received in display glass cracked condition**
 
-![](/img/uploads/2024/10/image-14.png)
+![](/img/uploads/2024/10/image-14.webp)
 
 **After ONLY replacement of the display glass of the device with glass finish we made the device as good as new display**

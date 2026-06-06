@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/poco-f1-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/Poco-F1-before.png
+banner: /img/uploads/2022/08/Poco-F1-before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/Poco-F1-before.png)
+![](/img/uploads/2022/08/Poco-F1-before.webp)
 
 POCO F1 – Display Combo Replacement
 
-![](/img/uploads/2022/08/Poco-F1-after.png)
+![](/img/uploads/2022/08/Poco-F1-after.webp)
 
 POCO F1 – Display Combo Replacement

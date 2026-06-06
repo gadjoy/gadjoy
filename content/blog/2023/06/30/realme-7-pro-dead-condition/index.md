@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/realme-7-pro-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-78.png
+banner: /img/uploads/2023/06/image-78.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-78.png)
+![](/img/uploads/2023/06/image-78.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-79.png)
+![](/img/uploads/2023/06/image-79.webp)
 
 **We had done the chip level services and made the device work.**

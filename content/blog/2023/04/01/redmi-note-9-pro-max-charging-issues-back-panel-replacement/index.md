@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/01/redmi-note-9-pro-max-charging-issues-back-panel-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-2.png
+banner: /img/uploads/2023/04/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-2.png)
+![](/img/uploads/2023/04/image-2.webp)
 
 **The device was given to us with broken back glass**
 
-![](/img/uploads/2023/04/image-3.png)
+![](/img/uploads/2023/04/image-3.webp)
 
 **We have replaced the back panel of the device with glass finish**

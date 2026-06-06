@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/01/planter-2/
 description: Problem Statement -Make pots Scope of work -To put indoor plants in this type of designed pots. Challenges -To remove cement from mould is difficult. Execution Strategy -We applied grease on mould to remove the pot from the mould. -3D – Printed pot mold -Indoor plant -White cement Value Added -Can make business from this […]
 summary: Problem Statement -Make pots Scope of work -To put indoor plants in this type of designed pots. Challenges -To remove cement from mould is difficult. Execution Strategy -We applied grease on mould to remove the pot from the mould. -3D – Printed pot mold -Indoor plant -White cement Value Added -Can make business from this […]
-banner: /img/uploads/2022/01/Planter.png
+banner: /img/uploads/2022/01/Planter.webp
 ---
 
-![](/img/uploads/2022/01/Planter.png)
+![](/img/uploads/2022/01/Planter.webp)
 
 Problem Statement
 

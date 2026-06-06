@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/nokia-8-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-27.png
+banner: /img/uploads/2022/08/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-27.png)
+![](/img/uploads/2022/08/image-27.webp)
 
 Nokia 8 – Display Glass Replacement
 
-![](/img/uploads/2022/08/image-26.png)
+![](/img/uploads/2022/08/image-26.webp)
 
 Nokia 8 – Display Glass Replacement

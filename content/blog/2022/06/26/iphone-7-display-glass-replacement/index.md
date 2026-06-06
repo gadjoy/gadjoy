@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/06/26/iphone-7-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/06/image-24.png
+banner: /img/uploads/2022/06/image-24.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/06/image-24.png)
+![](/img/uploads/2022/06/image-24.webp)
 
 The device was given to us in display glass cracked condition
 
-![](/img/uploads/2022/06/image-25.png)
+![](/img/uploads/2022/06/image-25.webp)
 
 We had replaced the only the **Display glass** and made it better

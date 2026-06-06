@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/hp-14-r053tu-blank-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-58.png
+banner: /img/uploads/2024/05/image-58.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-58.png)
+![](/img/uploads/2024/05/image-58.webp)
 
 **The device was received in a dead condition**
 
-![](/img/uploads/2024/05/image-59.png)
+![](/img/uploads/2024/05/image-59.webp)
 
 **After replacing the battery we have checked the battery charging and discharging cycles to ensure the back-up**

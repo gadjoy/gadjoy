@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/lenovo-laptop-hdd-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-Before.jpg
+banner: /img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-Before.jpg)
+![](/img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-Before.webp)
 
 When laptop was given to us it’s HDD health was showing Caution
 
-![](/img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-After.jpg)
+![](/img/uploads/2022/01/Lenovo-Laptop-HDD-Replacement-After.webp)
 
 We had replaced the **HDD with Unused One** and done the software services

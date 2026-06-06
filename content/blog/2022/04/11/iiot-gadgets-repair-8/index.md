@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/04/11/iiot-gadgets-repair-8/
 description: Problem Statement -Dead Condition Scope of work -Change LED Challenges –Soldering LED on the board Execution Strategy -Blue LED -LED wires connecting Value Added -Made it working
 summary: Problem Statement -Dead Condition Scope of work -Change LED Challenges –Soldering LED on the board Execution Strategy -Blue LED -LED wires connecting Value Added -Made it working
-banner: /img/uploads/2022/04/IIOT-–-Gadgets-Repair.png
+banner: /img/uploads/2022/04/IIOT-–-Gadgets-Repair.webp
 ---
 
-![](/img/uploads/2022/04/IIOT-–-Gadgets-Repair.png)
+![](/img/uploads/2022/04/IIOT-–-Gadgets-Repair.webp)
 
 **Problem Statement**
 

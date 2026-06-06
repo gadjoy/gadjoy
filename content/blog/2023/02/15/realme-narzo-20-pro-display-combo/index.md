@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/15/realme-narzo-20-pro-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-61.png
+banner: /img/uploads/2023/02/image-61.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-61.png)
+![](/img/uploads/2023/02/image-61.webp)
 
 The device was given to us with Display  Issue
 
-![](/img/uploads/2023/02/image-62.png)
+![](/img/uploads/2023/02/image-62.webp)
 
 We replaced the display combo and made the device working

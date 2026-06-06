@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/oneplus-nord-2-5g-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-8.png
+banner: /img/uploads/2025/01/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-8.png)
+![](/img/uploads/2025/01/image-8.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2025/01/image-9.png)
+![](/img/uploads/2025/01/image-9.webp)
 
 **After checking the device, found that there was an issue on the power IC. So repairing that with the chip level service made the device working again**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/11/vivo-y20-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-37.png
+banner: /img/uploads/2022/05/image-37.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-37.png)
+![](/img/uploads/2022/05/image-37.webp)
 
 The device was given to with display cracked condition
 
-![](/img/uploads/2022/05/image-38.png)
+![](/img/uploads/2022/05/image-38.webp)
 
 We had replaced the display and made it work

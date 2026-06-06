@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/31/samsung-galaxy-tab-s6-lite-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-69.png
+banner: /img/uploads/2024/01/image-69.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-69.png)
+![](/img/uploads/2024/01/image-69.webp)
 
 **The tab was received in the display glass broken condition**
 
-![](/img/uploads/2024/01/image-70.png)
+![](/img/uploads/2024/01/image-70.webp)
 
 **We replaced only the display glass of the device with glass finish**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/30/dell-vostro-14-5401-blue-screen/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-299.png
+banner: /img/uploads/2023/01/image-299.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-299.png)
+![](/img/uploads/2023/01/image-299.webp)
 
 The device was given to us with Blue Screen  Issue
 
-![](/img/uploads/2023/01/image-300.png)
+![](/img/uploads/2023/01/image-300.webp)
 
 We had done Software Services  and made the device functioning well

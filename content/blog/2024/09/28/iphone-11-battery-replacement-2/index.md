@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/28/iphone-11-battery-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-45.png
+banner: /img/uploads/2024/09/image-45.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-45.png)
+![](/img/uploads/2024/09/image-45.webp)
 
 **The device was received in battery showing service condition and also less battery back-up**
 
-![](/img/uploads/2024/09/image-46.png)
+![](/img/uploads/2024/09/image-46.webp)
 
 **After replacing the battery and checked for the charging cycles and discharging cycles**

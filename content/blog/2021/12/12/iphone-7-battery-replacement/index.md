@@ -12,15 +12,15 @@ aliases:
 - /blog/2021/12/12/iphone-7-battery-replacement/
 description: Before After Before repairing the device, the phone was restarting several times, because the batter backup was too low.
 summary: Before After Before repairing the device, the phone was restarting several times, because the batter backup was too low.
-banner: /img/uploads/2021/12/iPhone-7-Before-Battery-Replacement-1-edited.jpg
+banner: /img/uploads/2021/12/iPhone-7-Before-Battery-Replacement-1-edited.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/iPhone-7-Before-Battery-Replacement-1-edited.jpg)
+![](/img/uploads/2021/12/iPhone-7-Before-Battery-Replacement-1-edited.webp)
 
-![](/img/uploads/2021/12/iPhone-7-After-Battery-Replacement-1-edited.jpg)
+![](/img/uploads/2021/12/iPhone-7-After-Battery-Replacement-1-edited.webp)
 
 Before repairing the device, the phone was restarting several times, because the batter backup was too low.

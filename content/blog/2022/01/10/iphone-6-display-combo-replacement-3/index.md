@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/10/iphone-6-display-combo-replacement-3/
 description: Before After When phone was given to us, top of the display was fully cracked, and  it was in dead condition We replaced Display combo and got it working
 summary: Before After When phone was given to us, top of the display was fully cracked, and  it was in dead condition We replaced Display combo and got it working
-banner: /img/uploads/2022/01/iPhone-6-before-Display-Combo-Replacement.jpg
+banner: /img/uploads/2022/01/iPhone-6-before-Display-Combo-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-6-before-Display-Combo-Replacement.jpg)
+![](/img/uploads/2022/01/iPhone-6-before-Display-Combo-Replacement.webp)
 
 > When phone was given to us, top of the display was fully cracked, and  it was in dead condition
 
-![](/img/uploads/2022/01/iPhone-6-after-Display-Combo-Replacement.jpg)
+![](/img/uploads/2022/01/iPhone-6-after-Display-Combo-Replacement.webp)
 
 > We replaced **Display combo** and got it working

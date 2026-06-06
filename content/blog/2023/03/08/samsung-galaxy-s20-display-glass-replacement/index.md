@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/08/samsung-galaxy-s20-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-10.png
+banner: /img/uploads/2023/03/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-10.png)
+![](/img/uploads/2023/03/image-10.webp)
 
 **The device was given to us with broken display glass**
 
-![](/img/uploads/2023/03/image-11.png)
+![](/img/uploads/2023/03/image-11.webp)
 
 **We had replaced only the display glass of the device with glass finish**

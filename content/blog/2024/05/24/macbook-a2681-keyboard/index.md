@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/macbook-a2681-keyboard/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-52.png
+banner: /img/uploads/2024/05/image-52.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-52.png)
+![](/img/uploads/2024/05/image-52.webp)
 
 **The device was given to us in keyboard not working condition**
 
-![](/img/uploads/2024/05/image-53.png)
+![](/img/uploads/2024/05/image-53.webp)
 
 **After replacing the keyboard we got the device and also keyboard working again**

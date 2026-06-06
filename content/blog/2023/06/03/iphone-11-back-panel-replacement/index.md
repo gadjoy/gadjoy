@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/03/iphone-11-back-panel-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-10.png
+banner: /img/uploads/2023/06/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-10.png)
+![](/img/uploads/2023/06/image-10.webp)
 
 **The device was given to us with broken back panel**
 
-![](/img/uploads/2023/06/image-11.png)
+![](/img/uploads/2023/06/image-11.webp)
 
 **We replaced back panel and made the device work.**

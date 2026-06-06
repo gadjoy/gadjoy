@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/15/realme-6-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-80.png
+banner: /img/uploads/2023/01/image-80.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-80.png)
+![](/img/uploads/2023/01/image-80.webp)
 
 The device was given to us in display cracked condition
 
-![](/img/uploads/2023/01/image-81.png)
+![](/img/uploads/2023/01/image-81.webp)
 
 We had replaced the display combo of the device and made it working

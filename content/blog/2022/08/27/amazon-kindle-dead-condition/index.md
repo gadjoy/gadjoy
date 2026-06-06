@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/27/amazon-kindle-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/Amazon-Kindle-dead-condition-before.png
+banner: /img/uploads/2022/08/Amazon-Kindle-dead-condition-before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/Amazon-Kindle-dead-condition-before.png)
+![](/img/uploads/2022/08/Amazon-Kindle-dead-condition-before.webp)
 
 Amazon Kindle dead condition
 
-![](/img/uploads/2022/08/Amazon-Kindle-After-dead-condition.png)
+![](/img/uploads/2022/08/Amazon-Kindle-After-dead-condition.webp)
 
 Amazon Kindle dead condition

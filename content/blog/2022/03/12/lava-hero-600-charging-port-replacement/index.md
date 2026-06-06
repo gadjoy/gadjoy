@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/12/lava-hero-600-charging-port-replacement/
 description: Before After When this phone was given to us, it was not charging We had replaced only the Charging Connector and made it charging
 summary: Before After When this phone was given to us, it was not charging We had replaced only the Charging Connector and made it charging
-banner: /img/uploads/2022/03/Lava-Hero-600-–-Before-Charging-Port-Replacement.png
+banner: /img/uploads/2022/03/Lava-Hero-600-–-Before-Charging-Port-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/Lava-Hero-600-–-Before-Charging-Port-Replacement.png)
+![](/img/uploads/2022/03/Lava-Hero-600-–-Before-Charging-Port-Replacement.webp)
 
 > When this phone was given to us, it was not charging
 
-![](/img/uploads/2022/03/Lava-Hero-600-–-After-Charging-Port-Replacement.png)
+![](/img/uploads/2022/03/Lava-Hero-600-–-After-Charging-Port-Replacement.webp)
 
 > We had replaced only the **Charging Connector** and made it charging

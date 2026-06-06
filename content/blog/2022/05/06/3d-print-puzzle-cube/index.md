@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/05/06/3d-print-puzzle-cube/
 description: 'Problem Statement -Puzzle quiz Scope of work – Building a cube Challenges -Nil Execution Strategy •Rafts: No •Supports: No •Resolution: 0.28 •Infill: 20 •Value Added -3 identical parts that slide together in a satisfying way to create a cube'
 summary: 'Problem Statement -Puzzle quiz Scope of work – Building a cube Challenges -Nil Execution Strategy •Rafts: No •Supports: No •Resolution: 0.28 •Infill: 20 •Value Added -3 identical parts that slide together in a satisfying way to create a cube'
-banner: /img/uploads/2022/05/image-10.png
+banner: /img/uploads/2022/05/image-10.webp
 ---
 
-![](/img/uploads/2022/05/image-10.png)
+![](/img/uploads/2022/05/image-10.webp)
 
 **Problem Statement** -Puzzle quiz
 

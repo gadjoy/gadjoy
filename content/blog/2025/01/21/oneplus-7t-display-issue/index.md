@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/oneplus-7t-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-25.png
+banner: /img/uploads/2025/01/image-25.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-25.png)
+![](/img/uploads/2025/01/image-25.webp)
 
 **The device received dead condition**
 
-![](/img/uploads/2025/01/image-24.png)
+![](/img/uploads/2025/01/image-24.webp)
 
 **After the replacement and a small service on the device board was made it working**

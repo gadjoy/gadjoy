@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/16/asus-a50-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-60.png
+banner: /img/uploads/2022/04/image-60.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-60.png)
+![](/img/uploads/2022/04/image-60.webp)
 
 The laptop was given to us in dead condition
 
-![](/img/uploads/2022/04/image-61.png)
+![](/img/uploads/2022/04/image-61.webp)
 
 We had done the **Service on the Board level** and made it work

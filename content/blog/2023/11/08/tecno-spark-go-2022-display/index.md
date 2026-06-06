@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/08/tecno-spark-go-2022-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-10.png
+banner: /img/uploads/2023/11/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-10.png)
+![](/img/uploads/2023/11/image-10.webp)
 
 **The device was given to us with  broken display condition**
 
-![](/img/uploads/2023/11/image-11.png)
+![](/img/uploads/2023/11/image-11.webp)
 
 **We Replaced Display and made the device work well**

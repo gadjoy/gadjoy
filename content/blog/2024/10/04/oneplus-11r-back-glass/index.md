@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/04/oneplus-11r-back-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image-6.png
+banner: /img/uploads/2024/10/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image-6.png)
+![](/img/uploads/2024/10/image-6.webp)
 
 **The device was received in a condition where the back panel was broken and cracked**
 
-![](/img/uploads/2024/10/image-7.png)
+![](/img/uploads/2024/10/image-7.webp)
 
 **After replacing the  back panel of the device, and checked the network also.**

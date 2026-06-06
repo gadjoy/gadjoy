@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/realme-12-pro-dead-and-software/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-18.png
+banner: /img/uploads/2025/01/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-18.png)
+![](/img/uploads/2025/01/image-18.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2025/01/image-19.png)
+![](/img/uploads/2025/01/image-19.webp)
 
 **The device has been replaced with a chip-level service and also software service was done**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/13/sony-vaio-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-26.png
+banner: /img/uploads/2023/01/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-26.png)
+![](/img/uploads/2023/01/image-26.webp)
 
 The device was given to us dead condition
 
-![](/img/uploads/2023/01/image-27.png)
+![](/img/uploads/2023/01/image-27.webp)
 
 We had done the chip level service on the device

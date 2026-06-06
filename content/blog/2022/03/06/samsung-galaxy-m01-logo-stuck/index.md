@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/06/samsung-galaxy-m01-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-6.png
+banner: /img/uploads/2022/03/image-6.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-6.png)
+![](/img/uploads/2022/03/image-6.webp)
 
 The device was given to us with logo stuck condition
 
-![](/img/uploads/2022/03/image-7.png)
+![](/img/uploads/2022/03/image-7.webp)
 
 We had done the **service on the motherboard** and got it booting well

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/29/lenovo-tab-pb1750m-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-291.png
+banner: /img/uploads/2023/01/image-291.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-291.png)
+![](/img/uploads/2023/01/image-291.webp)
 
 The device was given to us with Charging Port issue
 
-![](/img/uploads/2023/01/image-292.png)
+![](/img/uploads/2023/01/image-292.webp)
 
 We had  repaired charging port and made the device functioning well

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/26/poco-m2-display-combo-replacement-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-52.png
+banner: /img/uploads/2023/06/image-52.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-52.png)
+![](/img/uploads/2023/06/image-52.webp)
 
 **The device was given to us in no display condition**
 
-![](/img/uploads/2023/06/image-53.png)
+![](/img/uploads/2023/06/image-53.webp)
 
 **We had replaced the display combo of the device and got it active**

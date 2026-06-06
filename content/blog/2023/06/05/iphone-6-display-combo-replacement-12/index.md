@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/05/iphone-6-display-combo-replacement-12/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-16.png
+banner: /img/uploads/2023/06/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-16.png)
+![](/img/uploads/2023/06/image-16.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-17.png)
+![](/img/uploads/2023/06/image-17.webp)
 
 **We replaced display and made the device work.**

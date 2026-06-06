@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/21/macbook-air-a1466-battery-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-41.png
+banner: /img/uploads/2024/01/image-41.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-41.png)
+![](/img/uploads/2024/01/image-41.webp)
 
 **The device was received in a condition in which it was deeping up after the full battery usage**
 
-![](/img/uploads/2024/01/image-40.png)
+![](/img/uploads/2024/01/image-40.webp)
 
 **We had done the hardware service on the board and got the issues ersolved**

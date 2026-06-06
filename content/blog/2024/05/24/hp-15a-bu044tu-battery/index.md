@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/hp-15a-bu044tu-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-50.png
+banner: /img/uploads/2024/05/image-50.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-50.png)
+![](/img/uploads/2024/05/image-50.webp)
 
 **The device was received in battery not working condition**
 
-![](/img/uploads/2024/05/image-51.png)
+![](/img/uploads/2024/05/image-51.webp)
 
 **After replacing the device battery we checked the battery charging and discharging cycles to ensure the back-up time**

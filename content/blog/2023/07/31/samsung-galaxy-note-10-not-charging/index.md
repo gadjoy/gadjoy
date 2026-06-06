@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/31/samsung-galaxy-note-10-not-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-71.png
+banner: /img/uploads/2023/07/image-71.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-71.png)
+![](/img/uploads/2023/07/image-71.webp)
 
 **The device was given to us with  charging logo restarting condition**
 
-![](/img/uploads/2023/07/image-73.png)
+![](/img/uploads/2023/07/image-73.webp)
 
 **We replaced  charging port and made the device  functioning well**

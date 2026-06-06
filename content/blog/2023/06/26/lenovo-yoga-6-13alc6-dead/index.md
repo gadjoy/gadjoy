@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/26/lenovo-yoga-6-13alc6-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-64.png
+banner: /img/uploads/2023/06/image-64.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-64.png)
+![](/img/uploads/2023/06/image-64.webp)
 
 **The device was given to us dead condition**
 
-![](/img/uploads/2023/06/image-65.png)
+![](/img/uploads/2023/06/image-65.webp)
 
 **We had done the chip level service and made it working**

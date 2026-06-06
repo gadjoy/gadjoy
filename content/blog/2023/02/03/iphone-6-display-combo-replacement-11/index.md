@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/03/iphone-6-display-combo-replacement-11/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-8.png
+banner: /img/uploads/2023/02/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-8.png)
+![](/img/uploads/2023/02/image-8.webp)
 
 The device was given to us display combo broken and disabled condition
 
-![](/img/uploads/2023/02/image-9.png)
+![](/img/uploads/2023/02/image-9.webp)
 
 We had replaced the display combo and done the software services on the device and made it work

@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/hp-15q-ds0016tu-slow/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-34.png
+banner: /img/uploads/2025/01/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-34.png)
+![](/img/uploads/2025/01/image-34.webp)
 
 **The device was received in very SLOW condition**
 
-![](/img/uploads/2025/01/image-35.png)
+![](/img/uploads/2025/01/image-35.webp)
 
 **We did the software services on the device and make the device in such a way that it work faster**

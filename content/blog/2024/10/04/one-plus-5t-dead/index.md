@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/04/one-plus-5t-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image-8.png
+banner: /img/uploads/2024/10/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image-8.png)
+![](/img/uploads/2024/10/image-8.webp)
 
 **The device was received dead condition**
 
-![](/img/uploads/2024/10/image-9.png)
+![](/img/uploads/2024/10/image-9.webp)
 
 **After doing a chip level service we made the device work well**

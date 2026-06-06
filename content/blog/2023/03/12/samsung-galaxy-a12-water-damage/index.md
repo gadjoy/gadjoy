@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/12/samsung-galaxy-a12-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-21.png
+banner: /img/uploads/2023/03/image-21.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-21.png)
+![](/img/uploads/2023/03/image-21.webp)
 
 **The device was given to us with water damage**
 
-![](/img/uploads/2023/03/image-22.png)
+![](/img/uploads/2023/03/image-22.webp)
 
 **We had done in chip level service and made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/08/28/lenovo-z50-70-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/08/image-26.png
+banner: /img/uploads/2024/08/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/08/image-26.png)
+![](/img/uploads/2024/08/image-26.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/08/image-27.png)
+![](/img/uploads/2024/08/image-27.webp)
 
 **After doing service on the mother board on the device, we got the device active condition**

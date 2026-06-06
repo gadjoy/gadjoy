@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/23/one-plus-7-pro-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-43.png
+banner: /img/uploads/2023/10/image-43.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-43.png)
+![](/img/uploads/2023/10/image-43.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/10/image-44.png)
+![](/img/uploads/2023/10/image-44.webp)
 
 **We had done the chip level service on the mother-board of the device and got it working**

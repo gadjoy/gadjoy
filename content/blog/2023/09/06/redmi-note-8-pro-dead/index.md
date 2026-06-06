@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/redmi-note-8-pro-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-12.png
+banner: /img/uploads/2023/09/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-12.png)
+![](/img/uploads/2023/09/image-12.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-13.png)
+![](/img/uploads/2023/09/image-13.webp)
 
 **We carried out a chip level service and improved the device performance**

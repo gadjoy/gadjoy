@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/28/oppo-f11-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-120.png
+banner: /img/uploads/2023/02/image-120.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-120.png)
+![](/img/uploads/2023/02/image-120.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/02/image-121.png)
+![](/img/uploads/2023/02/image-121.webp)
 
 **We replaced display and made the device functioning.**

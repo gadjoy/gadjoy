@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/samsung-galaxy-a52s-charging-port/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-32.png
+banner: /img/uploads/2025/01/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-32.png)
+![](/img/uploads/2025/01/image-32.webp)
 
 **The device was received not charging condition**
 
-![](/img/uploads/2025/01/image-33.png)
+![](/img/uploads/2025/01/image-33.webp)
 
 **The device has been replaced with a charging connector and also checked the charging and discharging cycles**

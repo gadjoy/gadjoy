@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/samsung-galaxy-a50s-sim-tray-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-42.png
+banner: /img/uploads/2023/08/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-42.png)
+![](/img/uploads/2023/08/image-42.webp)
 
 **The device had a broken SIM tray that was stuck inside the mobile.**
 
-![](/img/uploads/2023/08/image-43.png)
+![](/img/uploads/2023/08/image-43.webp)
 
 **We installed a new SIM tray and restored the device functionality.**

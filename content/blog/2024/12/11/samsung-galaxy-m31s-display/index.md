@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/11/samsung-galaxy-m31s-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-16.png
+banner: /img/uploads/2024/12/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-16.png)
+![](/img/uploads/2024/12/image-16.webp)
 
 **The device was received in the no display condition**
 
-![](/img/uploads/2024/12/image-17.png)
+![](/img/uploads/2024/12/image-17.webp)
 
 **After a diagnosing, we found that the device has the issue with the display so after the replacement of it made the device work well**

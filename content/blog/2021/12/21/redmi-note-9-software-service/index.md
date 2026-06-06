@@ -12,16 +12,16 @@ aliases:
 - /blog/2021/12/21/redmi-note-9-software-service/
 description: Before After When phone was given to us in locked condition, the customer had forgotten the password We did software services and unlocked the phone
 summary: Before After When phone was given to us in locked condition, the customer had forgotten the password We did software services and unlocked the phone
-banner: /img/uploads/2021/12/Redmi-note-9-Before-Software-Service-edited.jpg
+banner: /img/uploads/2021/12/Redmi-note-9-Before-Software-Service-edited.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Redmi-note-9-Before-Software-Service-edited.jpg)
+![](/img/uploads/2021/12/Redmi-note-9-Before-Software-Service-edited.webp)
 
-![](/img/uploads/2021/12/Redmi-note-9-After-Software-Service-edited.jpg)
+![](/img/uploads/2021/12/Redmi-note-9-After-Software-Service-edited.webp)
 
 > When phone was given to us in locked condition, the customer had forgotten the password
 

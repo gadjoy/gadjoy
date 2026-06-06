@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/09/redmi-c2-display-combo-replacement/
 description: Before After When phone was given to us, it was in dead condition and display was fully cracked We replaced Display Combo and made it functional
 summary: Before After When phone was given to us, it was in dead condition and display was fully cracked We replaced Display Combo and made it functional
-banner: /img/uploads/2022/02/Redmi-C2-–-Before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/02/Redmi-C2-–-Before-Display-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/02/Redmi-C2-–-Before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Redmi-C2-–-Before-Display-Combo-Replacement.webp)
 
 When phone was given to us, it was in dead condition and display was fully cracked
 
-![](/img/uploads/2022/02/Redmi-C2-–-After-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Redmi-C2-–-After-Display-Combo-Replacement.webp)
 
 > We replaced **Display Combo** and made it functional

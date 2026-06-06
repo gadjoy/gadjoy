@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/ipad-a147-ipad-a1474-touch-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-18.png
+banner: /img/uploads/2023/09/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-18.png)
+![](/img/uploads/2023/09/image-18.webp)
 
 **The device was given to us with touch issue**
 
-![](/img/uploads/2023/09/image-19.png)
+![](/img/uploads/2023/09/image-19.webp)
 
 **We replaced only the display glass of the device with glass finish**

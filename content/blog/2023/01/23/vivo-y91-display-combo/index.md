@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/23/vivo-y91-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-247.png
+banner: /img/uploads/2023/01/image-247.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-247.png)
+![](/img/uploads/2023/01/image-247.webp)
 
 The device was given to us with display issue
 
-![](/img/uploads/2023/01/image-248.png)
+![](/img/uploads/2023/01/image-248.webp)
 
 We had display replacement  and made it working well

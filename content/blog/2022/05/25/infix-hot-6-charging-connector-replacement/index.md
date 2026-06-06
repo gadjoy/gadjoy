@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/25/infix-hot-6-charging-connector-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-63.png
+banner: /img/uploads/2022/05/image-63.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-63.png)
+![](/img/uploads/2022/05/image-63.webp)
 
 The device was given to us to replace the charging connector of the device
 
-![](/img/uploads/2022/05/image-64.png)
+![](/img/uploads/2022/05/image-64.webp)
 
 We had replaced the **Charging connector** and made it chargeable

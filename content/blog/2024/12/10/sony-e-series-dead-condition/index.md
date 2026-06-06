@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/10/sony-e-series-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image.png
+banner: /img/uploads/2024/12/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image.png)
+![](/img/uploads/2024/12/image.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/12/image-1.png)
+![](/img/uploads/2024/12/image-1.webp)
 
 **After the service on the mother board, we got the device functioning again**

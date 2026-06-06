@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/15/vivo-y21t-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-56.png
+banner: /img/uploads/2023/01/image-56.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-56.png)
+![](/img/uploads/2023/01/image-56.webp)
 
 The device was given to us in a display fully broken condition
 
-![](/img/uploads/2023/01/image-57.png)
+![](/img/uploads/2023/01/image-57.webp)
 
 We had replaced the display combo of the device and made it working

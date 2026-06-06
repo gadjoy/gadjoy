@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/dell-inspiron-15-3251-wi-fi-not-working/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-12.png
+banner: /img/uploads/2022/08/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-12.png)
+![](/img/uploads/2022/08/image-12.webp)
 
 Dell Inspiron 15-3251 – Wi-Fi Not working
 
-![](/img/uploads/2022/08/image-13.png)
+![](/img/uploads/2022/08/image-13.webp)
 
 Dell Inspiron 15-3251 – Wi-Fi Not working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/samsung-galaxy-m31-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-Befor.jpg
+banner: /img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-Befor.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-Befor.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-Befor.webp)
 
 Phone was given to us with blank display and only vibration was coming
 
-![](/img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-After-1.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-M31-Display-Combo-Replacement-After-1.webp)
 
 We had replaced the **Display Combo** and got it fully working

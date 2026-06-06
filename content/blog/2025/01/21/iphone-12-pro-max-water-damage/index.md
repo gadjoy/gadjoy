@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/iphone-12-pro-max-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-10.png
+banner: /img/uploads/2025/01/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-10.png)
+![](/img/uploads/2025/01/image-10.webp)
 
 **The device was received in dead and waster damage condition**
 
-![](/img/uploads/2025/01/image-11.png)
+![](/img/uploads/2025/01/image-11.webp)
 
 **After keeping the device in desiccant and a service on the mother board made the device functioning again**

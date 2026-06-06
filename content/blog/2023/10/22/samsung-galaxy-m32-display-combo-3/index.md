@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/22/samsung-galaxy-m32-display-combo-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-35.png
+banner: /img/uploads/2023/10/image-35.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-35.png)
+![](/img/uploads/2023/10/image-35.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/10/image-36.png)
+![](/img/uploads/2023/10/image-36.webp)
 
 **We did chip level service and made the device work well**

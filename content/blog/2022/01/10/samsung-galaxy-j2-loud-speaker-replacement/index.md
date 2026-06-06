@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/10/samsung-galaxy-j2-loud-speaker-replacement/
 description: Before After When phone was given to us, it’s loudspeaker was not working properly. We replaced Loudspeaker and made it proper
 summary: Before After When phone was given to us, it’s loudspeaker was not working properly. We replaced Loudspeaker and made it proper
-banner: /img/uploads/2022/01/Samsung-Galaxy-J2-before-Loud-Speaker-Replacement.jpg
+banner: /img/uploads/2022/01/Samsung-Galaxy-J2-before-Loud-Speaker-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Samsung-Galaxy-J2-before-Loud-Speaker-Replacement.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-J2-before-Loud-Speaker-Replacement.webp)
 
 > When phone was given to us, it’s loudspeaker was not working properly.
 
-![](/img/uploads/2022/01/Samsung-Galaxy-J2-after-Loud-Speaker-Replacement.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-J2-after-Loud-Speaker-Replacement.webp)
 
 > We replaced **Loudspeaker** and made it proper

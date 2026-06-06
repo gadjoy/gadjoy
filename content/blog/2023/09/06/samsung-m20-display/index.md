@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/samsung-m20-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-20.png
+banner: /img/uploads/2023/09/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-20.png)
+![](/img/uploads/2023/09/image-20.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/09/image-21.png)
+![](/img/uploads/2023/09/image-21.webp)
 
 **By swapping the display combo of the device, we made it functional again.**

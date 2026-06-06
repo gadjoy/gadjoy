@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/11/oppo-f15-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-21.png
+banner: /img/uploads/2024/12/image-21.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-21.png)
+![](/img/uploads/2024/12/image-21.webp)
 
 **The device was received in password forgotten condition**
 
-![](/img/uploads/2024/12/image-22.png)
+![](/img/uploads/2024/12/image-22.webp)
 
 **After a software service, we unlocked the device and made it to use as normal**

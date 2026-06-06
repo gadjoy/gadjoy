@@ -10,17 +10,17 @@ categories:
 tags: []
 aliases:
 - /blog/2022/03/20/lenovo-a6000-dead-condition/
-banner: /img/uploads/2022/03/image-29.png
+banner: /img/uploads/2022/03/image-29.webp
 ---
 
 ####
 
 ####
 
-![](/img/uploads/2022/03/image-29.png)
+![](/img/uploads/2022/03/image-29.webp)
 
 The phone was given to us with dead condition
 
-![](/img/uploads/2022/03/image-30.png)
+![](/img/uploads/2022/03/image-30.webp)
 
 We had **Replaced the Charging port of the device** and got it working

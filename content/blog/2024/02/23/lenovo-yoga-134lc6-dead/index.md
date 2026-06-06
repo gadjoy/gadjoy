@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/23/lenovo-yoga-134lc6-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-25.png
+banner: /img/uploads/2024/02/image-25.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-25.png)
+![](/img/uploads/2024/02/image-25.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/02/image-26.png)
+![](/img/uploads/2024/02/image-26.webp)
 
 **We had checked the mother board of the device and don service on it and made it work**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/samsung-a51s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-78.png
+banner: /img/uploads/2022/08/image-78.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-78.png)
+![](/img/uploads/2022/08/image-78.webp)
 
 Samsung A51s – Dead
 
-![](/img/uploads/2022/08/image-79.png)
+![](/img/uploads/2022/08/image-79.webp)
 
 Samsung A51s – Dead

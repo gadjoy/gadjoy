@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/28/oneplus-7t-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-277.png
+banner: /img/uploads/2023/01/image-277.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-277.png)
+![](/img/uploads/2023/01/image-277.webp)
 
 The device was given to us with display Issue
 
-![](/img/uploads/2023/01/image-278.png)
+![](/img/uploads/2023/01/image-278.webp)
 
 We had replaced display combo and made the device functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/04/dell-inspiron-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-2.png
+banner: /img/uploads/2022/03/image-2.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-2.png)
+![](/img/uploads/2022/03/image-2.webp)
 
 The laptop was given to us, to reinstall the Operating System
 
-![](/img/uploads/2022/03/image-3.png)
+![](/img/uploads/2022/03/image-3.webp)
 
 We had Reinstalled the operating System and made it useful

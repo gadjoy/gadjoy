@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/vivo-s1-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-20.png
+banner: /img/uploads/2025/01/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-20.png)
+![](/img/uploads/2025/01/image-20.webp)
 
 **The device was received dead condition**
 
-![](/img/uploads/2025/01/image-21.png)
+![](/img/uploads/2025/01/image-21.webp)
 
 **After the checking up on the device board level, it was has the issue with the display, after the replacement of that was made the device active to use**

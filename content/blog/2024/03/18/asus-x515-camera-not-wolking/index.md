@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/asus-x515-camera-not-wolking/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-33.png
+banner: /img/uploads/2024/03/image-33.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-33.png)
+![](/img/uploads/2024/03/image-33.webp)
 
 **The device was received in a condition in which the webcam was not working**
 
-![](/img/uploads/2024/03/image-34.png)
+![](/img/uploads/2024/03/image-34.webp)
 
 **After performing a software service and updating the drivers for the webcam, we successfully restored functionality to the camera.**

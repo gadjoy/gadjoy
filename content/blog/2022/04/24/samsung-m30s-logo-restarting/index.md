@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/24/samsung-m30s-logo-restarting/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-99.png
+banner: /img/uploads/2022/04/image-99.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-99.png)
+![](/img/uploads/2022/04/image-99.webp)
 
 The device was given to us with logo restarting condition
 
-![](/img/uploads/2022/04/image-100.png)
+![](/img/uploads/2022/04/image-100.webp)
 
 We had done **service on the motherboard** and made is work

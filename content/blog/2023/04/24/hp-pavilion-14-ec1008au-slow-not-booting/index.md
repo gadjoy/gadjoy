@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/24/hp-pavilion-14-ec1008au-slow-not-booting/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-57.png
+banner: /img/uploads/2023/04/image-57.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-57.png)
+![](/img/uploads/2023/04/image-57.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/04/image-58.png)
+![](/img/uploads/2023/04/image-58.webp)
 
 **We did the software services and made the device work.**

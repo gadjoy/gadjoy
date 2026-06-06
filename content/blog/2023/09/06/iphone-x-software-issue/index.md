@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/iphone-x-software-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-36.png
+banner: /img/uploads/2023/09/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-36.png)
+![](/img/uploads/2023/09/image-36.webp)
 
 **The device was given to us in white screen issues**
 
-![](/img/uploads/2023/09/image-37.png)
+![](/img/uploads/2023/09/image-37.webp)
 
 **We did the software service and got the device is well working condition**

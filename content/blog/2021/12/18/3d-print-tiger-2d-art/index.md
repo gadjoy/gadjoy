@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/18/3d-print-tiger-2d-art/
 description: Problem Statement -Wall art Scope of work -3D – Printed -PLA – Filament Challenges Nil Execution Strategy Nil Value Added -This is a 2D wall art, to decorate the walls -Can stick In the walls as sculpture
 summary: Problem Statement -Wall art Scope of work -3D – Printed -PLA – Filament Challenges Nil Execution Strategy Nil Value Added -This is a 2D wall art, to decorate the walls -Can stick In the walls as sculpture
-banner: /img/uploads/2021/12/Tiger-2D-art.png
+banner: /img/uploads/2021/12/Tiger-2D-art.webp
 ---
 
-![](/img/uploads/2021/12/Tiger-2D-art.png)
+![](/img/uploads/2021/12/Tiger-2D-art.webp)
 
 **Problem Statement** -Wall art
 

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/24/iphone-x-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-57.png
+banner: /img/uploads/2022/05/image-57.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-57.png)
+![](/img/uploads/2022/05/image-57.webp)
 
 The iPhone was given to us with a display glass cracked
 
-![](/img/uploads/2022/05/image-58.png)
+![](/img/uploads/2022/05/image-58.webp)
 
 We had replaced the display glass replacement with a glass finish

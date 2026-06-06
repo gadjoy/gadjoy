@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/30/samsung-a51-display-glass-replacement/
 description: When this phone was given to us, top of the display was fully cracked We replaced Display Glass and got it operating
 summary: When this phone was given to us, top of the display was fully cracked We replaced Display Glass and got it operating
-banner: /img/uploads/2022/01/Samsung-A51-–-Before-Display-Glass-Replacement.png
+banner: /img/uploads/2022/01/Samsung-A51-–-Before-Display-Glass-Replacement.webp
 ---
 
 ####
 
 ####
 
-![](/img/uploads/2022/01/Samsung-A51-–-Before-Display-Glass-Replacement.png)
+![](/img/uploads/2022/01/Samsung-A51-–-Before-Display-Glass-Replacement.webp)
 
 > When this phone was given to us, top of the display was fully cracked
 
-![](/img/uploads/2022/01/Samsung-A51-–-After-Display-Glass-Replacement.png)
+![](/img/uploads/2022/01/Samsung-A51-–-After-Display-Glass-Replacement.webp)
 
 > We replaced **Display Glass** and got it operating

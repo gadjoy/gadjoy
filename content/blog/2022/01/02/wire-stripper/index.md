@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/02/wire-stripper/
 description: Problem Statement •Wire Stripping Tool SOW •3D – Printed •PLA – Filament Challenges •Getting the right kind of blade. Execution Strategy •Printed in DIY printer, and blade used from Stanly Knife Value Added •A simple tool for stripping the wire with printed and harvested parts
 summary: Problem Statement •Wire Stripping Tool SOW •3D – Printed •PLA – Filament Challenges •Getting the right kind of blade. Execution Strategy •Printed in DIY printer, and blade used from Stanly Knife Value Added •A simple tool for stripping the wire with printed and harvested parts
-banner: /img/uploads/2022/01/Wire-Stripper.jpg
+banner: /img/uploads/2022/01/Wire-Stripper.webp
 ---
 
-![](/img/uploads/2022/01/Wire-Stripper.jpg)
+![](/img/uploads/2022/01/Wire-Stripper.webp)
 
 **Problem** **Statement** •Wire Stripping Tool
 

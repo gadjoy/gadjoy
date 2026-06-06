@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/01/iphone-6s-display-combo-replacement-5/
 description: Before After The iPhone was given to us with a black line on top of the screen We had replaced the Display Combo and got it fully operating
 summary: Before After The iPhone was given to us with a black line on top of the screen We had replaced the Display Combo and got it fully operating
-banner: /img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-before.jpg
+banner: /img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-before.jpg)
+![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-before.webp)
 
 The iPhone was given to us with a black line on top of the screen
 
-![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-after.jpg)
+![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-after.webp)
 
 We had replaced the **Display Combo** and got it fully operating

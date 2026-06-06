@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/moto-e-power-dead-condition/
 description: Before After When phone was given to us it was in dead condition We did general service and got it fully functional for the customer
 summary: Before After When phone was given to us it was in dead condition We did general service and got it fully functional for the customer
-banner: /img/uploads/2021/12/Moto-E-Power-Before-Dead-Condition.jpg
+banner: /img/uploads/2021/12/Moto-E-Power-Before-Dead-Condition.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Moto-E-Power-Before-Dead-Condition.jpg)
+![](/img/uploads/2021/12/Moto-E-Power-Before-Dead-Condition.webp)
 
 > When phone was given to us it was in dead condition
 
-![](/img/uploads/2021/12/Moto-E-Power-After-Dead-Condition.jpg)
+![](/img/uploads/2021/12/Moto-E-Power-After-Dead-Condition.webp)
 
 > We did general service and got it fully functional for the customer

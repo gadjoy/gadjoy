@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/iphone-6s-battery-replacement-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/iPhone-6s-Battery-Replacement-Before-2.jpg
+banner: /img/uploads/2022/01/iPhone-6s-Battery-Replacement-Before-2.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-6s-Battery-Replacement-Before-2.jpg)
+![](/img/uploads/2022/01/iPhone-6s-Battery-Replacement-Before-2.webp)
 
 The iPhone was given to us to replace the Battery
 
-![](/img/uploads/2022/01/iPhone-6s-Battery-Replacement-After-3.jpg)
+![](/img/uploads/2022/01/iPhone-6s-Battery-Replacement-After-3.webp)
 
 We had replaced the **Battery** and it had good power back-Up

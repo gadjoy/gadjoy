@@ -12,7 +12,7 @@ aliases:
 - /blog/2023/04/23/redmi-note-9-pro-max-logo-restart/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-54.png
+banner: /img/uploads/2023/04/image-54.webp
 ---
 
 ## Before
@@ -21,6 +21,6 @@ banner: /img/uploads/2023/04/image-54.png
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/04/image-54.png)
+![](/img/uploads/2023/04/image-54.webp)
 
 **We did the general services and made the device work.**

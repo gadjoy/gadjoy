@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/samsung-m31s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-73.png
+banner: /img/uploads/2022/08/image-73.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-73.png)
+![](/img/uploads/2022/08/image-73.webp)
 
 Samsung M31s – Dead
 
-![](/img/uploads/2022/08/image-72.png)
+![](/img/uploads/2022/08/image-72.webp)
 
 Samsung M31s – Dead

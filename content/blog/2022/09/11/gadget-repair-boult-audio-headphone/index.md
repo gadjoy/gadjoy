@@ -12,7 +12,7 @@ aliases:
 - /blog/2022/09/11/gadget-repair-boult-audio-headphone/
 description: Problem Statement -One side not working Scope of work – Soldering the unsoldered wires Challenges –  Connect the both mic and base in one joint and that joint should be connected to the speaker Execution Strategy •Before joining the wire fire it up and skin it •Value Added -Made it working
 summary: Problem Statement -One side not working Scope of work – Soldering the unsoldered wires Challenges –  Connect the both mic and base in one joint and that joint should be connected to the speaker Execution Strategy •Before joining the wire fire it up and skin it •Value Added -Made it working
-banner: /img/uploads/2022/09/image.png
+banner: /img/uploads/2022/09/image.webp
 ---
 
 **Problem Statement** -One side not working
@@ -27,10 +27,10 @@ banner: /img/uploads/2022/09/image.png
 
 **Execution Strategy** •Before joining the wire fire it up and skin it •**Value Added** -Made it working
 
-![](/img/uploads/2022/09/image.png)
+![](/img/uploads/2022/09/image.webp)
 
 Before
 
-![](/img/uploads/2022/09/image-1.png)
+![](/img/uploads/2022/09/image-1.webp)
 
 After

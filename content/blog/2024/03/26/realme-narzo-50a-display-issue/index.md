@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/26/realme-narzo-50a-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-48.png
+banner: /img/uploads/2024/03/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-48.png)
+![](/img/uploads/2024/03/image-48.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/03/image-49.png)
+![](/img/uploads/2024/03/image-49.webp)
 
 **We repaired the device by replacing the broken display with restoring its functionality.**

@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/28/hp-elite-book-840g4-not-working/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-86.png
+banner: /img/uploads/2022/08/image-86.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-86.png)
+![](/img/uploads/2022/08/image-86.webp)
 
 HP Elite Book 840G4 – Not Working
 
-![](/img/uploads/2022/08/image-87.png)
+![](/img/uploads/2022/08/image-87.webp)
 
 HP Elite Book 840G4 – Not Working

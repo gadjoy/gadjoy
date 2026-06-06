@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/hp-15-ay020tu-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-206.png
+banner: /img/uploads/2023/01/image-206.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-206.png)
+![](/img/uploads/2023/01/image-206.webp)
 
 The device was given to us in battery caution condition
 
-![](/img/uploads/2023/01/image-207.png)
+![](/img/uploads/2023/01/image-207.webp)
 
 We had replaced the battery of the device and checked the charging and discharging cycles

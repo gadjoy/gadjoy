@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/21/vivo-v17-pro-not-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-45.png
+banner: /img/uploads/2023/07/image-45.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-45.png)
+![](/img/uploads/2023/07/image-45.webp)
 
 **The device was given to us in  charging logo restarting condition**
 
-![](/img/uploads/2023/07/image-46.png)
+![](/img/uploads/2023/07/image-46.webp)
 
 **We replaced of the charging port and got it working**

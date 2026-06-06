@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/18/iphone-6s-battery-replacement-7/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-166.png
+banner: /img/uploads/2023/01/image-166.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-166.png)
+![](/img/uploads/2023/01/image-166.webp)
 
 The device was given to us in battery-bulged condition
 
-![](/img/uploads/2023/01/image-167.png)
+![](/img/uploads/2023/01/image-167.webp)
 
 We had replaced the battery of the device and checked the battery charging and discharging cycles

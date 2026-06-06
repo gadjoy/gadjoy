@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/15/realme-c2-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-34.png
+banner: /img/uploads/2024/05/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-34.png)
+![](/img/uploads/2024/05/image-34.webp)
 
 **The device was received in the dead condition**
 
-![](/img/uploads/2024/05/image-35.png)
+![](/img/uploads/2024/05/image-35.webp)
 
 **We have done the chip-level service and got the phone working again**

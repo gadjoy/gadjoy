@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/21/moto-e4-dead-battery-bulge/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-52.png
+banner: /img/uploads/2023/03/image-52.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-52.png)
+![](/img/uploads/2023/03/image-52.webp)
 
 **The device was given to us in dead condition and battery issue**
 
-![](/img/uploads/2023/03/image-53.png)
+![](/img/uploads/2023/03/image-53.webp)
 
 **We did chip level service and replaced bulged battery and made the device work.**

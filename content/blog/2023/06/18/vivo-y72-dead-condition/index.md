@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/18/vivo-y72-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-48.png
+banner: /img/uploads/2023/06/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-48.png)
+![](/img/uploads/2023/06/image-48.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-49.png)
+![](/img/uploads/2023/06/image-49.webp)
 
 **We Chip level services and made the device work.**

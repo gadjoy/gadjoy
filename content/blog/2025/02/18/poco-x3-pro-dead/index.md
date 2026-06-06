@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/02/18/poco-x3-pro-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/02/image-22.png
+banner: /img/uploads/2025/02/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/02/image-22.png)
+![](/img/uploads/2025/02/image-22.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2025/02/image-23.png)
+![](/img/uploads/2025/02/image-23.webp)
 
 **We did diagnostics and found that the device has issue on the mother, so a chip-level service made the device work again**

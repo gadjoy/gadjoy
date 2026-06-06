@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/08/asus-zenfone-max-pro-m1-battery-replacement/
 description: Before After When this phone was given to us, percentage of battery was not increasing We had Replaced the Battery and made it working
 summary: Before After When this phone was given to us, percentage of battery was not increasing We had Replaced the Battery and made it working
-banner: /img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-Before-Battery-Replacement-1.png
+banner: /img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-Before-Battery-Replacement-1.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-Before-Battery-Replacement-1.png)
+![](/img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-Before-Battery-Replacement-1.webp)
 
 > When this phone was given to us, percentage of battery was not increasing
 
-![](/img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-After-Battery-Replacement.png)
+![](/img/uploads/2022/03/Asus-Zenfone-Max-Pro-M1–-After-Battery-Replacement.webp)
 
 > We had **Replaced the Battery** and made it working

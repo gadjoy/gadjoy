@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/12/realme-3-pro-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-26.png
+banner: /img/uploads/2023/05/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-26.png)
+![](/img/uploads/2023/05/image-26.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/05/image-27.png)
+![](/img/uploads/2023/05/image-27.webp)
 
 **We replaced display combo and made the device work.**

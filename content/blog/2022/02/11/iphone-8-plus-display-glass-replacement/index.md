@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/11/iphone-8-plus-display-glass-replacement/
 description: Before After When phone was given to us, top of the display was cracked We replaced Only Touch Glass and made it operate smoothly
 summary: Before After When phone was given to us, top of the display was cracked We replaced Only Touch Glass and made it operate smoothly
-banner: /img/uploads/2022/02/iPhone-8-Plus-–-Before-Display-Glass-Replacement.png
+banner: /img/uploads/2022/02/iPhone-8-Plus-–-Before-Display-Glass-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/02/iPhone-8-Plus-–-Before-Display-Glass-Replacement.png)
+![](/img/uploads/2022/02/iPhone-8-Plus-–-Before-Display-Glass-Replacement.webp)
 
 > When phone was given to us, top of the display was cracked
 
-![](/img/uploads/2022/02/iPhone-8-Plus-–-After-Display-Glass-Replacement.png)
+![](/img/uploads/2022/02/iPhone-8-Plus-–-After-Display-Glass-Replacement.webp)
 
 > We replaced **Only Touch Glass** and made it operate smoothly

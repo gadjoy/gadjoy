@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/09/hp-pavilion-360-14-cd0077tu-ram-updating/
 description: Before
 summary: Before
-banner: /img/uploads/2023/07/image-34.png
+banner: /img/uploads/2023/07/image-34.webp
 ---
 
 ## Before
 
 ##
 
-![](/img/uploads/2023/07/image-34.png)
+![](/img/uploads/2023/07/image-34.webp)
 
 **The device was given to us with RAM updating**
 
-![](/img/uploads/2023/07/image-35.png)
+![](/img/uploads/2023/07/image-35.webp)
 
 **We updated RAM and made the device work.**

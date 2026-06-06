@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/29/redmi-9a-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-54.png
+banner: /img/uploads/2024/01/image-54.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-54.png)
+![](/img/uploads/2024/01/image-54.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/01/image-55.png)
+![](/img/uploads/2024/01/image-55.webp)
 
 **We had done the chip level service and got the device active**

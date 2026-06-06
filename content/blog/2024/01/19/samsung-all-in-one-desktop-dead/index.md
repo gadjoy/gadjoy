@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/19/samsung-all-in-one-desktop-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-32.png
+banner: /img/uploads/2024/01/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-32.png)
+![](/img/uploads/2024/01/image-32.webp)
 
 **The device was given to us dead condition and water damage on it**
 
-![](/img/uploads/2024/01/image-33.png)
+![](/img/uploads/2024/01/image-33.webp)
 
 **We have done the chip level service on the device mother board and got it working**

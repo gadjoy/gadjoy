@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/22/hp-elite-book-840g3-os-installation/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-53.png
+banner: /img/uploads/2023/05/image-53.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-53.png)
+![](/img/uploads/2023/05/image-53.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/05/image-54.png)
+![](/img/uploads/2023/05/image-54.webp)
 
 **We had done the software services and made the device work.**

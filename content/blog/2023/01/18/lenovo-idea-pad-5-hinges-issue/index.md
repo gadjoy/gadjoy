@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/18/lenovo-idea-pad-5-hinges-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-164.png
+banner: /img/uploads/2023/01/image-164.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-164.png)
+![](/img/uploads/2023/01/image-164.webp)
 
 The dice was given to us hinges loose condition
 
-![](/img/uploads/2023/01/image-165.png)
+![](/img/uploads/2023/01/image-165.webp)
 
 We had replaced the hinges of the device and made it working better

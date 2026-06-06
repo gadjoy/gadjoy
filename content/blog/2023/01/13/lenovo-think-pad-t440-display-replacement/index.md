@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/13/lenovo-think-pad-t440-display-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-24.png
+banner: /img/uploads/2023/01/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-24.png)
+![](/img/uploads/2023/01/image-24.webp)
 
 The device was given to us in display Blank condition
 
-![](/img/uploads/2023/01/image-25.png)
+![](/img/uploads/2023/01/image-25.webp)
 
 We had replaced the display and made it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/hp-laptop-software-services/
 description: Before After When this laptop was given to us it was working very slow We reinstalled Operating System and made it fast.
 summary: Before After When this laptop was given to us it was working very slow We reinstalled Operating System and made it fast.
-banner: /img/uploads/2021/12/Hp-Laptop-Before-Software-Services.jpg
+banner: /img/uploads/2021/12/Hp-Laptop-Before-Software-Services.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Hp-Laptop-Before-Software-Services.jpg)
+![](/img/uploads/2021/12/Hp-Laptop-Before-Software-Services.webp)
 
 > When this laptop was given to us it was working very slow
 
-![](/img/uploads/2021/12/Hp-Laptop-After-Software-Services.jpg)
+![](/img/uploads/2021/12/Hp-Laptop-After-Software-Services.webp)
 
 > We reinstalled **Operating System** and made it fast.

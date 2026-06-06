@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/14/one-plus-6t-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-32.png
+banner: /img/uploads/2023/05/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-32.png)
+![](/img/uploads/2023/05/image-32.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/05/image-33.png)
+![](/img/uploads/2023/05/image-33.webp)
 
 **We did chip level  services and made the device work.**

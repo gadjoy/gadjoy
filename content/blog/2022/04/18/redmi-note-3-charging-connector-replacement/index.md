@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/18/redmi-note-3-charging-connector-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-72.png
+banner: /img/uploads/2022/04/image-72.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-72.png)
+![](/img/uploads/2022/04/image-72.webp)
 
 The phone was given to us with dead condition
 
-![](/img/uploads/2022/04/image-73.png)
+![](/img/uploads/2022/04/image-73.webp)
 
 We had replaced the Charging Port of the device and made it functioning

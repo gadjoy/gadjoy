@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/22/lenovo-thinkpad-x13-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-98.png
+banner: /img/uploads/2023/02/image-98.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-98.png)
+![](/img/uploads/2023/02/image-98.webp)
 
 **The device was given to us software issues**
 
-![](/img/uploads/2023/02/image-99.png)
+![](/img/uploads/2023/02/image-99.webp)
 
 **We did the software services and made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/12/samsung-galaxy-m30s-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-28.png
+banner: /img/uploads/2023/05/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-28.png)
+![](/img/uploads/2023/05/image-28.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/05/image-29.png)
+![](/img/uploads/2023/05/image-29.webp)
 
 **We had done the software services and made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/iphone-14-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-4.png
+banner: /img/uploads/2024/09/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-4.png)
+![](/img/uploads/2024/09/image-4.webp)
 
 **The device received in display glass cracked at the bottom**
 
-![](/img/uploads/2024/09/image-5-edited.png)
+![](/img/uploads/2024/09/image-5-edited.webp)
 
 **We replaced only the display glass of the device by getting back the original display of the device with a glass finish**

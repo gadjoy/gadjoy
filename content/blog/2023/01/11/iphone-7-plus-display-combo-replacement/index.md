@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/11/iphone-7-plus-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-18.png
+banner: /img/uploads/2023/01/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-18.png)
+![](/img/uploads/2023/01/image-18.webp)
 
 The device was given to us display cracked condition
 
-![](/img/uploads/2023/01/image-19.png)
+![](/img/uploads/2023/01/image-19.webp)
 
 We had replaced the display combo and made it work

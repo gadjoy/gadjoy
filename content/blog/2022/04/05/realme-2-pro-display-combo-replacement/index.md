@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/05/realme-2-pro-display-combo-replacement/
 description: Before After The phone was given to us in a dead condition We had replaced the Display Combo and made it functional
 summary: Before After The phone was given to us in a dead condition We had replaced the Display Combo and made it functional
-banner: /img/uploads/2022/04/Realme-2-Pro-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/04/Realme-2-Pro-–-before-Display-Combo-Replacement.webp
 ---
 
 ## **Before**
 
 #### **After**
 
-![](/img/uploads/2022/04/Realme-2-Pro-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/04/Realme-2-Pro-–-before-Display-Combo-Replacement.webp)
 
 > The phone was given to us in a dead condition
 
-![](/img/uploads/2022/04/Realme-2-Pro-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/04/Realme-2-Pro-–-after-Display-Combo-Replacement.webp)
 
 > We had replaced the **Display Combo** and made it functional

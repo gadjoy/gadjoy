@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/25/realme-c15-display-combo-replacement/
 description: Before After The phone was given to us with dead condition and top of the display was cracked. We replaced Display Combo and made it functioning
 summary: Before After The phone was given to us with dead condition and top of the display was cracked. We replaced Display Combo and made it functioning
-banner: /img/uploads/2022/02/Realme-C15-–-Before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/02/Realme-C15-–-Before-Display-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/02/Realme-C15-–-Before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Realme-C15-–-Before-Display-Combo-Replacement.webp)
 
 > The phone was given to us with dead condition and top of the display was cracked.
 
-![](/img/uploads/2022/02/Realme-C15-–-After-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Realme-C15-–-After-Display-Combo-Replacement.webp)
 
 > We replaced **Display Combo** and made it functioning

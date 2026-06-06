@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/24/samsung-galaxy-s21-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-31.png
+banner: /img/uploads/2024/06/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-31.png)
+![](/img/uploads/2024/06/image-31.webp)
 
 **The device was received in the dead condition**
 
-![](/img/uploads/2024/06/image-32.png)
+![](/img/uploads/2024/06/image-32.webp)
 
 **After checking the device the battery was the issue, so after the replacement of the battery and checked the charging and discharging cycles**

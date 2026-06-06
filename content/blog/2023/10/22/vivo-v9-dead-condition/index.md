@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/22/vivo-v9-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-31.png
+banner: /img/uploads/2023/10/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-31.png)
+![](/img/uploads/2023/10/image-31.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/10/image-32.png)
+![](/img/uploads/2023/10/image-32.webp)
 
 **We replaced the display combo of the device and got it working**

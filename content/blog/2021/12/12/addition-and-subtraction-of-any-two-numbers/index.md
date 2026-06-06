@@ -9,10 +9,10 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/12/addition-and-subtraction-of-any-two-numbers/
-banner: /img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.png
+banner: /img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.webp
 ---
 
-![](/img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.png)
+![](/img/uploads/2021/12/Addition-and-Subtraction-of-any-two-numbers-2.webp)
 
 **Problem Statement**
 

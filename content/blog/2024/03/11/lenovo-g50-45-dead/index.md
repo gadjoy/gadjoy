@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/11/lenovo-g50-45-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-22.png
+banner: /img/uploads/2024/03/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-22.png)
+![](/img/uploads/2024/03/image-22.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/03/image-23.png)
+![](/img/uploads/2024/03/image-23.webp)
 
 **We have done the chip level service on the device and got the device working well**

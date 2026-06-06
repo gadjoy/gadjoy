@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/hp-15s-fr2006tu-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-10.png
+banner: /img/uploads/2024/04/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-10.png)
+![](/img/uploads/2024/04/image-10.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/04/image-11.png)
+![](/img/uploads/2024/04/image-11.webp)
 
 **We have done the chip-level service on the device and got the device working again**

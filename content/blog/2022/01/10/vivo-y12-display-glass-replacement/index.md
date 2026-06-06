@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/10/vivo-y12-display-glass-replacement/
 description: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and got it functional
 summary: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and got it functional
-banner: /img/uploads/2022/01/Vivo-Y12-before-Display-Glass-Replacement.jpg
+banner: /img/uploads/2022/01/Vivo-Y12-before-Display-Glass-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Vivo-Y12-before-Display-Glass-Replacement.jpg)
+![](/img/uploads/2022/01/Vivo-Y12-before-Display-Glass-Replacement.webp)
 
 > This phone was given to us with fully cracked condition
 
-![](/img/uploads/2022/01/Vivo-Y12-after-Display-Glass-Replacement.jpg)
+![](/img/uploads/2022/01/Vivo-Y12-after-Display-Glass-Replacement.webp)
 
 > We replaced ONLY **Display Glass** and got it functional

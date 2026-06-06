@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/11/hp-chromebook-14-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-31.png
+banner: /img/uploads/2023/02/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-31.png)
+![](/img/uploads/2023/02/image-31.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/02/image-32.png)
+![](/img/uploads/2023/02/image-32.webp)
 
 We had seen issues on the board and done the service on chip level and made the device ON

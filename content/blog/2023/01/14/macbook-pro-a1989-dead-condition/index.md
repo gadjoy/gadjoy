@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/macbook-pro-a1989-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-46.png
+banner: /img/uploads/2023/01/image-46.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-46.png)
+![](/img/uploads/2023/01/image-46.webp)
 
 The device was given to in dead condition
 
-![](/img/uploads/2023/01/image-47.png)
+![](/img/uploads/2023/01/image-47.webp)
 
 We had done the chip level service on the mother board of the device and made it working

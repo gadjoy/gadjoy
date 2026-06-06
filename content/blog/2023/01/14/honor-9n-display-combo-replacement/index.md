@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/honor-9n-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-34.png
+banner: /img/uploads/2023/01/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-34.png)
+![](/img/uploads/2023/01/image-34.webp)
 
 The device was given to us in display combo broken condition
 
-![](/img/uploads/2023/01/image-35.png)
+![](/img/uploads/2023/01/image-35.webp)
 
 We had replaced the hole display combo of the device and got it working

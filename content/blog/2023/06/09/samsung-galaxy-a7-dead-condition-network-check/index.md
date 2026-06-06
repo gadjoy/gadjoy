@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/09/samsung-galaxy-a7-dead-condition-network-check/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-34.png
+banner: /img/uploads/2023/06/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-34.png)
+![](/img/uploads/2023/06/image-34.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-35.png)
+![](/img/uploads/2023/06/image-35.webp)
 
 **We had done the mother board service and got it working**

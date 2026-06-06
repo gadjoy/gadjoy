@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/30/realme-2-pro-display-combo-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-69.png
+banner: /img/uploads/2023/07/image-69.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-69.png)
+![](/img/uploads/2023/07/image-69.webp)
 
 **The device was given to us with display  damaged**
 
-![](/img/uploads/2023/07/image-70.png)
+![](/img/uploads/2023/07/image-70.webp)
 
 **We replaced  display  and made the device work well**

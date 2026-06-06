@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/26/iphone-12-max-display-flickering/
 description: Before Before
 summary: Before Before
-banner: /img/uploads/2022/08/before-iPhone-12-max-Display-Flickering.png
+banner: /img/uploads/2022/08/before-iPhone-12-max-Display-Flickering.webp
 ---
 
 ## Before
 
 ## Before
 
-![](/img/uploads/2022/08/before-iPhone-12-max-Display-Flickering.png)
+![](/img/uploads/2022/08/before-iPhone-12-max-Display-Flickering.webp)
 
 iPhone 12 max – Display Flickering
 
-![](/img/uploads/2022/08/after-iPhone-12-max-Display-Flickering.png)
+![](/img/uploads/2022/08/after-iPhone-12-max-Display-Flickering.webp)
 
 iPhone 12 max – Display Flickering

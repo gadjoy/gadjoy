@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/22/sony-vaio-svf142c1ww-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-Sony-Vaio-svf142c1ww-–-Dead-condition.png
+banner: /img/uploads/2022/08/before-Sony-Vaio-svf142c1ww-–-Dead-condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-Sony-Vaio-svf142c1ww-–-Dead-condition.png)
+![](/img/uploads/2022/08/before-Sony-Vaio-svf142c1ww-–-Dead-condition.webp)
 
 Sony Vaio – svf142c1ww – Dead condition
 
-![](/img/uploads/2022/08/after-Sony-Vaio-svf142c1ww-–-Dead-condition.png)
+![](/img/uploads/2022/08/after-Sony-Vaio-svf142c1ww-–-Dead-condition.webp)
 
 Sony Vaio – svf142c1ww – Dead condition

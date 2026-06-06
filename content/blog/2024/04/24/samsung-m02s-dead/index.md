@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/samsung-m02s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-2.png
+banner: /img/uploads/2024/04/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-2.png)
+![](/img/uploads/2024/04/image-2.webp)
 
 **The device was received in display broken and dead condition**
 
-![](/img/uploads/2024/04/image-3.png)
+![](/img/uploads/2024/04/image-3.webp)
 
 **After doing the service on the board and additionally replacing the display got device working again**

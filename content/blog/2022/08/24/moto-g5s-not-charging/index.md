@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/moto-g5s-not-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-34.png
+banner: /img/uploads/2022/08/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-34.png)
+![](/img/uploads/2022/08/image-34.webp)
 
 Moto G5S+ – Not Charging
 
-![](/img/uploads/2022/08/image-35.png)
+![](/img/uploads/2022/08/image-35.webp)
 
 Moto G5S+ – Not Charging

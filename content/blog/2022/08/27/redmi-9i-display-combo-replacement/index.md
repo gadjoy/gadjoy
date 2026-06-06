@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/redmi-9i-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-46.png
+banner: /img/uploads/2022/08/image-46.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-46.png)
+![](/img/uploads/2022/08/image-46.webp)
 
 Redmi 9i – Display Combo Replacement
 
-![](/img/uploads/2022/08/image-47.png)
+![](/img/uploads/2022/08/image-47.webp)
 
 Redmi 9i – Display Combo Replacement

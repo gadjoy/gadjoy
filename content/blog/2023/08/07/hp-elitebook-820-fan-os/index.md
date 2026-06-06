@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/07/hp-elitebook-820-fan-os/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-6.png
+banner: /img/uploads/2023/08/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-6.png)
+![](/img/uploads/2023/08/image-6.webp)
 
 **The device was given to us is the Windows was not booting properly**
 
-![](/img/uploads/2023/08/image-7.png)
+![](/img/uploads/2023/08/image-7.webp)
 
 **We set up the OS and ensured the device performed well**

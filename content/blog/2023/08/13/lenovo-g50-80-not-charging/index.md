@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/lenovo-g50-80-not-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-22.png
+banner: /img/uploads/2023/08/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-22.png)
+![](/img/uploads/2023/08/image-22.webp)
 
 **The device was given to us with charging issue**
 
-![](/img/uploads/2023/08/image-23.png)
+![](/img/uploads/2023/08/image-23.webp)
 
 **We diagnosed the problem and discovered that the device charger was faulty. We replaced the charger with a new one and successfully restored the device’s functionality.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/ipad-mini-1489-disabled/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-101.png
+banner: /img/uploads/2023/01/image-101.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-101.png)
+![](/img/uploads/2023/01/image-101.webp)
 
 The device was given to us in disabled condition
 
-![](/img/uploads/2023/01/image-102.png)
+![](/img/uploads/2023/01/image-102.webp)
 
 We had unlocked the device by software services

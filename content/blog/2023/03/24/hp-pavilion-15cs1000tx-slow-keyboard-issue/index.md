@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/24/hp-pavilion-15cs1000tx-slow-keyboard-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-57.png
+banner: /img/uploads/2023/03/image-57.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-57.png)
+![](/img/uploads/2023/03/image-57.webp)
 
 **The device was given to us with 10 keys are not working**
 
-![](/img/uploads/2023/03/image-58.png)
+![](/img/uploads/2023/03/image-58.webp)
 
 **Because it was an inbuilt keyboard, we can’t repair it so changed the keyboard and got it working**

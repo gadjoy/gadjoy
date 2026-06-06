@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/11/iphone-x-dead-condtion/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-33.png
+banner: /img/uploads/2022/05/image-33.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-33.png)
+![](/img/uploads/2022/05/image-33.webp)
 
 The device was given too us in dead condition
 
-![](/img/uploads/2022/05/image-34.png)
+![](/img/uploads/2022/05/image-34.webp)
 
 We had done service **on-chip level** and got it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/asus-desktop-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-44.png
+banner: /img/uploads/2023/01/image-44.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-44.png)
+![](/img/uploads/2023/01/image-44.webp)
 
 The device was given to us in no display condition
 
-![](/img/uploads/2023/01/image-45.png)
+![](/img/uploads/2023/01/image-45.webp)
 
 We had reinstalled the software and made the device usable

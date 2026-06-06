@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/28/samsung-a10s-touch-not-working/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-before.png
+banner: /img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-before.png)
+![](/img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-before.webp)
 
 Samsung A10S – Touch Not Working
 
-![](/img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-after.png)
+![](/img/uploads/2022/08/Samsung-A10S-Display-Combo-Replacement-after.webp)
 
 Samsung A10S – Touch Not Working

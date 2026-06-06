@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/03/realme-8i-dim-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-16.png
+banner: /img/uploads/2023/10/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-16.png)
+![](/img/uploads/2023/10/image-16.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/10/image-17.png)
+![](/img/uploads/2023/10/image-17.webp)
 
 **We did chip level service and made the device display work well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/31/acer-n16w1-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-66.png
+banner: /img/uploads/2024/01/image-66.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-66.png)
+![](/img/uploads/2024/01/image-66.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/01/image-67.png)
+![](/img/uploads/2024/01/image-67.webp)
 
 **We did the chip-level service on the device and got it working**

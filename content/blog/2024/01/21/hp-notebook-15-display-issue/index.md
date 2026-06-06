@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/21/hp-notebook-15-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-42.png
+banner: /img/uploads/2024/01/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-42.png)
+![](/img/uploads/2024/01/image-42.webp)
 
 **The device was given to us screen broken condition**
 
-![](/img/uploads/2024/01/image-43.png)
+![](/img/uploads/2024/01/image-43.webp)
 
 **We replaced the display combo of the device**

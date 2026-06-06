@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/vivo-y95-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-8.png
+banner: /img/uploads/2024/09/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-8.png)
+![](/img/uploads/2024/09/image-8.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/09/image-7.png)
+![](/img/uploads/2024/09/image-7.webp)
 
 **After the service on the mother board of the device we got the device working again**

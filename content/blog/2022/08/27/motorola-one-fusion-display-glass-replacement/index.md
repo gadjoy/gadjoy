@@ -10,17 +10,17 @@ aliases:
 - /blog/2022/08/27/motorola-one-fusion-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-74.png
+banner: /img/uploads/2022/08/image-74.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-74.png)
+![](/img/uploads/2022/08/image-74.webp)
 
 Motorola One Fusion + – Display Glass Replacement
 
-![](/img/uploads/2022/08/image-76.png)
+![](/img/uploads/2022/08/image-76.webp)
 
 Motorola One Fusion + – Display Glass Replacement

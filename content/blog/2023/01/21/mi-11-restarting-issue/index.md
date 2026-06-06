@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/21/mi-11-restarting-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-188.png
+banner: /img/uploads/2023/01/image-188.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-188.png)
+![](/img/uploads/2023/01/image-188.webp)
 
 The device was given to us in restarting condition
 
-![](/img/uploads/2023/01/image-189.png)
+![](/img/uploads/2023/01/image-189.webp)
 
 We had done the software services on the device and made it work

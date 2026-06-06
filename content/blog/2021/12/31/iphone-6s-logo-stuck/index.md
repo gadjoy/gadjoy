@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/31/iphone-6s-logo-stuck/
 description: Before After When phone was given to us only iPhone logo was stuck on the display We did Software Service and got it functional
 summary: Before After When phone was given to us only iPhone logo was stuck on the display We did Software Service and got it functional
-banner: /img/uploads/2021/12/iPhone-6s-before-Logo-Stuck.jpg
+banner: /img/uploads/2021/12/iPhone-6s-before-Logo-Stuck.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/iPhone-6s-before-Logo-Stuck.jpg)
+![](/img/uploads/2021/12/iPhone-6s-before-Logo-Stuck.webp)
 
 > When phone was given to us only iPhone logo was stuck on the display
 
-![](/img/uploads/2021/12/iPhone-6s-after-Logo-Stuck.jpg)
+![](/img/uploads/2021/12/iPhone-6s-after-Logo-Stuck.webp)
 
 > We did **Software Service** and got it functional

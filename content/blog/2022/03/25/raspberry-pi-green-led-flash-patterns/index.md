@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/03/25/raspberry-pi-green-led-flash-patterns/
 description: 1 flash – Incompatible micro SD Card 2 flashes – The Micro SD Card cannot be read 3 flashes – loader.bin not found • 4 flashes – loader.bin not launched • 5 flashes – start. elf is not found • 6 flashes – start. elf not launched • 7 flashes – kernel. img not found […]
 summary: 1 flash – Incompatible micro SD Card 2 flashes – The Micro SD Card cannot be read 3 flashes – loader.bin not found • 4 flashes – loader.bin not launched • 5 flashes – start. elf is not found • 6 flashes – start. elf not launched • 7 flashes – kernel. img not found […]
-banner: /img/uploads/2022/03/image-53.png
+banner: /img/uploads/2022/03/image-53.webp
 ---
 
-![](/img/uploads/2022/03/image-53.png)
+![](/img/uploads/2022/03/image-53.webp)
 
 1 flash – Incompatible micro SD Card
 

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/29/macbook-pro-a1502-wi-fi-not-working/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-63.png
+banner: /img/uploads/2023/07/image-63.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-63.png)
+![](/img/uploads/2023/07/image-63.webp)
 
 **The device was given to us in  Wi-fi is  not connecting**
 
-![](/img/uploads/2023/07/image-64.png)
+![](/img/uploads/2023/07/image-64.webp)
 
 **We replaced of the Wi-Fi card  and got it working**

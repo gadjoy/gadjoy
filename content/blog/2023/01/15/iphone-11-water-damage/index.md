@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/15/iphone-11-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-76.png
+banner: /img/uploads/2023/01/image-76.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-76.png)
+![](/img/uploads/2023/01/image-76.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/01/image-77.png)
+![](/img/uploads/2023/01/image-77.webp)
 
 We had done the chip level service on the device and made it working

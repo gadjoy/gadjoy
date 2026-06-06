@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/macbook-air-a1466-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-15.png
+banner: /img/uploads/2024/09/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-15.png)
+![](/img/uploads/2024/09/image-15.webp)
 
 **The device was received in the condition in which the battery health showing “service” and the battery back-up was less**
 
-![](/img/uploads/2024/09/image-16.png)
+![](/img/uploads/2024/09/image-16.webp)
 
 **After the replacement of the battery, we checked the battery charging and discharging cycles**

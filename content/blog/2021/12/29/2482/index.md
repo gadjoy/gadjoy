@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/29/2482/
 description: Problem Statement -Mini hex handle Sow -3D – Printed -PLA – Filament Challenges – Proper surface finish inside the hole Execution Strategy -Nil Value Added -This is small and simple handle, and it is very useful in small spaces to remove bolts -Easy to carry in your pockets or in a drawer –
 summary: Problem Statement -Mini hex handle Sow -3D – Printed -PLA – Filament Challenges – Proper surface finish inside the hole Execution Strategy -Nil Value Added -This is small and simple handle, and it is very useful in small spaces to remove bolts -Easy to carry in your pockets or in a drawer –
-banner: /img/uploads/2021/12/Hex-handle.jpg
+banner: /img/uploads/2021/12/Hex-handle.webp
 ---
 
-![](/img/uploads/2021/12/Hex-handle.jpg)
+![](/img/uploads/2021/12/Hex-handle.webp)
 
 **Problem Statement** -Mini hex handle
 

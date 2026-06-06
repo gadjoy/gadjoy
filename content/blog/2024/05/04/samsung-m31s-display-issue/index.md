@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/04/samsung-m31s-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-14.png
+banner: /img/uploads/2024/05/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-14.png)
+![](/img/uploads/2024/05/image-14.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/05/image-15.png)
+![](/img/uploads/2024/05/image-15.webp)
 
 **After checking the device and additionally replacing the display got the device working again**

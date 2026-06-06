@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/motorola-one-power-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-6.png
+banner: /img/uploads/2025/01/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-6.png)
+![](/img/uploads/2025/01/image-6.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2025/01/image-7.png)
+![](/img/uploads/2025/01/image-7.webp)
 
 **After checking the device, we  got to know that the battery was not even taking the charge, so after replacement of the battery made the device working**

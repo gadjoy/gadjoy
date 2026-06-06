@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/vivo-y81-display-combo-replacement/
 description: Before After When phone was given to us the display was fully broken and dead condition We had replaced the Display Combo with good quality glass.
 summary: Before After When phone was given to us the display was fully broken and dead condition We had replaced the Display Combo with good quality glass.
-banner: /img/uploads/2022/01/Vivo-Y81-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/01/Vivo-Y81-–-before-Display-Combo-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Vivo-Y81-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/Vivo-Y81-–-before-Display-Combo-Replacement.webp)
 
 > When phone was given to us the display was fully broken and dead condition
 
-![](/img/uploads/2022/01/Vivo-Y81-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/Vivo-Y81-–-after-Display-Combo-Replacement.webp)
 
 > We had replaced the **Display Combo** with good quality glass.

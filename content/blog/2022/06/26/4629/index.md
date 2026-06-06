@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/06/26/4629/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/06/image-26.png
+banner: /img/uploads/2022/06/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/06/image-26.png)
+![](/img/uploads/2022/06/image-26.webp)
 
 The device was given to us with a key broken condition
 
-![](/img/uploads/2022/06/image-27.png)
+![](/img/uploads/2022/06/image-27.webp)
 
 We had replaced the **keyboard and made it workable**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/08/redmi-note-4-dead-condition-2/
 description: Before After The phone was given to us in dead condition We had replaced the Charging Connector of the device and got it working
 summary: Before After The phone was given to us in dead condition We had replaced the Charging Connector of the device and got it working
-banner: /img/uploads/2022/05/Redmi-Note-4-–-before-Dead-Condition.png
+banner: /img/uploads/2022/05/Redmi-Note-4-–-before-Dead-Condition.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/05/Redmi-Note-4-–-before-Dead-Condition.png)
+![](/img/uploads/2022/05/Redmi-Note-4-–-before-Dead-Condition.webp)
 
 > The phone was given to us in dead condition
 
-![](/img/uploads/2022/05/Redmi-Note-4-–-after-Dead-Condition.png)
+![](/img/uploads/2022/05/Redmi-Note-4-–-after-Dead-Condition.webp)
 
 > We had replaced the Charging Connector of the device and got it working

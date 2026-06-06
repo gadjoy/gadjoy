@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/samsung-a51-display-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-61.png
+banner: /img/uploads/2024/05/image-61.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-61.png)
+![](/img/uploads/2024/05/image-61.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2024/05/image-62.png)
+![](/img/uploads/2024/05/image-62.webp)
 
 **We replaced the display combo of the device and got it working**

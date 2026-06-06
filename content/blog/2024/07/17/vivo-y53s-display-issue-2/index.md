@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/17/vivo-y53s-display-issue-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-34.png
+banner: /img/uploads/2024/07/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-34.png)
+![](/img/uploads/2024/07/image-34.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/07/image-35.png)
+![](/img/uploads/2024/07/image-35.webp)
 
 **After the replacement of the device display we got the device working again**

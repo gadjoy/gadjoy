@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/samsung-note-10-plus-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-210.png
+banner: /img/uploads/2023/01/image-210.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-210.png)
+![](/img/uploads/2023/01/image-210.webp)
 
 The device was given to us in password forgot condition
 
-![](/img/uploads/2023/01/image-211.png)
+![](/img/uploads/2023/01/image-211.webp)
 
 We had done the software services on the device and made it usable

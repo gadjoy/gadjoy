@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/12/samsung-galaxy-m31s-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-19.png
+banner: /img/uploads/2023/03/image-19.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-19.png)
+![](/img/uploads/2023/03/image-19.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/03/image-20.png)
+![](/img/uploads/2023/03/image-20.webp)
 
 **We replaced the display combo and made the device work.**

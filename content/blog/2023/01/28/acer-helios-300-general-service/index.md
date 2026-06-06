@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/28/acer-helios-300-general-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-271.png
+banner: /img/uploads/2023/01/image-271.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-271.png)
+![](/img/uploads/2023/01/image-271.webp)
 
 The device was given to us for general service
 
-![](/img/uploads/2023/01/image-272.png)
+![](/img/uploads/2023/01/image-272.webp)
 
 We had done the  General services and made the device functioning

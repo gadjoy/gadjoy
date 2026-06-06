@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/09/lenovo-ideapad-s510p-charger-dc-jack/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-6.png
+banner: /img/uploads/2024/07/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-6.png)
+![](/img/uploads/2024/07/image-6.webp)
 
 **The device was received in not charging condition**
 
-![](/img/uploads/2024/07/image-7.png)
+![](/img/uploads/2024/07/image-7.webp)
 
 **After checking the device got to know that issue was with both the charger and charger port also**

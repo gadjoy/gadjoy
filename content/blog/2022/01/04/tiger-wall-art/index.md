@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/04/tiger-wall-art/
 description: Problem Statement -Wall art Scope of work –  To decorate store from this type of wall arts Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Can even decorate your house or office with this type of wall arts
 summary: Problem Statement -Wall art Scope of work –  To decorate store from this type of wall arts Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Can even decorate your house or office with this type of wall arts
-banner: /img/uploads/2022/01/Tiger-Wall-Art.jpg
+banner: /img/uploads/2022/01/Tiger-Wall-Art.webp
 ---
 
-![](/img/uploads/2022/01/Tiger-Wall-Art.jpg)
+![](/img/uploads/2022/01/Tiger-Wall-Art.webp)
 
 Problem Statement
 

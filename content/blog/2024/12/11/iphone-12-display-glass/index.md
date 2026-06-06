@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/11/iphone-12-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-23.png
+banner: /img/uploads/2024/12/image-23.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-23.png)
+![](/img/uploads/2024/12/image-23.webp)
 
 **The device was given to us with the display glass broken condition**
 
-![](/img/uploads/2024/12/image-24.png)
+![](/img/uploads/2024/12/image-24.webp)
 
 **We have replaced only the disply glass of the device with the glass finish**

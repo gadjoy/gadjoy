@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/25/iphone-8-plus-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/4684-Before-577x1024.jpeg
+banner: /img/uploads/2023/10/4684-Before-577x1024.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/4684-Before-577x1024.jpeg)
+![](/img/uploads/2023/10/4684-Before-577x1024.webp)
 
 The device was given to when on the display colored lines were showing
 
-![](/img/uploads/2023/10/4684-After-559x1024.jpeg)
+![](/img/uploads/2023/10/4684-After-559x1024.webp)
 
 We replaced the display combo of the device and got it working.

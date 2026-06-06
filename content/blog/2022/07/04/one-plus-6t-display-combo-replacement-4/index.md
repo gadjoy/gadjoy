@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/07/04/one-plus-6t-display-combo-replacement-4/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/07/image-4.png
+banner: /img/uploads/2022/07/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/07/image-4.png)
+![](/img/uploads/2022/07/image-4.webp)
 
 The device as given to us display cracked and it was only vibrating
 
-![](/img/uploads/2022/07/image-5.png)
+![](/img/uploads/2022/07/image-5.webp)
 
 We had replaced the **Display combo** and made is working

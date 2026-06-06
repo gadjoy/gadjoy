@@ -12,13 +12,13 @@ aliases:
 - /blog/2023/06/11/realme-c11-display-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-38.png
+banner: /img/uploads/2023/06/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-38.png)
+![](/img/uploads/2023/06/image-38.webp)
 
-![](/img/uploads/2023/06/image-39.png)
+![](/img/uploads/2023/06/image-39.webp)

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/macbook-pro-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-36.png
+banner: /img/uploads/2022/08/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-36.png)
+![](/img/uploads/2022/08/image-36.webp)
 
 MacBook Pro – Dead
 
-![](/img/uploads/2022/08/image-37.png)
+![](/img/uploads/2022/08/image-37.webp)
 
 MacBook Pro – Dead

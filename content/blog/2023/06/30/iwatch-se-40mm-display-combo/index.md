@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/iwatch-se-40mm-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-80.png
+banner: /img/uploads/2023/06/image-80.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-80.png)
+![](/img/uploads/2023/06/image-80.webp)
 
 **The device was given to us  with display issue**
 
-![](/img/uploads/2023/06/image-81.png)
+![](/img/uploads/2023/06/image-81.webp)
 
 **We replaced display and made the device work.**

@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/05/21/code-matrix-addition/
 description: Problem Statement -Using nested Loop  Scope of work -Build a python scrip for matrix addition, using nested loop concept Challenges -Adding the two matrices using a nested loop Execution Strategy -Using nested for loop Value Added -We can use list comprehension instead of nested for loop to minimize the code
 summary: Problem Statement -Using nested Loop  Scope of work -Build a python scrip for matrix addition, using nested loop concept Challenges -Adding the two matrices using a nested loop Execution Strategy -Using nested for loop Value Added -We can use list comprehension instead of nested for loop to minimize the code
-banner: /img/uploads/2022/05/image-50.png
+banner: /img/uploads/2022/05/image-50.webp
 ---
 
-![](/img/uploads/2022/05/image-50.png)
+![](/img/uploads/2022/05/image-50.webp)
 
 **Problem Statement** -Using nested Loop
 
@@ -26,5 +26,5 @@ banner: /img/uploads/2022/05/image-50.png
 
 **Value Added** -We can use list comprehension instead of nested for loop to minimize the code
 
-![](/img/uploads/2022/05/image-51.png)
-![](/img/uploads/2022/05/image-52.png)
+![](/img/uploads/2022/05/image-51.webp)
+![](/img/uploads/2022/05/image-52.webp)

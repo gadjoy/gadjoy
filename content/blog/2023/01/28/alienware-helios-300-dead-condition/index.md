@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/28/alienware-helios-300-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-273.png
+banner: /img/uploads/2023/01/image-273.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-273.png)
+![](/img/uploads/2023/01/image-273.webp)
 
 The device was given to us with Dead Condition
 
-![](/img/uploads/2023/01/image-274.png)
+![](/img/uploads/2023/01/image-274.webp)
 
 We had done the Chip level services and made the device functioning

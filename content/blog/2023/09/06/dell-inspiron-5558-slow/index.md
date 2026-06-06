@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/dell-inspiron-5558-slow/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-28.png
+banner: /img/uploads/2023/09/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-28.png)
+![](/img/uploads/2023/09/image-28.webp)
 
 **The device was given to us in slow condition**
 
-![](/img/uploads/2023/09/image-29.png)
+![](/img/uploads/2023/09/image-29.webp)
 
 **We had done the software services and made it fast to work**

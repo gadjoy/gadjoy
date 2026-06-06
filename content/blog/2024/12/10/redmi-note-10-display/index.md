@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/10/redmi-note-10-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-2.png
+banner: /img/uploads/2024/12/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-2.png)
+![](/img/uploads/2024/12/image-2.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2024/12/image-3.png)
+![](/img/uploads/2024/12/image-3.webp)
 
 **After checking the device, got that the issue was with the display, so we had to replace the display of the device to get it working**

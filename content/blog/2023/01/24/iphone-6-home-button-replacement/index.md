@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/24/iphone-6-home-button-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-259.png
+banner: /img/uploads/2023/01/image-259.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-259.png)
+![](/img/uploads/2023/01/image-259.webp)
 
 The device was given to us with the Home button Issue
 
-![](/img/uploads/2023/01/image-260.png)
+![](/img/uploads/2023/01/image-260.webp)
 
 We had replaced the home button and made the device function well

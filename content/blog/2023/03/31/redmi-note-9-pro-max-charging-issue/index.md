@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/31/redmi-note-9-pro-max-charging-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-74.png
+banner: /img/uploads/2023/03/image-74.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-74.png)
+![](/img/uploads/2023/03/image-74.webp)
 
 **The device was given to us with charging issue**
 
-![](/img/uploads/2023/03/image-75.png)
+![](/img/uploads/2023/03/image-75.webp)
 
 **We replaced charging port and made the device work.**

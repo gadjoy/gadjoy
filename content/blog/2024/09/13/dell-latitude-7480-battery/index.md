@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/13/dell-latitude-7480-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-25.png
+banner: /img/uploads/2024/09/image-25.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-25.png)
+![](/img/uploads/2024/09/image-25.webp)
 
 **The device was received in battery error and no battery back-up condition**
 
-![](/img/uploads/2024/09/image-26.png)
+![](/img/uploads/2024/09/image-26.webp)
 
 **After the replacement of the battery we checked the charging and discharging cycles of the battery we verify the health**

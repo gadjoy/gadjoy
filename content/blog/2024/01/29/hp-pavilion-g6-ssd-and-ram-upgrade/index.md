@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/29/hp-pavilion-g6-ssd-and-ram-upgrade/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-56.png
+banner: /img/uploads/2024/01/image-56.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-56.png)
+![](/img/uploads/2024/01/image-56.webp)
 
 **The device was given to us less Memory and slow condition**
 
-![](/img/uploads/2024/01/image-57.png)
+![](/img/uploads/2024/01/image-57.webp)
 
 **We had upgraded the Memory and resolved the device slow condition and made it faster to use**

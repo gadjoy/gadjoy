@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/21/oppo-f11-pro-display-combo-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-38.png
+banner: /img/uploads/2024/01/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-38.png)
+![](/img/uploads/2024/01/image-38.webp)
 
 **The device was given to us in display full damaged condition**
 
-![](/img/uploads/2024/01/image-39.png)
+![](/img/uploads/2024/01/image-39.webp)
 
 **We had replaced the display combo of the device and got it working**

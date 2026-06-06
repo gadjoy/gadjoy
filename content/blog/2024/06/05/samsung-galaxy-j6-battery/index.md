@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/05/samsung-galaxy-j6-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-4.png
+banner: /img/uploads/2024/06/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-4.png)
+![](/img/uploads/2024/06/image-4.webp)
 
 **The device was received in the battery bulged condition**
 
-![](/img/uploads/2024/06/image-5.png)
+![](/img/uploads/2024/06/image-5.webp)
 
 **We had replaced the device battery and checked the charging and discharging cycles**

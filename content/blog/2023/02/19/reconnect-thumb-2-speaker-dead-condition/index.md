@@ -11,17 +11,17 @@ aliases:
 - /blog/2023/02/19/reconnect-thumb-2-speaker-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-82.png
+banner: /img/uploads/2023/02/image-82.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-82.png)
+![](/img/uploads/2023/02/image-82.webp)
 
 The device was given to us in a dead condition
 
-![](/img/uploads/2023/02/image-83.png)
+![](/img/uploads/2023/02/image-83.webp)
 
 We had done the general service and made the device working

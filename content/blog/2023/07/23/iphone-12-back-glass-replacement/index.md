@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/23/iphone-12-back-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-51.png
+banner: /img/uploads/2023/07/image-51.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-51.png)
+![](/img/uploads/2023/07/image-51.webp)
 
 **The device was given in back glass broken**
 
-![](/img/uploads/2023/07/image-52.png)
+![](/img/uploads/2023/07/image-52.webp)
 
 **We replaced the broken back glass**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/06/lenovo-thinkpad-l420-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-28.png
+banner: /img/uploads/2024/05/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-28.png)
+![](/img/uploads/2024/05/image-28.webp)
 
 **The device received in windows not working condition**
 
-![](/img/uploads/2024/05/image-29.png)
+![](/img/uploads/2024/05/image-29.webp)
 
 **After reinstallation of the windows and the software we made the device working**

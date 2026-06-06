@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/03/30/iiot-boat-race/
 description: Problem Statement -Boat race game using scratch Scope of work -Build a scratch program to make a racing game Challenges -Boat should follow the mouse pointer. Execution Strategy -Using the scratch app, this program is created Value Added -A small game in which the user uses the mouse to navigate a boat to an island […]
 summary: Problem Statement -Boat race game using scratch Scope of work -Build a scratch program to make a racing game Challenges -Boat should follow the mouse pointer. Execution Strategy -Using the scratch app, this program is created Value Added -A small game in which the user uses the mouse to navigate a boat to an island […]
-banner: /img/uploads/2022/03/IIOT-–-Boat-Race.png
+banner: /img/uploads/2022/03/IIOT-–-Boat-Race.webp
 ---
 
-![](/img/uploads/2022/03/IIOT-–-Boat-Race.png)
+![](/img/uploads/2022/03/IIOT-–-Boat-Race.webp)
 
 **Problem Statement**
 

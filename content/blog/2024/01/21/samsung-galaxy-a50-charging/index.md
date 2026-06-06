@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/21/samsung-galaxy-a50-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-44.png
+banner: /img/uploads/2024/01/image-44.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-44.png)
+![](/img/uploads/2024/01/image-44.webp)
 
 **The device was given to us not charging because of that the device received in dead**
 
-![](/img/uploads/2024/01/image-45.png)
+![](/img/uploads/2024/01/image-45.webp)
 
 **We did the service on the device board and got it active**

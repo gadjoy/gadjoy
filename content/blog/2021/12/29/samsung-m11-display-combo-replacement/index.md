@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/samsung-m11-display-combo-replacement/
 description: Before After This phone was given to us with fully cracked and black dots on display. We replaced Display combo and made it operating
 summary: Before After This phone was given to us with fully cracked and black dots on display. We replaced Display combo and made it operating
-banner: /img/uploads/2021/12/Samsung-M11-Before-Display-Combo-Replacement.jpg
+banner: /img/uploads/2021/12/Samsung-M11-Before-Display-Combo-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Samsung-M11-Before-Display-Combo-Replacement.jpg)
+![](/img/uploads/2021/12/Samsung-M11-Before-Display-Combo-Replacement.webp)
 
 > This phone was given to us with fully cracked and black dots on display.
 
-![](/img/uploads/2021/12/Samsung-M11-After-Display-Combo-Replacement.jpg)
+![](/img/uploads/2021/12/Samsung-M11-After-Display-Combo-Replacement.webp)
 
 > We replaced **Display combo** and made it operating

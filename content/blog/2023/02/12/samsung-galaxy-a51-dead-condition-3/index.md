@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/12/samsung-galaxy-a51-dead-condition-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-43.png
+banner: /img/uploads/2023/02/image-43.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-43.png)
+![](/img/uploads/2023/02/image-43.webp)
 
 The device was given to us with dead condition
 
-![](/img/uploads/2023/02/image-44.png)
+![](/img/uploads/2023/02/image-44.webp)
 
 We had Chip Level Service and made the device functioning

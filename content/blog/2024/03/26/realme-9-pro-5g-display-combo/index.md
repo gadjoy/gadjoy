@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/26/realme-9-pro-5g-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-52.png
+banner: /img/uploads/2024/03/image-52.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-52.png)
+![](/img/uploads/2024/03/image-52.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/03/image-53.png)
+![](/img/uploads/2024/03/image-53.webp)
 
 **We repaired the device by replacing the broken display with restoring its functionality.**

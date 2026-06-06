@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/23/imac-pro-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-37.png
+banner: /img/uploads/2023/10/image-37.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-37.png)
+![](/img/uploads/2023/10/image-37.webp)
 
 **The device was given to us with  Logo Stuck condition**
 
-![](/img/uploads/2023/10/image-38.png)
+![](/img/uploads/2023/10/image-38.webp)
 
 **We did Software service and made the device work well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/28/hp-15s-du1044tu-not-switching-on/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-41.png
+banner: /img/uploads/2024/06/image-41.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-41.png)
+![](/img/uploads/2024/06/image-41.webp)
 
 **The device was received in Windows not booting condition**
 
-![](/img/uploads/2024/06/image-42.png)
+![](/img/uploads/2024/06/image-42.webp)
 
 **We did the software services and  reinstalled the OS**

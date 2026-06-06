@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/oppo-a31-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-50.png
+banner: /img/uploads/2023/08/image-50.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-50.png)
+![](/img/uploads/2023/08/image-50.webp)
 
 **The device was given to us in  dead condition**
 
-![](/img/uploads/2023/08/image-51.png)
+![](/img/uploads/2023/08/image-51.webp)
 
 **We conducted a chip level service and ensured the device functioned properly**

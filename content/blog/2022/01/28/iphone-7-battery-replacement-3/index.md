@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/28/iphone-7-battery-replacement-3/
 description: Before After When phone was given to us, its battery was draining faster We replaced Battery and made it better
 summary: Before After When phone was given to us, its battery was draining faster We replaced Battery and made it better
-banner: /img/uploads/2022/01/iPhone-7-–-Before-Battery-replacement.png
+banner: /img/uploads/2022/01/iPhone-7-–-Before-Battery-replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-7-–-Before-Battery-replacement.png)
+![](/img/uploads/2022/01/iPhone-7-–-Before-Battery-replacement.webp)
 
 > When phone was given to us, its battery was draining faster
 
-![](/img/uploads/2022/01/iPhone-7-–-After-Battery-replacement.png)
+![](/img/uploads/2022/01/iPhone-7-–-After-Battery-replacement.webp)
 
 > We replaced **Battery** and made it better

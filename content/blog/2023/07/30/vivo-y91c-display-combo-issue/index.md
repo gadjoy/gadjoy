@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/30/vivo-y91c-display-combo-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-67.png
+banner: /img/uploads/2023/07/image-67.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-67.png)
+![](/img/uploads/2023/07/image-67.webp)
 
 **The device was given to us with  dead  condition**
 
-![](/img/uploads/2023/07/image-68.png)
+![](/img/uploads/2023/07/image-68.webp)
 
 **We replaced  display and made the device work well**

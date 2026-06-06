@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/06/26/vivo-y83-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/06/image-19.png
+banner: /img/uploads/2022/06/image-19.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/06/image-19.png)
+![](/img/uploads/2022/06/image-19.webp)
 
 The device was given to us in blank display with a vibration
 
-![](/img/uploads/2022/06/image-20.png)
+![](/img/uploads/2022/06/image-20.webp)
 
 We had replaced the display combo and made it work

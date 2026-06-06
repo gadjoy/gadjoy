@@ -11,17 +11,17 @@ aliases:
 - /blog/2023/01/30/bluetooth-speaker-charging-port/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-295.png
+banner: /img/uploads/2023/01/image-295.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-295.png)
+![](/img/uploads/2023/01/image-295.webp)
 
 The device was given to us with Charging Port Issue
 
-![](/img/uploads/2023/01/image-296.png)
+![](/img/uploads/2023/01/image-296.webp)
 
 We had replaced display combo & back glass and made the device functioning

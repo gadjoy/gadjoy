@@ -11,7 +11,7 @@ aliases:
 - /blog/2022/09/11/gadget-repair-jbl-bluetooth-headphone/
 description: Problem Statement -Bothe the side headphone not working Scope of work – Solder the unplugged wire from the speaker Challenges –  Removing the metal earbuds Execution Strategy •Before soldering the wire to the speaker, skin the wire and burn it and dip in the soldering wax •Value Added -Made it working
 summary: Problem Statement -Bothe the side headphone not working Scope of work – Solder the unplugged wire from the speaker Challenges –  Removing the metal earbuds Execution Strategy •Before soldering the wire to the speaker, skin the wire and burn it and dip in the soldering wax •Value Added -Made it working
-banner: /img/uploads/2022/09/image-6.png
+banner: /img/uploads/2022/09/image-6.webp
 ---
 
 **Problem Statement** -Bothe the side headphone not working
@@ -26,12 +26,12 @@ banner: /img/uploads/2022/09/image-6.png
 
 **Execution Strategy** •Before soldering the wire to the speaker, skin the wire and burn it and dip in the soldering wax •**Value Added** -Made it working
 
-![](/img/uploads/2022/09/image-6.png)
+![](/img/uploads/2022/09/image-6.webp)
 
 Before
 
-![](/img/uploads/2022/09/image-7.png)
+![](/img/uploads/2022/09/image-7.webp)
 
 After
 
-![](/img/uploads/2022/09/image-8.png)
+![](/img/uploads/2022/09/image-8.webp)

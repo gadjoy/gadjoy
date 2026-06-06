@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/09/one-plus-7t-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-12.png
+banner: /img/uploads/2024/07/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-12.png)
+![](/img/uploads/2024/07/image-12.webp)
 
 **The device display was showing colored lines, when we received it**
 
-![](/img/uploads/2024/07/image-13.png)
+![](/img/uploads/2024/07/image-13.webp)
 
 **After the replacement of the display we fixed the issue**

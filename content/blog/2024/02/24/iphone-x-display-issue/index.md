@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/24/iphone-x-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-41.png
+banner: /img/uploads/2024/02/image-41.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-41.png)
+![](/img/uploads/2024/02/image-41.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/02/image-42.png)
+![](/img/uploads/2024/02/image-42.webp)
 
 **We repaired the device by replacing the broken display with a new one featuring a glass finish, restoring its functionality.**

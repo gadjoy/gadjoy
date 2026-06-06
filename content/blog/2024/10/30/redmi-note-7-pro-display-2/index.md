@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/30/redmi-note-7-pro-display-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image-27.png
+banner: /img/uploads/2024/10/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image-27.png)
+![](/img/uploads/2024/10/image-27.webp)
 
 **The device was received in dead and also display was cracked**
 
-![](/img/uploads/2024/10/image-28.png)
+![](/img/uploads/2024/10/image-28.webp)
 
 **After a replacement of the display and a extensive test on the device confirmed that it was only the display issue**

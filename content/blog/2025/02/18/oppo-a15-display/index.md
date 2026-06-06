@@ -10,7 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/oppo-a15-display/
-banner: /img/uploads/2025/02/image-26-1024x583.png
+banner: /img/uploads/2025/02/image-26-1024x583.webp
 ---
 
-![](/img/uploads/2025/02/image-26-1024x583.png)
+![](/img/uploads/2025/02/image-26-1024x583.webp)

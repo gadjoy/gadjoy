@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/01/key-cap-remover-2/
 description: Problem Statement -Keys remover Sow – This is a hand tool to remove keys from keyboard Challenges – Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Easy to handle and remove keys from keyboard -No need to give lot of effort to remove keys –
 summary: Problem Statement -Keys remover Sow – This is a hand tool to remove keys from keyboard Challenges – Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -Easy to handle and remove keys from keyboard -No need to give lot of effort to remove keys –
-banner: /img/uploads/2022/01/KEY-CAP-REMOVER.jpg
+banner: /img/uploads/2022/01/KEY-CAP-REMOVER.webp
 ---
 
-![](/img/uploads/2022/01/KEY-CAP-REMOVER.jpg)
+![](/img/uploads/2022/01/KEY-CAP-REMOVER.webp)
 
 **Problem Statement** -Keys remover
 

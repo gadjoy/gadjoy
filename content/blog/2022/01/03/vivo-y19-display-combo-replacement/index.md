@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/vivo-y19-display-combo-replacement/
 description: Before After When phone was given to us the display was fully broken and came apart We had Replaced the Display Combo and got it functional.
 summary: Before After When phone was given to us the display was fully broken and came apart We had Replaced the Display Combo and got it functional.
-banner: /img/uploads/2022/01/Vivo-Y19-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/01/Vivo-Y19-–-before-Display-Combo-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Vivo-Y19-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/Vivo-Y19-–-before-Display-Combo-Replacement.webp)
 
 > When phone was given to us the display was fully broken and came apart
 
-![](/img/uploads/2022/01/Vivo-Y19-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/01/Vivo-Y19-–-after-Display-Combo-Replacement.webp)
 
 > We had Replaced the **Display Combo** and got it functional.

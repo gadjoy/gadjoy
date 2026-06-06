@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/12/ipad-a2197-cpu-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-39.png
+banner: /img/uploads/2023/02/image-39.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-39.png)
+![](/img/uploads/2023/02/image-39.webp)
 
 The device was given to us in logo stuck condition
 
-![](/img/uploads/2023/02/image-40.png)
+![](/img/uploads/2023/02/image-40.webp)
 
 We had got CPU issue with it and did the chip-level service and made it active

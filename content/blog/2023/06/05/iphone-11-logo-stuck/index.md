@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/05/iphone-11-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-22.png
+banner: /img/uploads/2023/06/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-22.png)
+![](/img/uploads/2023/06/image-22.webp)
 
 **The device was given to us with Logo stuck**
 
-![](/img/uploads/2023/06/image-23.png)
+![](/img/uploads/2023/06/image-23.webp)
 
 **We had done the software services and made the device work.**

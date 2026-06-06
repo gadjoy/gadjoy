@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/03/redmi-8a-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-20.png
+banner: /img/uploads/2023/07/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-20.png)
+![](/img/uploads/2023/07/image-20.webp)
 
 **The device was given to us with water damage**
 
-![](/img/uploads/2023/07/image-21.png)
+![](/img/uploads/2023/07/image-21.webp)
 
 **We had done the chip-level service on the device and made it working**

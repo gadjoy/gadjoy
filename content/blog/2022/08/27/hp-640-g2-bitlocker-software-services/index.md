@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/27/hp-640-g2-bitlocker-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-80.png
+banner: /img/uploads/2022/08/image-80.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-80.png)
+![](/img/uploads/2022/08/image-80.webp)
 
 HP 640 G2 – Bitlocker – Software Services
 
-![](/img/uploads/2022/08/image-81.png)
+![](/img/uploads/2022/08/image-81.webp)
 
 HP 640 G2 – Bitlocker – Software Services

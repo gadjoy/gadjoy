@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/20/techno-spark-go-plus-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-23.png
+banner: /img/uploads/2022/03/image-23.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-23.png)
+![](/img/uploads/2022/03/image-23.webp)
 
 The phone was given to us, with the display was broken at the corner
 
-![](/img/uploads/2022/03/image-24.png)
+![](/img/uploads/2022/03/image-24.webp)
 
 *We had replaced the **Display Combo** and made it operating*

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/17/oppo-a16-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-40.png
+banner: /img/uploads/2024/07/image-40.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-40.png)
+![](/img/uploads/2024/07/image-40.webp)
 
 **The device was received in a reset condition and also the customer doesn’t know the password**
 
-![](/img/uploads/2024/07/image-41.png)
+![](/img/uploads/2024/07/image-41.webp)
 
 **After doing the software services we make the device usable**

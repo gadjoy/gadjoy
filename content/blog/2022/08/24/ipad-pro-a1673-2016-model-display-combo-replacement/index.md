@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/ipad-pro-a1673-2016-model-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-2.png
+banner: /img/uploads/2022/08/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-2.png)
+![](/img/uploads/2022/08/image-2.webp)
 
 **iPad Pro A1673 – 2016 model – Display Combo Replacement**
 
-![](/img/uploads/2022/08/image-3.png)
+![](/img/uploads/2022/08/image-3.webp)
 
 ****iPad Pro A1673 – 2016 model – Display Combo Replacement** n**

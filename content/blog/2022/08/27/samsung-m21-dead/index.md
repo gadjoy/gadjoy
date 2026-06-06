@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/samsung-m21-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-38.png
+banner: /img/uploads/2022/08/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-38.png)
+![](/img/uploads/2022/08/image-38.webp)
 
 Samsung M21 – Dead
 
-![](/img/uploads/2022/08/after-Samsung-M21-Display-Combo-Replacement.png)
+![](/img/uploads/2022/08/after-Samsung-M21-Display-Combo-Replacement.webp)
 
 Samsung M21 – Dead

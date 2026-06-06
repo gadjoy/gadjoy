@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/05/redmi-8-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-11.png
+banner: /img/uploads/2024/06/image-11.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-11.png)
+![](/img/uploads/2024/06/image-11.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/06/image-12.png)
+![](/img/uploads/2024/06/image-12.webp)
 
 **After diagnosing the device we got that need to change the display, after the replacement we got the device active**

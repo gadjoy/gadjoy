@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/dell-inspiron-p89g107-ms-office-activation-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-10.png
+banner: /img/uploads/2023/09/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-10.png)
+![](/img/uploads/2023/09/image-10.webp)
 
 **The device was given to us with MS Office Activation Issue**
 
-![](/img/uploads/2023/09/image-11.png)
+![](/img/uploads/2023/09/image-11.webp)
 
 **We has done the software service to activate the office**

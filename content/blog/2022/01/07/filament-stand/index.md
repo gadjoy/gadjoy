@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/07/filament-stand/
 description: Problem Statement -Filament holder Scope of work – The stand to hold filament spool. Challenges –  Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -This filament spool is used to keep filament clean and safe.
 summary: Problem Statement -Filament holder Scope of work – The stand to hold filament spool. Challenges –  Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -This filament spool is used to keep filament clean and safe.
-banner: /img/uploads/2022/01/Filament-Stand.jpg
+banner: /img/uploads/2022/01/Filament-Stand.webp
 ---
 
-![](/img/uploads/2022/01/Filament-Stand.jpg)
+![](/img/uploads/2022/01/Filament-Stand.webp)
 
 Problem Statement
 

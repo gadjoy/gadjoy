@@ -11,7 +11,7 @@ aliases:
 - /blog/2022/09/13/gadgets-repair-acer-laptop-charger-dead-condition/
 description: Problem Statement -The charger was giving the rated voltage Scope of work – Changing the DC wire of the charger Challenges –  Unsoldering the wire from Execution Strategy •Before soldering the wire to the board skin it and use the new wire instead of the old •Value Added -Made it working
 summary: Problem Statement -The charger was giving the rated voltage Scope of work – Changing the DC wire of the charger Challenges –  Unsoldering the wire from Execution Strategy •Before soldering the wire to the board skin it and use the new wire instead of the old •Value Added -Made it working
-banner: /img/uploads/2022/09/image-17.png
+banner: /img/uploads/2022/09/image-17.webp
 ---
 
 **Problem Statement** -The charger was giving the rated voltage
@@ -26,14 +26,14 @@ banner: /img/uploads/2022/09/image-17.png
 
 **Execution Strategy** •Before soldering the wire to the board skin it and use the new wire instead of the old •**Value Added** -Made it working
 
-![](/img/uploads/2022/09/image-17.png)
+![](/img/uploads/2022/09/image-17.webp)
 
 Before
 
-![](/img/uploads/2022/09/image-18.png)
+![](/img/uploads/2022/09/image-18.webp)
 
 Before
 
-![](/img/uploads/2022/09/image-19.png)
+![](/img/uploads/2022/09/image-19.webp)
 
 After

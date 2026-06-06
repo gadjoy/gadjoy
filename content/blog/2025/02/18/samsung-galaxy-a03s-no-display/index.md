@@ -10,7 +10,7 @@ categories:
 tags: []
 aliases:
 - /blog/2025/02/18/samsung-galaxy-a03s-no-display/
-banner: /img/uploads/2025/02/image-31-1024x582.png
+banner: /img/uploads/2025/02/image-31-1024x582.webp
 ---
 
-![](/img/uploads/2025/02/image-31-1024x582.png)
+![](/img/uploads/2025/02/image-31-1024x582.webp)

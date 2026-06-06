@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/07/moto-g5-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.jpg
+banner: /img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.jpg)
+![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-Before.webp)
 
 Phone was given to us with the display glass cracked from left corner
 
-![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-After.jpg)
+![](/img/uploads/2022/01/Moto-G5-Display-Glass-Replacement-After.webp)
 
 We had replaced the **Display Glass** and Made it better

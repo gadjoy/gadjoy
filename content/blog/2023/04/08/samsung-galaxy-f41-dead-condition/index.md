@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/08/samsung-galaxy-f41-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-16.png
+banner: /img/uploads/2023/04/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-16.png)
+![](/img/uploads/2023/04/image-16.webp)
 
 **The device was given to us in a dead condition**
 
-![](/img/uploads/2023/04/image-17.png)
+![](/img/uploads/2023/04/image-17.webp)
 
 **We had done the Chip Level services and made the device work.**

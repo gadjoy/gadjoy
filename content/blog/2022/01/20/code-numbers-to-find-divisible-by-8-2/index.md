@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/20/code-numbers-to-find-divisible-by-8-2/
 description: Problem Statement -To find if number is divisible by 8 Scope of work -Build a program to find a number which is divisible by 8 Challenges –    Last three digits numbers divisible by 8. Execution Strategy -Using list range of negative indexes -Write pseudocode -Write the code in python -Tested with edge cases Value Added […]
 summary: Problem Statement -To find if number is divisible by 8 Scope of work -Build a program to find a number which is divisible by 8 Challenges –    Last three digits numbers divisible by 8. Execution Strategy -Using list range of negative indexes -Write pseudocode -Write the code in python -Tested with edge cases Value Added […]
-banner: /img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-8-1.png
+banner: /img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-8-1.webp
 ---
 
-![](/img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-8-1.png)
+![](/img/uploads/2022/01/Code-–-Numbers-to-find-Divisible-by-8-1.webp)
 
 **Problem Statement** -To find if number is divisible by 8
 

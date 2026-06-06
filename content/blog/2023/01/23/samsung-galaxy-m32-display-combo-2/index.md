@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/01/23/samsung-galaxy-m32-display-combo-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-249.png
+banner: /img/uploads/2023/01/image-249.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-249.png)
+![](/img/uploads/2023/01/image-249.webp)
 
 The device was given to us with display issue
 
-![](/img/uploads/2023/01/image-250.png)
+![](/img/uploads/2023/01/image-250.webp)
 
 We had display replacement and made it working well

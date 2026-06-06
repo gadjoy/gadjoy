@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/10/poco-m2-network-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-36.png
+banner: /img/uploads/2023/07/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-36.png)
+![](/img/uploads/2023/07/image-36.webp)
 
 **The device was given to us with network issue**
 
-![](/img/uploads/2023/07/image-37.png)
+![](/img/uploads/2023/07/image-37.webp)
 
 **We had done the hard reset and made the device work.**

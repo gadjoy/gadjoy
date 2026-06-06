@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/13/macbook-air-a1466-fan-and-keyboard-upper-panel-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-28.png
+banner: /img/uploads/2023/01/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-28.png)
+![](/img/uploads/2023/01/image-28.webp)
 
 The device was given to us with fan was making sound
 
-![](/img/uploads/2023/01/image-29.png)
+![](/img/uploads/2023/01/image-29.webp)
 
 We had replaced  the fan of the device and made it work, better

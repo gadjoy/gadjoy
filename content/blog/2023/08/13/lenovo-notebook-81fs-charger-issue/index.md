@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/lenovo-notebook-81fs-charger-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-38.png
+banner: /img/uploads/2023/08/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-38.png)
+![](/img/uploads/2023/08/image-38.webp)
 
 **We received the device with a faulty charging system.**
 
-![](/img/uploads/2023/08/image-39.png)
+![](/img/uploads/2023/08/image-39.webp)
 
 **The charger was the cause of the problem and we replaced it with a new one. This solved the issue and the device functioned normally.**

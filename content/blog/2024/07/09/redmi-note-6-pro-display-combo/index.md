@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/09/redmi-note-6-pro-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-15.png
+banner: /img/uploads/2024/07/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-15.png)
+![](/img/uploads/2024/07/image-15.webp)
 
 **The device was received in the display broken condition**
 
-![](/img/uploads/2024/07/image-16.png)
+![](/img/uploads/2024/07/image-16.webp)
 
 **We have fixed the issue, by replacing the device display.**

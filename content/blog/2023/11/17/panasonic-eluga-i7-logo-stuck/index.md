@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/17/panasonic-eluga-i7-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-26.png
+banner: /img/uploads/2023/11/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-26.png)
+![](/img/uploads/2023/11/image-26.webp)
 
 **The device was given to us in logo stuck condition**
 
-![](/img/uploads/2023/11/image-27.png)
+![](/img/uploads/2023/11/image-27.webp)
 
 **We have done the software service on the device and made it boot as earlier**

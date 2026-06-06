@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/30/samsung-a2-core-software-service/
 description: Before After This phone was given to us to unlock the phone We did Software Unlock and got it functional
 summary: Before After This phone was given to us to unlock the phone We did Software Unlock and got it functional
-banner: /img/uploads/2022/01/Samsung-A2-Core-–-Before-Software-Service.png
+banner: /img/uploads/2022/01/Samsung-A2-Core-–-Before-Software-Service.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/01/Samsung-A2-Core-–-Before-Software-Service.png)
+![](/img/uploads/2022/01/Samsung-A2-Core-–-Before-Software-Service.webp)
 
 > This phone was given to us to unlock the phone
 
-![](/img/uploads/2022/01/Samsung-A2-Core-–-After-Software-Service.png)
+![](/img/uploads/2022/01/Samsung-A2-Core-–-After-Software-Service.webp)
 
 > We did **Software Unlock** and got it functional

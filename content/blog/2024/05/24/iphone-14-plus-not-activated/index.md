@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/iphone-14-plus-not-activated/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-45.png
+banner: /img/uploads/2024/05/image-45.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-45.png)
+![](/img/uploads/2024/05/image-45.webp)
 
 **The device was received in the condition in which, it was not activated**
 
-![](/img/uploads/2024/05/image-47.png)
+![](/img/uploads/2024/05/image-47.webp)
 
 **After doing the software service we activated the device made it to work as earlier**

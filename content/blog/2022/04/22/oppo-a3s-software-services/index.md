@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/22/oppo-a3s-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-91.png
+banner: /img/uploads/2022/04/image-91.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-91.png)
+![](/img/uploads/2022/04/image-91.webp)
 
 The device was given to us in recovery mode
 
-![](/img/uploads/2022/04/image-92.png)
+![](/img/uploads/2022/04/image-92.webp)
 
 We had recovered the android OS and made it usable

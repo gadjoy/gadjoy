@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/15/iphone-xr-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-63.png
+banner: /img/uploads/2023/02/image-63.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-63.png)
+![](/img/uploads/2023/02/image-63.webp)
 
 The device was given to us with Display  Issue
 
-![](/img/uploads/2023/02/image-64.png)
+![](/img/uploads/2023/02/image-64.webp)
 
 We have replaced the display combo and made the device functioning

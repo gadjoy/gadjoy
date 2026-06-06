@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/11/lenovo-thinkpad-t450-fan-error/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-20.png
+banner: /img/uploads/2024/03/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-20.png)
+![](/img/uploads/2024/03/image-20.webp)
 
 **The device was received in “Fan error” condition**
 
-![](/img/uploads/2024/03/image-21.png)
+![](/img/uploads/2024/03/image-21.webp)
 
 **We had to replace the fan of the device to make it working**

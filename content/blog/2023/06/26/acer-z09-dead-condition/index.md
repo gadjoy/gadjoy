@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/26/acer-z09-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-70.png
+banner: /img/uploads/2023/06/image-70.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-70.png)
+![](/img/uploads/2023/06/image-70.webp)
 
 **The device was given to us dead condition**
 
-![](/img/uploads/2023/06/image-71.png)
+![](/img/uploads/2023/06/image-71.webp)
 
 **We had done the chip level service and got it working**

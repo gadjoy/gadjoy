@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/iphone-xs-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-26.png
+banner: /img/uploads/2023/09/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-26.png)
+![](/img/uploads/2023/09/image-26.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-27.png)
+![](/img/uploads/2023/09/image-27.webp)
 
 **We had replaced the display combo of the device nad make it better**

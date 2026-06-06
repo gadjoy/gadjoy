@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/22/vivo-y17-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-87.png
+banner: /img/uploads/2022/04/image-87.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-87.png)
+![](/img/uploads/2022/04/image-87.webp)
 
 The device was given to us with display broken condition
 
-![](/img/uploads/2022/04/image-88.png)
+![](/img/uploads/2022/04/image-88.webp)
 
 We had Replaced the Display Combo and made it better

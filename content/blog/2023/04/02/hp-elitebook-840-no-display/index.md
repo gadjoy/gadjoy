@@ -12,7 +12,7 @@ aliases:
 - /blog/2023/04/02/hp-elitebook-840-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-5.png
+banner: /img/uploads/2023/04/image-5.webp
 ---
 
 ## Before
@@ -21,6 +21,6 @@ banner: /img/uploads/2023/04/image-5.png
 
 **The device was given to us in Slow Flickering Condition**
 
-![](/img/uploads/2023/04/image-5.png)
+![](/img/uploads/2023/04/image-5.webp)
 
 **We had done the software services and made the device work.**

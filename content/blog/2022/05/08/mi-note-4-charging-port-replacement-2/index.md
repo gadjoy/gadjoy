@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/08/mi-note-4-charging-port-replacement-2/
 description: Before After The phone was given to us in dead condition We had replaced the Charging Port of the device and made it functional
 summary: Before After The phone was given to us in dead condition We had replaced the Charging Port of the device and made it functional
-banner: /img/uploads/2022/05/Mi-Note-4-–-before-Charging-Port-Replacement.png
+banner: /img/uploads/2022/05/Mi-Note-4-–-before-Charging-Port-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/05/Mi-Note-4-–-before-Charging-Port-Replacement.png)
+![](/img/uploads/2022/05/Mi-Note-4-–-before-Charging-Port-Replacement.webp)
 
 > The phone was given to us in dead condition
 
-![](/img/uploads/2022/05/Mi-Note-4-–-after-Charging-Port-Replacement.png)
+![](/img/uploads/2022/05/Mi-Note-4-–-after-Charging-Port-Replacement.webp)
 
 > We had replaced the Charging Port of the device and made it functional
