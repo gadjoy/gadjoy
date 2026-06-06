@@ -1,0 +1,48 @@
+{{/* Project override: font preconnect + count-up stats + floating contact buttons. */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<script>
+(function () {
+  function ready(fn){ document.readyState !== 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn); }
+
+  ready(function () {
+    /* Floating WhatsApp + Call buttons (site-wide) */
+    var fab = document.createElement('div');
+    fab.className = 'gadjoy-fab';
+    fab.innerHTML =
+      '<a class="wa" href="https://wa.me/919110624049" target="_blank" rel="noopener" aria-label="WhatsApp Gadjoy"><i class="fab fa-whatsapp"></i></a>' +
+      '<a class="call" href="tel:+919110624049" aria-label="Call Gadjoy"><i class="fas fa-phone"></i></a>';
+    document.body.appendChild(fab);
+
+    /* Animated count-up for the stats band */
+    var nums = [].slice.call(document.querySelectorAll('.num[data-count]'));
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    function fmt(n){ return n.toLocaleString('en-IN'); }
+    function run(el){
+      var target = parseInt(el.getAttribute('data-count'), 10) || 0;
+      var suffix = el.getAttribute('data-suffix') || '';
+      if (reduce) { el.textContent = fmt(target) + suffix; return; }
+      var start = null, dur = 1400;
+      function step(ts){
+        if (!start) start = ts;
+        var p = Math.min((ts - start) / dur, 1);
+        var eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = fmt(Math.round(target * eased)) + suffix;
+        if (p < 1) requestAnimationFrame(step);
+      }
+      requestAnimationFrame(step);
+    }
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { run(e.target); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.4 });
+      nums.forEach(function (n) { io.observe(n); });
+    } else {
+      nums.forEach(run);
+    }
+  });
+})();
+</script>

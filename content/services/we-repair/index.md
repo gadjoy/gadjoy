@@ -1,67 +1,37 @@
 ---
 title: "We Repair"
-description: "Professional electronics repair services for all major brands and devices"
+description: "Phone, laptop, tablet and desktop repair in Bangalore — chip-level fixes, genuine parts, 90-day warranty. Free diagnosis."
 ---
 
-## Professional Electronics Repair Services
+## If it switches on (or used to), we can probably fix it.
 
-At Gadjoy Repair Service, we specialize in comprehensive electronics repair for all your devices. Our expert technicians handle everything from smartphones to laptops with precision and care.
+Cracked screen. Dead board. Water damage. Battery that quits by lunch. We've seen it
+**1,500+ times** — and most of it walks back out the door in 24 hours.
 
-### Device Categories We Service
+### What we fix
 
-#### 📱 Mobile Phones & Smartphones
-- **iPhone Repairs** - Display, battery, charging port, camera, water damage
-- **Samsung Galaxy** - Screen replacement, software issues, hardware repairs  
-- **Xiaomi/Redmi** - Display combos, dead device recovery, battery replacement
-- **OnePlus, Realme, Vivo, Oppo** - All hardware and software issues
+- **📱 Phones** — iPhone, Samsung, Xiaomi/Redmi, OnePlus, Realme, Vivo, Oppo and more.
+  Displays, batteries, charging ports, cameras, water damage, dead boards.
+- **💻 Laptops & MacBooks** — screens, hinges, keyboards, batteries, charging, motherboard &
+  chip-level repair, SSD/RAM upgrades, OS and data recovery.
+- **📟 Tablets & iPads** — glass and display, touch faults, battery and charging, software.
+- **🖥️ Desktops** — diagnosis, component swaps, Windows setup, upgrades and tune-ups.
 
-#### 💻 Laptops & MacBooks  
-- **Display Repairs** - Cracked screens, LCD replacement, hinge repairs
-- **Hardware Issues** - Battery, keyboard, charging port, motherboard
-- **Software Services** - OS installation, virus removal, data recovery
-- **Performance Upgrades** - RAM upgrade, SSD installation, general service
+### How it works
 
-#### 📟 Tablets & iPads
-- **Display Replacement** - Cracked glass, LCD issues, touch problems
-- **Battery Service** - Power issues, charging problems
-- **Software Repair** - Operating system, app issues, factory reset
+1. **Free diagnosis** — we find the real fault and explain it in plain language.
+2. **Honest quote** — a firm price upfront. No work starts until you say go.
+3. **Expert repair** — genuine-grade parts, fitted right, tested twice.
+4. **90-day warranty** — if it acts up, bring it back. We'll make it right.
 
-#### 🖥️ Desktop Computers
-- **Hardware Diagnosis** - Power supply, motherboard, component issues
-- **Software Services** - Windows installation, driver updates, optimization
-- **Upgrade Services** - RAM, storage, graphics card installation
+### Why people pick Gadjoy
 
-### Our Repair Process
-
-1. **Free Diagnosis** 📋
-   - Comprehensive device examination
-   - Issue identification and explanation
-   - Transparent cost estimate
-
-2. **Professional Repair** 🔧
-   - Quality parts and components
-   - Expert technician service
-   - Clean, organized workspace
-
-3. **Quality Testing** ✅
-   - Full functionality verification
-   - Performance optimization
-   - Safety and reliability checks
-
-4. **Warranty Coverage** 🛡️
-   - 30-day service warranty
-   - Parts warranty included
-   - Support and follow-up
-
-### Why Choose Our Repair Services?
-
-- ⚡ **Quick Turnaround** - Most repairs completed in 24-48 hours
-- 🎯 **Expert Technicians** - Years of specialized repair experience  
-- 💎 **Quality Parts** - Genuine and premium compatible components
-- 💰 **Fair Pricing** - Competitive rates with transparent quotes
-- 🏆 **Proven Results** - Thousands of successful repairs completed
-- 📍 **Convenient Location** - Easy access in Bangalore
+⚡ **Fast** — most repairs back in your hands within 24 hours.
+🔬 **Chip-level skill** — board-level work other shops turn away.
+💎 **Genuine-grade parts** — no cheap knock-offs, ever.
+💰 **No surprise bills** — you approve the quote before we touch a screwdriver.
 
 ---
 
-*Ready to get your device repaired? Contact us today for a free diagnosis and quote!*
+**Got a device acting up?** [Get a free quote](/contact/) or
+[WhatsApp us](https://wa.me/919110624049) — we'll take it from there.

@@ -1,0 +1,88 @@
+{{/* Project override: live Google reviews via the Places API at build time.
+     Reads the key from the GOOGLE_PLACES_API_KEY env var (never committed) and
+     the Place ID from site params. Falls back to a verifiable "proof" block when
+     the key/Place ID is absent or the request fails — so the build never breaks
+     and the section is always intentional. */}}
+{{ if and (isset .Site.Params "testimonials") .Site.Params.testimonials.enable }}
+
+{{ $key := os.Getenv "GOOGLE_PLACES_API_KEY" }}
+{{ $pid := .Site.Params.googlePlaceId }}
+{{ $reviewsUrl := default "https://www.google.com/maps/search/?api=1&query=Gadjoy+Repair+Services" .Site.Params.googleReviewsUrl }}
+{{ $repairs := len (where .Site.RegularPages "Section" "blog") }}
+
+{{ $result := false }}
+{{ if and $key $pid }}
+  {{ $url := printf "https://maps.googleapis.com/maps/api/place/details/json?place_id=%s&fields=rating,user_ratings_total,reviews,url&key=%s" $pid $key }}
+  {{ $try := try (resources.GetRemote $url) }}
+  {{ with $try.Err }}
+    {{ warnf "Google Places fetch failed: %s" . }}
+  {{ else with $try.Value }}
+    {{ $json := . | transform.Unmarshal }}
+    {{ if and $json (eq $json.status "OK") }}{{ $result = $json.result }}{{ end }}
+  {{ end }}
+{{ end }}
+
+<section class="bar background-pentagon no-mb">
+  <div class="container">
+    <div class="col-md-12">
+      <div class="heading text-center">
+        <h2>{{ .Site.Params.testimonials.title }}</h2>
+      </div>
+      <p class="lead">{{ .Site.Params.testimonials.subtitle | markdownify }}</p>
+
+      {{ $good := false }}
+      {{ with $result }}{{ $good = where .reviews "rating" ">=" 4 }}{{ end }}
+      {{ if and $result $good }}
+        {{ if $result.rating }}
+        <p class="text-center">
+          <a class="gadjoy-google-badge" href="{{ default $result.url $reviewsUrl }}" target="_blank" rel="noopener">
+            <i class="fab fa-google"></i>
+            <span class="stars">{{ range seq (math.Round $result.rating) }}★{{ end }}</span>
+            <strong>{{ lang.FormatNumber 1 $result.rating }}</strong>
+            {{ with $result.user_ratings_total }}· {{ . }} reviews on Google{{ end }}
+          </a>
+        </p>
+        {{ end }}
+
+        <div class="row gadjoy-reviews">
+          {{ range first 6 $good }}
+          <div class="col-md-4 col-sm-6">
+            <div class="gadjoy-review">
+              <div class="g-stars">{{ range seq .rating }}★{{ end }}</div>
+              <p class="g-text">{{ .text | truncate 240 }}</p>
+              <div class="g-author">
+                {{ with .profile_photo_url }}<img src="{{ . }}" alt="" loading="lazy">{{ end }}
+                <span><strong>{{ .author_name }}</strong><br><small>{{ .relative_time_description }}</small></span>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        <p class="text-center reviews-attribution"><small>Reviews from Google ·
+          <a href="{{ default $result.url $reviewsUrl }}" target="_blank" rel="noopener">read more</a></small></p>
+
+      {{ else }}
+        {{/* ---- Fallback proof block (no API key / Place ID / reviews) ---- */}}
+        <div class="row gadjoy-proof">
+          <div class="col-md-4 col-sm-4">
+            <div class="proof-item"><div class="pnum">{{ $repairs }}+</div>
+              <div class="plabel">Repairs documented &amp; counting</div></div>
+          </div>
+          <div class="col-md-4 col-sm-4">
+            <div class="proof-item"><div class="pnum">90-day</div>
+              <div class="plabel">Warranty on every repair</div></div>
+          </div>
+          <div class="col-md-4 col-sm-4">
+            <div class="proof-item"><div class="pnum">★★★★★</div>
+              <div class="plabel">Rated by customers across Bangalore</div></div>
+          </div>
+        </div>
+        <p class="text-center">
+          <a class="btn btn-template-main" href="{{ $reviewsUrl }}" target="_blank" rel="noopener">
+            <i class="fab fa-google"></i> See our reviews on Google</a>
+        </p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -2,48 +2,34 @@
 title: "Contact Us"
 date: 2016-11-03 17:58:44
 draft: false
-description: "Get in touch with Gadjoy Repair Service for all your electronics repair needs in Bangalore"
+description: "Visit, call or WhatsApp Gadjoy Repair Service in Bangalore. Free diagnosis, honest quotes, fast turnaround."
 ---
 
-## Contact Gadjoy Repair Service
+## Let's get your device sorted.
 
-### Professional Electronics Repair in Bangalore
+Message us a photo of the problem and we'll tell you what's likely wrong and roughly what it'll
+cost — usually within the hour. Or just walk in; the kettle's on.
 
-We specialize in repairing all types of electronic devices including smartphones, laptops, tablets, and desktops. Our expert technicians provide quality service with genuine parts and warranty.
+### 📍 Visit us
 
-### Our Location
-
-**Gadjoy Repair Service**  
-#300, Adj D'Mart, Varthur Rd  
-Siddapura, Karnataka 560066  
+**Gadjoy Repair Service**
+#300, Adj D'Mart, Varthur Rd
+Siddapura, Karnataka 560066
 Bangalore, India
 
-### Contact Information
+### 📞 Reach us
 
-📞 **Phone:** +91 9110624049  
-📧 **Email:** info@gadjoyrepair.com  
-🕒 **Hours:** Monday-Sunday: 10am to 8pm (Thursday: Weekly Off)
+- **Call / WhatsApp:** [+91 91106 24049](tel:+919110624049)
+- **Email:** [info@gadjoyrepair.com](mailto:info@gadjoyrepair.com)
+- **Hours:** Mon–Sun, 10am–8pm · *(Thursday: weekly off)*
 
-### Services We Provide
+### What to expect
 
-- **Mobile Phone Repair** - iPhone, Samsung, Xiaomi, OnePlus, Realme, Vivo, Oppo
-- **Laptop Repair** - Dell, HP, Lenovo, MacBook, Asus
-- **Tablet Repair** - iPad, Android tablets
-- **Desktop Computer Repair** - Hardware and software issues
-
-### Why Choose Us?
-
-- ✅ **Expert Technicians** with years of experience
-- ✅ **Quality Parts** - Genuine and compatible components
-- ✅ **Quick Service** - Most repairs completed in 24-48 hours
-- ✅ **Warranty** - 30-day warranty on all repairs
-- ✅ **Transparent Pricing** - No hidden costs
-- ✅ **Free Diagnosis** - Complimentary device assessment
-
-### Get a Quote
-
-Have a device that needs repair? Contact us for a free diagnosis and quote. We'll assess your device and provide transparent pricing before starting any work.
+- ✅ **Free diagnosis** — we find the real fault before you pay anything
+- ✅ **Honest, upfront quote** — no surprise bills
+- ✅ **Fast turnaround** — most repairs in 24 hours
+- ✅ **90-day warranty** — on every repair, parts and labour
 
 ---
 
-*Visit us at our Bangalore location or call us to discuss your device repair needs. Professional service guaranteed!*
+*Fastest reply? [WhatsApp us](https://wa.me/919110624049) — drop a photo and a quick description.*

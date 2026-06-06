@@ -1,4 +1,4 @@
 weight: 5
-name: "Transparent Pricing"
-description: "Clear, upfront pricing with no hidden costs or surprise fees"
-icon: "fa fa-dollar-sign"
+name: "No Surprise Bills"
+icon: "fa fa-tags"
+description: "Upfront price after diagnosis. You pay only when you approve the quote."

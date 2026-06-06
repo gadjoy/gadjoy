@@ -1,0 +1,56 @@
+{{/* Project override of the theme carousel: a clean, premium static hero +
+     an animated stats band. Replaces the rotating owl carousel. */}}
+{{ $repairs := len (where .Site.RegularPages "Section" "blog") }}
+{{ $wa := "https://wa.me/919110624049" }}
+
+<section class="gadjoy-hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-7">
+        <span class="eyebrow"><i class="fas fa-map-marker-alt"></i> Bangalore · Varthur Road</span>
+        <h1>Cracked it? Dead?<br><span class="pop">We fix them all.</span></h1>
+        <p class="sub">Phones, laptops, tablets &amp; desktops — chip-level repairs done right.
+          Most devices back in your hands in <strong>24 hours</strong>, every job backed by a
+          <strong>90-day warranty</strong>.</p>
+        <div class="cta-row">
+          <a href="/contact/" class="btn btn-template-main"><i class="fas fa-bolt"></i> Get a free quote</a>
+          <a href="{{ $wa }}" target="_blank" rel="noopener" class="btn btn-template-transparent-primary">
+            <i class="fab fa-whatsapp"></i> WhatsApp us</a>
+        </div>
+        <p class="gadjoy-trust">
+          <span class="stars">★★★★★</span>
+          Trusted by customers across Bangalore · {{ $repairs }}+ repairs and counting
+        </p>
+      </div>
+      <div class="col-md-6 col-sm-5 hidden-xs">
+        <div class="hero-art">
+          <img src="{{ "img/uploads/2021/08/gadjoy-repair-services-bangalore-mobile-phone-dealers-yjlo1p2xtf-1.jpg" | relURL }}"
+               alt="Inside the Gadjoy repair workshop in Bangalore">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bar gadjoy-dark no-mb">
+  <div class="container">
+    <div class="gadjoy-stats">
+      <div class="stat">
+        <div class="num" data-count="{{ $repairs }}" data-suffix="+">0</div>
+        <div class="label">Repairs documented</div>
+      </div>
+      <div class="stat">
+        <div class="num" data-count="24" data-suffix="h">0</div>
+        <div class="label">Typical turnaround</div>
+      </div>
+      <div class="stat">
+        <div class="num" data-count="90" data-suffix="-day">0</div>
+        <div class="label">Warranty on every repair</div>
+      </div>
+      <div class="stat">
+        <div class="num" data-count="15" data-suffix="+">0</div>
+        <div class="label">Device brands serviced</div>
+      </div>
+    </div>
+  </div>
+</section>
