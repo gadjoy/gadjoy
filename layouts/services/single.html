@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+  <body>
+    <div id="all">
+        {{ partial "top.html" . }}
+        {{ partial "nav.html" . }}
+
+        {{ if .Params.cards }}
+        {{/* ---- Interactive service page (data-driven) ---- */}}
+        {{ $wa := "https://wa.me/919110624049" }}
+
+        <section class="gadjoy-hero svc-hero">
+          <div class="container">
+            {{ with .Params.hero }}
+            <span class="eyebrow"><i class="fas fa-screwdriver-wrench"></i> {{ .eyebrow }}</span>
+            <h1>{{ .headline }}</h1>
+            <p class="sub">{{ .sub }}</p>
+            {{ end }}
+            <div class="cta-row">
+              <a href="/contact/" class="btn btn-template-main"><i class="fas fa-bolt"></i> {{ .Params.ctaText | default "Get a free quote" }}</a>
+              <a href="{{ $wa }}" target="_blank" rel="noopener" class="btn btn-template-transparent-primary"><i class="fab fa-whatsapp"></i> WhatsApp us</a>
+            </div>
+          </div>
+        </section>
+
+        <section class="bar background-white no-mb">
+          <div class="container">
+            <div class="heading text-center"><h2>{{ .Params.cardsTitle | default "What we fix" }}</h2></div>
+            {{ with .Params.cardsLead }}<p class="lead">{{ . }}</p>{{ end }}
+            <div class="svc-devices">
+              {{ range .Params.cards }}
+              <div class="svc-card gj-reveal">
+                <div class="svc-card-icon"><i class="fas {{ .icon }}"></i></div>
+                <h4>{{ .name }}</h4>
+                <p>{{ .text }}</p>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </section>
+
+        {{ if .Params.steps }}
+        <section class="bar background-gray no-mb">
+          <div class="container">
+            <div class="heading text-center"><h2>{{ .Params.stepsTitle | default "How it works" }}</h2></div>
+            {{ with .Params.stepsLead }}<p class="lead">{{ . }}</p>{{ end }}
+            <div class="svc-steps">
+              {{ range $i, $s := .Params.steps }}
+              <div class="svc-step gj-reveal">
+                <div class="svc-step-num">{{ add $i 1 }}</div>
+                <h4>{{ $s.title }}</h4>
+                <p>{{ $s.text }}</p>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </section>
+        {{ end }}
+
+        {{ if .Params.reasons }}
+        <section class="bar {{ if .Params.steps }}background-white{{ else }}background-gray{{ end }} no-mb">
+          <div class="container">
+            <div class="heading text-center"><h2>{{ .Params.reasonsTitle | default "Why people pick Gadjoy" }}</h2></div>
+            {{ with .Params.reasonsLead }}<p class="lead">{{ . }}</p>{{ end }}
+            <div class="svc-reasons">
+              {{ range .Params.reasons }}
+              <div class="svc-reason gj-reveal">
+                <div class="svc-reason-icon"><i class="fas {{ .icon }}"></i></div>
+                <div><h4>{{ .name }}</h4><p>{{ .text }}</p></div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </section>
+        {{ end }}
+
+        <section class="bar background-image-fixed-2 no-mb text-center">
+          <div class="container">
+            <h2>{{ .Params.ctaTitle | default "Got a device acting up?" }}</h2>
+            <p class="lead">{{ .Params.ctaSub | default "Free diagnosis, honest quote, fast turnaround. Bring it in or message us." }}</p>
+            <p class="cta-row">
+              <a href="/contact/" class="btn btn-template-main"><i class="fas fa-bolt"></i> {{ .Params.ctaText | default "Get a free quote" }}</a>
+              <a href="{{ $wa }}" target="_blank" rel="noopener" class="btn btn-template-transparent-primary"><i class="fab fa-whatsapp"></i> WhatsApp us</a>
+            </p>
+          </div>
+        </section>
+
+        {{ else }}
+        {{/* ---- Fallback: standard content page ---- */}}
+        {{ partial "breadcrumbs.html" . }}
+        <div id="content"><div class="container"><div class="row">
+          <div class="col-md-9" id="blog-post"><div id="post-content">{{ .Content }}</div></div>
+          <div class="col-md-3">{{ partial "sidebar.html" . }}</div>
+        </div></div></div>
+        {{ end }}
+
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

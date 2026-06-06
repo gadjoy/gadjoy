@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+  <body>
+    <div id="all">
+        {{ partial "top.html" . }}
+        {{ partial "nav.html" . }}
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="gadjoy-gallery-intro text-center">
+                    {{ .Content }}
+                </div>
+
+                {{ $shots := where site.RegularPages "Section" "blog" }}
+                {{ $shots = where $shots ".Params.banner" "!=" nil }}
+                {{ $shots = first 60 (sort $shots "Date" "desc") }}
+                <div class="gj-wall">
+                    {{ range $shots }}
+                    <button type="button" class="gj-wall-item" data-full="{{ .Params.banner | relURL }}" aria-label="View repair photo">
+                        <img src="{{ .Params.banner | relURL }}" alt="" loading="lazy">
+                    </button>
+                    {{ end }}
+                </div>
+
+                <p class="text-center gadjoy-gallery-more">
+                    Want the full story behind a fix?
+                    <a href="/blog/" class="btn btn-template-main">Browse the repair blog &rarr;</a>
+                </p>
+
+            </div>
+        </div>
+
+        <!-- Lightbox overlay (driven by gj-wall JS in custom_headers) -->
+        <div id="gj-lightbox" class="gj-lightbox" aria-hidden="true">
+          <button class="gj-lb-close" aria-label="Close">&times;</button>
+          <button class="gj-lb-nav gj-lb-prev" aria-label="Previous">&#8249;</button>
+          <img class="gj-lb-img" src="" alt="">
+          <button class="gj-lb-nav gj-lb-next" aria-label="Next">&#8250;</button>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

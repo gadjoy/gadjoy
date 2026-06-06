@@ -29,24 +29,53 @@
 
 /* ---------- Base ---------- */
 html, body { background: var(--bg); color: var(--fg); }
-body { -webkit-font-smoothing: antialiased; }
+/* Lift the theme's small 14px base to a comfortable, consistent 16px. */
+body { font-size: 16px; line-height: 1.7; -webkit-font-smoothing: antialiased; }
 a { color: #000; }
 a:hover, a:focus { color: #555; }
 
-/* ---------- Typography ---------- */
+/* ===================================================================
+   Typography system — one consistent scale across the whole site.
+   Body = Inter; headings = Sora. Sizes in rem off the 16px base.
+   =================================================================== */
 body,
-p, li, a, span, div, input, textarea, button, select, label, blockquote, .lead {
+p, li, a, span, div, input, textarea, button, select, label, blockquote, .lead,
+td, th, dd, dt, figcaption {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 h1, h2, h3, h4, h5, h6,
-.navbar-brand, .box-image-text h4, .panel-title {
+.navbar-brand, .box-image-text h4, .panel-title, .heading h2, .num, .pnum {
   font-family: 'Sora', 'Inter', sans-serif !important;
   color: var(--fg-strong);
   letter-spacing: -0.02em;
+  line-height: 1.2;
 }
-h1 { font-weight: 800; }
-h2, h3 { font-weight: 700; }
-.lead { color: var(--fg-muted); font-weight: 400; }
+/* Consistent heading scale (overrides theme's px sizes everywhere) */
+h1, .h1 { font-size: 2.4rem; font-weight: 800; margin: 0 0 .5em; }
+h2, .h2 { font-size: 1.85rem; font-weight: 700; margin: 0 0 .55em; }
+h3, .h3 { font-size: 1.45rem; font-weight: 700; margin: 1.2em 0 .5em; }
+h4, .h4 { font-size: 1.2rem;  font-weight: 600; margin: 1em 0 .4em; }
+h5, .h5 { font-size: 1.05rem; font-weight: 600; }
+h6, .h6 { font-size: .95rem;  font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+p { margin: 0 0 1.1em; }
+.lead { color: var(--fg-muted); font-weight: 400; font-size: 1.18rem; line-height: 1.6; }
+
+/* Long-form content (blog posts, service & contact pages) — readable rhythm */
+#post-content { font-size: 1.06rem; line-height: 1.8; }
+#post-content p, #post-content li { font-size: 1.06rem; }
+#post-content h2 { margin-top: 1.4em; }
+#post-content h3, #post-content h4 { margin-top: 1.3em; }
+#post-content ul, #post-content ol { margin: 0 0 1.1em 1.2em; }
+#post-content li { margin-bottom: .4em; }
+
+/* Sidebar, footer, nav, buttons — bumped off 13–14px for consistency */
+.panel-body, .panel-body a, .nav-pills > li > a, .panel.sidebar-menu .panel-body { font-size: .95rem; }
+.panel-title { font-size: 1.05rem; }
+#footer, #footer p, #footer li, #footer a { font-size: .95rem; line-height: 1.7; }
+#copyright, #copyright p, #copyright a { font-size: .9rem; }
+.navbar-default .navbar-nav > li > a { font-size: 1rem; }
+.btn { font-size: .98rem; }
+#blog-listing-medium .post .intro, .box-image-text .intro { font-size: .98rem; line-height: 1.6; }
 
 /* ---------- Buttons (black bg, white text / black outline) ---------- */
 .btn { border-radius: 999px; font-weight: 600; letter-spacing: .01em; padding: 11px 26px;
@@ -98,7 +127,7 @@ h2, h3 { font-weight: 700; }
   content: ""; position: absolute; left: 50%; bottom: 0; transform: translateX(-50%);
   width: 56px; height: 4px; border-radius: 2px; background: #000;
 }
-.bar .lead { font-size: 1.12rem; max-width: 720px; margin: 0 auto; }
+.bar .lead { font-size: 1.18rem; max-width: 720px; margin: 0 auto 8px; text-align: center; }
 
 /* ---------- Black accent bands (stats / CTA) ---------- */
 .bar.gadjoy-dark { background: var(--ink-band); }
@@ -218,6 +247,129 @@ h2, h3 { font-weight: 700; }
 .gadjoy-scroll-item.review { flex: 0 0 340px; }
 .gadjoy-scroll-item.review .gadjoy-review { height: 100%; margin-bottom: 0; }
 @media (max-width: 767px) { .gadjoy-scroll-item.review { flex-basis: 84%; } }
+
+/* Scroll-reveal (own observer in custom_headers.html; visible if JS/observer absent) */
+.gj-reveal { opacity: 0; transform: translateY(22px); transition: opacity .6s ease, transform .6s ease; }
+.gj-reveal.in { opacity: 1; transform: none; }
+.no-js .gj-reveal, .gj-reveal.no-observer { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) { .gj-reveal { opacity: 1 !important; transform: none !important; transition: none; } }
+
+/* ============ Interactive service page (We Repair) ============ */
+.svc-hero { padding: 72px 0 60px; }
+.svc-hero .cta-row { margin-top: 26px; }
+.svc-hero .cta-row .btn { margin: 6px 10px 6px 0; }
+
+/* Device tiles */
+.svc-devices {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 22px; margin-top: 30px;
+}
+.svc-card {
+  background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 30px 24px;
+  text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,.05);
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.svc-card:hover { transform: translateY(-8px); border-color: #000; box-shadow: 0 20px 44px rgba(0,0,0,.14); }
+.svc-card-icon {
+  width: 70px; height: 70px; margin: 0 auto 18px; border-radius: 50%;
+  background: var(--ink-band); color: #fff; display: flex; align-items: center;
+  justify-content: center; font-size: 1.7rem; transition: transform .25s ease;
+}
+.svc-card:hover .svc-card-icon { transform: scale(1.1) rotate(-6deg); }
+.svc-card h4 { margin: 0 0 10px; }
+.svc-card p { color: var(--fg-muted); font-size: .96rem; margin: 0; }
+
+/* Step timeline */
+.svc-steps {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 22px; margin-top: 34px; position: relative;
+}
+.svc-step {
+  background: #fff; border: 1px solid var(--line); border-radius: 16px; padding: 28px 22px 24px;
+  text-align: center; position: relative; transition: transform .2s ease, box-shadow .2s ease;
+}
+.svc-step:hover { transform: translateY(-6px); box-shadow: 0 16px 36px rgba(0,0,0,.12); }
+.svc-step-num {
+  width: 54px; height: 54px; margin: 0 auto 16px; border-radius: 50%;
+  background: #000; color: #fff; font-family: 'Sora', sans-serif; font-weight: 800;
+  font-size: 1.4rem; display: flex; align-items: center; justify-content: center;
+}
+.svc-step h4 { margin: 0 0 8px; }
+.svc-step p { color: var(--fg-muted); font-size: .95rem; margin: 0; }
+
+/* Reason cards */
+.svc-reasons {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px; margin-top: 30px;
+}
+.svc-reason {
+  display: flex; gap: 16px; align-items: flex-start; background: var(--bg-2);
+  border: 1px solid var(--line); border-radius: 16px; padding: 22px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.svc-reason:hover { transform: translateY(-4px); box-shadow: 0 14px 32px rgba(0,0,0,.1); }
+.svc-reason-icon {
+  flex: 0 0 auto; width: 50px; height: 50px; border-radius: 12px; background: #000; color: #fff;
+  display: flex; align-items: center; justify-content: center; font-size: 1.25rem;
+}
+.svc-reason h4 { margin: 0 0 4px; }
+.svc-reason p { color: var(--fg-muted); margin: 0; font-size: .96rem; }
+
+/* ============ Contact page ============ */
+.gj-contact { margin-top: 26px; }
+.gj-contact .heading h2 { margin-top: 0; }
+.gj-contact .form-group { margin-bottom: 16px; }
+.gj-contact label { font-weight: 600; margin-bottom: 6px; display: inline-block; }
+.gj-contact textarea.form-control { min-height: 130px; }
+.gj-contact-card {
+  display: flex; gap: 16px; align-items: flex-start; background: var(--bg-2);
+  border: 1px solid var(--line); border-radius: 16px; padding: 20px; margin-bottom: 16px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.gj-contact-card:hover { transform: translateY(-3px); box-shadow: 0 14px 30px rgba(0,0,0,.1); }
+.gj-contact-card .ic {
+  flex: 0 0 auto; width: 48px; height: 48px; border-radius: 12px; background: #000; color: #fff;
+  display: flex; align-items: center; justify-content: center; font-size: 1.2rem;
+}
+.gj-contact-card h4 { margin: 0 0 6px; }
+.gj-contact-card p { margin: 0 0 6px; color: var(--fg); }
+.gj-contact-card .gj-link { font-weight: 600; }
+.gj-map { line-height: 0; border-top: 1px solid var(--line); }
+.gj-map iframe { display: block; filter: grayscale(1) contrast(1.05); }
+
+/* ============ Gallery — before/after wall + lightbox ============ */
+.gadjoy-gallery-intro { max-width: 760px; margin: 36px auto 6px; }
+.gadjoy-gallery-intro h2 { margin-top: 0; }
+.gj-wall { column-count: 4; column-gap: 12px; margin: 26px 0 8px; }
+.gj-wall-item {
+  display: block; width: 100%; padding: 0; border: 1px solid var(--line); background: var(--bg-2);
+  border-radius: 12px; overflow: hidden; margin: 0 0 12px; cursor: zoom-in;
+  break-inside: avoid; -webkit-column-break-inside: avoid;
+}
+.gj-wall-item img { width: 100%; height: auto; display: block; transition: transform .35s ease, opacity .2s ease; }
+.gj-wall-item:hover img { transform: scale(1.05); opacity: .92; }
+.gadjoy-gallery-more { margin-top: 30px; }
+@media (max-width: 991px) { .gj-wall { column-count: 3; } }
+@media (max-width: 767px) { .gj-wall { column-count: 2; } }
+@media (max-width: 420px) { .gj-wall { column-count: 1; } }
+
+/* Lightbox */
+.gj-lightbox {
+  position: fixed; inset: 0; z-index: 2000; display: none;
+  align-items: center; justify-content: center; background: rgba(0,0,0,.92);
+}
+.gj-lightbox.open { display: flex; }
+.gj-lightbox .gj-lb-img { max-width: 90vw; max-height: 86vh; border-radius: 6px; box-shadow: 0 20px 60px rgba(0,0,0,.6); }
+.gj-lb-close, .gj-lb-nav {
+  position: absolute; background: rgba(255,255,255,.12); color: #fff; border: none;
+  cursor: pointer; border-radius: 50%; width: 50px; height: 50px; font-size: 1.8rem; line-height: 1;
+  transition: background .15s ease;
+}
+.gj-lb-close:hover, .gj-lb-nav:hover { background: rgba(255,255,255,.28); }
+.gj-lb-close { top: 20px; right: 20px; font-size: 2rem; }
+.gj-lb-nav { top: 50%; transform: translateY(-50%); }
+.gj-lb-prev { left: 18px; } .gj-lb-next { right: 18px; }
+@media (max-width: 575px) { .gj-lb-nav { width: 42px; height: 42px; } }
 
 /* Uniform thumbnail grid for homepage "Recent Repairs" + blog list cards */
 .box-image-text.blog .top .image,
