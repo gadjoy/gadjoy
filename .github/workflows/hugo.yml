@@ -21,6 +21,12 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+# Opt all JavaScript actions into the Node.js 24 runtime (Node 20 is being
+# deprecated on GitHub Actions runners). Forces checkout/configure-pages/
+# upload-pages-artifact/deploy-pages onto Node 24 regardless of their pinned major.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # Default to bash
 defaults:
   run:
@@ -40,7 +46,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
       - name: Setup Pages
