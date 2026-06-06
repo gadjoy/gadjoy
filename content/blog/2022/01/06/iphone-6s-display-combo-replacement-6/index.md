@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/06/iphone-6s-display-combo-replacement-6/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-Before-1-edited.jpg
+banner: /img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-Before-1-edited.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-Before-1-edited.jpg)
+![](/img/uploads/2022/01/iPhone-6s-Display-Combo-Replacement-Before-1-edited.webp)
 
 Phone was give to us to replace the display combo, and it was automatic touching
 
-![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Aftr.jpg)
+![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Aftr.webp)
 
 We had **Replaced the Display Combo** and made it functioning

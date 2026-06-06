@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/06/iphone-8-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/iPhone-8-Dead-Condition-Before.jpg
+banner: /img/uploads/2022/01/iPhone-8-Dead-Condition-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Before.jpg)
+![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Before.webp)
 
 The iPhone was given to us with dead condition
 
-![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Aftr-1.jpg)
+![](/img/uploads/2022/01/iPhone-8-Dead-Condition-Aftr-1.webp)
 
 We had done the **Service on the Power IC’s** and got it working

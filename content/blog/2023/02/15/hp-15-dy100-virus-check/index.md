@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/15/hp-15-dy100-virus-check/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-59.png
+banner: /img/uploads/2023/02/image-59.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-59.png)
+![](/img/uploads/2023/02/image-59.webp)
 
 The device was given to us with Virus Issue
 
-![](/img/uploads/2023/02/image-60.png)
+![](/img/uploads/2023/02/image-60.webp)
 
 We had rectify the Virus issue

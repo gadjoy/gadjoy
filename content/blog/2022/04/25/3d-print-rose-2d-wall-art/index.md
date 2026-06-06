@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/04/25/3d-print-rose-2d-wall-art/
 description: Problem Statement -Butterfly On Rose – 2D Wall Art Scope of work – Build wall arts for decoration Challenges –    Nil Execution Strategy •2D Butterfly on rose. Easy print. •Value Added -Show Piece
 summary: Problem Statement -Butterfly On Rose – 2D Wall Art Scope of work – Build wall arts for decoration Challenges –    Nil Execution Strategy •2D Butterfly on rose. Easy print. •Value Added -Show Piece
-banner: /img/uploads/2022/04/image-112.png
+banner: /img/uploads/2022/04/image-112.webp
 ---
 
-![](/img/uploads/2022/04/image-112.png)
+![](/img/uploads/2022/04/image-112.webp)
 
 **Problem Statement** -Butterfly On Rose – 2D Wall Art
 

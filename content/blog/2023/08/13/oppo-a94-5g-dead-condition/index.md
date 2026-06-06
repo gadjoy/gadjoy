@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/oppo-a94-5g-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-56.png
+banner: /img/uploads/2023/08/image-56.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-56.png)
+![](/img/uploads/2023/08/image-56.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/08/image-57.png)
+![](/img/uploads/2023/08/image-57.webp)
 
 **We completed a chip level service and fixed the device functionality.**

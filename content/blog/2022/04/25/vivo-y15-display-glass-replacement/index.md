@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/25/vivo-y15-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-108.png
+banner: /img/uploads/2022/04/image-108.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-108.png)
+![](/img/uploads/2022/04/image-108.webp)
 
 The device was given to us with display glass broken condition
 
-![](/img/uploads/2022/04/image-109.png)
+![](/img/uploads/2022/04/image-109.webp)
 
 We had replaced **the Display Glass** of the device and made it better

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/05/samsung-galaxy-s20-fe-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-15.png
+banner: /img/uploads/2024/06/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-15.png)
+![](/img/uploads/2024/06/image-15.webp)
 
 **The device was received in the condition in which the glass of the device was cracked**
 
-![](/img/uploads/2024/06/image-16.png)
+![](/img/uploads/2024/06/image-16.webp)
 
 **Because the device has the original display we could replace only the display glass of the device without replacing the display combo**

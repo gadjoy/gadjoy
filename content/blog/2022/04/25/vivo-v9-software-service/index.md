@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/25/vivo-v9-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-110.png
+banner: /img/uploads/2022/04/image-110.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-110.png)
+![](/img/uploads/2022/04/image-110.webp)
 
 The device was given to us with a locked condition
 
-![](/img/uploads/2022/04/image-111.png)
+![](/img/uploads/2022/04/image-111.webp)
 
 We had unlocked the device with software tool

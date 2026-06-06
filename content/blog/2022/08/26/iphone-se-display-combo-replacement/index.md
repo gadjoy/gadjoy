@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/26/iphone-se-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-iPhone-SE-Display-Combo-Replacement.png
+banner: /img/uploads/2022/08/before-iPhone-SE-Display-Combo-Replacement.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-iPhone-SE-Display-Combo-Replacement.png)
+![](/img/uploads/2022/08/before-iPhone-SE-Display-Combo-Replacement.webp)
 
 iPhone SE – Display Combo Replacement
 
-![](/img/uploads/2022/08/after-iPhone-SE-Display-Combo-Replacement.png)
+![](/img/uploads/2022/08/after-iPhone-SE-Display-Combo-Replacement.webp)
 
 iPhone SE – Display Combo Replacement

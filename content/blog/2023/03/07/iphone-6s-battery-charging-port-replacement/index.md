@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/07/iphone-6s-battery-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-8.png
+banner: /img/uploads/2023/03/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-8.png)
+![](/img/uploads/2023/03/image-8.webp)
 
 **The device was given to us with battery and charging port issues**
 
-![](/img/uploads/2023/03/image-9.png)
+![](/img/uploads/2023/03/image-9.webp)
 
 **We replaced battery and charging port strip and made the device work well**

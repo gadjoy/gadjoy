@@ -8,9 +8,9 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/08/mechanical-quick-grab-phone-stand/
-banner: /img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.jpeg
+banner: /img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.webp
 ---
 
-![](/img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.jpeg)
+![](/img/uploads/2021/07/WhatsApp-Image-2021-07-14-at-5.49.57-AM.webp)
 
 This stand allows multiple viewing angles  all has a quick grab/release mechanism that grabs and locks the phone

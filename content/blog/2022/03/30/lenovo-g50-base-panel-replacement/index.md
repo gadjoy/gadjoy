@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/30/lenovo-g50-base-panel-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-67.png
+banner: /img/uploads/2022/03/image-67.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-67.png)
+![](/img/uploads/2022/03/image-67.webp)
 
 The laptop was given to us with the base panel broken
 
-![](/img/uploads/2022/03/image-68.png)
+![](/img/uploads/2022/03/image-68.webp)
 
 We had **Replaced the whole Base Panel** of the laptop

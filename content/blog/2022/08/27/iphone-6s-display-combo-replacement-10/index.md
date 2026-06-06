@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/iphone-6s-display-combo-replacement-10/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-49.png
+banner: /img/uploads/2022/08/image-49.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-49.png)
+![](/img/uploads/2022/08/image-49.webp)
 
 iPhone 6s – Display Combo Replacement
 
-![](/img/uploads/2022/08/image-50.png)
+![](/img/uploads/2022/08/image-50.webp)
 
 iPhone 6s – Display Combo Replacement

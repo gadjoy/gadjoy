@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/02/18/dell-inspiron-15-3000-series-office-before-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/02/image-2.png
+banner: /img/uploads/2025/02/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/02/image-2.png)
+![](/img/uploads/2025/02/image-2.webp)
 
 **The device was required a OFFICE set up in it**
 
-![](/img/uploads/2025/02/image-3.png)
+![](/img/uploads/2025/02/image-3.webp)
 
 **We did the software services and installed the office in the system**

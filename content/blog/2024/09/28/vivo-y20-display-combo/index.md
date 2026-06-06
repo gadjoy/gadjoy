@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/28/vivo-y20-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-53.png
+banner: /img/uploads/2024/09/image-53.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-53.png)
+![](/img/uploads/2024/09/image-53.webp)
 
 **The device was received dead condition**
 
-![](/img/uploads/2024/09/image-54.png)
+![](/img/uploads/2024/09/image-54.webp)
 
 **After a extensive check the, we have observed that the device is display has the issue. So after replacing the display combo of the device we got the device working again**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/oppo-a50s-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/Oppo-A50s-before.png
+banner: /img/uploads/2022/08/Oppo-A50s-before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/Oppo-A50s-before.png)
+![](/img/uploads/2022/08/Oppo-A50s-before.webp)
 
 OPPO A50s – Display Combo Replacement
 
-![](/img/uploads/2022/08/Oppo-A50s-aftre.png)
+![](/img/uploads/2022/08/Oppo-A50s-aftre.webp)
 
 OPPO A50s – Display Combo Replacement

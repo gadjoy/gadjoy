@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/11/iphone-6s-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-31.png
+banner: /img/uploads/2022/05/image-31.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-31.png)
+![](/img/uploads/2022/05/image-31.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2022/05/image-32.png)
+![](/img/uploads/2022/05/image-32.webp)
 
 We had done service on the mother board and made it work

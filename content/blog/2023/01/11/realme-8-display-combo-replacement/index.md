@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/11/realme-8-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-6.png
+banner: /img/uploads/2023/01/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-6.png)
+![](/img/uploads/2023/01/image-6.webp)
 
 The device was given to us in display blank condition
 
-![](/img/uploads/2023/01/image-7.png)
+![](/img/uploads/2023/01/image-7.webp)
 
 We had replaced the display combo of the device and got it functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/2835/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-Before.jpg
+banner: /img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-Before.jpg)
+![](/img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-Before.webp)
 
 The iPhone was given to us with the front camera was not working
 
-![](/img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-After.jpg)
+![](/img/uploads/2022/01/iPhone-XS-Front-Back-Camera-Not-Working-After.webp)
 
 We had done the Service on Chip Level and got camera  working

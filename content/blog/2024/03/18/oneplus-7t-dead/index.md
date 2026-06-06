@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/oneplus-7t-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-40.png
+banner: /img/uploads/2024/03/image-40.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-40.png)
+![](/img/uploads/2024/03/image-40.webp)
 
 **The device was received dead condition**
 
-![](/img/uploads/2024/03/image-41.png)
+![](/img/uploads/2024/03/image-41.webp)
 
 **The issue was in the RAM section of the device, after doing the chip level service we got the device working**

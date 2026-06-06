@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/28/oppo-a18-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-73.png
+banner: /img/uploads/2022/05/image-73.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/05/image-73.png)
+![](/img/uploads/2022/05/image-73.webp)
 
 The device was given in display broken condition
 
-![](/img/uploads/2022/05/image-74.png)
+![](/img/uploads/2022/05/image-74.webp)
 
 We had Replaced the Display Combo with a glass finish

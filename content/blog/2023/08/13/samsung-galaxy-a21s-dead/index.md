@@ -12,19 +12,19 @@ aliases:
 - /blog/2023/08/13/samsung-galaxy-a21s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-28.png
+banner: /img/uploads/2023/08/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-28.png)
+![](/img/uploads/2023/08/image-28.webp)
 
 **The device was given to us with dead  and display broken condition**
 
-![](/img/uploads/2023/08/image-29.png)
+![](/img/uploads/2023/08/image-29.webp)
 
-![](/img/uploads/2023/08/image-30.png)
+![](/img/uploads/2023/08/image-30.webp)
 
 **The device display was faulty and we resolved it by replacing it with a new one.**

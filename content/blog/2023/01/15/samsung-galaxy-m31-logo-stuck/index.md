@@ -11,17 +11,17 @@ aliases:
 - /blog/2023/01/15/samsung-galaxy-m31-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-52.png
+banner: /img/uploads/2023/01/image-52.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-52.png)
+![](/img/uploads/2023/01/image-52.webp)
 
 The device was given to us in a logo stuck condition
 
-![](/img/uploads/2023/01/image-53.png)
+![](/img/uploads/2023/01/image-53.webp)
 
 We had done the software unlocking and made it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/vivo-y91c-dead-conditon/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-142.png
+banner: /img/uploads/2023/01/image-142.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-142.png)
+![](/img/uploads/2023/01/image-142.webp)
 
 The device was given to us logo stuck condition
 
-![](/img/uploads/2023/01/image-143.png)
+![](/img/uploads/2023/01/image-143.webp)
 
 We had done the software services and made it workable

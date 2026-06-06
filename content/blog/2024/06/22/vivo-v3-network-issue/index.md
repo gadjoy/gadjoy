@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/22/vivo-v3-network-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-23.png
+banner: /img/uploads/2024/06/image-23.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-23.png)
+![](/img/uploads/2024/06/image-23.webp)
 
 **The device was received in network not working even we kept the SIM in the Phone, was showing “No SIM”**
 
-![](/img/uploads/2024/06/image-24.png)
+![](/img/uploads/2024/06/image-24.webp)
 
 **The device was received in network not working even we kept the SIM in the Phone, was showing “No SIM”**

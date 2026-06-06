@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/lenovo-think-pad-windows-installation/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-Before.jpg
+banner: /img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-Before.jpg)
+![](/img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-Before.webp)
 
 When laptop was given to us, it’s OS was currented and not able to use properly
 
-![](/img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-After.jpg)
+![](/img/uploads/2022/01/Lenovo-Think-Pad-Windows-Installation-After.webp)
 
 We had reinstalled **the New Version of OS** and made it better

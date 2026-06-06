@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/23/one-plus-7t-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-One-Plus-7T-Display-Combo-Replacement.png
+banner: /img/uploads/2022/08/before-One-Plus-7T-Display-Combo-Replacement.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-One-Plus-7T-Display-Combo-Replacement.png)
+![](/img/uploads/2022/08/before-One-Plus-7T-Display-Combo-Replacement.webp)
 
 One Plus 7T – Dead Condition
 
-![](/img/uploads/2022/08/after-One-Plus-7T-Display-Combo-Replacement-1.png)
+![](/img/uploads/2022/08/after-One-Plus-7T-Display-Combo-Replacement-1.webp)
 
 One Plus 7T – Dead Condition

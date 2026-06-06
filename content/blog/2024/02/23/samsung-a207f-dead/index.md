@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/23/samsung-a207f-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-23.png
+banner: /img/uploads/2024/02/image-23.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-23.png)
+![](/img/uploads/2024/02/image-23.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/02/image-24.png)
+![](/img/uploads/2024/02/image-24.webp)
 
 **We had done the chip level service and got the device in working condition chip-level**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/26/samsung-a-50s-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-Samsung-A-50s-Display-Glass-Replacement.png
+banner: /img/uploads/2022/08/before-Samsung-A-50s-Display-Glass-Replacement.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-Samsung-A-50s-Display-Glass-Replacement.png)
+![](/img/uploads/2022/08/before-Samsung-A-50s-Display-Glass-Replacement.webp)
 
 Samsung A 50s – Display Glass Replacement
 
-![](/img/uploads/2022/08/after-Samsung-A-50s-Display-Glass-Replacement.png)
+![](/img/uploads/2022/08/after-Samsung-A-50s-Display-Glass-Replacement.webp)
 
 Samsung A 50s – Display Glass Replacement

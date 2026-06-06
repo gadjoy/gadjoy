@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/17/lenovo-tb-x505f-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-32.png
+banner: /img/uploads/2024/07/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-32.png)
+![](/img/uploads/2024/07/image-32.webp)
 
 **The device was received in dead and display broken condition**
 
-![](/img/uploads/2024/07/image-33.png)
+![](/img/uploads/2024/07/image-33.webp)
 
 **After diagnosing the device we got to know that it has an issue with the display,  so replacement of that made the device working**

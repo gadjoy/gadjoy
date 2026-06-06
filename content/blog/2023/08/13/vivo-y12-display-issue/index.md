@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/vivo-y12-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-31.png
+banner: /img/uploads/2023/08/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-31.png)
+![](/img/uploads/2023/08/image-31.webp)
 
 **The device was given to us in dead and display fully broken condition**
 
-![](/img/uploads/2023/08/image-32.png)
+![](/img/uploads/2023/08/image-32.webp)
 
 **We detected and corrected the problem with the device display by putting in a new one.**

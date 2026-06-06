@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/02/18/moto-g24-power-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/02/image-20.png
+banner: /img/uploads/2025/02/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/02/image-20.png)
+![](/img/uploads/2025/02/image-20.webp)
 
 **The device was received in dead and display cracked condition**
 
-![](/img/uploads/2025/02/image-21.png)
+![](/img/uploads/2025/02/image-21.webp)
 
 **We made the device work as earlier by replacing the  device display**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/infinix-hot-30i-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-24.png
+banner: /img/uploads/2024/11/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-24.png)
+![](/img/uploads/2024/11/image-24.webp)
 
 **The device was received in dead and display broken condition**
 
-![](/img/uploads/2024/11/image-25.png)
+![](/img/uploads/2024/11/image-25.webp)
 
 **We had replace the display due to its extensive damage and fixed the issue**

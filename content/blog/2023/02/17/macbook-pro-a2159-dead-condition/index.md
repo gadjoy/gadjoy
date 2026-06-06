@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/17/macbook-pro-a2159-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-74.png
+banner: /img/uploads/2023/02/image-74.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-74.png)
+![](/img/uploads/2023/02/image-74.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/02/image-75.png)
+![](/img/uploads/2023/02/image-75.webp)
 
 **We did repair the motherboard and made the device function.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/11/samsung-galaxy-m31-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-24.png
+banner: /img/uploads/2024/03/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-24.png)
+![](/img/uploads/2024/03/image-24.webp)
 
 **The device was received in the display glass broken condition**
 
-![](/img/uploads/2024/03/image-25.png)
+![](/img/uploads/2024/03/image-25.webp)
 
 **We had replaced only the display glass of the device with the glass finish**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/samsung-galaxy-m21-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-103.png
+banner: /img/uploads/2023/01/image-103.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-103.png)
+![](/img/uploads/2023/01/image-103.webp)
 
 The device was given o us in dead condition
 
-![](/img/uploads/2023/01/image-104.png)
+![](/img/uploads/2023/01/image-104.webp)
 
 We had done the chip level service on the device mother board and made it work

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/18/dell-inspiron-15-hinges-broken/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-70.png
+banner: /img/uploads/2022/04/image-70.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-70.png)
+![](/img/uploads/2022/04/image-70.webp)
 
 The laptop was given to us with broken hinges on one side
 
-![](/img/uploads/2022/04/image-71.png)
+![](/img/uploads/2022/04/image-71.webp)
 
 We had Fabricated the broken hinges and made it usable

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/05/iphone-11-display-combo-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-2.png
+banner: /img/uploads/2024/06/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-2.png)
+![](/img/uploads/2024/06/image-2.webp)
 
 **The device was given to us in which the glass was cracked**
 
-![](/img/uploads/2024/06/image-3.png)
+![](/img/uploads/2024/06/image-3.webp)
 
 **We have replaced only the display glass of the device and retained the original display functionality**

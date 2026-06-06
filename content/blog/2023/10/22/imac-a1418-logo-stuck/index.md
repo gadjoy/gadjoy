@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/22/imac-a1418-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-27.png
+banner: /img/uploads/2023/10/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-27.png)
+![](/img/uploads/2023/10/image-27.webp)
 
 **The device was given to us with Logo stuck condition**
 
-![](/img/uploads/2023/10/image-28.png)
+![](/img/uploads/2023/10/image-28.webp)
 
 **We had done the chip level service on the mother-board of the device and got it working**

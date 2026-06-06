@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/15/honor-9-lite-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-64.png
+banner: /img/uploads/2023/01/image-64.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-64.png)
+![](/img/uploads/2023/01/image-64.webp)
 
 The device was given to us in display glass broken condition
 
-![](/img/uploads/2023/01/image-65.png)
+![](/img/uploads/2023/01/image-65.webp)
 
 We had replaced only the display glass of the device

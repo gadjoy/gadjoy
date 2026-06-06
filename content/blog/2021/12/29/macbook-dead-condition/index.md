@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/macbook-dead-condition/
 description: Before After When this laptop was given to us it was not switching on We repaired Graphic Chip Set and got it functioning.
 summary: Before After When this laptop was given to us it was not switching on We repaired Graphic Chip Set and got it functioning.
-banner: /img/uploads/2021/12/MacBook-Before-Dead-Condition.jpg
+banner: /img/uploads/2021/12/MacBook-Before-Dead-Condition.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/MacBook-Before-Dead-Condition.jpg)
+![](/img/uploads/2021/12/MacBook-Before-Dead-Condition.webp)
 
 > When this laptop was given to us it was not switching on
 
-![](/img/uploads/2021/12/MacBook-After-Dead-Condition.jpg)
+![](/img/uploads/2021/12/MacBook-After-Dead-Condition.webp)
 
 > We repaired **Graphic Chip Set** and got it functioning.

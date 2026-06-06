@@ -10,17 +10,17 @@ aliases:
 - /blog/2022/08/27/dell-inspiron-15-5566-ram-upgrade-check/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-68.png
+banner: /img/uploads/2022/08/image-68.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-68.png)
+![](/img/uploads/2022/08/image-68.webp)
 
 Dell Inspiron 15 5566 – Ram Upgrade Check
 
-![](/img/uploads/2022/08/image-69.png)
+![](/img/uploads/2022/08/image-69.webp)
 
 Dell Inspiron 15 5566 – Ram Upgrade Check

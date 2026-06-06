@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/03/hp-15-af114au-software-services-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-6.png
+banner: /img/uploads/2023/02/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-6.png)
+![](/img/uploads/2023/02/image-6.webp)
 
 The device wad given to us in “Automatic Repair” blue screen
 
-![](/img/uploads/2023/02/image-7.png)
+![](/img/uploads/2023/02/image-7.webp)
 
 We had done the software services on the device and made it usable

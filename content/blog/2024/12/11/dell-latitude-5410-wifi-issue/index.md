@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/11/dell-latitude-5410-wifi-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-25.png
+banner: /img/uploads/2024/12/image-25.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-25.png)
+![](/img/uploads/2024/12/image-25.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/12/image-26.png)
+![](/img/uploads/2024/12/image-26.webp)
 
 **After the service on the mother board, we got the device functioning again**

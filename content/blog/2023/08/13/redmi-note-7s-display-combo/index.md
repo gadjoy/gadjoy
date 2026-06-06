@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/redmi-note-7s-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-48.png
+banner: /img/uploads/2023/08/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-48.png)
+![](/img/uploads/2023/08/image-48.webp)
 
 **The device was given to us with battery and display issues**
 
-![](/img/uploads/2023/08/image-49.png)
+![](/img/uploads/2023/08/image-49.webp)
 
 **We detected and corrected the problem with the device display by putting in a new one.**

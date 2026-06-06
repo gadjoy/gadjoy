@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/17/lg-monitor-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-32.png
+banner: /img/uploads/2023/11/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-32.png)
+![](/img/uploads/2023/11/image-32.webp)
 
 **The device was given to us with  Dead condition**
 
-![](/img/uploads/2023/11/image-33.png)
+![](/img/uploads/2023/11/image-33.webp)
 
 **We had done the chip level service on the board and got it working**

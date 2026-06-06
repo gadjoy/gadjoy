@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/05/moto-g5s-plus-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/02/Moto-G5s-plus-Befoer-Dead-Condition-577x1024.jpg
+banner: /img/uploads/2022/02/Moto-G5s-plus-Befoer-Dead-Condition-577x1024.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/02/Moto-G5s-plus-Befoer-Dead-Condition-577x1024.jpg)
+![](/img/uploads/2022/02/Moto-G5s-plus-Befoer-Dead-Condition-577x1024.webp)
 
 Phone was given to us with dead condition
 
-![](/img/uploads/2022/02/Moto-G5s-plus-After-Dead-Condition-577x1024.jpg)
+![](/img/uploads/2022/02/Moto-G5s-plus-After-Dead-Condition-577x1024.webp)
 
 We had **Replaced the Charging Port** of the device and made it working

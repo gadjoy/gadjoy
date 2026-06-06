@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/iphone-6-battery-replacement-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-224.png
+banner: /img/uploads/2023/01/image-224.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-224.png)
+![](/img/uploads/2023/01/image-224.webp)
 
 The device was given to us battery service condition
 
-![](/img/uploads/2023/01/image-225.png)
+![](/img/uploads/2023/01/image-225.webp)
 
 We had replaced the battery of the device and made it working

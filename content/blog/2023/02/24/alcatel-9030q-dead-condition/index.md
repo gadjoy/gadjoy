@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/24/alcatel-9030q-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-102.png
+banner: /img/uploads/2023/02/image-102.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-102.png)
+![](/img/uploads/2023/02/image-102.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/02/image-103.png)
+![](/img/uploads/2023/02/image-103.webp)
 
 **We replaced the charging IC component and made the device work.**

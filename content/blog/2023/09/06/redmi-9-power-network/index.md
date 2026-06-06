@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/redmi-9-power-network/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-22.png
+banner: /img/uploads/2023/09/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-22.png)
+![](/img/uploads/2023/09/image-22.webp)
 
 **The device was given to us with network issue**
 
-![](/img/uploads/2023/09/image-23.png)
+![](/img/uploads/2023/09/image-23.webp)
 
 ****We resolved the network problem and restored the device’s functionality.****

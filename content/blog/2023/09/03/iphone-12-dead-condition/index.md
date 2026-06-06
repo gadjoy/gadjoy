@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/03/iphone-12-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image.png
+banner: /img/uploads/2023/09/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image.png)
+![](/img/uploads/2023/09/image.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-1.png)
+![](/img/uploads/2023/09/image-1.webp)
 
 **We did chip level service and made the device work well**

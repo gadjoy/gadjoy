@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/31/iphone-6s-display-glass-replacement-2/
 description: Before After This phone was given to us with fully cracked condition We replaced ONLY the Display Glass and made it working.
 summary: Before After This phone was given to us with fully cracked condition We replaced ONLY the Display Glass and made it working.
-banner: /img/uploads/2021/12/iPhone-6s-before-Display-Glass-Replacement-1.jpg
+banner: /img/uploads/2021/12/iPhone-6s-before-Display-Glass-Replacement-1.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/iPhone-6s-before-Display-Glass-Replacement-1.jpg)
+![](/img/uploads/2021/12/iPhone-6s-before-Display-Glass-Replacement-1.webp)
 
 > This phone was given to us with fully cracked condition
 
-![](/img/uploads/2021/12/iPhone-6s-after-Display-Glass-Replacement-1.jpg)
+![](/img/uploads/2021/12/iPhone-6s-after-Display-Glass-Replacement-1.webp)
 
 > We replaced ONLY the **Display Glass** and made it working.

@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/24/hp-laptop-145-er30037u-battery-replacement/
 description: Before After The laptop was given to us with battery issue We replaced battery and checked for the charging and discharging cycles.
 summary: Before After The laptop was given to us with battery issue We replaced battery and checked for the charging and discharging cycles.
-banner: /img/uploads/2021/12/HP-laptop-145-ER30037U-before-battery-replacement.jpg
+banner: /img/uploads/2021/12/HP-laptop-145-ER30037U-before-battery-replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/HP-laptop-145-ER30037U-before-battery-replacement.jpg)
+![](/img/uploads/2021/12/HP-laptop-145-ER30037U-before-battery-replacement.webp)
 
 > The laptop was given to us with battery issue
 
-![](/img/uploads/2021/12/HP-laptop-145-ER30037U-after-battery-replacement.jpg)
+![](/img/uploads/2021/12/HP-laptop-145-ER30037U-after-battery-replacement.webp)
 
 > We replaced battery and checked for the charging and discharging cycles.

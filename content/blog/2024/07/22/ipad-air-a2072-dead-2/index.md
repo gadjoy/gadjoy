@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/22/ipad-air-a2072-dead-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-42.png
+banner: /img/uploads/2024/07/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-42.png)
+![](/img/uploads/2024/07/image-42.webp)
 
 **The device was received dead condition**
 
-![](/img/uploads/2024/07/image-43.png)
+![](/img/uploads/2024/07/image-43.webp)
 
 **After doing the chip-level service, we got the device working again**

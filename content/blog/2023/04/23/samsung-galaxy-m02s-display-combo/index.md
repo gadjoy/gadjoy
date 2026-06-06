@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/23/samsung-galaxy-m02s-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-55.png
+banner: /img/uploads/2023/04/image-55.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-55.png)
+![](/img/uploads/2023/04/image-55.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/04/image-56.png)
+![](/img/uploads/2023/04/image-56.webp)
 
 **We replaced display and made the device work.**

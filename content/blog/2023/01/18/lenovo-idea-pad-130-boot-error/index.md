@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/18/lenovo-idea-pad-130-boot-error/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-168.png
+banner: /img/uploads/2023/01/image-168.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-168.png)
+![](/img/uploads/2023/01/image-168.webp)
 
 The device was given to us in a “Automatic Repair Condition”
 
-![](/img/uploads/2023/01/image-169.png)
+![](/img/uploads/2023/01/image-169.webp)
 
 We had done the software services on the device

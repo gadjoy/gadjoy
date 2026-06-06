@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/23/vivo-y11-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-55.png
+banner: /img/uploads/2023/07/image-55.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-55.png)
+![](/img/uploads/2023/07/image-55.webp)
 
 **The device was given to us in display Issue**
 
-![](/img/uploads/2023/07/image-56.png)
+![](/img/uploads/2023/07/image-56.webp)
 
 **We replaced display and made the device functioning well**

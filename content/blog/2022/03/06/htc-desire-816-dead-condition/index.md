@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/06/htc-desire-816-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-4.png
+banner: /img/uploads/2022/03/image-4.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-4.png)
+![](/img/uploads/2022/03/image-4.webp)
 
 The device was given to us with the dead condition
 
-![](/img/uploads/2022/03/image-5.png)
+![](/img/uploads/2022/03/image-5.webp)
 
 We had **Done the General Service** and made it functioning

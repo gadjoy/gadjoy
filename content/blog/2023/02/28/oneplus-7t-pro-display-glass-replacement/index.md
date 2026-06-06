@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/28/oneplus-7t-pro-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-118.png
+banner: /img/uploads/2023/02/image-118.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-118.png)
+![](/img/uploads/2023/02/image-118.webp)
 
 **The device was given to us with cracked display glass**
 
-![](/img/uploads/2023/02/image-119.png)
+![](/img/uploads/2023/02/image-119.webp)
 
 **We replaced display glass and made the device functioning.**

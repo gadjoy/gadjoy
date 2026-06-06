@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/04/04/code-to-find-productivity/
 description: Problem Statement -Calculating the productivity for the following operations Scope of work – Build a program to find productivity Challenges –    Nil Execution Strategy -Using the mathematical operations program is written Value Added -A program that will give productivity for the given problem
 summary: Problem Statement -Calculating the productivity for the following operations Scope of work – Build a program to find productivity Challenges –    Nil Execution Strategy -Using the mathematical operations program is written Value Added -A program that will give productivity for the given problem
-banner: /img/uploads/2022/04/image-14.png
+banner: /img/uploads/2022/04/image-14.webp
 ---
 
-![](/img/uploads/2022/04/image-14.png)
+![](/img/uploads/2022/04/image-14.webp)
 
 **Problem Statement** -Calculating the productivity for the following operations
 
@@ -30,4 +30,4 @@ banner: /img/uploads/2022/04/image-14.png
 
 **Value Added** -A program that will give productivity for the given problem
 
-![](/img/uploads/2022/04/image-15.png)
+![](/img/uploads/2022/04/image-15.webp)

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/27/oneplus-6t-finger-print-battery-power-button/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-269.png
+banner: /img/uploads/2023/01/image-269.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-269.png)
+![](/img/uploads/2023/01/image-269.webp)
 
 The device was given to us with finger print, battery and power button Issue
 
-![](/img/uploads/2023/01/image-270.png)
+![](/img/uploads/2023/01/image-270.webp)
 
 We had done the service and made the device functioning

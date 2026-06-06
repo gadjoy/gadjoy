@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/02/04/realme-narzo-30-display-combo-and-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-24.png
+banner: /img/uploads/2023/02/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-24.png)
+![](/img/uploads/2023/02/image-24.webp)
 
 The device was given to us in display completely broken and password forgotten condition
 
-![](/img/uploads/2023/02/image-23.png)
+![](/img/uploads/2023/02/image-23.webp)
 
 We had replaced the display combo and done the software service also and made the device usable

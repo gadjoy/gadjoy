@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/08/lenovo-thinkpad-e14-software-service-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-30.png
+banner: /img/uploads/2023/07/image-30.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-30.png)
+![](/img/uploads/2023/07/image-30.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/07/image-31.png)
+![](/img/uploads/2023/07/image-31.webp)
 
 **We had done the software services and made the device work.**

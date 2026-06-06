@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/20/iphone-5s-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-27.png
+banner: /img/uploads/2022/03/image-27.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-27.png)
+![](/img/uploads/2022/03/image-27.webp)
 
 iPhone was given to us with the backup was low
 
-![](/img/uploads/2022/03/image-28.png)
+![](/img/uploads/2022/03/image-28.webp)
 
 We had **Replaced the Battery** and it had a good charge and discharge cycle’s

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/06/samsung-f41-display-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-26.png
+banner: /img/uploads/2024/05/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-26.png)
+![](/img/uploads/2024/05/image-26.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/05/image-27.png)
+![](/img/uploads/2024/05/image-27.webp)
 
 **After replacing the device display we got the device working**

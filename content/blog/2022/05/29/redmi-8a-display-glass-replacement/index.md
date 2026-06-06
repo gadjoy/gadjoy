@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/29/redmi-8a-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-75.png
+banner: /img/uploads/2022/05/image-75.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/05/image-75.png)
+![](/img/uploads/2022/05/image-75.webp)
 
 The device was given to us in display glass cracked condition
 
-![](/img/uploads/2022/05/image-76.png)
+![](/img/uploads/2022/05/image-76.webp)
 
 We had replaced only **Display glass** and made it better

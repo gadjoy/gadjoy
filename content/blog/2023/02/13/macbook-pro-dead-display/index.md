@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/13/macbook-pro-dead-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-47.png
+banner: /img/uploads/2023/02/image-47.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-47.png)
+![](/img/uploads/2023/02/image-47.webp)
 
 Laptop was given to us in Dead Condition and with display issue
 
-![](/img/uploads/2023/02/image-48.png)
+![](/img/uploads/2023/02/image-48.webp)
 
 We replaced the display and did the IC Level Service

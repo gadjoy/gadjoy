@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/22/vivo-y21-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-40.png
+banner: /img/uploads/2023/11/image-40.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-40.png)
+![](/img/uploads/2023/11/image-40.webp)
 
 **The device was given to us with  display broken  condition**
 
-![](/img/uploads/2023/11/image-41.png)
+![](/img/uploads/2023/11/image-41.webp)
 
 **We had replaced the display combo of the device and got it active**

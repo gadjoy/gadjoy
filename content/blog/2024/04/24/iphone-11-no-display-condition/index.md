@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/iphone-11-no-display-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-16.png
+banner: /img/uploads/2024/04/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-16.png)
+![](/img/uploads/2024/04/image-16.webp)
 
 **The device was received no display condition**
 
-![](/img/uploads/2024/04/image-17.png)
+![](/img/uploads/2024/04/image-17.webp)
 
 ****The issue was with the device display we got it repaired after changing it****

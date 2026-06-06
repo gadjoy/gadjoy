@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/17/samsung-galaxy-a20-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-70.png
+banner: /img/uploads/2023/02/image-70.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-70.png)
+![](/img/uploads/2023/02/image-70.webp)
 
 **The device was given to us in  dead condition**
 
-![](/img/uploads/2023/02/image-71.png)
+![](/img/uploads/2023/02/image-71.webp)
 
 **We did mother board service and made the device work.**

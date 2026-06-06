@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/17/samsung-galaxy-m13-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-30.png
+banner: /img/uploads/2023/11/image-30.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-30.png)
+![](/img/uploads/2023/11/image-30.webp)
 
 **The device was given to us in dead Condition**
 
-![](/img/uploads/2023/11/image-31.png)
+![](/img/uploads/2023/11/image-31.webp)
 
 **We had diagonalized and got that display issue and replaced the display combo and made it work well**

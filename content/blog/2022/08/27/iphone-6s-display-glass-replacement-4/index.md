@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/iphone-6s-display-glass-replacement-4/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/iPhone-6s-Before.png
+banner: /img/uploads/2022/08/iPhone-6s-Before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/iPhone-6s-Before.png)
+![](/img/uploads/2022/08/iPhone-6s-Before.webp)
 
 iPhone 6s – Display Glass Replacement
 
-![](/img/uploads/2022/08/iPhone-6s-after.png)
+![](/img/uploads/2022/08/iPhone-6s-after.webp)
 
 iPhone 6s – Display Glass Replacement

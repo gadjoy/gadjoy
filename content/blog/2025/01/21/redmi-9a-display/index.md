@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/redmi-9a-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-28.png
+banner: /img/uploads/2025/01/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-28.png)
+![](/img/uploads/2025/01/image-28.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2025/01/image-29.png)
+![](/img/uploads/2025/01/image-29.webp)
 
 **After a check and we got to know that it was the issue with display, so replacement of that made it working again**

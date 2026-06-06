@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/26/iphone-se-battery-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-46.png
+banner: /img/uploads/2024/03/image-46.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-46.png)
+![](/img/uploads/2024/03/image-46.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/03/image-47.png)
+![](/img/uploads/2024/03/image-47.webp)
 
 **By replacing the battery of the device we, got the device working again**

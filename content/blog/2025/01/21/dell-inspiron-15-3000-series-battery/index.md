@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/dell-inspiron-15-3000-series-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-38.png
+banner: /img/uploads/2025/01/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-38.png)
+![](/img/uploads/2025/01/image-38.webp)
 
 **The device was received with battery less backup and also in the setting it was showing ‘service’**
 
-![](/img/uploads/2025/01/image-39.png)
+![](/img/uploads/2025/01/image-39.webp)
 
 **The device has been replaced with a battery and also checked the battery charging and discharging cycles**

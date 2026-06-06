@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/25/hp-15-da0414tu-slow-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-65.png
+banner: /img/uploads/2023/04/image-65.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-65.png)
+![](/img/uploads/2023/04/image-65.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/04/image-66.png)
+![](/img/uploads/2023/04/image-66.webp)
 
 **We had done the software services and made the device work.**

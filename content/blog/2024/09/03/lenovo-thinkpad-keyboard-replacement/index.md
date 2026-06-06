@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/lenovo-thinkpad-keyboard-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-23.png
+banner: /img/uploads/2024/09/image-23.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-23.png)
+![](/img/uploads/2024/09/image-23.webp)
 
 **The device was received, some keys are notworking and some keys are continuedly working**
 
-![](/img/uploads/2024/09/image-24.png)
+![](/img/uploads/2024/09/image-24.webp)
 
 **After the replacement of the keyboard we checked the all the keys separately and a test also to check if everything is aliened properly and working**

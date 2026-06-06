@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/15/code-multiples-of-a-number/
 description: Problem Statement -To find multiples of any numbers Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges – Writing for loop for multiples Execution Strategy -Nil Value Added -Helps user to find multiples of any numbers -Basic python is learnt
 summary: Problem Statement -To find multiples of any numbers Scope of work -Write pseudocode -Write the code in python -Tested with edge cases Challenges – Writing for loop for multiples Execution Strategy -Nil Value Added -Helps user to find multiples of any numbers -Basic python is learnt
-banner: /img/uploads/2021/12/Multiples-of-any-number-1.png
+banner: /img/uploads/2021/12/Multiples-of-any-number-1.webp
 ---
 
-![](/img/uploads/2021/12/Multiples-of-any-number-1.png)
+![](/img/uploads/2021/12/Multiples-of-any-number-1.webp)
 
 Problem Statement -To find multiples of any numbers
 

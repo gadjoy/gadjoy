@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/11/iphone-6-plus-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-20.png
+banner: /img/uploads/2023/01/image-20.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-20.png)
+![](/img/uploads/2023/01/image-20.webp)
 
 The device was given to us display glass cracked condition
 
-![](/img/uploads/2023/01/image-21.png)
+![](/img/uploads/2023/01/image-21.webp)
 
 Due to the black dot’s on the display we had to replace the display combo of the device

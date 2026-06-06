@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/realme-c21y-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-31.png
+banner: /img/uploads/2024/03/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-31.png)
+![](/img/uploads/2024/03/image-31.webp)
 
 **The device was received in display broken at the corner**
 
-![](/img/uploads/2024/03/image-32.png)
+![](/img/uploads/2024/03/image-32.webp)
 
 **After assessing the state of the device’s display, we proceeded to replace it. Following the display replacement, the device exhibited improved functionality.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/27/acer-aspire-3-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-267.png
+banner: /img/uploads/2023/01/image-267.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-267.png)
+![](/img/uploads/2023/01/image-267.webp)
 
 The device was given to us with Software Issue
 
-![](/img/uploads/2023/01/image-268.png)
+![](/img/uploads/2023/01/image-268.webp)
 
 We had done the Software services and made the device functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/06/mi-9i-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-22.png
+banner: /img/uploads/2024/05/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-22.png)
+![](/img/uploads/2024/05/image-22.webp)
 
 **The device was received in the display broken condition**
 
-![](/img/uploads/2024/05/image-23.png)
+![](/img/uploads/2024/05/image-23.webp)
 
 **After checking and diagnosis the device  got the display has the issue, by replacing the display got the device working back**

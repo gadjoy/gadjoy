@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/17/dell-latitude-3400-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-68.png
+banner: /img/uploads/2023/02/image-68.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-68.png)
+![](/img/uploads/2023/02/image-68.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/02/image-69.png)
+![](/img/uploads/2023/02/image-69.webp)
 
 **We had done the software services and made the device work.**

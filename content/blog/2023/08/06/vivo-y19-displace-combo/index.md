@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/06/vivo-y19-displace-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-4.png
+banner: /img/uploads/2023/08/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-4.png)
+![](/img/uploads/2023/08/image-4.webp)
 
 **The device was given to us in a blank white screen**
 
-![](/img/uploads/2023/08/image-5.png)
+![](/img/uploads/2023/08/image-5.webp)
 
 **We had replaced the display combo of the device and got it working**

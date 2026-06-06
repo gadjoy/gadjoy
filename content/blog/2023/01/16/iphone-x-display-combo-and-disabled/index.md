@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/01/16/iphone-x-display-combo-and-disabled/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-112.png
+banner: /img/uploads/2023/01/image-112.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-112.png)
+![](/img/uploads/2023/01/image-112.webp)
 
 The device was given to us in disabled and on the display white line was coming
 
-![](/img/uploads/2023/01/image-113.png)
+![](/img/uploads/2023/01/image-113.webp)
 
 We had replaced the display combo of the device and made it work.

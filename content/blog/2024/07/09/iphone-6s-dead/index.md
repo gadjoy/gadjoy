@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/09/iphone-6s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-8.png
+banner: /img/uploads/2024/07/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-8.png)
+![](/img/uploads/2024/07/image-8.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/07/image-9.png)
+![](/img/uploads/2024/07/image-9.webp)
 
 **After doing the chip level service on the board got the device working well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/23/oppo-a55-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-45.png
+banner: /img/uploads/2023/10/image-45.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-45.png)
+![](/img/uploads/2023/10/image-45.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/10/image-46.png)
+![](/img/uploads/2023/10/image-46.webp)
 
 **We had done the chip level service on the mother-board of the device and got it working**

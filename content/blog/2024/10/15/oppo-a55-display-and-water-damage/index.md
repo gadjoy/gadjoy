@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/15/oppo-a55-display-and-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image-10.png
+banner: /img/uploads/2024/10/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image-10.png)
+![](/img/uploads/2024/10/image-10.webp)
 
 **The device was received in broken display and water damage condition**
 
-![](/img/uploads/2024/10/image-11.png)
+![](/img/uploads/2024/10/image-11.webp)
 
 **After a chip level service on the device, and a replacement of the display combo made the device work again**

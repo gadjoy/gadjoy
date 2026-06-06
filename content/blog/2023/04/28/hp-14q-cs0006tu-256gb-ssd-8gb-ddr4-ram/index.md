@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/28/hp-14q-cs0006tu-256gb-ssd-8gb-ddr4-ram/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-69.png
+banner: /img/uploads/2023/04/image-69.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-69.png)
+![](/img/uploads/2023/04/image-69.webp)
 
 **The device was given to us for upgrading SSD and RAM**
 
-![](/img/uploads/2023/04/image-70.png)
+![](/img/uploads/2023/04/image-70.webp)
 
 **We upgraded SSD and increased RAM, made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/samsung-galaxy-m31-display-combo-replacement-4/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-144.png
+banner: /img/uploads/2023/01/image-144.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-144.png)
+![](/img/uploads/2023/01/image-144.webp)
 
 The device was given to us in display cracked and blank condition
 
-![](/img/uploads/2023/01/image-145.png)
+![](/img/uploads/2023/01/image-145.webp)
 
 We had replaced the display combo and made it functions

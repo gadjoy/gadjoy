@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/28/samsung-s21-ultra-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-283.png
+banner: /img/uploads/2023/01/image-283.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-283.png)
+![](/img/uploads/2023/01/image-283.webp)
 
 The device was given to us with display Issue
 
-![](/img/uploads/2023/01/image-284.png)
+![](/img/uploads/2023/01/image-284.webp)
 
 We had replaced the display combo and made the device functioning

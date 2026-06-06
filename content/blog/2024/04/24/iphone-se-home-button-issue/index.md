@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/iphone-se-home-button-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-8.png
+banner: /img/uploads/2024/04/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-8.png)
+![](/img/uploads/2024/04/image-8.webp)
 
 **The device was given in condition in which the home button and also the it was disabled**
 
-![](/img/uploads/2024/04/image-9.png)
+![](/img/uploads/2024/04/image-9.webp)
 
 **We had replaced he Home button of the device and also the did the Software service to make the device workable**

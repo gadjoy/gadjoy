@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/10/acer-aspire-3-office-installation/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-38.png
+banner: /img/uploads/2023/07/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-38.png)
+![](/img/uploads/2023/07/image-38.webp)
 
 **The device was given to us with the need of Office installation**
 
-![](/img/uploads/2023/07/image-39.png)
+![](/img/uploads/2023/07/image-39.webp)
 
 **We had done the installation of office and made the device work.**

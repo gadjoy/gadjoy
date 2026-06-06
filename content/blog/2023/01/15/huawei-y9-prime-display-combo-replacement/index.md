@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/15/huawei-y9-prime-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-58.png
+banner: /img/uploads/2023/01/image-58.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-58.png)
+![](/img/uploads/2023/01/image-58.webp)
 
 The device was given to us in white screen with display cracked condition
 
-![](/img/uploads/2023/01/image-59.png)
+![](/img/uploads/2023/01/image-59.webp)
 
 We had replaced the display combo of the device and made it functioning

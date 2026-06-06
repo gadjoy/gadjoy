@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/21/vivo-y20-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-46.png
+banner: /img/uploads/2024/01/image-46.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-46.png)
+![](/img/uploads/2024/01/image-46.webp)
 
 **The device received in a display fully damaged condition**
 
-![](/img/uploads/2024/01/image-47.png)
+![](/img/uploads/2024/01/image-47.webp)
 
 **We did the replacement of the display device and got it working again**

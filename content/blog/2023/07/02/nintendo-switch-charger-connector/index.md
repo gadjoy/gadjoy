@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/02/nintendo-switch-charger-connector/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-8.png
+banner: /img/uploads/2023/07/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-8.png)
+![](/img/uploads/2023/07/image-8.webp)
 
 **The device was given in dead condition**
 
-![](/img/uploads/2023/07/image-9.png)
+![](/img/uploads/2023/07/image-9.webp)
 
 **We found that the device CC has to be replaced and he repealed the CC and got it working**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/04/ipad-pro-a1701-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-14.png
+banner: /img/uploads/2023/06/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-14.png)
+![](/img/uploads/2023/06/image-14.webp)
 
 **The device was given to us with touch issue**
 
-![](/img/uploads/2023/06/image-15.png)
+![](/img/uploads/2023/06/image-15.webp)
 
 **We replaced the only display glass and made the device work.**

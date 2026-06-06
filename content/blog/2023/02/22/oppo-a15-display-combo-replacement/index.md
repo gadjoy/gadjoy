@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/22/oppo-a15-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-100.png
+banner: /img/uploads/2023/02/image-100.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-100.png)
+![](/img/uploads/2023/02/image-100.webp)
 
 **The device was given to us in display broken condition**
 
-![](/img/uploads/2023/02/image-101.png)
+![](/img/uploads/2023/02/image-101.webp)
 
 **We replaced the display combo of the device and got it to function**

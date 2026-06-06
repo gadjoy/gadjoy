@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/06/hp-notebook-15-keyboard-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-12.png
+banner: /img/uploads/2023/05/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-12.png)
+![](/img/uploads/2023/05/image-12.webp)
 
 **The device was given to us with keyboard and battery issue**
 
-![](/img/uploads/2023/05/image-13.png)
+![](/img/uploads/2023/05/image-13.webp)
 
 **We replaced keyboard and battery,  made the device work.**

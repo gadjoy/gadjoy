@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/17/macbook-pro-a2338-dead-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-22.png
+banner: /img/uploads/2024/01/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-22.png)
+![](/img/uploads/2024/01/image-22.webp)
 
 **The device was given to us dead condition and water damage on it**
 
-![](/img/uploads/2024/01/image-23.png)
+![](/img/uploads/2024/01/image-23.webp)
 
 **We have done the chip level service on the device mother board and got it working**

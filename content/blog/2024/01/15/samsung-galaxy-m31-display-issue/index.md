@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/15/samsung-galaxy-m31-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-12.png
+banner: /img/uploads/2024/01/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-12.png)
+![](/img/uploads/2024/01/image-12.webp)
 
 **The device was given to us in no display condition**
 
-![](/img/uploads/2024/01/image-13.png)
+![](/img/uploads/2024/01/image-13.webp)
 
 **We have replaced the display combo of the device and got it working active**

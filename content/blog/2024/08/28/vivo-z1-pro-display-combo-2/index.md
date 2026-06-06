@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/08/28/vivo-z1-pro-display-combo-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/08/image-9.png
+banner: /img/uploads/2024/08/image-9.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/08/image-9.png)
+![](/img/uploads/2024/08/image-9.webp)
 
 **The device was received in the display damaged condition**
 
-![](/img/uploads/2024/08/image-10.png)
+![](/img/uploads/2024/08/image-10.webp)
 
 **After the replacement of the device display and extensive testing we got the working**

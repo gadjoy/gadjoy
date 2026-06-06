@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/23/samsung-grand-prime-4g-after-power-button-replacement/
 description: Before After When phone was given to us power button was stuck inside We replaced power button and got it functional
 summary: Before After When phone was given to us power button was stuck inside We replaced power button and got it functional
-banner: /img/uploads/2021/12/Samsung-grand-prime-4G-before-power-button-replacement.png
+banner: /img/uploads/2021/12/Samsung-grand-prime-4G-before-power-button-replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Samsung-grand-prime-4G-before-power-button-replacement.png)
+![](/img/uploads/2021/12/Samsung-grand-prime-4G-before-power-button-replacement.webp)
 
 > When phone was given to us power button was stuck inside
 
-![](/img/uploads/2021/12/Samsung-grand-prime-4G-after-power-button-replacement.png)
+![](/img/uploads/2021/12/Samsung-grand-prime-4G-after-power-button-replacement.webp)
 
 > We replaced power button and got it functional

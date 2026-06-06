@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/18/3d-print-pliers-case/
 description: Problem Statement -Case for pliers Scope of work -3D – Printed -PLA – Filament Challenges Nil Execution Strategy Nil Value Added -This helps to keep pliers safe during storage
 summary: Problem Statement -Case for pliers Scope of work -3D – Printed -PLA – Filament Challenges Nil Execution Strategy Nil Value Added -This helps to keep pliers safe during storage
-banner: /img/uploads/2021/12/Pliers-Case.png
+banner: /img/uploads/2021/12/Pliers-Case.webp
 ---
 
-![](/img/uploads/2021/12/Pliers-Case.png)
+![](/img/uploads/2021/12/Pliers-Case.webp)
 
 **Problem Statement** -Case for pliers
 

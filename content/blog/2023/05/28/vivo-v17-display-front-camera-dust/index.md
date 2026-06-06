@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/28/vivo-v17-display-front-camera-dust/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-65.png
+banner: /img/uploads/2023/05/image-65.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-65.png)
+![](/img/uploads/2023/05/image-65.webp)
 
 **The device was given to us in display issue with dust in camera**
 
-![](/img/uploads/2023/05/image-66.png)
+![](/img/uploads/2023/05/image-66.webp)
 
 **We replaced display combo and cleaned the camera made the device work.**

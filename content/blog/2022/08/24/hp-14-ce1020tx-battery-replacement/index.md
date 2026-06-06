@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/hp-14-ce1020tx-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-18.png
+banner: /img/uploads/2022/08/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-18.png)
+![](/img/uploads/2022/08/image-18.webp)
 
 HP 14-ce1020TX – Battery
 
-![](/img/uploads/2022/08/after-HP-14-ce1020TX-Battery.png)
+![](/img/uploads/2022/08/after-HP-14-ce1020TX-Battery.webp)
 
 HP 14-ce1020TX – Battery

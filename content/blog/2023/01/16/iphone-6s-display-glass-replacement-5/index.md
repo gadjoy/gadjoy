@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/iphone-6s-display-glass-replacement-5/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-107.png
+banner: /img/uploads/2023/01/image-107.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-107.png)
+![](/img/uploads/2023/01/image-107.webp)
 
 The device was given to us in display glass was fully cracked condition
 
-![](/img/uploads/2023/01/image-108.png)
+![](/img/uploads/2023/01/image-108.webp)
 
 We ha replaced only the display glass of the device with glass finish

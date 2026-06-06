@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/31/dell-laptop-software-installation/
 description: Before After This laptop was given to us to install basic software’s We installed Basic Software’s and made it better
 summary: Before After This laptop was given to us to install basic software’s We installed Basic Software’s and made it better
-banner: /img/uploads/2021/12/Dell-Laptop-Before-Software-Installation.jpg
+banner: /img/uploads/2021/12/Dell-Laptop-Before-Software-Installation.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Dell-Laptop-Before-Software-Installation.jpg)
+![](/img/uploads/2021/12/Dell-Laptop-Before-Software-Installation.webp)
 
 > This laptop was given to us to install basic software’s
 
-![](/img/uploads/2021/12/Dell-Laptop-After-Software-Installation.jpg)
+![](/img/uploads/2021/12/Dell-Laptop-After-Software-Installation.webp)
 
 > We installed **Basic Software’s** and made it better

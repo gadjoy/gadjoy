@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/20/alcatel-9030q-tab-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-88.png
+banner: /img/uploads/2023/02/image-88.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-88.png)
+![](/img/uploads/2023/02/image-88.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/02/image-89.png)
+![](/img/uploads/2023/02/image-89.webp)
 
 we did the chip level service on the device and made it working

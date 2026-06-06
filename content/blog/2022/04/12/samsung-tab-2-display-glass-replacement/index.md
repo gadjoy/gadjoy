@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/12/samsung-tab-2-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-56.png
+banner: /img/uploads/2022/04/image-56.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-56.png)
+![](/img/uploads/2022/04/image-56.webp)
 
 The tab was given to us to Replace the Display Glass of the device
 
-![](/img/uploads/2022/04/image-57.png)
+![](/img/uploads/2022/04/image-57.webp)
 
 We had Replaced the **Display Glass Only** with glass finish

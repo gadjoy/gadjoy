@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/30/lenovo-g50-hinges-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-65.png
+banner: /img/uploads/2022/03/image-65.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-65.png)
+![](/img/uploads/2022/03/image-65.webp)
 
 The laptop was given to us with the broken hinges
 
-![](/img/uploads/2022/03/image-66.png)
+![](/img/uploads/2022/03/image-66.webp)
 
 We had **Replaced the Hinges and made it better**

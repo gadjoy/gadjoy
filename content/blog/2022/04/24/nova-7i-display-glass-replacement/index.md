@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/24/nova-7i-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-97.png
+banner: /img/uploads/2022/04/image-97.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-97.png)
+![](/img/uploads/2022/04/image-97.webp)
 
 The device was given to us with display glass cracked
 
-![](/img/uploads/2022/04/image-98.png)
+![](/img/uploads/2022/04/image-98.webp)
 
 We had replaced the **Display Glass** of the device and made it better

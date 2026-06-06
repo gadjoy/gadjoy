@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/iphone-7-plus-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-44.png
+banner: /img/uploads/2023/08/image-44.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-44.png)
+![](/img/uploads/2023/08/image-44.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/08/image-45.png)
+![](/img/uploads/2023/08/image-45.webp)
 
 **We carried out a chip level service and improved the device performance**

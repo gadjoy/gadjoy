@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/24/samsung-a20s-charging-connector/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-104.png
+banner: /img/uploads/2023/02/image-104.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-104.png)
+![](/img/uploads/2023/02/image-104.webp)
 
 **The device was given to us in not  charging**
 
-![](/img/uploads/2023/02/image-105.png)
+![](/img/uploads/2023/02/image-105.webp)
 
 **We replaced the charging connector and made the device work.**

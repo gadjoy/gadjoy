@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/iphone-xr-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-11.png
+banner: /img/uploads/2024/09/image-11.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-11.png)
+![](/img/uploads/2024/09/image-11.webp)
 
 **The device received in display glass cracked at the bottom**
 
-![](/img/uploads/2024/09/image-12.png)
+![](/img/uploads/2024/09/image-12.webp)
 
 **We replaced only the display glass of the device by getting back the original display of the device with a glass finish**

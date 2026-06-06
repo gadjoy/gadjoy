@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/24/samsung-m31s-samsung-m31s-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-60.png
+banner: /img/uploads/2023/04/image-60.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-60.png)
+![](/img/uploads/2023/04/image-60.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/04/image-59.png)
+![](/img/uploads/2023/04/image-59.webp)
 
 **We did the Chip level services and made the device work.**

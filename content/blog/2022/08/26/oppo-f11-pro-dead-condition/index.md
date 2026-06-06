@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/26/oppo-f11-pro-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-OPPO-F11-Pro-Dead-Condition.png
+banner: /img/uploads/2022/08/before-OPPO-F11-Pro-Dead-Condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-OPPO-F11-Pro-Dead-Condition.png)
+![](/img/uploads/2022/08/before-OPPO-F11-Pro-Dead-Condition.webp)
 
 OPPO F11 Pro – Dead Condition
 
-![](/img/uploads/2022/08/after-OPPO-F11-Pro-Dead-Condition.png)
+![](/img/uploads/2022/08/after-OPPO-F11-Pro-Dead-Condition.webp)
 
 OPPO F11 Pro – Dead Condition

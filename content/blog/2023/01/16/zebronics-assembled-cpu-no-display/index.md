@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/zebronics-assembled-cpu-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-99.png
+banner: /img/uploads/2023/01/image-99.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-99.png)
+![](/img/uploads/2023/01/image-99.webp)
 
 The device was in no display condition
 
-![](/img/uploads/2023/01/image-100.png)
+![](/img/uploads/2023/01/image-100.webp)
 
 We had done the chip-level service on the device and made it workable

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/02/redmi-note-7-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image.png
+banner: /img/uploads/2022/03/image.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image.png)
+![](/img/uploads/2022/03/image.webp)
 
 The device was given to us with dead condition
 
-![](/img/uploads/2022/03/image-1.png)
+![](/img/uploads/2022/03/image-1.webp)
 
 We had **Replaced the battery** andmadeit work

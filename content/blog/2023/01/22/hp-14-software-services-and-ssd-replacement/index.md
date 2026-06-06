@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/01/22/hp-14-software-services-and-ssd-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-214.png
+banner: /img/uploads/2023/01/image-214.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-214.png)
+![](/img/uploads/2023/01/image-214.webp)
 
 The device was given to us Slow condition
 
-![](/img/uploads/2023/01/image-215.png)
+![](/img/uploads/2023/01/image-215.webp)
 
 We had replaced the SSD of the device and made it fast

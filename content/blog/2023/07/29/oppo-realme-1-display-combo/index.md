@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/29/oppo-realme-1-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-61.png
+banner: /img/uploads/2023/07/image-61.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-61.png)
+![](/img/uploads/2023/07/image-61.webp)
 
 **The device was given to us no display condition**
 
-![](/img/uploads/2023/07/image-62.png)
+![](/img/uploads/2023/07/image-62.webp)
 
 **We replaced display and made the device work well**

@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/21/one-plus-3t-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-One-Plus-3T-–-Dead-Condition.png
+banner: /img/uploads/2022/08/before-One-Plus-3T-–-Dead-Condition.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-One-Plus-3T-–-Dead-Condition.png)
+![](/img/uploads/2022/08/before-One-Plus-3T-–-Dead-Condition.webp)
 
 One Plus 3T – Display Combo replacement
 
-![](/img/uploads/2022/08/after-One-Plus-3T-–-Dead-Condition-2.png)
+![](/img/uploads/2022/08/after-One-Plus-3T-–-Dead-Condition-2.webp)
 
 One Plus 3T – Display Combo replacement

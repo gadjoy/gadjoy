@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/13/iphone-11-dead-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-27.png
+banner: /img/uploads/2024/09/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-27.png)
+![](/img/uploads/2024/09/image-27.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/09/image-28.png)
+![](/img/uploads/2024/09/image-28.webp)
 
 **After diagnosing the device deeply + a deep mother board service make the device work again**

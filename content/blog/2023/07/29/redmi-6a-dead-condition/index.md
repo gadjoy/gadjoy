@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/29/redmi-6a-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-59.png
+banner: /img/uploads/2023/07/image-59.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-59.png)
+![](/img/uploads/2023/07/image-59.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/07/image-60.png)
+![](/img/uploads/2023/07/image-60.webp)
 
 **We did chip level service and make the device to work well**

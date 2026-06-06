@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/08/lenovo-thinkpad-e480-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-10.png
+banner: /img/uploads/2024/11/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-10.png)
+![](/img/uploads/2024/11/image-10.webp)
 
 **The device was received in a condition in which the device was working but there was no display**
 
-![](/img/uploads/2024/11/image-11.png)
+![](/img/uploads/2024/11/image-11.webp)
 
 **After doing the board level service on the display cable, we got the device display working again**

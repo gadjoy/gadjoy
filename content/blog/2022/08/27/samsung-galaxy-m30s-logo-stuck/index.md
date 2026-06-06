@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/samsung-galaxy-m30s-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-51.png
+banner: /img/uploads/2022/08/image-51.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-51.png)
+![](/img/uploads/2022/08/image-51.webp)
 
 Samsung Galaxy M30s – logo stuck
 
-![](/img/uploads/2022/08/image-53.png)
+![](/img/uploads/2022/08/image-53.webp)
 
 Samsung Galaxy M30s – logo stuck

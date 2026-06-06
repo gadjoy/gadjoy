@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/03/mi-a2-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image.png
+banner: /img/uploads/2023/11/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image.png)
+![](/img/uploads/2023/11/image.webp)
 
 ****The device was given to us is dead condition****
 
-![](/img/uploads/2023/11/image-1.png)
+![](/img/uploads/2023/11/image-1.webp)
 
 **We services and got that it have to be replace the power button. We replaced the power button and got the device switched ON**

@@ -1,102 +1,79 @@
-# Gadjoy Repair Service Website
+# Gadjoy Repair Service — Website
 
-A static website for Gadjoy Repair Service, migrated from WordPress to Hugo. This site features service pages, a blog, testimonials, and a gallery, all generated from Markdown content and managed with Hugo.
+The website for **Gadjoy Repair Service**, a device-repair shop in Bangalore
+(phones, laptops, tablets, desktops). Live at **https://gadjoy.in/**.
 
-## 🎨 Collections
+It's a [Hugo](https://gohugo.io/) static site (theme: `hugo-universal-theme`, customised to a
+monochrome black-and-white look) whose blog of ~1,500 repair case-studies was **migrated from the
+original WordPress site**. It's deployed to **GitHub Pages** via GitHub Actions.
 
-The portfolio includes various art collections:
-- Acrylic on Canvas
-- Acrylic and Oil on Canvas
-- Acrylic with Texture
-- Oil on Canvas
-- Water Color on Paper
-- Glass Tiles on Wooden Plate (Mosaic)
-- Mixed Media Works
+## Highlights
+- ~1,500 repair posts migrated faithfully from WordPress (real content, taxonomy, original URLs).
+- Custom hero, animated stats, horizontally-scrolling "recent repairs", and a before/after gallery
+  lightbox — all via project-level layout overrides + `static/css/custom.css` (no theme fork).
+- **Live Google reviews** pulled from the Google Places API at build time.
+- A reproducible migration + media-optimization pipeline under `migration/`.
 
-## 🛠 Technical Stack
+## Repository layout
+```
+content/            Markdown content
+  _index.md         homepage copy
+  services/         we-repair, we-build (interactive pages)
+  contact/          contact page (custom layout)
+  gallery/          before/after lightbox wall
+  blog/YYYY/MM/DD/slug/index.md   ~1,500 migrated repair posts
+data/features/      homepage feature cards (YAML)
+layouts/            project overrides of the theme (no fork)
+  partials/carousel.html        hero + animated stat counters
+  partials/recent_posts.html    horizontal "Real Repairs" scroller
+  partials/testimonials.html    live Google reviews (+ proof fallback)
+  partials/custom_headers.html  fonts, favicon, count-up + lightbox JS, floating WhatsApp/Call
+  _default/gallery.html         gallery lightbox wall
+static/
+  css/custom.css    the entire visual theme (navy→mono black/white)
+  img/uploads/      repair photos/videos (WebP + mp4, optimised — see below)
+  img/logo*, favicon.ico, apple-touch-icon.png
+migration/          WordPress→Hugo tooling
+  scripts/wp_rest_to_hugo.py    REST-API extractor (source of truth = restored WP)
+  scripts/optimize_media.py     prune + WebP + video re-encode (artifact slimming)
+  tests/            pytest suite (the acceptance gate)
+  requirements.txt, .venv/      (venv gitignored)
+wordpress/          Dockerised WordPress + .wpress backup (to restore the source DB)
+```
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/)
-- **Migration**: Custom Python scripts (see `migration/scripts/`) to convert WordPress content to Hugo
-- **Original Source**: WordPress (Docker Compose setup in `wordpress/`)
-- **Hosting**: GitHub Pages, Netlify, or any static host
-- **CI/CD**: GitHub Actions (optional)
+## Local development
+```bash
+# Serve the site (live reviews need the API key; without it a proof fallback shows)
+GOOGLE_PLACES_API_KEY=... hugo server         # http://localhost:1313/
 
-## 🚀 Local Development
+# Run the migration/optimization test suite
+cd migration && python -m venv .venv && .venv/bin/pip install -r requirements.txt
+.venv/bin/python -m pytest -q                  # acceptance gate
+```
 
-### Prerequisites
+## Live Google reviews
+`layouts/partials/testimonials.html` fetches the Places API at build time using the
+`GOOGLE_PLACES_API_KEY` environment variable (and `params.googlePlaceId` in `hugo.yaml`). The key is
+**never committed** — it's read from the env locally and from a GitHub Actions **repository secret**
+of the same name in CI. If the key is absent or the request fails, the section renders a verifiable
+"proof" fallback instead, so the build never breaks.
 
-1. Install [Hugo Extended](https://gohugo.io/installation/) (version 0.123.0 or later)
-2. Python 3 (for migration scripts)
-3. Docker (for local WordPress if needed)
-4. Git
+## Migration & media pipeline (`migration/`)
+The blog is reproducible from the original WordPress backup:
+1. Restore WordPress locally: `cd wordpress && docker compose up -d`, import the `.wpress` backup
+   (`wordpress/backup/`) — see `wordpress/wordpress-local-dev-setup-guide-gadjoy.md`.
+2. Extract to Hugo Markdown: `migration/scripts/wp_rest_to_hugo.py` (reads the WP REST API → real
+   content, taxonomy as slugs + term pages, normalised `/img/uploads/...` paths, original URLs with
+   `/blog/...` aliases).
+3. Optimise media: `migration/scripts/optimize_media.py` — prunes upload files the site doesn't
+   reference, converts images to **WebP** (and rewrites references), and re-encodes videos. Run this
+   **after** any re-migration. Originals remain recoverable from `wordpress/backup/` and
+   `migration/wp-export/`.
 
-### Setup
+## Deployment
+Push to `main` → `.github/workflows/hugo.yml` builds with Hugo (extended, v0.147.2) and publishes to
+GitHub Pages. Custom domain **gadjoy.in** is configured in the repo's Pages settings (HTTPS enforced).
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:YourUsername/gadjoy.git
-   cd gadjoy
-   ```
-2. Start the Hugo development server:
-   ```bash
-   hugo server -D
-   ```
-3. View the site at: `http://localhost:1313/`
-
-## 📝 Content Management
-
-- **Blog posts**: `content/blog/YYYY/MM/DD/slug/index.md`
-- **Service pages**: `content/services/we-repair/`, `content/services/we-build/`
-- **Contact page**: `content/contact/index.md`
-- **Gallery**: `content/gallery/index.md`
-- **Testimonials, features, carousel**: `data/` directory (YAML/JSON)
-- **Images**: `static/img/uploads/` (migrated from WordPress)
-
-## 🔄 Migration from WordPress
-
-1. **Spin up WordPress locally** using Docker Compose (`wordpress/docker-compose.yml`).
-2. **Import the WordPress backup** (see `migration/wp-export/`).
-3. **Run migration scripts** in `migration/scripts/` (notably `wp_to_hugo.py`) to extract posts, pages, and media, converting them to Hugo Markdown and copying images.
-4. **Review and adjust**: Check for missing images or formatting issues (see `docs/migration/`).
-5. **Build and deploy** the Hugo site.
-
-See `docs/migration/overview.md` for a detailed migration workflow.
-
-## 🔄 Deployment
-
-The site can be deployed to GitHub Pages, Netlify, or any static host. For GitHub Pages:
-
-1. Push your code to GitHub.
-2. Use a GitHub Actions workflow or build locally and push the `public/` directory.
-3. Configure your custom domain in repository settings and update DNS records as needed.
-
-## 🌐 Domain Configuration
-
-To use a custom domain:
-1. Add your domain in GitHub repository settings under Pages
-2. Configure your DNS with the following records:
-   ```
-   Type  Name   Value
-   A     @      185.199.108.153
-   A     @      185.199.109.153
-   A     @      185.199.110.153
-   A     @      185.199.111.153
-   CNAME www    yourusername.github.io
-   ```
-
-## 📄 License
-
-All content and images are property of Gadjoy Repair Service. Website code is available under the MIT license.
-
-## 🤝 Contributing
-
-For technical issues or suggestions:
-1. Create an issue
-2. Fork the repository
-3. Create a pull request
-
-For content updates, please contact the site owner directly.
-
-## 📞 Contact
-
-For inquiries about services, use the contact form on the website.
+## License
+Site content and images are property of Gadjoy Repair Service. The site code/configuration is
+available under the MIT license.

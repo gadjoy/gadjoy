@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/dell-p6if-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-14.png
+banner: /img/uploads/2022/08/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-14.png)
+![](/img/uploads/2022/08/image-14.webp)
 
 **DELL P6IF – Dead Condition**
 
-![](/img/uploads/2022/08/after-DELL-P6IF-–-Dead-Condition.png)
+![](/img/uploads/2022/08/after-DELL-P6IF-–-Dead-Condition.webp)
 
 **DELL P6IF – Dead Condition**

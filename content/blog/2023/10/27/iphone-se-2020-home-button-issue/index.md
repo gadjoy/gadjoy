@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/27/iphone-se-2020-home-button-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-54.png
+banner: /img/uploads/2023/10/image-54.webp
 ---
 
 ## Before
 
-![](/img/uploads/2023/10/image-54.png)
+![](/img/uploads/2023/10/image-54.webp)
 
 **The device was given to us in home button and front camera not working state**
 
 ## After
 
-![](/img/uploads/2023/10/image-52.png)
+![](/img/uploads/2023/10/image-52.webp)
 
 **We replaced the front camera strip and home button of the device and made it working**

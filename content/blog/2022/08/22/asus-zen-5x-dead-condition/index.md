@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/22/asus-zen-5x-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-ASUS-zen-5x-Dead-Condition.png
+banner: /img/uploads/2022/08/before-ASUS-zen-5x-Dead-Condition.webp
 ---
 
 ## Before
 
 ## After
 
-![This image has an empty alt attribute; its file name is before-ASUS-zen-5x-Dead-Condition.png](/img/uploads/2022/08/before-ASUS-zen-5x-Dead-Condition.png)
+![This image has an empty alt attribute; its file name is before-ASUS-zen-5x-Dead-Condition.png](/img/uploads/2022/08/before-ASUS-zen-5x-Dead-Condition.webp)
 
 ASUS Zen 5x – Dead Condition
 
-![](/img/uploads/2022/08/after-ASUS-zen-5x-Dead-Condition-1.png)
+![](/img/uploads/2022/08/after-ASUS-zen-5x-Dead-Condition-1.webp)
 
 ASUS Zen 5x – Dead Condition

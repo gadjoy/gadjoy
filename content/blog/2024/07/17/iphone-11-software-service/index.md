@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/17/iphone-11-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-38.png
+banner: /img/uploads/2024/07/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-38.png)
+![](/img/uploads/2024/07/image-38.webp)
 
 **The device was received in disabled condition**
 
-![](/img/uploads/2024/07/image-39.png)
+![](/img/uploads/2024/07/image-39.webp)
 
 **After doing the software service on the device we were able to clear the lock and gave it to the customer in the initial stage**

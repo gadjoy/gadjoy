@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/hp-15-af002au-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-76.png
+banner: /img/uploads/2023/06/image-76.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-76.png)
+![](/img/uploads/2023/06/image-76.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-77.png)
+![](/img/uploads/2023/06/image-77.webp)
 
 **We had done the  chip level services and made the device work.**

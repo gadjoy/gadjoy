@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/17/mi-6a-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-64.png
+banner: /img/uploads/2022/04/image-64.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-64.png)
+![](/img/uploads/2022/04/image-64.webp)
 
 The Device was given to us with the display broken and water damage on it
 
-![](/img/uploads/2022/04/image-65.png)
+![](/img/uploads/2022/04/image-65.webp)
 
 We had Replaced the **Display Combo** and done the service

@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/samsung-a12-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-8.png
+banner: /img/uploads/2022/08/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-8.png)
+![](/img/uploads/2022/08/image-8.webp)
 
 Samsung A12 – Display Combo Replacement
 
-![](/img/uploads/2022/08/image-9.png)
+![](/img/uploads/2022/08/image-9.webp)
 
 Samsung A12 – Display Combo Replacement

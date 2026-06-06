@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/05/mi-10i-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image.png
+banner: /img/uploads/2024/03/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image.png)
+![](/img/uploads/2024/03/image.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/03/image-1.png)
+![](/img/uploads/2024/03/image-1.webp)
 
 **Through the implementation of chip-level servicing, we have enabled the device to activate based on specified conditions.**

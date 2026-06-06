@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/iphone-6s-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-134.png
+banner: /img/uploads/2023/01/image-134.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-134.png)
+![](/img/uploads/2023/01/image-134.webp)
 
 The device was given us in water damage condition
 
-![](/img/uploads/2023/01/image-135.png)
+![](/img/uploads/2023/01/image-135.webp)
 
 We had done the service on the mother board and made it work

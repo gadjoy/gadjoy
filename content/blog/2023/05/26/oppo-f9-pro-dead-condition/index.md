@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/26/oppo-f9-pro-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-57.png
+banner: /img/uploads/2023/05/image-57.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-57.png)
+![](/img/uploads/2023/05/image-57.webp)
 
 **The device was given to  us in dead condition**
 
-![](/img/uploads/2023/05/image-58.png)
+![](/img/uploads/2023/05/image-58.webp)
 
 **We had done the Motherboard service and made the device work.**

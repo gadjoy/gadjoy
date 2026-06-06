@@ -10,17 +10,17 @@ categories:
 tags: []
 aliases:
 - /blog/2022/04/30/redmi-k20-front-camera-error/
-banner: /img/uploads/2022/04/image-139.png
+banner: /img/uploads/2022/04/image-139.webp
 ---
 
 ####
 
 ####
 
-![](/img/uploads/2022/04/image-139.png)
+![](/img/uploads/2022/04/image-139.webp)
 
 The device was given to us, with the front camera error
 
-![](/img/uploads/2022/04/image-140.png)
+![](/img/uploads/2022/04/image-140.webp)
 
 We had done the **motherboard service** and got the error cleared

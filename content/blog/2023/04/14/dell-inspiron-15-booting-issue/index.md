@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/14/dell-inspiron-15-booting-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-36.png
+banner: /img/uploads/2023/04/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-36.png)
+![](/img/uploads/2023/04/image-36.webp)
 
 **The device was given to us with booting issue**
 
-![](/img/uploads/2023/04/image-37.png)
+![](/img/uploads/2023/04/image-37.webp)
 
 **We diagnosed  the device made it work well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/07/iphone-6-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-Before.jpg
+banner: /img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-Before.jpg)
+![](/img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-Before.webp)
 
 The iPhone was given to us with the fully broken Display Glass
 
-![](/img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-After.jpg)
+![](/img/uploads/2022/01/iPhone-6-Display-Glass-Replacement-After.webp)
 
 We had Replaced the **Display Glass** ONLY and made it fully functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/14/ipad-a1566-flickering/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-18.png
+banner: /img/uploads/2023/11/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-18.png)
+![](/img/uploads/2023/11/image-18.webp)
 
 **The device was given to us with  Display condition**
 
-![](/img/uploads/2023/11/image-19.png)
+![](/img/uploads/2023/11/image-19.webp)
 
 **The device display has been replaced and got it working again**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/oppo-a33f-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/oppo-A33f.png
+banner: /img/uploads/2022/08/oppo-A33f.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/oppo-A33f.png)
+![](/img/uploads/2022/08/oppo-A33f.webp)
 
 OPPO A33f- Dead Condition
 
-![](/img/uploads/2022/08/After-oppo-A33f-CC-replacement-after-1.png)
+![](/img/uploads/2022/08/After-oppo-A33f-CC-replacement-after-1.webp)
 
 OPPO A33f- Dead Condition

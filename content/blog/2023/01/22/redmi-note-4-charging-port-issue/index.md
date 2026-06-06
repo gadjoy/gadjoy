@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/redmi-note-4-charging-port-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-226.png
+banner: /img/uploads/2023/01/image-226.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-226.png)
+![](/img/uploads/2023/01/image-226.webp)
 
 The device was given to us in not charging condition
 
-![](/img/uploads/2023/01/image-227.png)
+![](/img/uploads/2023/01/image-227.webp)
 
 We had replaced the charging connector of the device and made it charging

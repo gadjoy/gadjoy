@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/hp-15-series-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-48.png
+banner: /img/uploads/2023/01/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-48.png)
+![](/img/uploads/2023/01/image-48.webp)
 
 The device was given to us in “Automatic Repair” screen
 
-![](/img/uploads/2023/01/image-49.png)
+![](/img/uploads/2023/01/image-49.webp)
 
 We had done the software services on the device and made it usable

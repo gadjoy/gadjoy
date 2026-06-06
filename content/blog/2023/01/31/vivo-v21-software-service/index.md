@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/31/vivo-v21-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-314.png
+banner: /img/uploads/2023/01/image-314.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-314.png)
+![](/img/uploads/2023/01/image-314.webp)
 
 The device was given to us in password-forgotten condition
 
-![](/img/uploads/2023/01/image-315.png)
+![](/img/uploads/2023/01/image-315.webp)
 
 We had done the software service and got it unlocked

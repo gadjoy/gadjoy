@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/10/infinix-hot-9-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-7.png
+banner: /img/uploads/2024/02/image-7.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-7.png)
+![](/img/uploads/2024/02/image-7.webp)
 
 **The device received condition was dead and display was fully damaged**
 
-![](/img/uploads/2024/02/image-8.png)
+![](/img/uploads/2024/02/image-8.webp)
 
 **We had to replace the display combo of the device and made it usable**

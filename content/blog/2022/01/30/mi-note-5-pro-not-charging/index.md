@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/30/mi-note-5-pro-not-charging/
 description: Before After When phone was given to us, it was not charging We replaced Charging Port and got the device working
 summary: Before After When phone was given to us, it was not charging We replaced Charging Port and got the device working
-banner: /img/uploads/2022/01/Mi-Note-5-Pro-–-Before-Not-Charging.png
+banner: /img/uploads/2022/01/Mi-Note-5-Pro-–-Before-Not-Charging.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/01/Mi-Note-5-Pro-–-Before-Not-Charging.png)
+![](/img/uploads/2022/01/Mi-Note-5-Pro-–-Before-Not-Charging.webp)
 
 > When phone was given to us, it was not charging
 
-![](/img/uploads/2022/01/Mi-Note-5-Pro-–-After-Not-Charging.png)
+![](/img/uploads/2022/01/Mi-Note-5-Pro-–-After-Not-Charging.webp)
 
 > We replaced **Charging Port** and got the device working

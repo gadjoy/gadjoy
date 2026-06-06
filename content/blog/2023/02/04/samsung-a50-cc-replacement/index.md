@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/04/samsung-a50-cc-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-15.png
+banner: /img/uploads/2023/02/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-15.png)
+![](/img/uploads/2023/02/image-15.webp)
 
 The device was given to us with charging port broken condition
 
-![](/img/uploads/2023/02/image-14.png)
+![](/img/uploads/2023/02/image-14.webp)
 
 we had replaced the charging port and checked the charging is working or not

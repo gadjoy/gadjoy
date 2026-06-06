@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/19/realme-narzo-50i-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-36.png
+banner: /img/uploads/2024/01/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-36.png)
+![](/img/uploads/2024/01/image-36.webp)
 
 **The device was given to us dead condition**
 
-![](/img/uploads/2024/01/image-37.png)
+![](/img/uploads/2024/01/image-37.webp)
 
 **We have done the chip level service on the device mother board and got it working**

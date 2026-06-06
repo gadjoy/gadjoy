@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/7727/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-14.png
+banner: /img/uploads/2024/04/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-14.png)
+![](/img/uploads/2024/04/image-14.webp)
 
 **The device was given to us with hinges broken condition**
 
-![](/img/uploads/2024/04/image-15.png)
+![](/img/uploads/2024/04/image-15.webp)
 
 **We did the hinges fabrication and got the alignment correct and made it work smoothly**

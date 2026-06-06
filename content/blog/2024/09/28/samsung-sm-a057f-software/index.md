@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/28/samsung-sm-a057f-software/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-43.png
+banner: /img/uploads/2024/09/image-43.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-43.png)
+![](/img/uploads/2024/09/image-43.webp)
 
 **The device was received in the locked and password forgotten condition**
 
-![](/img/uploads/2024/09/image-44.png)
+![](/img/uploads/2024/09/image-44.webp)
 
 **After a software services we unlocked the device with the customer credentials**

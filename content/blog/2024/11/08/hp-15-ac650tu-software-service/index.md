@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/08/hp-15-ac650tu-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-16.png
+banner: /img/uploads/2024/11/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-16.png)
+![](/img/uploads/2024/11/image-16.webp)
 
 **The device was received, which the customer was facing issue while booting the OS**
 
-![](/img/uploads/2024/11/image-17.png)
+![](/img/uploads/2024/11/image-17.webp)
 
 **After a software package reinstallation, we made the device work well**

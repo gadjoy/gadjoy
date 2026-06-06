@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/25/iphone-5s-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/4677-Before-577x1024.jpeg
+banner: /img/uploads/2023/10/4677-Before-577x1024.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/4677-Before-577x1024.jpeg)
+![](/img/uploads/2023/10/4677-Before-577x1024.webp)
 
 The device was given to us in display broken condition
 
-![](/img/uploads/2023/10/4677-After-552x1024.jpeg)
+![](/img/uploads/2023/10/4677-After-552x1024.webp)
 
 We replaced the display and got the device in working condition

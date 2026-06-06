@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/12/one-plus-5t-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-50.png
+banner: /img/uploads/2022/04/image-50.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-50.png)
+![](/img/uploads/2022/04/image-50.webp)
 
 The device was given to us with display broken condition
 
-![](/img/uploads/2022/04/image-51.png)
+![](/img/uploads/2022/04/image-51.webp)
 
 We had Replaced the display Combo and made it functioning

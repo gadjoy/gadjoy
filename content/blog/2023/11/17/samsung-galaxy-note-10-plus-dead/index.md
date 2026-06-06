@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/17/samsung-galaxy-note-10-plus-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-36.png
+banner: /img/uploads/2023/11/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-36.png)
+![](/img/uploads/2023/11/image-36.webp)
 
 **The device was given to us with  Display condition**
 
-![](/img/uploads/2023/11/image-37.png)
+![](/img/uploads/2023/11/image-37.webp)
 
 **We Replaced Display and made the device work well**

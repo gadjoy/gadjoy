@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/06/samsung-m31-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-Before.jpg
+banner: /img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-Before.jpg)
+![](/img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-Before.webp)
 
 Phone was given to us with dead condition
 
-![](/img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-After..jpg)
+![](/img/uploads/2022/01/Samsung-M31-Display-Combo-Replacement-After..webp)
 
 We had Replaced the **Display Combo** and made it operating

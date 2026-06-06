@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/nokia-g42-5g-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-18.png
+banner: /img/uploads/2024/04/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-18.png)
+![](/img/uploads/2024/04/image-18.webp)
 
 **The device was received in logo restarting condition**
 
-![](/img/uploads/2024/04/image-19.png)
+![](/img/uploads/2024/04/image-19.webp)
 
 **We did the software service in which the OS and the basic software were reinstalled to make it work**

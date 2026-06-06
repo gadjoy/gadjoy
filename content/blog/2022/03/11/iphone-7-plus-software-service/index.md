@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/11/iphone-7-plus-software-service/
 description: Before After When this phone was given to us, There was an error called Configuring iPhone. We had done MDM Unlock and got it working
 summary: Before After When this phone was given to us, There was an error called Configuring iPhone. We had done MDM Unlock and got it working
-banner: /img/uploads/2022/03/iPhone-7-Plus-–-Before-Software-Service.png
+banner: /img/uploads/2022/03/iPhone-7-Plus-–-Before-Software-Service.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/iPhone-7-Plus-–-Before-Software-Service.png)
+![](/img/uploads/2022/03/iPhone-7-Plus-–-Before-Software-Service.webp)
 
 > When this phone was given to us, There was an error called Configuring iPhone.
 
-![](/img/uploads/2022/03/iPhone-7-Plus-–-After-Software-Service.png)
+![](/img/uploads/2022/03/iPhone-7-Plus-–-After-Software-Service.webp)
 
 > We had done **MDM Unlock** and got it working

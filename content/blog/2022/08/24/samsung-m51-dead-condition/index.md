@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/samsung-m51-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-6.png
+banner: /img/uploads/2022/08/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-6.png)
+![](/img/uploads/2022/08/image-6.webp)
 
 Samsung M51 –Dead Condition
 
-![](/img/uploads/2022/08/image-7.png)
+![](/img/uploads/2022/08/image-7.webp)
 
 Samsung M51 –Dead Condition

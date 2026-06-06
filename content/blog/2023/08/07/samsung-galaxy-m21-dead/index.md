@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/07/samsung-galaxy-m21-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-8.png
+banner: /img/uploads/2023/08/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-8.png)
+![](/img/uploads/2023/08/image-8.webp)
 
 **The device was received in a non-functional state**
 
-![](/img/uploads/2023/08/image-9.png)
+![](/img/uploads/2023/08/image-9.webp)
 
 **We fixed the display and ensured the device performed well.**

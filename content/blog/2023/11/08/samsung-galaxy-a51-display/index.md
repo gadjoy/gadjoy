@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/08/samsung-galaxy-a51-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-12.png
+banner: /img/uploads/2023/11/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-12.png)
+![](/img/uploads/2023/11/image-12.webp)
 
 **The device was given to us in no display and it was only vibrating**
 
-![](/img/uploads/2023/11/image-13.png)
+![](/img/uploads/2023/11/image-13.webp)
 
 **We had to replace the display combo of the device and got the display working**

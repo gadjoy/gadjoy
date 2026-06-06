@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/03/tools-box/
 description: Problem Statement -Tools holder Sow -Build a toolbox or screw box Challenges –  Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -To keep different screws in separate rows while removing laptops or mobiles
 summary: Problem Statement -Tools holder Sow -Build a toolbox or screw box Challenges –  Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -To keep different screws in separate rows while removing laptops or mobiles
-banner: /img/uploads/2022/01/TOOLS-BOX.jpg
+banner: /img/uploads/2022/01/TOOLS-BOX.webp
 ---
 
-![](/img/uploads/2022/01/TOOLS-BOX.jpg)
+![](/img/uploads/2022/01/TOOLS-BOX.webp)
 
 Problem Statement
 

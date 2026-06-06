@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/02/hp-pavilion-g6-software-service-general-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-2.png
+banner: /img/uploads/2023/06/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-2.png)
+![](/img/uploads/2023/06/image-2.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/06/image-3.png)
+![](/img/uploads/2023/06/image-3.webp)
 
 **We had done the software services and made the device work.**

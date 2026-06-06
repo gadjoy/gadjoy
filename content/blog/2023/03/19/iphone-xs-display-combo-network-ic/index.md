@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/03/19/iphone-xs-display-combo-network-ic/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-46.png
+banner: /img/uploads/2023/03/image-46.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-46.png)
+![](/img/uploads/2023/03/image-46.webp)
 
 **The device was given to us in Network and display issue**
 
-![](/img/uploads/2023/03/image-47.png)
+![](/img/uploads/2023/03/image-47.webp)
 
 **We had done chip level service for the Network issue and replaced the device display combo and made it function well**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/26/one-plus-5t-cc-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-68.png
+banner: /img/uploads/2023/06/image-68.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-68.png)
+![](/img/uploads/2023/06/image-68.webp)
 
 **The device was given to us in windows blue screen condition**
 
-![](/img/uploads/2023/06/image-69.png)
+![](/img/uploads/2023/06/image-69.webp)
 
 **We have reinstalled the original OS and made it working**

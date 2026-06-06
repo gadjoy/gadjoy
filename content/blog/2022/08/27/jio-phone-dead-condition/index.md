@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/jio-phone-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-61.png
+banner: /img/uploads/2022/08/image-61.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-61.png)
+![](/img/uploads/2022/08/image-61.webp)
 
 Jio Phone – Dead Condition
 
-![](/img/uploads/2022/08/image-62.png)
+![](/img/uploads/2022/08/image-62.webp)
 
 Jio Phone – Dead Condition

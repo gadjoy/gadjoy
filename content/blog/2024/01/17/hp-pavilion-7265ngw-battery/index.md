@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/17/hp-pavilion-7265ngw-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-28.png
+banner: /img/uploads/2024/01/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-28.png)
+![](/img/uploads/2024/01/image-28.webp)
 
 **The device was given to us blue screen and an “Automatic Repair” screen**
 
-![](/img/uploads/2024/01/image-29.png)
+![](/img/uploads/2024/01/image-29.webp)
 
 **We have done the software service and resolved the booting issue**

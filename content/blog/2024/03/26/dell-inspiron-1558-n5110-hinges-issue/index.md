@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/26/dell-inspiron-1558-n5110-hinges-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-54.png
+banner: /img/uploads/2024/03/image-54.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-54.png)
+![](/img/uploads/2024/03/image-54.webp)
 
 **The device was received in broken hinges**
 
-![](/img/uploads/2024/03/image-55.png)
+![](/img/uploads/2024/03/image-55.webp)
 
 **By fabricating the hinge we got the device physically working smoothly**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/03/vivo-y12-display-combo-replacement-2/
 description: Before
 summary: Before
-banner: /img/uploads/2022/04/image-8.png
+banner: /img/uploads/2022/04/image-8.webp
 ---
 
 #### Before
 
 ####
 
-![](/img/uploads/2022/04/image-8.png)
+![](/img/uploads/2022/04/image-8.webp)
 
 The phone was given to us with the broken display
 
-![](/img/uploads/2022/04/image-9.png)
+![](/img/uploads/2022/04/image-9.webp)
 
 We had replaced the **Display Combo** and made it usable

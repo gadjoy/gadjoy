@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/redmi-4-dead-condition-2/
 description: Before After This phone was given to us with dead condition We did general service on Power IC’s and made it working.
 summary: Before After This phone was given to us with dead condition We did general service on Power IC’s and made it working.
-banner: /img/uploads/2021/12/Redmi-4-Before-Dead-Condition.jpg
+banner: /img/uploads/2021/12/Redmi-4-Before-Dead-Condition.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Redmi-4-Before-Dead-Condition.jpg)
+![](/img/uploads/2021/12/Redmi-4-Before-Dead-Condition.webp)
 
 > This phone was given to us with dead condition
 
-![](/img/uploads/2021/12/Redmi-4-After-Dead-Condition.jpg)
+![](/img/uploads/2021/12/Redmi-4-After-Dead-Condition.webp)
 
 > We did general service on **Power IC’s** and made it working.

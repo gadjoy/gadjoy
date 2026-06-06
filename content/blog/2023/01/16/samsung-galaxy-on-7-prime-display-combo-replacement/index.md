@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/16/samsung-galaxy-on-7-prime-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-116.png
+banner: /img/uploads/2023/01/image-116.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-116.png)
+![](/img/uploads/2023/01/image-116.webp)
 
 The device was given to us in display damaged state
 
-![](/img/uploads/2023/01/image-117.png)
+![](/img/uploads/2023/01/image-117.webp)
 
 We had made the device workable by replacing the display of the device

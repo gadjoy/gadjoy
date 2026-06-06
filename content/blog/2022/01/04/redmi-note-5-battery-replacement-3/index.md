@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/redmi-note-5-battery-replacement-3/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-Before-1.jpg
+banner: /img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-Before-1.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-Before-1.jpg)
+![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-Before-1.webp)
 
 Phone was given to us to replace the Battery
 
-![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-After-1.jpg)
+![](/img/uploads/2022/01/Redmi-Note-5-Battery-Replacement-After-1.webp)
 
 We had **Replaced the Battery** and it had Good charging and discharging cycle’s

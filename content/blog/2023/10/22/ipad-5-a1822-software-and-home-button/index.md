@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/22/ipad-5-a1822-software-and-home-button/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-22.png
+banner: /img/uploads/2023/10/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-22.png)
+![](/img/uploads/2023/10/image-22.webp)
 
 **The device was given to us with Logo Stuck condition**
 
-![](/img/uploads/2023/10/image-24.png)
+![](/img/uploads/2023/10/image-24.webp)
 
 **We did Software service and made the device work well**

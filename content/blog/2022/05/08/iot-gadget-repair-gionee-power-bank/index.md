@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/05/08/iot-gadget-repair-gionee-power-bank/
 description: Problem Statement -Switching ON Scope of work – Need to solder the unsoldered wires Challenges -Nil Execution Strategy •Before soldering the wire, need to check the power supply and continuity •Value Added -Made it working
 summary: Problem Statement -Switching ON Scope of work – Need to solder the unsoldered wires Challenges -Nil Execution Strategy •Before soldering the wire, need to check the power supply and continuity •Value Added -Made it working
-banner: /img/uploads/2022/05/image-19.png
+banner: /img/uploads/2022/05/image-19.webp
 ---
 
-![](/img/uploads/2022/05/image-19.png)
+![](/img/uploads/2022/05/image-19.webp)
 
 BEFORE
 
@@ -28,6 +28,6 @@ BEFORE
 
 **Execution Strategy** •Before soldering the wire, need to check the power supply and continuity •**Value Added** -Made it working
 
-![](/img/uploads/2022/05/image-20.png)
+![](/img/uploads/2022/05/image-20.webp)
 
 AFTER

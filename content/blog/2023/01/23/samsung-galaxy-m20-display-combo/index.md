@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/23/samsung-galaxy-m20-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-233.png
+banner: /img/uploads/2023/01/image-233.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-233.png)
+![](/img/uploads/2023/01/image-233.webp)
 
 The device was given to us with display issue
 
-![](/img/uploads/2023/01/image-234.png)
+![](/img/uploads/2023/01/image-234.webp)
 
 We had replaced the display and made it functioning well

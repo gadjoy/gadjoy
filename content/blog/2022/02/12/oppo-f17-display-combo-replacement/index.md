@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/12/oppo-f17-display-combo-replacement/
 description: Before After This phone was given to us with dead condition We replaced Display Combo and made it functional
 summary: Before After This phone was given to us with dead condition We replaced Display Combo and made it functional
-banner: /img/uploads/2022/02/Oppo-F17-–-Before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/02/Oppo-F17-–-Before-Display-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/02/Oppo-F17-–-Before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Oppo-F17-–-Before-Display-Combo-Replacement.webp)
 
 > This phone was given to us with dead condition
 
-![](/img/uploads/2022/02/Oppo-F17-–-After-Display-Combo-Replacement.png)
+![](/img/uploads/2022/02/Oppo-F17-–-After-Display-Combo-Replacement.webp)
 
 > We replaced **Display Combo** and made it functional

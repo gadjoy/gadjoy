@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/oneplus-11r-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-13.png
+banner: /img/uploads/2024/09/image-13.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-13.png)
+![](/img/uploads/2024/09/image-13.webp)
 
 **The device was received in dead and no display condition along with the water damage also**
 
-![](/img/uploads/2024/09/image-14.png)
+![](/img/uploads/2024/09/image-14.webp)
 
 **After keeping the device in a desiccant for few days and worked in the device mother board to make it work again as usual**

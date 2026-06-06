@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/19/iphone-xs-logo-stuck-2/
 description: Before After When phone was given to us only charging logo was stuck on the display We did software service and got the phone fully working
 summary: Before After When phone was given to us only charging logo was stuck on the display We did software service and got the phone fully working
-banner: /img/uploads/2021/12/iPhone-XS-Logo-Stuck-Before-2.jpg
+banner: /img/uploads/2021/12/iPhone-XS-Logo-Stuck-Before-2.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/iPhone-XS-Logo-Stuck-Before-2.jpg)
+![](/img/uploads/2021/12/iPhone-XS-Logo-Stuck-Before-2.webp)
 
 > When phone was given to us only charging logo was stuck on the display
 
-![](/img/uploads/2021/12/iPhone-XS-Logo-Stuck-After-1.jpg)
+![](/img/uploads/2021/12/iPhone-XS-Logo-Stuck-After-1.webp)
 
 > We did software service and got the phone fully working

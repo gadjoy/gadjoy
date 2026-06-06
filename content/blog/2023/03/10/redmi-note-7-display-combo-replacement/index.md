@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/10/redmi-note-7-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-15.png
+banner: /img/uploads/2023/03/image-15.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-15.png)
+![](/img/uploads/2023/03/image-15.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/03/image-16.png)
+![](/img/uploads/2023/03/image-16.webp)
 
 **We replaced the display and made the device work.**

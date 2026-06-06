@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/11/realme-narzo-n53-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-13.png
+banner: /img/uploads/2024/12/image-13.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-13.png)
+![](/img/uploads/2024/12/image-13.webp)
 
 **The device was received in display broken condition**
 
-![](/img/uploads/2024/12/image-15.png)
+![](/img/uploads/2024/12/image-15.webp)
 
 **After replacement of the device display and also testing the display made it working as earlier**

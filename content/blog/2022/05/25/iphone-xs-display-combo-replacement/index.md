@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/25/iphone-xs-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-61.png
+banner: /img/uploads/2022/05/image-61.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-61.png)
+![](/img/uploads/2022/05/image-61.webp)
 
 The device was given to us in blank display
 
-![](/img/uploads/2022/05/image-62.png)
+![](/img/uploads/2022/05/image-62.webp)
 
 We had serviced and got that display issues. We had **replaced the display** of the device and got it working

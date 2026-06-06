@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/01/10/cable-wind-up/
 description: Problem Statement -Build a universal wire wind UP Sow – 3D Printed – PLA Filament Challenges – Nil Value Added – Can Keep wire safe – 3D printed
 summary: Problem Statement -Build a universal wire wind UP Sow – 3D Printed – PLA Filament Challenges – Nil Value Added – Can Keep wire safe – 3D printed
-banner: /img/uploads/2022/01/USB-CABLE-HOLDER.jpg
+banner: /img/uploads/2022/01/USB-CABLE-HOLDER.webp
 ---
 
-![](/img/uploads/2022/01/USB-CABLE-HOLDER.jpg)
+![](/img/uploads/2022/01/USB-CABLE-HOLDER.webp)
 
 **Problem Statement** -Build a universal wire wind UP
 

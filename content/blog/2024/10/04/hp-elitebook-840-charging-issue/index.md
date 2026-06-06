@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/10/04/hp-elitebook-840-charging-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/10/image.png
+banner: /img/uploads/2024/10/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/10/image.png)
+![](/img/uploads/2024/10/image.webp)
 
 **The device was received in dead not charging condition**
 
-![](/img/uploads/2024/10/image-1.png)
+![](/img/uploads/2024/10/image-1.webp)
 
 **After the service in the charging port, we make the device to take the charge**

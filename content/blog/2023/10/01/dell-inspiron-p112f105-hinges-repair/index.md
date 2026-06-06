@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/01/dell-inspiron-p112f105-hinges-repair/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-3.png
+banner: /img/uploads/2023/10/image-3.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-3.png)
+![](/img/uploads/2023/10/image-3.webp)
 
 **The device was given to us with hinges damaged condition**
 
-![](/img/uploads/2023/10/image-4.png)
+![](/img/uploads/2023/10/image-4.webp)
 
 **We replaced hinge and made the device usable**

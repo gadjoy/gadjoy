@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/07/samsung-galaxy-j4-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-28.png
+banner: /img/uploads/2023/07/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-28.png)
+![](/img/uploads/2023/07/image-28.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/07/image-29.png)
+![](/img/uploads/2023/07/image-29.webp)
 
 **We did mother board chip level service and made the device work.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/11/acer-aspire-a-515-53k-ram-upgrade/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-16.png
+banner: /img/uploads/2023/01/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-16.png)
+![](/img/uploads/2023/01/image-16.webp)
 
 The device was given to us with the system slow condition
 
-![](/img/uploads/2023/01/image-17.png)
+![](/img/uploads/2023/01/image-17.webp)
 
 We had upgraded the RAM of the device and made it fast

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/11/vivo-y53-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-16.png
+banner: /img/uploads/2024/03/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-16.png)
+![](/img/uploads/2024/03/image-16.webp)
 
 **The device was received in display damaged condition**
 
-![](/img/uploads/2024/03/image-17.png)
+![](/img/uploads/2024/03/image-17.webp)
 
 **After diagnosing the display we, got we need to change the display combo of the device to retore its functionality**

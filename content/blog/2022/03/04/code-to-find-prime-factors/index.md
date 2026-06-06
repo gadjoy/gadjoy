@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/03/04/code-to-find-prime-factors/
 description: Problem Statement -Find prime factors Scope of work -Build a program to find prime factors of any number Challenges -Nil Execution Strategy -Windows Terminal -VS Code -Quant – Aptitude Value Added -If the user wants to know the prime factors of any number, this code will help.
 summary: Problem Statement -Find prime factors Scope of work -Build a program to find prime factors of any number Challenges -Nil Execution Strategy -Windows Terminal -VS Code -Quant – Aptitude Value Added -If the user wants to know the prime factors of any number, this code will help.
-banner: /img/uploads/2022/03/Code-–-To-Find-Prime-Factor.png
+banner: /img/uploads/2022/03/Code-–-To-Find-Prime-Factor.webp
 ---
 
-![](/img/uploads/2022/03/Code-–-To-Find-Prime-Factor.png)
+![](/img/uploads/2022/03/Code-–-To-Find-Prime-Factor.webp)
 
 **Problem Statement**
 

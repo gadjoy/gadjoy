@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/25/motorola-one-power-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-112.png
+banner: /img/uploads/2023/02/image-112.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-112.png)
+![](/img/uploads/2023/02/image-112.webp)
 
 **The device was given to us with battery issue**
 
-![](/img/uploads/2023/02/image-113.png)
+![](/img/uploads/2023/02/image-113.webp)
 
 **We replaced battery and made the device functioning**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/poco-x2-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-140.png
+banner: /img/uploads/2023/01/image-140.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-140.png)
+![](/img/uploads/2023/01/image-140.webp)
 
 The device was given to us in not charging condition
 
-![](/img/uploads/2023/01/image-141.png)
+![](/img/uploads/2023/01/image-141.webp)
 
 We replaced the charging port of the device and got it charging

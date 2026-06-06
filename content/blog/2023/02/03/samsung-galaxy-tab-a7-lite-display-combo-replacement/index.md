@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/03/samsung-galaxy-tab-a7-lite-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-10.png
+banner: /img/uploads/2023/02/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-10.png)
+![](/img/uploads/2023/02/image-10.webp)
 
 The device was given to us in display combo broken condition
 
-![](/img/uploads/2023/02/image-11.png)
+![](/img/uploads/2023/02/image-11.webp)
 
 We had replaced the display combo of the device and made it functioning

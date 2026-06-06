@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/lenovo-ideapad-15ada7-hinges/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image.png
+banner: /img/uploads/2024/09/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image.png)
+![](/img/uploads/2024/09/image.webp)
 
 **The device was received in hinges completely broken and the display park was coming a part**
 
-![](/img/uploads/2024/09/image-1.png)
+![](/img/uploads/2024/09/image-1.webp)
 
 **After a hinges fix and extensive test on the hinges, the device was ready to use for flexible**

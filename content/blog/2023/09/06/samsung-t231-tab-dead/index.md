@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/samsung-t231-tab-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-8.png
+banner: /img/uploads/2023/09/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-8.png)
+![](/img/uploads/2023/09/image-8.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-9.png)
+![](/img/uploads/2023/09/image-9.webp)
 
 **We had replaced the charging port of the device and got it active**

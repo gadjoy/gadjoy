@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/23/samsung-galaxy-j6-touch-glass-replacement/
 description: Before After When the phone was given to us, Display was cracked, and the touch was not working We had replaced the Display Combo and made it working
 summary: Before After When the phone was given to us, Display was cracked, and the touch was not working We had replaced the Display Combo and made it working
-banner: /img/uploads/2022/03/Samsung-Galaxy-J6-–-before-Touch-Glass-Replacement.png
+banner: /img/uploads/2022/03/Samsung-Galaxy-J6-–-before-Touch-Glass-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/03/Samsung-Galaxy-J6-–-before-Touch-Glass-Replacement.png)
+![](/img/uploads/2022/03/Samsung-Galaxy-J6-–-before-Touch-Glass-Replacement.webp)
 
 > When the phone was given to us, Display was cracked, and the touch was not working
 
-![](/img/uploads/2022/03/Samsung-Galaxy-J6-–-after-Touch-Glass-Replacement.png)
+![](/img/uploads/2022/03/Samsung-Galaxy-J6-–-after-Touch-Glass-Replacement.webp)
 
 > We had replaced the **Display Combo** and made it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/08/iphone-se-display-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-2.png
+banner: /img/uploads/2024/11/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-2.png)
+![](/img/uploads/2024/11/image-2.webp)
 
 **The device was received in display issue**
 
-![](/img/uploads/2024/11/image-3.png)
+![](/img/uploads/2024/11/image-3.webp)
 
 **After replacement of the device display we got it functioning as earlier**

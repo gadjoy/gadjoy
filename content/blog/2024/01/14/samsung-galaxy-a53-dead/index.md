@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/14/samsung-galaxy-a53-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image.png
+banner: /img/uploads/2024/01/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image.png)
+![](/img/uploads/2024/01/image.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/01/image-1.png)
+![](/img/uploads/2024/01/image-1.webp)
 
 **We had done the chip level service and got the device working well**

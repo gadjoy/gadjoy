@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/07/04/one-plus-5-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/07/image-8.png
+banner: /img/uploads/2022/07/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/07/image-8.png)
+![](/img/uploads/2022/07/image-8.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2022/07/image-9.png)
+![](/img/uploads/2022/07/image-9.webp)
 
 We had con the chip Level service and made it workable

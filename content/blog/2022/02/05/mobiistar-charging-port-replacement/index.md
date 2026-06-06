@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/05/mobiistar-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/02/Mobistar-Dead-Condition-Charging-Port-Replacement-577x1024.jpg
+banner: /img/uploads/2022/02/Mobistar-Dead-Condition-Charging-Port-Replacement-577x1024.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/02/Mobistar-Dead-Condition-Charging-Port-Replacement-577x1024.jpg)
+![](/img/uploads/2022/02/Mobistar-Dead-Condition-Charging-Port-Replacement-577x1024.webp)
 
 Phone was given to us with not working and dead condition
 
-![](/img/uploads/2022/02/Moniistar-After-Charging-Port-Replacement-edited.jpg)
+![](/img/uploads/2022/02/Moniistar-After-Charging-Port-Replacement-edited.webp)
 
 We hade **Replaced Charging port** f the device and got it charging

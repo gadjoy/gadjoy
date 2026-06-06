@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/oppo-realme-1-display-combo-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-28.png
+banner: /img/uploads/2024/03/image-28.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-28.png)
+![](/img/uploads/2024/03/image-28.webp)
 
 **The device was given in completely dead and broken condition**
 
-![](/img/uploads/2024/03/image-30.png)
+![](/img/uploads/2024/03/image-30.webp)
 
 **Upon diagnosing the device, it became evident that the problem stemmed from the display. I promptly replaced the display component, restoring functionality to the device.**

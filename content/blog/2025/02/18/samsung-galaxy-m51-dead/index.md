@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/02/18/samsung-galaxy-m51-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/02/image-8.png
+banner: /img/uploads/2025/02/image-8.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/02/image-8.png)
+![](/img/uploads/2025/02/image-8.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2025/02/image-9.png)
+![](/img/uploads/2025/02/image-9.webp)
 
 **We did diagnostics and found that the device has issue on the mother, so a chip-level service made the device work again**

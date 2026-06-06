@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/21/vivo-y51-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-192.png
+banner: /img/uploads/2023/01/image-192.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-192.png)
+![](/img/uploads/2023/01/image-192.webp)
 
 The device was given to us in display broken condition
 
-![](/img/uploads/2023/01/image-193.png)
+![](/img/uploads/2023/01/image-193.webp)
 
 We had replaced the display combo of the device and made it functioning

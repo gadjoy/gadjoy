@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/vivo-y15-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-21.png
+banner: /img/uploads/2024/09/image-21.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-21.png)
+![](/img/uploads/2024/09/image-21.webp)
 
 **The device was received in display damaged and no display condition**
 
-![](/img/uploads/2024/09/image-22.png)
+![](/img/uploads/2024/09/image-22.webp)
 
 **After the replacement of the display we got it working seamlessly and flexible**

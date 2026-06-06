@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/poco-c50-charging-port/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-34.png
+banner: /img/uploads/2024/11/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-34.png)
+![](/img/uploads/2024/11/image-34.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/11/image-35.png)
+![](/img/uploads/2024/11/image-35.webp)
 
 **After checking the device we got to know that it has the issue with the charging connector**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/15/google-pixel-pro-6-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-36.png
+banner: /img/uploads/2024/05/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-36.png)
+![](/img/uploads/2024/05/image-36.webp)
 
 **The device was received in a condition in which customer has forgotten the password**
 
-![](/img/uploads/2024/05/image-37.png)
+![](/img/uploads/2024/05/image-37.webp)
 
 **After verifying we have done the software service to unlock the device**

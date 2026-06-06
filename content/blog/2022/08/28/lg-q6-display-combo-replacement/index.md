@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/28/lg-q6-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-before.png
+banner: /img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-before.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-before.png)
+![](/img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-before.webp)
 
 LG Q6 Display Combo Replacement
 
-![](/img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-after.png)
+![](/img/uploads/2022/08/LG-Q6-Display-Combo-Replacement-after.webp)
 
 LG Q6 Display Combo Replacement

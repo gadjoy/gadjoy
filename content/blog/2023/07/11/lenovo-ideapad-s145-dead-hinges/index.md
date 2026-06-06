@@ -12,13 +12,13 @@ aliases:
 - /blog/2023/07/11/lenovo-ideapad-s145-dead-hinges/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-42.png
+banner: /img/uploads/2023/07/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-42.png)
+![](/img/uploads/2023/07/image-42.webp)
 
 <video controls src="/img/uploads/2023/07/4408-After.mp4"></video>

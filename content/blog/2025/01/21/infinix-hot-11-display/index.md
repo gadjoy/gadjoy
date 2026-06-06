@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/01/21/infinix-hot-11-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/01/image-2.png
+banner: /img/uploads/2025/01/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/01/image-2.png)
+![](/img/uploads/2025/01/image-2.webp)
 
 **The device was received in display damages condition**
 
-![](/img/uploads/2025/01/image-3.png)
+![](/img/uploads/2025/01/image-3.webp)
 
 **After replacement of the display, we got it functioning again**

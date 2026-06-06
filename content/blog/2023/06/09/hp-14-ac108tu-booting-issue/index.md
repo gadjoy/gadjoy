@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/09/hp-14-ac108tu-booting-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-32.png
+banner: /img/uploads/2023/06/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-32.png)
+![](/img/uploads/2023/06/image-32.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/06/image-33.png)
+![](/img/uploads/2023/06/image-33.webp)
 
 **We had done the software services and made the device work.**

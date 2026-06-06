@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/iphone-13-back-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-40.png
+banner: /img/uploads/2024/11/image-40.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-40.png)
+![](/img/uploads/2024/11/image-40.webp)
 
 **The device was received in back panel broken condition**
 
-![](/img/uploads/2024/11/image-41.png)
+![](/img/uploads/2024/11/image-41.webp)
 
 **We have replaced the back panel with the glass finish**

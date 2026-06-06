@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/23/redmi-note-8-pro-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-95.png
+banner: /img/uploads/2022/04/image-95.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-95.png)
+![](/img/uploads/2022/04/image-95.webp)
 
 The device was given to us with minimum battery backup of the phone
 
-![](/img/uploads/2022/04/image-96.png)
+![](/img/uploads/2022/04/image-96.webp)
 
 We had replaced the battery and it  had a good battery charge and discharge cycles

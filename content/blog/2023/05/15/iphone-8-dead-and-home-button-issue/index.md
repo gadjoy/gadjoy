@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/15/iphone-8-dead-and-home-button-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-36.png
+banner: /img/uploads/2023/05/image-36.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-36.png)
+![](/img/uploads/2023/05/image-36.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/05/image-38.png)
+![](/img/uploads/2023/05/image-38.webp)
 
 **We had done the service on the mother board of the device and made the device active**

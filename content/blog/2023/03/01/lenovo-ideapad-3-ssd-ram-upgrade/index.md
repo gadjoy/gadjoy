@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/01/lenovo-ideapad-3-ssd-ram-upgrade/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-2.png
+banner: /img/uploads/2023/03/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-2.png)
+![](/img/uploads/2023/03/image-2.webp)
 
 **The device was given to us with the requirement of SSD & RAM**
 
-![](/img/uploads/2023/03/image-3.png)
+![](/img/uploads/2023/03/image-3.webp)
 
 **We upgraded SSD + RAM and made the device work faster**

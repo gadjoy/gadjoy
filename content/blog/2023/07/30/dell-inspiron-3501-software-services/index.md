@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/30/dell-inspiron-3501-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-65.png
+banner: /img/uploads/2023/07/image-65.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-65.png)
+![](/img/uploads/2023/07/image-65.webp)
 
 **The device was given to us with device is slow**
 
-![](/img/uploads/2023/07/image-66.png)
+![](/img/uploads/2023/07/image-66.webp)
 
 **We did OS installation service to made the device functioning well**

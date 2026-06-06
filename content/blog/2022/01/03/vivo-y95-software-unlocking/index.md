@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/vivo-y95-software-unlocking/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Vivo-Y95-Software-Unlocking-Before.jpg
+banner: /img/uploads/2022/01/Vivo-Y95-Software-Unlocking-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Vivo-Y95-Software-Unlocking-Before.jpg)
+![](/img/uploads/2022/01/Vivo-Y95-Software-Unlocking-Before.webp)
 
 When phone was given to us the customer was forgot the password and has locked the device
 
-![](/img/uploads/2022/01/Vivo-Y95-Software-Unlocking-After.jpg)
+![](/img/uploads/2022/01/Vivo-Y95-Software-Unlocking-After.webp)
 
 We had Unlocked the **Device using the Software** Tool and made it usable

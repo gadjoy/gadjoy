@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/moto-g60-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-212.png
+banner: /img/uploads/2023/01/image-212.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-212.png)
+![](/img/uploads/2023/01/image-212.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/01/image-213.png)
+![](/img/uploads/2023/01/image-213.webp)
 
 We had done the chip-level service on the device and made it work

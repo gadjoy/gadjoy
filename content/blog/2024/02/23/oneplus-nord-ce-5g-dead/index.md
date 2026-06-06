@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/23/oneplus-nord-ce-5g-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-31.png
+banner: /img/uploads/2024/02/image-31.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-31.png)
+![](/img/uploads/2024/02/image-31.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/02/image-32.png)
+![](/img/uploads/2024/02/image-32.webp)
 
 **We have completed the chip-level servicing and the device is functioning well.**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/04/mi-max-2-display-glass-replacement/
 description: Before After When the tablet was given to us, the display was fully cracked We had replaced Only the Display glass with a glass finish and got working
 summary: Before After When the tablet was given to us, the display was fully cracked We had replaced Only the Display glass with a glass finish and got working
-banner: /img/uploads/2022/04/Mi-Max-2-–-befor-Display-Glass-Replacement.png
+banner: /img/uploads/2022/04/Mi-Max-2-–-befor-Display-Glass-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/04/Mi-Max-2-–-befor-Display-Glass-Replacement.png)
+![](/img/uploads/2022/04/Mi-Max-2-–-befor-Display-Glass-Replacement.webp)
 
 > When the tablet was given to us, the display was fully cracked
 
-![](/img/uploads/2022/04/Mi-Max-2-–-after-Display-Glass-Replacement.png)
+![](/img/uploads/2022/04/Mi-Max-2-–-after-Display-Glass-Replacement.webp)
 
 > We had replaced **Only the Display glass** with a glass finish and got working

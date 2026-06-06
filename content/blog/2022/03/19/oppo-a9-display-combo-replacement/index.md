@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/03/19/oppo-a9-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/03/image-21.png
+banner: /img/uploads/2022/03/image-21.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/03/image-21.png)
+![](/img/uploads/2022/03/image-21.webp)
 
 The phone was given to us with black lines on the display
 
-![](/img/uploads/2022/03/image-22.png)
+![](/img/uploads/2022/03/image-22.webp)
 
 We had replaced the **Display Combo** and made it working

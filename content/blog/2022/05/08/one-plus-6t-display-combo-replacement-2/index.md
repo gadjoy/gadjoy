@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/05/08/one-plus-6t-display-combo-replacement-2/
 description: Before After The phone was given to us in dead condition We had replaced the Display Combo of the device and made it operating
 summary: Before After The phone was given to us in dead condition We had replaced the Display Combo of the device and made it operating
-banner: /img/uploads/2022/05/One-Plus-6T-–-before-Display-Combo-Replacement.png
+banner: /img/uploads/2022/05/One-Plus-6T-–-before-Display-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/05/One-Plus-6T-–-before-Display-Combo-Replacement.png)
+![](/img/uploads/2022/05/One-Plus-6T-–-before-Display-Combo-Replacement.webp)
 
 > The phone was given to us in dead condition
 
-![](/img/uploads/2022/05/One-Plus-6T-–-after-Display-Combo-Replacement.png)
+![](/img/uploads/2022/05/One-Plus-6T-–-after-Display-Combo-Replacement.webp)
 
 > We had replaced the **Display Combo** of the device and made it operating

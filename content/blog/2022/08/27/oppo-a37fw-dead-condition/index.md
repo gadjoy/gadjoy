@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/oppo-a37fw-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/oppo-A33f-1.png
+banner: /img/uploads/2022/08/oppo-A33f-1.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/oppo-A33f-1.png)
+![](/img/uploads/2022/08/oppo-A33f-1.webp)
 
 OPPO A37fw – Dead Condition
 
-![](/img/uploads/2022/08/After-OPPO-A37fw-display-replacement.png)
+![](/img/uploads/2022/08/After-OPPO-A37fw-display-replacement.webp)
 
 OPPO A37fw – Dead Condition

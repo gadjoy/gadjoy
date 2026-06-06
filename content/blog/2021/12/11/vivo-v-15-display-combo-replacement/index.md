@@ -10,16 +10,16 @@ categories:
 tags: []
 aliases:
 - /blog/2021/12/11/vivo-v-15-display-combo-replacement/
-banner: /img/uploads/2021/12/Samsung-J7-pro-before-Display-Combo-Replacement-1.jpg
+banner: /img/uploads/2021/12/Samsung-J7-pro-before-Display-Combo-Replacement-1.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Samsung-J7-pro-before-Display-Combo-Replacement-1.jpg)
+![](/img/uploads/2021/12/Samsung-J7-pro-before-Display-Combo-Replacement-1.webp)
 
-![](/img/uploads/2021/12/Samsung-J7-pro-After-Display-Combo-Replacement-1.jpg)
+![](/img/uploads/2021/12/Samsung-J7-pro-After-Display-Combo-Replacement-1.webp)
 
 > When phone was given to us it was in dead condition
 

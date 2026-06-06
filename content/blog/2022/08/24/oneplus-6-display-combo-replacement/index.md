@@ -11,17 +11,17 @@ aliases:
 - /blog/2022/08/24/oneplus-6-display-combo-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-24.png
+banner: /img/uploads/2022/08/image-24.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-24.png)
+![](/img/uploads/2022/08/image-24.webp)
 
 OnePlus 6 – Display Combo Replacement
 
-![](/img/uploads/2022/08/image-25.png)
+![](/img/uploads/2022/08/image-25.webp)
 
 OnePlus 6 – Display Combo Replacement

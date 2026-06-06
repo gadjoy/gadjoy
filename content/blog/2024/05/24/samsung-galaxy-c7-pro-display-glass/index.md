@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/samsung-galaxy-c7-pro-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-56.png
+banner: /img/uploads/2024/05/image-56.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-56.png)
+![](/img/uploads/2024/05/image-56.webp)
 
 **The device was in the display glass cracked condition**
 
-![](/img/uploads/2024/05/image-57.png)
+![](/img/uploads/2024/05/image-57.webp)
 
 **We had replaced only the display glass condition with the glass finish**

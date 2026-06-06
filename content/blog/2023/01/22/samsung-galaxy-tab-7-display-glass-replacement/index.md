@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/22/samsung-galaxy-tab-7-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-220.png
+banner: /img/uploads/2023/01/image-220.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-220.png)
+![](/img/uploads/2023/01/image-220.webp)
 
 The device was given to us in display glass cracked condition
 
-![](/img/uploads/2023/01/image-221.png)
+![](/img/uploads/2023/01/image-221.webp)
 
 We replaced only the display glass of the device and made it better

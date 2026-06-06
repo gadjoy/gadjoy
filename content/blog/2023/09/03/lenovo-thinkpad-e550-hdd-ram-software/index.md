@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/03/lenovo-thinkpad-e550-hdd-ram-software/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-3.png
+banner: /img/uploads/2023/09/image-3.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-3.png)
+![](/img/uploads/2023/09/image-3.webp)
 
 The device was given to us in very slow condition
 
-![](/img/uploads/2023/09/image-4.png)
+![](/img/uploads/2023/09/image-4.webp)
 
 **We replaced HDD, upgraded RAM and did software service and made the device function well**

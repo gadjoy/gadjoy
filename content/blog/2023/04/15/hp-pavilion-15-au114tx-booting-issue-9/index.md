@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/15/hp-pavilion-15-au114tx-booting-issue-9/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-38.png
+banner: /img/uploads/2023/04/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-38.png)
+![](/img/uploads/2023/04/image-38.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/04/image-39.png)
+![](/img/uploads/2023/04/image-39.webp)
 
 **We did the software services and made the device work.**

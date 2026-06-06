@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/27/dell-inspiron-15-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-65.png
+banner: /img/uploads/2022/05/image-65.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-65.png)
+![](/img/uploads/2022/05/image-65.webp)
 
 The device was given to us with **Battery ERROR**
 
-![](/img/uploads/2022/05/image-66.png)
+![](/img/uploads/2022/05/image-66.webp)
 
 We had **Replaced the Battery** and resolved the error

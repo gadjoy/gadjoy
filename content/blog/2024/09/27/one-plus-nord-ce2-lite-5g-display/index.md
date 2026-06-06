@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/27/one-plus-nord-ce2-lite-5g-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-33.png
+banner: /img/uploads/2024/09/image-33.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-33.png)
+![](/img/uploads/2024/09/image-33.webp)
 
 **The device was received in a condition in which coloured lines were seeing**
 
-![](/img/uploads/2024/09/image-34.png)
+![](/img/uploads/2024/09/image-34.webp)
 
 **After a replacement of the display combo, we made the device working as earlier**

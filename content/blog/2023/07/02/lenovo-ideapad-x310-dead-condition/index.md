@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/02/lenovo-ideapad-x310-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-14.png
+banner: /img/uploads/2023/07/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-14.png)
+![](/img/uploads/2023/07/image-14.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/07/image-15.png)
+![](/img/uploads/2023/07/image-15.webp)
 
 **We had done the chip level service and software services and made the device work.**

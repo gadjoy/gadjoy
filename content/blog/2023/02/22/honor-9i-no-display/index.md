@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/22/honor-9i-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-96.png
+banner: /img/uploads/2023/02/image-96.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-96.png)
+![](/img/uploads/2023/02/image-96.webp)
 
 **The device was given to us in Display Broken, Water damage and not charging condition**
 
-![](/img/uploads/2023/02/image-97.png)
+![](/img/uploads/2023/02/image-97.webp)
 
 **We  replaced display, did water service, repaired charging port and made the device work.**

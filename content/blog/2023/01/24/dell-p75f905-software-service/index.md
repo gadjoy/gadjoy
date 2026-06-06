@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/24/dell-p75f905-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-255.png
+banner: /img/uploads/2023/01/image-255.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-255.png)
+![](/img/uploads/2023/01/image-255.webp)
 
 *The device was given to us with Motherboard Restating Issue*
 
-![](/img/uploads/2023/01/image-256.png)
+![](/img/uploads/2023/01/image-256.webp)
 
 We had done the Chip Level services and made the device functioning

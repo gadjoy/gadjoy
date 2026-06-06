@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/04/24/poco-x2-touch-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/04/image-6.png
+banner: /img/uploads/2024/04/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/04/image-6.png)
+![](/img/uploads/2024/04/image-6.webp)
 
 **The device was given to us in touch not responding condition**
 
-![](/img/uploads/2024/04/image-7.png)
+![](/img/uploads/2024/04/image-7.webp)
 
 **We replaced only the touch of the device to make sure that the customer would get back there og display, and made it workable**

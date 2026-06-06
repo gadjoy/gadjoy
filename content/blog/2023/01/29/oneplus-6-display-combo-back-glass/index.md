@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/29/oneplus-6-display-combo-back-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-289.png
+banner: /img/uploads/2023/01/image-289.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-289.png)
+![](/img/uploads/2023/01/image-289.webp)
 
 The device was given to us with display combo & back glass Issue
 
-![](/img/uploads/2023/01/image-290.png)
+![](/img/uploads/2023/01/image-290.webp)
 
 We had replaced display combo & back glass and made the device functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/15/dell-latitude-3400-software-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-10.png
+banner: /img/uploads/2024/01/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-10.png)
+![](/img/uploads/2024/01/image-10.webp)
 
 **The device was given to us in the condition I which the bootable device not loading and low battery backup**
 
-![](/img/uploads/2024/01/image-11.png)
+![](/img/uploads/2024/01/image-11.webp)
 
 **We had installed the New windows software and got it working and also due to low battery backup had to change the battery**

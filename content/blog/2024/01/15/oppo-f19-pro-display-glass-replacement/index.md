@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/15/oppo-f19-pro-display-glass-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-16.png
+banner: /img/uploads/2024/01/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-16.png)
+![](/img/uploads/2024/01/image-16.webp)
 
 **The device was given to us display glass cracked condition**
 
-![](/img/uploads/2024/01/image-17.png)
+![](/img/uploads/2024/01/image-17.webp)
 
 **We replaced only the display glass of the device with glass finish**

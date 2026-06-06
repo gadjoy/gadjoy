@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/itel-a60-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-54.png
+banner: /img/uploads/2024/05/image-54.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-54.png)
+![](/img/uploads/2024/05/image-54.webp)
 
 **The device was received in display broken and dead condition**
 
-![](/img/uploads/2024/05/image-55.png)
+![](/img/uploads/2024/05/image-55.webp)
 
 **After replacing the device display we got the device working**

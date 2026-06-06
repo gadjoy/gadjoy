@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/22/acer-aspire-3-ssd-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-45.png
+banner: /img/uploads/2023/04/image-45.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-45.png)
+![](/img/uploads/2023/04/image-45.webp)
 
 **The device was given to in slow and**
 
-![](/img/uploads/2023/04/image-46.png)
+![](/img/uploads/2023/04/image-46.webp)
 
 **We upgraded the SSD and made the device boot fast**

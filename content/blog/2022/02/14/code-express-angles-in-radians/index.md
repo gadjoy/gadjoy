@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/02/14/code-express-angles-in-radians/
 description: Problem Statement -Express angles into radians Scope of work Make a program for AP Challenges –    Nil Execution Strategy -VS Code -Windows Terminal -Trigonometry Value Added -If the user wants to know the angles in radians this program may help
 summary: Problem Statement -Express angles into radians Scope of work Make a program for AP Challenges –    Nil Execution Strategy -VS Code -Windows Terminal -Trigonometry Value Added -If the user wants to know the angles in radians this program may help
-banner: /img/uploads/2022/02/image.png
+banner: /img/uploads/2022/02/image.webp
 ---
 
-![](/img/uploads/2022/02/image.png)
+![](/img/uploads/2022/02/image.webp)
 
 **Problem Statement** -Express angles into radians
 
@@ -30,4 +30,4 @@ Make a program for AP
 
 **Value Added** -If the user wants to know the angles in radians this program may help
 
-![](/img/uploads/2022/02/image-1.png)
+![](/img/uploads/2022/02/image-1.webp)

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/28/samsung-j2-pro-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-70.png
+banner: /img/uploads/2022/05/image-70.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-70.png)
+![](/img/uploads/2022/05/image-70.webp)
 
 The device was given to us in logo restart condition
 
-![](/img/uploads/2022/05/image-69.png)
+![](/img/uploads/2022/05/image-69.webp)
 
 We had **Replaced the Battery** and got it working

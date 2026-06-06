@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/10/27/acer-5742-acer-pew71-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/10/image-56.png
+banner: /img/uploads/2023/10/image-56.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/10/image-56.png)
+![](/img/uploads/2023/10/image-56.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/10/image-58.png)
+![](/img/uploads/2023/10/image-58.webp)
 
 **We had done the chip-level service on the device and made it active**

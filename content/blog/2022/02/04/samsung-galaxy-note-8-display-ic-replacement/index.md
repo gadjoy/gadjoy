@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/04/samsung-galaxy-note-8-display-ic-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/02/Samsung-Galaxy-Note-8-Display-IC-Replacement-Before-1.png
+banner: /img/uploads/2022/02/Samsung-Galaxy-Note-8-Display-IC-Replacement-Before-1.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/02/Samsung-Galaxy-Note-8-Display-IC-Replacement-Before-1.png)
+![](/img/uploads/2022/02/Samsung-Galaxy-Note-8-Display-IC-Replacement-Before-1.webp)
 
 Phone was given to us with logo restart condition
 
-![](/img/uploads/2022/02/Samsung-Galaxy-Note-8-After-Display-IC-Replacement-After-1-edited.jpg)
+![](/img/uploads/2022/02/Samsung-Galaxy-Note-8-After-Display-IC-Replacement-After-1-edited.webp)
 
 We had **Replaced the Display IC** and made it functioning

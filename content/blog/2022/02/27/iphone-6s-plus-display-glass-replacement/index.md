@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/02/27/iphone-6s-plus-display-glass-replacement/
 description: Before After When this phone was given to us top of the display was cracked We had replaced Display Combo got made it working
 summary: Before After When this phone was given to us top of the display was cracked We had replaced Display Combo got made it working
-banner: /img/uploads/2022/02/iPhone-6s-Plus-–-beforeDisplay-Combo-Replacement.png
+banner: /img/uploads/2022/02/iPhone-6s-Plus-–-beforeDisplay-Combo-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/02/iPhone-6s-Plus-–-beforeDisplay-Combo-Replacement.png)
+![](/img/uploads/2022/02/iPhone-6s-Plus-–-beforeDisplay-Combo-Replacement.webp)
 
 > When this phone was given to us top of the display was cracked
 
-![](/img/uploads/2022/02/iPhone-6s-Plus-–-After-Display-Glass-Replacement.png)
+![](/img/uploads/2022/02/iPhone-6s-Plus-–-After-Display-Glass-Replacement.webp)
 
 > We had replaced **Display Combo** got made it working

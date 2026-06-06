@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/iqoo-z7s-5g-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-32.png
+banner: /img/uploads/2023/09/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-32.png)
+![](/img/uploads/2023/09/image-32.webp)
 
 v**The device was given to us display glass cracked condition**
 
-![](/img/uploads/2023/09/image-33.png)
+![](/img/uploads/2023/09/image-33.webp)
 
 **We had replaced only the display glass of the device with glass finish**

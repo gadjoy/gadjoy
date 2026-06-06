@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/07/22/google-pixel-6a-display-glass/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/07/image-48.png
+banner: /img/uploads/2024/07/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/07/image-48.png)
+![](/img/uploads/2024/07/image-48.webp)
 
 **The device was received in the display glass broken condition**
 
-![](/img/uploads/2024/07/image-49.png)
+![](/img/uploads/2024/07/image-49.webp)
 
 **We replaced only the display glass of the device with glass finish**

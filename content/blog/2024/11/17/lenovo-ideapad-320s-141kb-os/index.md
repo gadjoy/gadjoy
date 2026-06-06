@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/lenovo-ideapad-320s-141kb-os/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-22.png
+banner: /img/uploads/2024/11/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-22.png)
+![](/img/uploads/2024/11/image-22.webp)
 
 **The device was given to us in very slow and disk utility was 100% filled**
 
-![](/img/uploads/2024/11/image-23.png)
+![](/img/uploads/2024/11/image-23.webp)
 
 **After windows reinstallation the disk utility was reduced to normal and slowness is cleared**

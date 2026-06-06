@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/18/hp-probook-4540s-dead-condition/
 description: After Before
 summary: After Before
-banner: /img/uploads/2023/02/image-78.png
+banner: /img/uploads/2023/02/image-78.webp
 ---
 
 ## After
 
 ## Before
 
-![](/img/uploads/2023/02/image-78.png)
+![](/img/uploads/2023/02/image-78.webp)
 
 **The device was given to us in** a **dead condition**
 
-![](/img/uploads/2023/02/image-79.png)
+![](/img/uploads/2023/02/image-79.webp)
 
 **We had done the** chip level service on the mother board and got it working

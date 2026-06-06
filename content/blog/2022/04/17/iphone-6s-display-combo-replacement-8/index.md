@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/17/iphone-6s-display-combo-replacement-8/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-62.png
+banner: /img/uploads/2022/04/image-62.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-62.png)
+![](/img/uploads/2022/04/image-62.webp)
 
 The Device was given to us fully display broken condition
 
-![](/img/uploads/2022/04/image-63.png)
+![](/img/uploads/2022/04/image-63.webp)
 
 We had Replaced the **Display Combo** and got it working

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/15/oneplus-8t-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-32.png
+banner: /img/uploads/2024/05/image-32.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-32.png)
+![](/img/uploads/2024/05/image-32.webp)
 
 **The device was received in the dead condition**
 
-![](/img/uploads/2024/05/image-33.png)
+![](/img/uploads/2024/05/image-33.webp)
 
 **After diagnosing device and servicing the device board we made the phone work again**

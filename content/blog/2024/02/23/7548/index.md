@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/23/7548/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-27.png
+banner: /img/uploads/2024/02/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-27.png)
+![](/img/uploads/2024/02/image-27.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/02/image-28.png)
+![](/img/uploads/2024/02/image-28.webp)
 
 **We have completed the chip-level servicing and successfully returned the device.**

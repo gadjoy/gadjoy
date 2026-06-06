@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/24/one-plus-nord-ce-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-48.png
+banner: /img/uploads/2024/05/image-48.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-48.png)
+![](/img/uploads/2024/05/image-48.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2024/05/image-49.png)
+![](/img/uploads/2024/05/image-49.webp)
 
 **After diagnosing the device we got that the issue was with the display. After replacing it, we make it workable**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/08/oppo-a5-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-6.png
+banner: /img/uploads/2023/11/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-6.png)
+![](/img/uploads/2023/11/image-6.webp)
 
 **The device was given to us with  Display broken condition**
 
-![](/img/uploads/2023/11/image-7.png)
+![](/img/uploads/2023/11/image-7.webp)
 
 **We Replaced Display and made it active**

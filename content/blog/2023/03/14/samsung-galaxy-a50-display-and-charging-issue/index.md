@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/14/samsung-galaxy-a50-display-and-charging-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-27.png
+banner: /img/uploads/2023/03/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-27.png)
+![](/img/uploads/2023/03/image-27.webp)
 
 **The device was given to us with display and charging issues**
 
-![](/img/uploads/2023/03/image-28.png)
+![](/img/uploads/2023/03/image-28.webp)
 
 **We did chip level service and made the device work.**

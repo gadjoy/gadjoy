@@ -12,17 +12,17 @@ aliases:
 - /blog/2025/02/18/mi-11x-display-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2025/02/image-4.png
+banner: /img/uploads/2025/02/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2025/02/image-4.png)
+![](/img/uploads/2025/02/image-4.webp)
 
 **The device was received in display problem**
 
-![](/img/uploads/2025/02/image-5.png)
+![](/img/uploads/2025/02/image-5.webp)
 
 **The device of the device is replaced to make it work as earlier**

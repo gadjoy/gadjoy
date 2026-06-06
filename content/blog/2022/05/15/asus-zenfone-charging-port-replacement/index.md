@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/15/asus-zenfone-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-41.png
+banner: /img/uploads/2022/05/image-41.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-41.png)
+![](/img/uploads/2022/05/image-41.webp)
 
 The device was given to us to replace the Charging connector
 
-![](/img/uploads/2022/05/image-42.png)
+![](/img/uploads/2022/05/image-42.webp)
 
 We had replaced the CC and made it working

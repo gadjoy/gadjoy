@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/20/redmi-go-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-176.png
+banner: /img/uploads/2023/01/image-176.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-176.png)
+![](/img/uploads/2023/01/image-176.webp)
 
 The device was given to us in locked condition
 
-![](/img/uploads/2023/01/image-177.png)
+![](/img/uploads/2023/01/image-177.webp)
 
 We had done the software services on the device and made it usable

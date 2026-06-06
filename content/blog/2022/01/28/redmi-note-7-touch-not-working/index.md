@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/28/redmi-note-7-touch-not-working/
 description: Before After When phone was given to us, Touch was not working properly We did Software Service and made it better
 summary: Before After When phone was given to us, Touch was not working properly We did Software Service and made it better
-banner: /img/uploads/2022/01/Redmi-Note-7-–-Before-Touch-Not-Working.png
+banner: /img/uploads/2022/01/Redmi-Note-7-–-Before-Touch-Not-Working.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/01/Redmi-Note-7-–-Before-Touch-Not-Working.png)
+![](/img/uploads/2022/01/Redmi-Note-7-–-Before-Touch-Not-Working.webp)
 
 > When phone was given to us, Touch was not working properly
 
-![](/img/uploads/2022/01/Redmi-Note-7-–-After-Touch-Not-Working.png)
+![](/img/uploads/2022/01/Redmi-Note-7-–-After-Touch-Not-Working.webp)
 
 > We did **Software Service** and made it better

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/10/ipad-air-2-display-combo/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-4.png
+banner: /img/uploads/2024/12/image-4.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-4.png)
+![](/img/uploads/2024/12/image-4.webp)
 
 **The device was received in dead condition and broken display**
 
-![](/img/uploads/2024/12/image-5.png)
+![](/img/uploads/2024/12/image-5.webp)
 
 **After checking the device we got that the issue was only with the display glass of the device. So replacement of the display glass is done**

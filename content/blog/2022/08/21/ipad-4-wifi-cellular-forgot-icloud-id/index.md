@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/21/ipad-4-wifi-cellular-forgot-icloud-id/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/before-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.png
+banner: /img/uploads/2022/08/before-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/before-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.png)
+![](/img/uploads/2022/08/before-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.webp)
 
 iPad 4 WIFI + Cellular – Forgot iCloud ID
 
-![](/img/uploads/2022/08/after-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.png)
+![](/img/uploads/2022/08/after-iPad-4-WIFI-Cellular-Forgot-iCloud-ID.webp)
 
 iPad 4 WIFI + Cellular – Forgot iCloud ID

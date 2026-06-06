@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/19/hp-14s-cr3003tu-battery/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-34.png
+banner: /img/uploads/2024/01/image-34.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-34.png)
+![](/img/uploads/2024/01/image-34.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2024/01/image-35.png)
+![](/img/uploads/2024/01/image-35.webp)
 
 **We diagnosed the issue device and got that it has a battery issue.  Replaced the battery of the device and tested the battery cycles**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/oppo-a32-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-26.png
+banner: /img/uploads/2023/08/image-26.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-26.png)
+![](/img/uploads/2023/08/image-26.webp)
 
 **The device was given to us with forgot password**
 
-![](/img/uploads/2023/08/image-27.png)
+![](/img/uploads/2023/08/image-27.webp)
 
 **The device was serviced with the latest software and brought to its best condition.**

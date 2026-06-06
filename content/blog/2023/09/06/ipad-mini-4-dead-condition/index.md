@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/09/06/ipad-mini-4-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/09/image-14.png
+banner: /img/uploads/2023/09/image-14.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/09/image-14.png)
+![](/img/uploads/2023/09/image-14.webp)
 
 **The device was given to us with dead condition**
 
-![](/img/uploads/2023/09/image-15.png)
+![](/img/uploads/2023/09/image-15.webp)
 
 **We carried out a chip level service and improved the device performance**

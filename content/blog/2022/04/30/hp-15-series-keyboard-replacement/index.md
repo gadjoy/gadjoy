@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/30/hp-15-series-keyboard-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-137.png
+banner: /img/uploads/2022/04/image-137.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-137.png)
+![](/img/uploads/2022/04/image-137.webp)
 
 The device was given to replace the keyboard
 
-![](/img/uploads/2022/04/image-138.png)
+![](/img/uploads/2022/04/image-138.webp)
 
 We had replaced the keyboard and made it workable

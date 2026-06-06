@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/28/iphone-6s-battery-replacement-4/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-67.png
+banner: /img/uploads/2022/05/image-67.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-67.png)
+![](/img/uploads/2022/05/image-67.webp)
 
 The iPhone was given to us in ‘SERVICE’ condition
 
-![](/img/uploads/2022/05/image-68.png)
+![](/img/uploads/2022/05/image-68.webp)
 
 We had **Replaced the Battery** of the device and it had good charging and discharging capacity

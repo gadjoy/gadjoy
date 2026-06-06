@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/12/10/realme-9-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/12/image-6.png
+banner: /img/uploads/2024/12/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/12/image-6.png)
+![](/img/uploads/2024/12/image-6.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/12/image-7.png)
+![](/img/uploads/2024/12/image-7.webp)
 
 **After the service on the mother board, we got the device functioning again**

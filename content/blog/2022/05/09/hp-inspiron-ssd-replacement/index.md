@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/09/hp-inspiron-ssd-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-27.png
+banner: /img/uploads/2022/05/image-27.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-27.png)
+![](/img/uploads/2022/05/image-27.webp)
 
 The device was given to us  with HDD ERROR
 
-![](/img/uploads/2022/05/image-28.png)
+![](/img/uploads/2022/05/image-28.webp)
 
 We had replaced the **HDD to SSD** and made it better

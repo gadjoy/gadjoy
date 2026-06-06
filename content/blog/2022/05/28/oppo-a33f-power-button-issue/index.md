@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/28/oppo-a33f-power-button-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-71.png
+banner: /img/uploads/2022/05/image-71.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/05/image-71.png)
+![](/img/uploads/2022/05/image-71.webp)
 
 The device was given to us dead and power button issue
 
-![](/img/uploads/2022/05/image-72.png)
+![](/img/uploads/2022/05/image-72.webp)
 
 We had **Replaced the Power Button strip** and made it usable

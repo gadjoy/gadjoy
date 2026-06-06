@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/03/samsung-galaxy-m33-booting-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image.png
+banner: /img/uploads/2023/05/image.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image.png)
+![](/img/uploads/2023/05/image.webp)
 
 **The device was given to us in not booting condition**
 
-![](/img/uploads/2023/05/image-1.png)
+![](/img/uploads/2023/05/image-1.webp)
 
 **We had done motherboard chip level services and made the device work.**

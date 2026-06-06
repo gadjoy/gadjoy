@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/macbook-a1502-charging-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-18.png
+banner: /img/uploads/2023/08/image-18.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-18.png)
+![](/img/uploads/2023/08/image-18.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/08/image-19.png)
+![](/img/uploads/2023/08/image-19.webp)
 
 **We replaced display and made the device work well**

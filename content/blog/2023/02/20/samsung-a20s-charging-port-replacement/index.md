@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/20/samsung-a20s-charging-port-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-90.png
+banner: /img/uploads/2023/02/image-90.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-90.png)
+![](/img/uploads/2023/02/image-90.webp)
 
 The device was given to us in a dead condition
 
-![](/img/uploads/2023/02/image-91.png)
+![](/img/uploads/2023/02/image-91.webp)
 
 We got that the charging connector issue and replaced it and got the device working well

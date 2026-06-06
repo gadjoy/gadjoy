@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/03/hp-pavilion-notebook-pc-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-4.png
+banner: /img/uploads/2022/04/image-4.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-4.png)
+![](/img/uploads/2022/04/image-4.webp)
 
 The laptop was given to us with OS corrupted
 
-![](/img/uploads/2022/04/image-5.png)
+![](/img/uploads/2022/04/image-5.webp)
 
 We had re-installed the OS and made is workable

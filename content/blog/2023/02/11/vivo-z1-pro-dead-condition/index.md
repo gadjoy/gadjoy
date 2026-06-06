@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/02/11/vivo-z1-pro-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/02/image-27.png
+banner: /img/uploads/2023/02/image-27.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/02/image-27.png)
+![](/img/uploads/2023/02/image-27.webp)
 
 The device was given to us with dead condition
 
-![](/img/uploads/2023/02/image-28.png)
+![](/img/uploads/2023/02/image-28.webp)
 
 We had done the Chip level service got it active

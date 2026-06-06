@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/05/03/code-find-the-numbers-using-hints/
 description: Problem Statement -Using math definitions find the numbers Scope of work – Build a program to find the number using the given hints Challenges -Multiplying the ‘str’ and ‘int’ Execution Strategy •Before writing the python script,  pseudocode is written in a book and practiced •Value Added -A program that will show the step by step […]
 summary: Problem Statement -Using math definitions find the numbers Scope of work – Build a program to find the number using the given hints Challenges -Multiplying the ‘str’ and ‘int’ Execution Strategy •Before writing the python script,  pseudocode is written in a book and practiced •Value Added -A program that will show the step by step […]
-banner: /img/uploads/2022/05/image-5.png
+banner: /img/uploads/2022/05/image-5.webp
 ---
 
-![](/img/uploads/2022/05/image-5.png)
+![](/img/uploads/2022/05/image-5.webp)
 
 **Problem Statement** -Using math definitions find the numbers
 
@@ -26,4 +26,4 @@ banner: /img/uploads/2022/05/image-5.png
 
 **Execution Strategy** •Before writing the python script,  pseudocode is written in a book and practiced •**Value Added** -A program that will show the step by step process to find the number and also will give the answer
 
-![](/img/uploads/2022/05/image-6.png)
+![](/img/uploads/2022/05/image-6.webp)

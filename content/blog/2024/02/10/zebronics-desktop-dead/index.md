@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/02/10/zebronics-desktop-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/02/image-11.png
+banner: /img/uploads/2024/02/image-11.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/02/image-11.png)
+![](/img/uploads/2024/02/image-11.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/02/image-12.png)
+![](/img/uploads/2024/02/image-12.webp)
 
 **We checked and got that the it was having issue with the SMPS power supply, so replaced the SMPS and got it working again**

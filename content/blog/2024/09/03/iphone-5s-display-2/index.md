@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/09/03/iphone-5s-display-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/09/image-9.png
+banner: /img/uploads/2024/09/image-9.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/09/image-9.png)
+![](/img/uploads/2024/09/image-9.webp)
 
 **The device was received in dead and display broken condition**
 
-![](/img/uploads/2024/09/image-10.png)
+![](/img/uploads/2024/09/image-10.webp)
 
 **After the checking the device we got that the issue was with the device display. So after the display replacement, we made the device active again to use**

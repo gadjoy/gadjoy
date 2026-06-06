@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/01/14/iphone-11-pro-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/01/image-2.png
+banner: /img/uploads/2024/01/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/01/image-2.png)
+![](/img/uploads/2024/01/image-2.webp)
 
 **The device was given to us in display damaged condition**
 
-![](/img/uploads/2024/01/image-3.png)
+![](/img/uploads/2024/01/image-3.webp)
 
 **We replaced the display combo of the device and got it fixed**

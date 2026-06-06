@@ -12,13 +12,13 @@ aliases:
 - /blog/2022/02/04/nokia-3310-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-Before-577x1024.jpg
+banner: /img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-Before-577x1024.webp
 ---
 
 #### Before
 
 ## After
 
-![](/img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-Before-577x1024.jpg)
+![](/img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-Before-577x1024.webp)
 
-![](/img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-After-577x1024.jpg)
+![](/img/uploads/2022/02/Nokia-Hand-set-After-Battery-Replacement-After-577x1024.webp)

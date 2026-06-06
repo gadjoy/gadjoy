@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/08/13/hp-pavilion-15-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/08/image-60.png
+banner: /img/uploads/2023/08/image-60.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/08/image-60.png)
+![](/img/uploads/2023/08/image-60.webp)
 
 **The device was given to us in  dead Condition**
 
-![](/img/uploads/2023/08/image-61.png)
+![](/img/uploads/2023/08/image-61.webp)
 
 **We did the chip-level service and restored the device to good working condition.**

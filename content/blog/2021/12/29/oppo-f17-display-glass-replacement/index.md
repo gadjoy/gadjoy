@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/oppo-f17-display-glass-replacement/
 description: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and made it functioning
 summary: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and made it functioning
-banner: /img/uploads/2021/12/Oppo-F17-Before-Display-Glass-Replacement.jpg
+banner: /img/uploads/2021/12/Oppo-F17-Before-Display-Glass-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Oppo-F17-Before-Display-Glass-Replacement.jpg)
+![](/img/uploads/2021/12/Oppo-F17-Before-Display-Glass-Replacement.webp)
 
 > This phone was given to us with fully cracked condition
 
-![](/img/uploads/2021/12/Oppo-F17-After-Display-Glass-Replacement-1.jpg)
+![](/img/uploads/2021/12/Oppo-F17-After-Display-Glass-Replacement-1.webp)
 
 > We replaced ONLY **Display Glass** and made it functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/29/samsung-j7-prime-display-glass-replacement/
 description: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and made it functioning
 summary: Before After This phone was given to us with fully cracked condition We replaced ONLY Display Glass and made it functioning
-banner: /img/uploads/2021/12/Samsung-J7-Prime-Before-Display-Glass-Replacement.jpg
+banner: /img/uploads/2021/12/Samsung-J7-Prime-Before-Display-Glass-Replacement.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Samsung-J7-Prime-Before-Display-Glass-Replacement.jpg)
+![](/img/uploads/2021/12/Samsung-J7-Prime-Before-Display-Glass-Replacement.webp)
 
 > This phone was given to us with fully cracked condition
 
-![](/img/uploads/2021/12/Samsung-J7-Prime-After-Display-Glass-Replacement.jpg)
+![](/img/uploads/2021/12/Samsung-J7-Prime-After-Display-Glass-Replacement.webp)
 
 > We replaced ONLY **Display Glass** and made it functioning

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/08/27/oppo-f17-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/08/image-58.png
+banner: /img/uploads/2022/08/image-58.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/08/image-58.png)
+![](/img/uploads/2022/08/image-58.webp)
 
 OPPO F17 – Display Combo Replacement
 
-![](/img/uploads/2022/08/image-60.png)
+![](/img/uploads/2022/08/image-60.webp)
 
 OPPO F17 – Display Combo Replacement

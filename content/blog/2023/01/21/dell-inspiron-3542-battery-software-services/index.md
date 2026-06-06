@@ -13,17 +13,17 @@ aliases:
 - /blog/2023/01/21/dell-inspiron-3542-battery-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-190.png
+banner: /img/uploads/2023/01/image-190.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-190.png)
+![](/img/uploads/2023/01/image-190.webp)
 
 The device was given to us an error while booting the device and no battery back up
 
-![](/img/uploads/2023/01/image-191.png)
+![](/img/uploads/2023/01/image-191.webp)
 
 We replaced the battery of the device and also did the software services

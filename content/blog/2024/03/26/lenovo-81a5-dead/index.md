@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/26/lenovo-81a5-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-44.png
+banner: /img/uploads/2024/03/image-44.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-44.png)
+![](/img/uploads/2024/03/image-44.webp)
 
 **The device was given to us dead condition**
 
-![](/img/uploads/2024/03/image-45.png)
+![](/img/uploads/2024/03/image-45.webp)
 
 **By doing the chip-level service on the device we got the device in working state**

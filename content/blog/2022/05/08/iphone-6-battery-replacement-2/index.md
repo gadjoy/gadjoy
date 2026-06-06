@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/08/iphone-6-battery-replacement-2/
 description: Before After When the phone was given to us battery health was in service We had replaced the Battey and checked for battery charge and discharge
 summary: Before After When the phone was given to us battery health was in service We had replaced the Battey and checked for battery charge and discharge
-banner: /img/uploads/2022/05/iPhone-6-–-before-Battery-Replacement.png
+banner: /img/uploads/2022/05/iPhone-6-–-before-Battery-Replacement.webp
 ---
 
 #### **Before**
 
 #### **After**
 
-![](/img/uploads/2022/05/iPhone-6-–-before-Battery-Replacement.png)
+![](/img/uploads/2022/05/iPhone-6-–-before-Battery-Replacement.webp)
 
 > When the phone was given to us battery health was in service
 
-![](/img/uploads/2022/05/iPhone-6-–-after-Battery-Replacement.png)
+![](/img/uploads/2022/05/iPhone-6-–-after-Battery-Replacement.webp)
 
 > We had replaced the **Battey** and checked for battery charge and discharge

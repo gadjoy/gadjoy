@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/28/oil-funnel/
 description: Problem Statement -Fluid Funnel Scope of work – Funnel guide to pore fluid Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -It is used to channel liquid or fine-grained substances into containers with a small opening –
 summary: Problem Statement -Fluid Funnel Scope of work – Funnel guide to pore fluid Challenges –    Nil Execution Strategy -3D – Printed -PLA – Filament Value Added -It is used to channel liquid or fine-grained substances into containers with a small opening –
-banner: /img/uploads/2021/12/Oil-Funnel.jpg
+banner: /img/uploads/2021/12/Oil-Funnel.webp
 ---
 
-![](/img/uploads/2021/12/Oil-Funnel.jpg)
+![](/img/uploads/2021/12/Oil-Funnel.webp)
 
 **Problem Statement** -Fluid Funnel
 

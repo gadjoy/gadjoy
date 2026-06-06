@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/11/15/redmi-note-11-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/11/image-22.png
+banner: /img/uploads/2023/11/image-22.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/11/image-22.png)
+![](/img/uploads/2023/11/image-22.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/11/image-23.png)
+![](/img/uploads/2023/11/image-23.webp)
 
 **We had done the chip level service on the device and made it working**

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/04/12/redmi-9-prime-loud-speaker-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/04/image-54.png
+banner: /img/uploads/2022/04/image-54.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/04/image-54.png)
+![](/img/uploads/2022/04/image-54.webp)
 
 The device was given to us with Loudspeaker was not working
 
-![](/img/uploads/2022/04/image-55.png)
+![](/img/uploads/2022/04/image-55.webp)
 
 We had replaced the loudspeaker and tested properly

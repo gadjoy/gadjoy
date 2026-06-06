@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/11/macbook-air-battery-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-12.png
+banner: /img/uploads/2023/01/image-12.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-12.png)
+![](/img/uploads/2023/01/image-12.webp)
 
 The device was given to us with the battery percentage was showing ‘service’
 
-![](/img/uploads/2023/01/image-13.png)
+![](/img/uploads/2023/01/image-13.webp)
 
 We replaced the battery of the device and checked the charging and discharging cycles of the battery

@@ -11,10 +11,10 @@ aliases:
 - /blog/2022/05/08/code-to-represent-a-pair-of-straight-lines/
 description: Problem Statement -Condition to Represent a pair of straight lines Scope of work – Build a program to represent a pair of straight lines Challenges -Use ‘if’ and ‘else’ Execution Strategy •Before writing the python script,  pseudocode is written in Excel Value Added -A simple code that will represent if the entered lines will form […]
 summary: Problem Statement -Condition to Represent a pair of straight lines Scope of work – Build a program to represent a pair of straight lines Challenges -Use ‘if’ and ‘else’ Execution Strategy •Before writing the python script,  pseudocode is written in Excel Value Added -A simple code that will represent if the entered lines will form […]
-banner: /img/uploads/2022/05/image-24.png
+banner: /img/uploads/2022/05/image-24.webp
 ---
 
-![](/img/uploads/2022/05/image-24.png)
+![](/img/uploads/2022/05/image-24.webp)
 
 **Problem Statement** -Condition to Represent a pair of straight lines
 
@@ -28,4 +28,4 @@ banner: /img/uploads/2022/05/image-24.png
 
 **Value Added** -A simple code that will represent if the entered lines will form a straight line or not
 
-![](/img/uploads/2022/05/image-25.png)
+![](/img/uploads/2022/05/image-25.webp)

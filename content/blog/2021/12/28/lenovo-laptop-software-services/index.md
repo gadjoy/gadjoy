@@ -12,17 +12,17 @@ aliases:
 - /blog/2021/12/28/lenovo-laptop-software-services/
 description: Before After When laptop was given to us windows was corrupted. We reinstalled Windows and got it working
 summary: Before After When laptop was given to us windows was corrupted. We reinstalled Windows and got it working
-banner: /img/uploads/2021/12/Lenovo-Laptop-Before-Software-Services.jpg
+banner: /img/uploads/2021/12/Lenovo-Laptop-Before-Software-Services.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2021/12/Lenovo-Laptop-Before-Software-Services.jpg)
+![](/img/uploads/2021/12/Lenovo-Laptop-Before-Software-Services.webp)
 
 > When laptop was given to us windows was corrupted.
 
-![](/img/uploads/2021/12/Lenovo-Laptop-After-Software-Services-1.jpg)
+![](/img/uploads/2021/12/Lenovo-Laptop-After-Software-Services-1.webp)
 
 > We reinstalled **Windows** and got it working

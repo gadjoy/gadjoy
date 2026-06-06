@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/12/acer-aspire-3-hardware-service-ssd-upgrade/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-30.png
+banner: /img/uploads/2023/04/image-30.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-30.png)
+![](/img/uploads/2023/04/image-30.webp)
 
 **The device was given to us for SSD upgrade**
 
-![](/img/uploads/2023/04/image-31.png)
+![](/img/uploads/2023/04/image-31.webp)
 
 **SSD Replacement done**

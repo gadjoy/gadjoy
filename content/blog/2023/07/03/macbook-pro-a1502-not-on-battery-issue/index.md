@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/03/macbook-pro-a1502-not-on-battery-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-16.png
+banner: /img/uploads/2023/07/image-16.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-16.png)
+![](/img/uploads/2023/07/image-16.webp)
 
 **The device was given to us with battery issue**
 
-![](/img/uploads/2023/07/image-17.png)
+![](/img/uploads/2023/07/image-17.webp)
 
 **We replaced battery and made the device work.**

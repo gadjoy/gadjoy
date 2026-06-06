@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/03/18/iphone-7-plus-not-charging/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/03/image-35.png
+banner: /img/uploads/2024/03/image-35.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/03/image-35.png)
+![](/img/uploads/2024/03/image-35.webp)
 
 **The device was given to us in not charging condition**
 
-![](/img/uploads/2024/03/image-37.png)
+![](/img/uploads/2024/03/image-37.webp)
 
 **The issue was identified as stemming from the charging strip of the device. Upon replacing the strip, the device regained functionality.**

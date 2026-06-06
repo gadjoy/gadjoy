@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/06/28/samsung-galaxy-m31-display-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/06/image-39.png
+banner: /img/uploads/2024/06/image-39.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/06/image-39.png)
+![](/img/uploads/2024/06/image-39.webp)
 
 **The device was received in no display condition**
 
-![](/img/uploads/2024/06/image-40.png)
+![](/img/uploads/2024/06/image-40.webp)
 
 **After checking the device, got that the issue was with the display, so replacing display resolved the issue**

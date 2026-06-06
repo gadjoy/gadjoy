@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/honor-8-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-146.png
+banner: /img/uploads/2023/01/image-146.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-146.png)
+![](/img/uploads/2023/01/image-146.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/01/image-147.png)
+![](/img/uploads/2023/01/image-147.webp)
 
 We had done the chip-level service on the device and made it active

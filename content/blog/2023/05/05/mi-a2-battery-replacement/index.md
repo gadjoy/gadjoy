@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/05/05/mi-a2-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/05/image-10.png
+banner: /img/uploads/2023/05/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/05/image-10.png)
+![](/img/uploads/2023/05/image-10.webp)
 
 **The device given to us in battery bulged condition**
 
-![](/img/uploads/2023/05/image-11.png)
+![](/img/uploads/2023/05/image-11.webp)
 
 **We had replaced the battery of the device made it better**

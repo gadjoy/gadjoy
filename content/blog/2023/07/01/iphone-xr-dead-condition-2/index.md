@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/01/iphone-xr-dead-condition-2/
 description: Before Before
 summary: Before Before
-banner: /img/uploads/2023/07/image-6.png
+banner: /img/uploads/2023/07/image-6.webp
 ---
 
 ## Before
 
 ## Before
 
-![](/img/uploads/2023/07/image-6.png)
+![](/img/uploads/2023/07/image-6.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/07/image-7.png)
+![](/img/uploads/2023/07/image-7.webp)
 
 **We had serviced the charging port of the device and got it switched on**

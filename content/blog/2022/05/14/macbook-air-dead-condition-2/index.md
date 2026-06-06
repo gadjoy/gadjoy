@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/05/14/macbook-air-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/05/image-39.png
+banner: /img/uploads/2022/05/image-39.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/05/image-39.png)
+![](/img/uploads/2022/05/image-39.webp)
 
 The devices was given to us in dead condition
 
-![](/img/uploads/2022/05/image-40.png)
+![](/img/uploads/2022/05/image-40.webp)
 
 We had done the **motherboard chip level service** and made it work

@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/03/hp-laptop-ubuntu-installation/
 description: Before After Laptop was given to us to install Ubuntu on it We had installed the Latest Version of the Ubuntu and made it usable
 summary: Before After Laptop was given to us to install Ubuntu on it We had installed the Latest Version of the Ubuntu and made it usable
-banner: /img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-Before.jpg
+banner: /img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-Before.jpg)
+![](/img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-Before.webp)
 
 Laptop was given to us to install Ubuntu on it
 
-![](/img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-After.jpg)
+![](/img/uploads/2022/01/Hp-Laptop-Ubuntu-Installation-After.webp)
 
 We had installed the **Latest Version of the Ubuntu** and made it usable

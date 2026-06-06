@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/20/dell-inspiron-14-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-174.png
+banner: /img/uploads/2023/01/image-174.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-174.png)
+![](/img/uploads/2023/01/image-174.webp)
 
 The device was given to us in sow condition
 
-![](/img/uploads/2023/01/image-175.png)
+![](/img/uploads/2023/01/image-175.webp)
 
 We had done the software services and made the device active

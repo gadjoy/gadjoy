@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/samsung-galaxy-m51-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-158.png
+banner: /img/uploads/2023/01/image-158.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-158.png)
+![](/img/uploads/2023/01/image-158.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2023/01/image-159.png)
+![](/img/uploads/2023/01/image-159.webp)
 
 We had done the service on the chip level and made the device functioning

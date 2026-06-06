@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/30/lenovo-ideapad-gaming-3-no-display/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-84.png
+banner: /img/uploads/2023/06/image-84.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-84.png)
+![](/img/uploads/2023/06/image-84.webp)
 
 **The device was given to us with display issue**
 
-![](/img/uploads/2023/06/image-85.png)
+![](/img/uploads/2023/06/image-85.webp)
 
 **We replaced display  and made the device work.**

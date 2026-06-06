@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/29/hp-pavilion15cs1000tx-slow-keyboard-issue/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-72.png
+banner: /img/uploads/2023/03/image-72.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-72.png)
+![](/img/uploads/2023/03/image-72.webp)
 
 **The device was given to us with slow condition and keyboard issue**
 
-![](/img/uploads/2023/03/image-73.png)
+![](/img/uploads/2023/03/image-73.webp)
 
 **We had done the software services and replaced keyboard made the device work.**

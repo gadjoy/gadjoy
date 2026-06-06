@@ -12,11 +12,11 @@ aliases:
 - /blog/2021/12/08/redmi-5-cc-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2021/12/Redmi-5-Before-CC-Replacement-1-577x1024.jpg
+banner: /img/uploads/2021/12/Redmi-5-Before-CC-Replacement-1-577x1024.webp
 ---
 
-![](/img/uploads/2021/12/Redmi-5-Before-CC-Replacement-1-577x1024.jpg)
+![](/img/uploads/2021/12/Redmi-5-Before-CC-Replacement-1-577x1024.webp)
 > Before
 
-![](/img/uploads/2021/12/Redmi-5-After-CC-Replacement-1-577x1024.jpg)
+![](/img/uploads/2021/12/Redmi-5-After-CC-Replacement-1-577x1024.webp)
 > After

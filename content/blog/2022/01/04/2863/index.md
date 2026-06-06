@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/01/04/2863/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-Before.jpg
+banner: /img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-Before.webp
 ---
 
 #### Before
 
 #### After
 
-![](/img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-Before.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-Before.webp)
 
 The tablet was given to us with forgotten password
 
-![](/img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-After.jpg)
+![](/img/uploads/2022/01/Samsung-Galaxy-Tab-A-Software-Services-After.webp)
 
 We had **Unlocked the Device with Factory Rese**t and made it usable

@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/05/04/alcatel-tablet-dead/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/05/image-10.png
+banner: /img/uploads/2024/05/image-10.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/05/image-10.png)
+![](/img/uploads/2024/05/image-10.webp)
 
 **The device was received in dead condition**
 
-![](/img/uploads/2024/05/image-11.png)
+![](/img/uploads/2024/05/image-11.webp)
 
 **After doing the service on the board got the device working again**

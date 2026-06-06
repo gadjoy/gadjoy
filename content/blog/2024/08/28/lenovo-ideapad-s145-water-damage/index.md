@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/08/28/lenovo-ideapad-s145-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/08/image-13.png
+banner: /img/uploads/2024/08/image-13.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/08/image-13.png)
+![](/img/uploads/2024/08/image-13.webp)
 
 **The device was received in dead and with the liquid damage**
 
-![](/img/uploads/2024/08/image-14.png)
+![](/img/uploads/2024/08/image-14.webp)
 
 **The has been gone through the chip level service to be active and working as earlier**

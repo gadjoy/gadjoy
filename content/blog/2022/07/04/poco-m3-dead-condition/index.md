@@ -12,17 +12,17 @@ aliases:
 - /blog/2022/07/04/poco-m3-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2022/07/image-6.png
+banner: /img/uploads/2022/07/image-6.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2022/07/image-6.png)
+![](/img/uploads/2022/07/image-6.webp)
 
 The device was given to us in dead condition
 
-![](/img/uploads/2022/07/image-7.png)
+![](/img/uploads/2022/07/image-7.webp)
 
 We had done service on the motherboard and got it working

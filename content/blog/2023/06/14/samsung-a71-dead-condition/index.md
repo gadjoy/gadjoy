@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/06/14/samsung-a71-dead-condition/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/06/image-42.png
+banner: /img/uploads/2023/06/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/06/image-42.png)
+![](/img/uploads/2023/06/image-42.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/06/image-43.png)
+![](/img/uploads/2023/06/image-43.webp)
 
 **We did chip level services and made the device work.**

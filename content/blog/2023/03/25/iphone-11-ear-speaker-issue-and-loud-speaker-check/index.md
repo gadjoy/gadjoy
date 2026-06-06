@@ -12,14 +12,14 @@ aliases:
 - /blog/2023/03/25/iphone-11-ear-speaker-issue-and-loud-speaker-check/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-65.png
+banner: /img/uploads/2023/03/image-65.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-65.png)
+![](/img/uploads/2023/03/image-65.webp)
 
 **The device was given to us with ear speaker issue**
 

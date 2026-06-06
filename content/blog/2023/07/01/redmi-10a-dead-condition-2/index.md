@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/07/01/redmi-10a-dead-condition-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/07/image-2.png
+banner: /img/uploads/2023/07/image-2.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/07/image-2.png)
+![](/img/uploads/2023/07/image-2.webp)
 
 **The device was given to us in dead condition**
 
-![](/img/uploads/2023/07/image-3.png)
+![](/img/uploads/2023/07/image-3.webp)
 
 **We had done the Mother Board Chip Level services and also changed the display combo and got ot working.**

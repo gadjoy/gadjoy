@@ -11,10 +11,10 @@ aliases:
 - /blog/2021/12/17/3d-print-bird-feeder/
 description: Problem Statement -Bird Feeder Sow -3D Printed -PLA Filament Challenges – Build bird feeder Value Added -Built in 3D print -We can use this product in our garden or in a tree to feed the birds –
 summary: Problem Statement -Bird Feeder Sow -3D Printed -PLA Filament Challenges – Build bird feeder Value Added -Built in 3D print -We can use this product in our garden or in a tree to feed the birds –
-banner: /img/uploads/2021/12/Bird-Feeder.png
+banner: /img/uploads/2021/12/Bird-Feeder.webp
 ---
 
-![](/img/uploads/2021/12/Bird-Feeder.png)
+![](/img/uploads/2021/12/Bird-Feeder.webp)
 
 **Problem Statement** -Bird Feeder
 

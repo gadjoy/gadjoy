@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/17/dell-inspiron-p75f-software-services/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-148.png
+banner: /img/uploads/2023/01/image-148.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-148.png)
+![](/img/uploads/2023/01/image-148.webp)
 
 The device was given to us in a bootable device not found condition
 
-![](/img/uploads/2023/01/image-149.png)
+![](/img/uploads/2023/01/image-149.webp)
 
 We had done the software services and made it workable

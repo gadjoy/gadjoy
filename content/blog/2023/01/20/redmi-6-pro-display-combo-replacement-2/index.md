@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/20/redmi-6-pro-display-combo-replacement-2/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-178.png
+banner: /img/uploads/2023/01/image-178.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-178.png)
+![](/img/uploads/2023/01/image-178.webp)
 
 The device was given to us in the display broken condition
 
-![](/img/uploads/2023/01/image-179.png)
+![](/img/uploads/2023/01/image-179.webp)
 
 We had replaced the display combo of the device and made it working

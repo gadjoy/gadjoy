@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/30/5710/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-303.png
+banner: /img/uploads/2023/01/image-303.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-303.png)
+![](/img/uploads/2023/01/image-303.webp)
 
 The device was given to us with hinges issue
 
-![](/img/uploads/2023/01/image-304.png)
+![](/img/uploads/2023/01/image-304.webp)
 
 We had done the hinges fabrication and fixed the hinge issue

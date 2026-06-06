@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/29/surface-pro-4-software-service/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-70.png
+banner: /img/uploads/2023/03/image-70.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-70.png)
+![](/img/uploads/2023/03/image-70.webp)
 
 **The device was given to us with software issue**
 
-![](/img/uploads/2023/03/image-71.png)
+![](/img/uploads/2023/03/image-71.webp)
 
 **We did the software services and made the device work.**

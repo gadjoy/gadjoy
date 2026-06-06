@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/01/14/samsung-galaxy-f41-logo-stuck/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/01/image-42.png
+banner: /img/uploads/2023/01/image-42.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/01/image-42.png)
+![](/img/uploads/2023/01/image-42.webp)
 
 The device was given to us in logo stuck condition
 
-![](/img/uploads/2023/01/image-43.png)
+![](/img/uploads/2023/01/image-43.webp)
 
 We had done the software service on the device and made it working

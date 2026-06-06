@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/04/23/one-plus-7-dead-and-water-damage/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/04/image-51.png
+banner: /img/uploads/2023/04/image-51.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/04/image-51.png)
+![](/img/uploads/2023/04/image-51.webp)
 
 **The device was given in dead and water damage condition**
 
-![](/img/uploads/2023/04/image-52.png)
+![](/img/uploads/2023/04/image-52.webp)
 
 **We did the software services and replaced back panel.**

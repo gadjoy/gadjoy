@@ -12,17 +12,17 @@ aliases:
 - /blog/2023/03/19/dell-g3-battery-replacement/
 description: Before After
 summary: Before After
-banner: /img/uploads/2023/03/image-40.png
+banner: /img/uploads/2023/03/image-40.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2023/03/image-40.png)
+![](/img/uploads/2023/03/image-40.webp)
 
 **The device was given to us with the battery issue**
 
-![](/img/uploads/2023/03/image-41.png)
+![](/img/uploads/2023/03/image-41.webp)
 
 **We replaced the battery and made the device charge well.**

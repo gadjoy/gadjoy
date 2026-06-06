@@ -12,17 +12,17 @@ aliases:
 - /blog/2024/11/17/samsung-galaxy-m12-cc/
 description: Before After
 summary: Before After
-banner: /img/uploads/2024/11/image-38.png
+banner: /img/uploads/2024/11/image-38.webp
 ---
 
 ## Before
 
 ## After
 
-![](/img/uploads/2024/11/image-38.png)
+![](/img/uploads/2024/11/image-38.webp)
 
 **The device was given to us in not charging condition**
 
-![](/img/uploads/2024/11/image-39.png)
+![](/img/uploads/2024/11/image-39.webp)
 
 **After the replacement of the charging connector of the device we made it charging again**
