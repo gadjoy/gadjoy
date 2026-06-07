@@ -72,7 +72,7 @@ params:
   # Contact form: WhatsApp works with no setup. For the "Email instead" path, paste a free
   # Web3Forms access key (web3forms.com → enter vivek@gadjoy.in → copy key). Public by design;
   # leave empty to fall back to a mailto: link.
-  web3forms_key: ""
+  web3forms_key: "440fd317-c78c-43e7-9aa2-b8a7b50279db"
   
   # Contact details
   email: "vivek@gadjoy.in"
