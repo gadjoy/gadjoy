@@ -102,6 +102,12 @@ p { margin: 0 0 1.1em; }
 #top .col-xs-5 { width: 75%; }   /* theme gives the text only 5/12 cols → it wraps */
 #top .col-xs-7 { width: 25%; }
 #top .col-xs-5 p { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin: 0; }
+/* Mobile: the left text-column already shows phone/WhatsApp/email icons, so hide
+   the right-side topbar menu to avoid duplicate Phone/Email icons. */
+@media (max-width: 767px) {
+  #top .col-xs-7 { display: none; }
+  #top .col-xs-5 { width: 100%; }
+}
 
 /* ---------- Navbar (white) ---------- */
 .navbar-default { background: #fff !important; border: none; box-shadow: 0 2px 14px rgba(0,0,0,.06); }
@@ -416,7 +422,7 @@ p { margin: 0 0 1.1em; }
   box-shadow: 0 10px 24px rgba(0,0,0,.22); transition: transform .15s ease; }
 .gadjoy-fab a:hover { transform: scale(1.08); }
 .gadjoy-fab .wa { background: #25D366; color: #fff; }            /* WhatsApp green kept for recognition */
-.gadjoy-fab .call { background: #000; color: #fff; }
+.gadjoy-fab .call { background: #000; color: #fff; border: 2px solid #fff; }  /* white ring → visible on dark sections too */
 
 /* ---------- Motion ---------- */
 [data-animate] { will-change: transform, opacity; }
