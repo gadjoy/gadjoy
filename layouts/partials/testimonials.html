@@ -8,7 +8,10 @@
 {{ $key := os.Getenv "GOOGLE_PLACES_API_KEY" }}
 {{ $pid := .Site.Params.googlePlaceId }}
 {{ $reviewsUrl := default "https://www.google.com/maps/search/?api=1&query=Gadjoy+Repair+Services" .Site.Params.googleReviewsUrl }}
-{{ $repairs := len (where .Site.RegularPages "Section" "blog") }}
+{{/* $documented = case studies published here; $total = lifetime device count. See hugo.yaml. */}}
+{{ $documented := len (where .Site.RegularPages "Section" "blog") }}
+{{ $total := .Site.Params.repairsTotal }}
+{{ $since := .Site.Params.repairsSince }}
 
 {{ $result := false }}
 {{ if and $key $pid }}
@@ -65,8 +68,8 @@
         {{/* ---- Fallback proof block (no API key / Place ID / reviews) ---- */}}
         <div class="row gadjoy-proof">
           <div class="col-md-4 col-sm-4">
-            <div class="proof-item"><div class="pnum">{{ $repairs }}+</div>
-              <div class="plabel">Repairs documented &amp; counting</div></div>
+            <div class="proof-item"><div class="pnum">{{ lang.FormatNumberCustom 0 $total }}+</div>
+              <div class="plabel">Devices repaired since {{ $since }} · {{ lang.FormatNumberCustom 0 $documented }} documented here</div></div>
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="proof-item"><div class="pnum">90-day</div>
