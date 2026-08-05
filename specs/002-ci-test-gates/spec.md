@@ -1,5 +1,7 @@
 ---
 description: "Catch site regressions before deploy: CI-enforced gates, build-output assertions, post-deploy smoke"
+status: in-progress
+prs: [14]
 ---
 
 # Feature Specification: CI-Enforced Test Gates for the Live Site
@@ -63,12 +65,14 @@ warns on a patch gap**, instead of surfacing as a prod-only rendering difference
 
 ## Success Criteria
 
-- **SC-001** `pytest` is green on `main` (it was not: 2 failed / 23 passed).
-- **SC-002** All four regression guards demonstrably fail when their bug is reintroduced.
-- **SC-003** The internal-reference check covers **every** built page, not a sample, and
-  self-fails if reference extraction stops finding references.
-- **SC-004** The two production 404s are fixed and guarded.
-- **SC-005** A PR with a broken contact layout fails CI before merge.
+| ID | Criterion | Test coverage |
+|---|---|---|
+| SC-001 | `pytest` is green (it was not: 2 failed / 23 passed) | ✅ verified — 32 passed |
+| SC-002 | All four regression guards demonstrably fail when their bug is reintroduced | ✅ mutation-tested, 4 of 4 caught (see plan.md) |
+| SC-003 | The internal-reference check covers **every** built page, not a sample, and self-fails if extraction stops finding references | ✅ `test_internal_refs_resolve` + `MIN_EXPECTED_REFS` floor |
+| SC-004 | The two production 404s are fixed and guarded | ✅ content fixed; `conftest.media_ref_resolves` is case-exact; named in `scripts/smoke.sh` |
+| SC-005 | A PR with a broken contact layout fails CI before merge | **OWED** — cannot be observed until this workflow is on `main`; the `pull_request` trigger filters on base branch, so PR #14 (based on #13) is not itself gated |
+| SC-006 | A `feat/*` branch with no spec change fails CI | **OWED** — same reason as SC-005 |
 
 ## Out of Scope
 

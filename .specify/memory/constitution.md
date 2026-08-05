@@ -118,8 +118,21 @@ derived number and a real-world number differ, the config comment must say why.
   tweaks, dependency bumps, and single-file bug fixes — these go straight to a branch and PR.
   v1.0.0 was silent on this, so eleven consecutive PRs shipped with no spec and the practice
   quietly lapsed; naming the exemption is what keeps the rule credible.
+- **The branch prefix is the declaration**, and CI enforces it: a `feat/*` pull request whose
+  diff touches no `specs/` file fails. Exempt work goes on `fix/*` or `chore/*`. Choosing the
+  prefix is therefore an explicit claim about which side of the rule the change falls on.
 - A spec's `tasks.md` is kept current as work lands. A checklist nobody ticks trains everyone
   to ignore checklists — `001`'s sat at 0 of 31 checked long after it shipped.
+  `test_spec_hygiene.py` enforces the mechanical part: every spec carries requirements and
+  success criteria, **every criterion states the test that guards it or is marked `OWED`**,
+  every spec appears in `specs/README.md`, and no task list is left with unchecked boxes and no
+  declaration of what is outstanding.
+- **Tests are part of done, not a follow-up.** A success criterion with no coverage position is
+  incomplete. `OWED` is an acceptable answer — silence is not — and every `OWED` item is
+  carried in the Tests Owed register in `specs/README.md` so the backlog is visible rather than
+  implied. Work already shipped is covered by retrospective specs (`003`–`008`); those are
+  written from the PR and commit record, never reconstructed from memory, and each records where
+  the result diverged from the intent.
 - All work on a feature branch; never commit directly to `main`. At MR time, ask which branch
   to target. Commit messages carry no AI-tool attribution.
 - Quality gate before any merge: `pytest` green AND `hugo --minify` clean, **enforced by CI**

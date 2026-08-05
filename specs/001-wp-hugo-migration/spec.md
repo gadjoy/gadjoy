@@ -1,3 +1,10 @@
+---
+description: "Faithful WordPress → Hugo migration: real content, real taxonomy, original URLs preserved"
+status: shipped
+shipped: 2026-06-06
+prs: [2]
+---
+
 # Feature Specification: Faithful WordPress → Hugo Migration
 
 **Feature Branch**: `fix/wp-hugo-remigration`
@@ -122,12 +129,23 @@ rebuilds the full site from source with no errors; a second migration run is ide
 ### Measurable Outcomes
 
 - **SC-001**: 1,508 published posts migrated (100% of the published inventory); count asserted by test.
+  — ✅ `test_post_count_matches_source`
 - **SC-002**: 0 posts contain WordPress artifacts (`<!-- wp:`, `[shortcode]`, stray HTML) — asserted by test.
+  — ✅ `test_no_wordpress_artifacts`
 - **SC-003**: 0 broken image references in the built site; 100% of `<img>` srcs resolve to files on disk.
+  — ✅ `test_all_media_resolve_on_disk` (source, case-exact) + `test_internal_refs_resolve` (built output)
 - **SC-004**: 100% of sampled post URLs match the original WordPress permalink path; old paths
   resolve via aliases.
+  — ✅ `test_url_preservation_via_aliases` + `test_sample_post_served_at_original_url`
 - **SC-005**: 0 fabricated/numeric-junk tags; 100% of emitted terms exist in the WP taxonomy.
+  — ✅ `test_taxonomy_is_real` + `test_taxonomy_term_pages_exist_with_titles`
 - **SC-006**: `hugo --minify` builds with 0 errors from `content/` source alone.
+  — ✅ `test_hugo_builds_clean`
+
+> **Coverage: 6 of 6 guarded.** This spec is the one part of the project that was fully
+> test-covered from the start, which is why the blog content has never been the source of a
+> production incident. Note that SC-003 was only *genuinely* met once the check became
+> case-exact — see `008`'s As Built for the two images that shipped 404ing.
 
 ## Assumptions
 

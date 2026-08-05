@@ -41,6 +41,25 @@ jobs:
         with:
           submodules: recursive
 
+      # Spec-first, enforced. Constitution v2.0.0 requires a spec for changes that add or
+      # reshape a user-facing capability; copy edits, CSS tweaks, dependency bumps and
+      # single-file bug fixes are exempt and belong on fix/ or chore/ branches. Branch
+      # prefix is the declaration, so this check is mechanical: a feat/* PR must touch
+      # specs/. Placed first so it fails in seconds rather than after a Hugo install.
+      - name: Require a spec on feature branches
+        if: github.event_name == 'pull_request' && startsWith(github.head_ref, 'feat/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          files="$(gh pr view "${{ github.event.pull_request.number }}" \
+                    --repo "$GITHUB_REPOSITORY" --json files --jq '.files[].path')"
+          if printf '%s\n' "$files" | grep -q '^specs/'; then
+            echo "Spec change present."
+          else
+            echo "::error::This is a feat/* branch with no changes under specs/. Eleven PRs once shipped without a spec and the practice lapsed silently, so this is now enforced. Add specs/NNN-slug/{spec,plan,tasks}.md — or, if this is a copy edit, CSS tweak, dependency bump or single-file bug fix, retarget it onto a fix/ or chore/ branch (see .specify/memory/constitution.md, Development Workflow)."
+            exit 1
+          fi
+
       # .hugo-version is the single source of truth for the toolchain version, so
       # dev and CI cannot drift apart (that drift was the PR #6/#7 bug).
       - name: Resolve pinned Hugo version

@@ -79,6 +79,46 @@ description: "Task list for CI-enforced test gates"
       by checking the live certificate (Let's Encrypt, valid to 2026-10-31).
 - [x] T028 Write this spec/plan/tasks set.
 
+## Phase 6: Spec backfill + spec-first enforcement
+
+Added after the initial gate work, on the same feature: the constitution now says when a spec
+is required, so the next question is what makes that stick, and what to do about the eleven
+PRs that already shipped without one.
+
+- [x] T029 Establish the evidence base for backfilling. No prior gadjoy session transcripts
+      exist on this machine (the work was done elsewhere — the `Makefile` syncs from a Mac), so
+      ground every backfilled requirement in PR bodies, commit history and the shipped code.
+      Record that provenance in each spec rather than implying recovered planning notes.
+- [x] T030 Backfill `003-visual-identity` (PRs #2/#3/#4), including the deviation that the
+      palette went navy+amber → mono B&W → mono light across three commits on one branch while
+      the PR description still advertises the palette that was abandoned.
+- [x] T031 Backfill `004-live-google-reviews` (PR #2) — external dependency, credential
+      handling, degrade-gracefully requirement, and the fallback's own untraceable claim.
+- [x] T032 Backfill `005-interactive-service-pages` (PR #5).
+- [x] T033 Backfill `006-gallery-lightbox` (PR #5), incl. the IMEI/serial privacy constraint as
+      FR-007, unenforced.
+- [x] T034 Backfill `007-contact-and-enquiry-delivery` (PRs #5/#6/#7/#10/#11) — four of the
+      five production incidents live here.
+- [x] T035 Backfill `008-media-optimization` (PR #8), incl. the case-sensitivity deviation that
+      shipped the two live 404s.
+- [x] T036 Write `specs/README.md`: spec index, a verdict on every merged PR that has no spec,
+      and a consolidated Tests Owed register split by cost (cheap / needs-a-browser /
+      deliberately-manual / unknown).
+- [x] T037 Bring `001` and `002` up to the same standard — frontmatter, and a coverage position
+      against every success criterion. (`001` turned out to be 6 of 6 guarded.)
+- [x] T038 `test_spec_hygiene.py`: spec dirs complete, frontmatter valid, requirements and
+      success criteria present, every criterion carries a coverage position, forward specs keep
+      plan+tasks, backfilled specs carry As Built, every spec listed in the index, and no task
+      list left with unchecked boxes and no Status/Deferred declaration.
+- [x] T039 Mutation-test it (Principle VII applies to this guard too): hollow spec, spec absent
+      from the index, forward spec missing `plan.md`, silently stale task list → **4 of 4
+      caught**.
+- [x] T040 CI step: a `feat/*` PR whose diff touches no `specs/` file fails, with an error
+      message naming the exemption list. Placed first in the job so it fails in seconds.
+- [x] T041 `.github/pull_request_template.md` — spec link, tests-written-not-just-passing,
+      test-first-for-bugs, guards-verified-by-breaking-them, claims-trace-to-source, and an
+      explicit "anything left undone" section.
+
 ---
 
 ## Deferred (deliberately not in this PR)
