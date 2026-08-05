@@ -1,53 +1,104 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# Build, test and deploy the Hugo site to GitHub Pages.
+#
+# Pipeline:  test  ->  build  ->  deploy  ->  smoke
+#
+# `test` runs on pull requests too, so the quality gate the constitution mandates
+# ("pytest green AND hugo builds clean") runs BEFORE merge rather than after deploy.
+# Until this existed, CI ran no tests at all: every recent bug — contact page falling
+# back to the theme layout, a form posting to a dead endpoint, two 404ing images, a
+# wrong repair figure — was found by a human on the live site.
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  # Gate pull requests as well; the deploy jobs below opt out of PR events.
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
 defaults:
   run:
     shell: bash
 
 jobs:
-  # Build job
-  build:
+  # ---------------------------------------------------------------- quality gate
+  test:
+    name: Test (quality gate)
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.147.2
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v5
         with:
           submodules: recursive
+
+      # .hugo-version is the single source of truth for the toolchain version, so
+      # dev and CI cannot drift apart (that drift was the PR #6/#7 bug).
+      - name: Resolve pinned Hugo version
+        run: echo "HUGO_VERSION=$(tr -d '[:space:]' < .hugo-version)" >> "$GITHUB_ENV"
+
+      - name: Install Hugo CLI
+        run: |
+          wget -O "${{ runner.temp }}/hugo.deb" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" \
+          && sudo dpkg -i "${{ runner.temp }}/hugo.deb"
+
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install test dependencies
+        run: python -m pip install --quiet -r migration/requirements.txt
+
+      # Content invariants, HTML->Markdown golden files, toolchain parity, and the
+      # build-output assertions. Deliberately no GOOGLE_PLACES_API_KEY: the reviews
+      # partial should take its fallback path here.
+      - name: Run test suite
+        working-directory: migration
+        run: python -m pytest -q
+
+  # ---------------------------------------------------------------------- build
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.event_name != 'pull_request'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          submodules: recursive
+
+      - name: Resolve pinned Hugo version
+        run: echo "HUGO_VERSION=$(tr -d '[:space:]' < .hugo-version)" >> "$GITHUB_ENV"
+
+      - name: Install Hugo CLI
+        run: |
+          wget -O "${{ runner.temp }}/hugo.deb" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" \
+          && sudo dpkg -i "${{ runner.temp }}/hugo.deb"
+
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
+
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -57,19 +108,36 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
-  # Deployment job
+  # --------------------------------------------------------------------- deploy
   deploy:
+    name: Deploy
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    if: github.event_name != 'pull_request'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  # ---------------------------------------------------------------------- smoke
+  # Proves the deploy actually works from the outside: DNS, TLS, the custom domain,
+  # and the handful of things that have silently broken in production before.
+  smoke:
+    name: Smoke-test live site
+    runs-on: ubuntu-latest
+    needs: deploy
+    if: github.event_name != 'pull_request'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Smoke-test gadjoy.in
+        run: ./scripts/smoke.sh https://gadjoy.in

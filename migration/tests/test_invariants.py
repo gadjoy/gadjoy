@@ -12,8 +12,8 @@ from conftest import (
     EXPECTED_PUBLISHED_POSTS,
     FORBIDDEN_SUBSTRINGS,
     SHORTCODE_RE,
-    STATIC_DIR,
     media_paths_in,
+    media_ref_resolves,
 )
 
 pytestmark = pytest.mark.generated
@@ -94,8 +94,7 @@ def test_card_banner_present_and_resolves(posts):
             assert fm.get("banner"), f"{path}: post has images but no card banner"
         banner = fm.get("banner")
         if banner:
-            rel = banner[len("/img/"):]
-            assert (STATIC_DIR / "img" / rel).exists(), f"{path}: banner missing on disk {banner}"
+            assert media_ref_resolves(banner), f"{path}: banner missing on disk {banner}"
 
 
 def test_summary_is_plaintext(posts):
@@ -110,7 +109,6 @@ def test_all_media_resolve_on_disk(posts):
     missing = []
     for path, _fm, body in posts:
         for ref in media_paths_in(body):
-            rel = ref[len("/img/"):]            # -> uploads/YYYY/MM/file
-            if not (STATIC_DIR / "img" / rel).exists():
+            if not media_ref_resolves(ref):
                 missing.append((str(path), ref))
     assert not missing, f"{len(missing)} broken media refs, e.g. {missing[:5]}"
