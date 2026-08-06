@@ -119,6 +119,54 @@ PRs that already shipped without one.
       test-first-for-bugs, guards-verified-by-breaking-them, claims-trace-to-source, and an
       explicit "anything left undone" section.
 
+## Phase 7: Customer-PII gate (implements `006` FR-007)
+
+The one Tests Owed item previously written off as "not automatable". It was, and the
+misjudgement is recorded in `specs/README.md` → Closed.
+
+- [x] T042 Recover the specifics from the original report rather than guessing: "Dipti's A03"
+      (serial + both IMEIs) and "Sheikh's iPad" (serial + Wi-Fi/Bluetooth MACs), from About
+      screens photographed as repair proof.
+- [x] T043 `migration/scripts/device_identifiers.py` — shared OCR + detection engine (IMEI/MEID/
+      serial/MAC keywords, 14–16 digit runs with digit-group normalisation, MAC regex,
+      owner-named-device pattern, and a benign-context filter for model/part numbers).
+- [x] T044 Validate the detector against a known-bad image *before* trusting it — it extracted
+      both IMEI values and the serial label from `2023/02/image-54.webp`.
+- [x] T045 `redact_device_identifiers.py` — coarse mosaic + blur, `--auto` (OCR-derived boxes),
+      `--frac` and `--box`. Labels deliberately left readable; a fine mosaic over known-format
+      digits is attackable, so regions collapse to a handful of blocks.
+- [x] T046 Redact `2023/02/image-53.webp` and `image-54.webp` in place; verify by re-OCR that no
+      digit run or serial fragment survives while surrounding text is untouched. Confirmed
+      visually before and after.
+- [x] T047 Full OCR sweep of all 2,711 upload images — the original report called the practice
+      systematic, so the two known files were not taken as the whole set.
+- [x] T048 `build_reviewed_manifest.py` + `migration/tests/data/reviewed_images.json` — content
+      hashes of reviewed images, so the build OCRs only new or modified files.
+- [x] T049 `test_no_device_identifiers.py` — manifest coverage sanity (>90%), forbidden
+      pre-redaction hashes (fires without OCR), and OCR of unknown hashes with a
+      `MAX_UNREVIEWED` ceiling that tells the reviewer to run the full sweep rather than
+      silently checking a subset.
+- [x] T050 Install `tesseract-ocr` in the CI test job so a PR adding an About-screen photo is
+      caught rather than skipped.
+- [x] T051 Mutation-test the gate: restore an un-redacted original and confirm failure.
+- [x] T052 Triage the 241 sweep hits by referencing-post category: **229 on repair posts** (real
+      device screens) vs **12 on `code`/`build` posts**, where a printed float
+      (`3529411764705883` is 60÷17) matches the IMEI digit-run pattern. Verified one of each
+      visually rather than trusting the classifier.
+- [x] T053 Fix the OpenMP collapse: concurrent tesseract instances each grab ~4 threads, so 3
+      workers oversubscribed a 4-core box and per-image time went 0.4s → 13-47s.
+      `OMP_THREAD_LIMIT=1` restored it, ~30x. Now set in code, so CI inherits it.
+- [x] T054 **Correct the auto-redaction geometry.** The first pass swept only the band *below*
+      each label and reported 226/226 success while leaving a fully legible serial on
+      `2023/05/image-4.webp`, which uses a two-column layout. Bands now run from the label to
+      the right edge through the following line, covering both layouts.
+- [x] T055 Add `MAX_REDACT_FRACTION` — refuse to write rather than obscure more than 25% of a
+      frame, so over-redaction cannot quietly destroy the photo it is protecting.
+- [x] T056 Restore originals from git before re-running: OCR cannot detect a label it has
+      already mosaiced, so a second pass over redacted files finds nothing and leaves gaps.
+- [x] T057 Re-redact all 229 from pristine originals; verify by re-sweep that no identifier
+      value is extractable; spot-check visually.
+
 ---
 
 ## Deferred (deliberately not in this PR)

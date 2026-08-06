@@ -55,6 +55,7 @@ reconstruct it.
 | SC-003 | Every gallery image reference resolves to a real asset | ✅ `test_internal_refs_resolve` |
 | SC-004 | Lightbox opens and closes, including by keyboard | **OWED** (needs a browser) |
 | SC-005 | Images are lazy-loaded and served as WebP | **OWED** |
+| SC-006 | No published image exposes an IMEI, serial, MAC or owner name (FR-007) | ✅ `test_no_device_identifiers.py` — hash manifest + OCR for new/changed images |
 
 ## Out of Scope
 
@@ -79,12 +80,86 @@ repair photographs must not publish customer-identifying data. Cards showing **I
 serial numbers** were identified on the live site and flagged for removal — those are
 identifiers used in device fraud, and the customers did not consent to publication.
 
-**FR-007** (added retrospectively, not yet enforced) — no gallery or post image may display an
-IMEI, serial number, or other device/customer identifier.
+**FR-007** — no gallery or post image may display an IMEI, serial number, MAC address, or other
+device/customer identifier. Where a photo carries one, the identifier is **redacted, not the
+photo deleted**: the repair shot is legitimate evidence of the work, and only the identifier
+block has to go.
+
+Resolved 2026-08-06 (see As Built → Redaction), and now enforced at build time.
+
+### Redaction: FR-007 resolved (2026-08-06)
+
+The identifiers were found and obfuscated rather than deleted.
+
+**What was exposed — far more than the two images originally reported.** The original report
+named two ("Dipti's A03", "Sheikh's iPad"). An OCR sweep of all 2,711 upload images found
+**241 flagged, of which 229 are on repair posts** — i.e. genuine device screens. The remaining
+12 are false positives on `code`/`build` posts, where a Python console printed a long float
+(`3529411764705883` is 60÷17) that pattern-matches an IMEI.
+
+Verified examples:
+
+| Image | Exposed |
+|---|---|
+| `2023/02/image-53/54.webp` (Galaxy A03 Core) | Serial `R9ZT…`, IMEI slot 1 + slot 2 |
+| `2023/05/image-4.webp` (Galaxy On Nxt) | Serial `RZ8J…`, IMEI `357956…483` / `357957…481` |
+| `2022/05/image-34.webp`, `2022/08/image-10.webp` | Wi-Fi/Bluetooth MAC addresses |
+
+62 images yielded a full identifier **value** to OCR; the other 167 were caught on labels
+("IMEI", "Serial number") where the digits were legible to a human but not cleanly machine-read
+— which makes them no less exposed. Many appear in slot-1/slot-2 pairs, the signature of a
+dual-SIM About screen.
+
+The earliest dates from 2021-12 and the most recent from 2025-01, so this ran the full life of
+the blog. Calling the practice "systematic" was accurate: photographing the About screen was
+evidently the shop's standard way of recording which device came in.
+
+**How it was fixed.** `migration/scripts/redact_device_identifiers.py` applies a coarse mosaic
+plus blur to the three value regions, in place, preserving filename and format. Deliberately
+*not* a light pixelation: a fine mosaic over known-format text (15 digits, fixed glyph set) is
+in principle attackable by rendering candidates and comparing blocks, so each region is
+collapsed to a handful of blocks and then blurred, which destroys the glyphs outright.
+
+The **labels are left readable** — "Serial number", "IMEI (slot 1)", "IMEI (slot 2)" still show
+above grey bands. A visible redaction is honest about what was removed, and the photo still
+reads as proof of the repair, which is the whole reason for keeping it.
+
+Verified by re-running OCR on the saved files: no 14–16 digit run and no serial fragment is
+recoverable, while the surrounding text ("Galaxy A03 Core", "Model number SM-A032F/DS", the
+Status paragraph) is untouched.
+
+**Sweep.** All 2,711 upload images were OCR-swept rather than trusting the two known cases — the
+original report described the practice as systematic.
+
+**A redaction pass that looked finished and was not.** The first automated pass swept the band
+*below* each identifier label, which is where the value sits on newer Samsung/Android About
+screens. It ran over 226 images with zero errors and zero refusals — and left
+`2023/05/image-4.webp` with its serial `RZ8J50WTJRR` **fully legible**, because that device uses
+a two-column layout with the value to the *right* of the label, not beneath it. Caught by opening
+the image after the "successful" batch.
+
+Each label now gets one band from the label to the right edge of the frame, tall enough to
+include the following line, covering both layouts. The cost is over-redaction — the label text
+goes too, along with boilerplate like *"View the SIM card status, IMEI, and other information"* —
+which is the right direction to err, bounded by a `MAX_REDACT_FRACTION` ceiling that refuses to
+write rather than destroying the photo.
+
+Two process points worth keeping:
+
+- **A batch reporting 226/226 success is not evidence the work is correct.** It only proved no
+  exceptions were raised. The geometry was wrong for a whole class of layout and the exit codes
+  could not see it.
+- **Re-running the fix required restoring the originals from git first.** Redaction is not
+  idempotent for detection purposes: OCR cannot find a label it has already mosaiced, so a
+  second pass over redacted files finds nothing and silently leaves the gaps in place.
 
 ## Tests Owed
 
 SC-002 folds into the table-driven layout check proposed in `005`. SC-005 is a cheap output
-assertion (`loading=lazy` present, `.webp` extensions). FR-007 cannot be checked by parsing
-HTML — it needs either a manual review pass or OCR over the image set, and should be tracked as
-a content-review task rather than pretended to be automatable.
+assertion (`loading=lazy` present, `.webp` extensions).
+
+FR-007 is **no longer owed** — `migration/tests/test_no_device_identifiers.py` enforces it at
+build time. It was previously listed as un-automatable; that was wrong. What made it tractable
+is keying on **content hash**: the manifest records every image already OCR-reviewed, so the
+build OCRs only new or modified files (none in steady state), and restoring a pre-redaction
+original is caught by hash alone even without OCR available.

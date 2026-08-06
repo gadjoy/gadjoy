@@ -81,6 +81,13 @@ jobs:
       - name: Install test dependencies
         run: python -m pip install --quiet -r migration/requirements.txt
 
+      # OCR for the customer-PII gate. Only actually needed when an image is new or
+      # modified (the reviewed-images manifest is keyed on content hash, so steady-state
+      # builds do no OCR at all) — but installing it unconditionally means a PR that adds
+      # a photo of an About screen is caught rather than skipped.
+      - name: Install tesseract (image PII gate)
+        run: sudo apt-get install -y -q tesseract-ocr
+
       # Content invariants, HTML->Markdown golden files, toolchain parity, and the
       # build-output assertions. Deliberately no GOOGLE_PLACES_API_KEY: the reviews
       # partial should take its fallback path here.
