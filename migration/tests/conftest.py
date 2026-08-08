@@ -64,6 +64,23 @@ def media_paths_in(body: str):
     return re.findall(r"/img/uploads/[^\s\)\"'<>]+", body)
 
 
+def media_ref_resolves(ref: str) -> bool:
+    """True if a /img/... reference resolves to a real file, matching case EXACTLY.
+
+    `Path.exists()` is case-INSENSITIVE on macOS, so a post referencing
+    `redmi-4-before.webp` when the file is `Redmi-4-Before.webp` passes locally and
+    then 404s on the Linux Pages server. That exact bug shipped (two dead images on
+    /2021/12/17/redmi-4-dead-condition/) precisely because this check used
+    `.exists()`. Compare against the real directory listing so the result is
+    identical on every platform.
+    """
+    target = STATIC_DIR / "img" / ref[len("/img/"):]
+    try:
+        return target.name in {p.name for p in target.parent.iterdir()}
+    except (OSError, FileNotFoundError):
+        return False
+
+
 # --- fixtures ----------------------------------------------------------------
 @pytest.fixture(scope="session")
 def fixtures_dir():
@@ -87,3 +104,26 @@ def wp_terms():
 def generated_posts():
     posts = list(iter_generated_posts())
     return posts
+
+
+@pytest.fixture(scope="session")
+def built_site(tmp_path_factory):
+    """Build the whole site ONCE per session; yield the output directory.
+
+    Session-scoped because a full build is ~30s and every build-output test wants
+    the same artifact. Deliberately built WITHOUT GOOGLE_PLACES_API_KEY so the
+    reviews partial takes its fallback path — that is what CI produces for a PR,
+    and the fallback is where a stale hard-coded claim would hide.
+    """
+    import os
+    import subprocess
+
+    out = tmp_path_factory.mktemp("site")
+    env = {k: v for k, v in os.environ.items() if k != "GOOGLE_PLACES_API_KEY"}
+    proc = subprocess.run(
+        ["hugo", "--minify", "--destination", str(out), "--logLevel", "warn"],
+        cwd=REPO_ROOT, capture_output=True, text=True, env=env,
+    )
+    if proc.returncode != 0:
+        pytest.fail(f"hugo build failed:\n{proc.stderr}\n{proc.stdout}")
+    return out
