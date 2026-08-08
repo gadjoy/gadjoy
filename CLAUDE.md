@@ -54,7 +54,7 @@ hugo server -D                   # local preview including drafts
 `test_invariants.py`. The invariant and golden tests are what make Principles IV and V
 enforceable rather than aspirational — do not weaken an invariant to make a change pass.
 
-**Gate on exit codes, never on reading output.** A summary line can say "passed" while
+**Gate on exit codes, never on reading output** (CON-VER-001) — the constitution carries the rule and the incident behind it; what follows is how it bites here. A summary line can say "passed" while
 the process exits non-zero.
 
 ## Layout
