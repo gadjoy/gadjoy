@@ -1,6 +1,10 @@
 {{/* Project override of the theme carousel: a clean, premium static hero +
      an animated stats band. Replaces the rotating owl carousel. */}}
-{{ $repairs := len (where .Site.RegularPages "Section" "blog") }}
+{{/* $total is the lifetime device count for the whole business (see hugo.yaml) —
+     deliberately NOT the count of case studies under content/blog, which only
+     covers 2021 onward and is a much smaller number. */}}
+{{ $total := .Site.Params.repairsTotal }}
+{{ $since := .Site.Params.repairsSince }}
 {{ $wa := "https://wa.me/919110624049" }}
 
 <section class="gadjoy-hero">
@@ -19,7 +23,7 @@
         </div>
         <p class="gadjoy-trust">
           <span class="stars">★★★★★</span>
-          Trusted by customers across Bangalore · {{ $repairs }}+ repairs and counting
+          Trusted by customers across Bangalore · {{ lang.FormatNumberCustom 0 $total }}+ repairs since {{ $since }}
         </p>
       </div>
       <div class="col-md-6 col-sm-5 hidden-xs">
@@ -36,8 +40,8 @@
   <div class="container">
     <div class="gadjoy-stats">
       <div class="stat">
-        <div class="num" data-count="{{ $repairs }}" data-suffix="+">0</div>
-        <div class="label">Repairs documented</div>
+        <div class="num" data-count="{{ $total }}" data-suffix="+">0</div>
+        <div class="label">Devices repaired since {{ $since }}</div>
       </div>
       <div class="stat">
         <div class="num" data-count="24" data-suffix="h">0</div>

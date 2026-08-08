@@ -82,6 +82,14 @@ params:
   googlePlaceId: "ChIJaR2k26gTrjsRcc8FG20jpfk"
   googleReviewsUrl: "https://maps.google.com/?cid=17988823238113087345"
 
+  # Repair volume. `repairsTotal` is the LIFETIME device count across the whole
+  # business (founded Nov 2016, ~150 devices/month). It is deliberately NOT the
+  # number of case studies published here — Hugo derives that from content/blog,
+  # which only covers 2021 onward, so the two figures differ by design. Keep this
+  # in step with the résumé/portfolio, which quote the same 15,000+ total.
+  repairsTotal: 15000
+  repairsSince: 2016
+
   # Site info
   about_us: "<p>Bangalore's go-to repair bench for phones, laptops, tablets and desktops. Chip-level fixes, genuine parts, honest quotes — and a 90-day warranty on every job.</p>"
   copyright: "Copyright (c) 2026, Gadjoy Repair Service; all rights reserved."
