@@ -19,3 +19,6 @@ __pycache__/
 # OS cruft
 .DS_Store
 wordpress/docker-compose.override.yml
+
+# Claude Code agent worktrees — nested git repos, never part of this repo.
+.claude/worktrees/
