@@ -4,8 +4,10 @@ Two modes:
 
   --deck PATH           local: publish one deck file. No network, no credentials, so this is
                         the path used for rehearsal and for tests.
-  --from-intake         read open `deck`-labelled issues from the private intake repo,
-                        download each attached .pptx, and publish them all.
+  --from-intake         read open `deck`-labelled issues from the private intake repo and
+                        publish every deck they point at — either committed under `decks/`
+                        (any size, and the only route the API can resolve) or dragged onto
+                        the issue (capped at 25MB by GitHub).
 
 Intake is a *private* repo because a photo dropped into a public issue is world-readable the
 instant it posts and its attachment URL outlives the issue — and repair photos have been shown
@@ -20,6 +22,7 @@ import json
 import os
 import re
 import subprocess
+import tempfile
 import sys
 import urllib.request
 from pathlib import Path
@@ -35,6 +38,11 @@ ATTACHMENT_RE = re.compile(
     re.I,
 )
 WEEK_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
+# A deck committed into the intake repo, referenced from the issue body. This is the path for
+# decks over GitHub's 25MB issue-attachment cap, and the only one reachable through the public
+# API — issue attachments live on a host with no API listing, so they can only be scraped out
+# of the body text.
+REPO_DECK_RE = re.compile(r"decks/[^\s`)\"'<>]+\.pptx?", re.I)
 
 
 def _gh_json(url: str, token: str):
@@ -54,6 +62,39 @@ def _download(url: str, token: str) -> bytes:
     })
     with urllib.request.urlopen(req, timeout=300) as resp:
         return resp.read()
+
+
+def _repo_file(intake: str, path: str, token: str) -> bytes:
+    """Fetch a file committed in the intake repo.
+
+    `application/vnd.github.raw` streams the bytes, which matters because the default JSON
+    response base64-encodes and refuses anything over 1MB — and a week's deck is several.
+    """
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{intake}/contents/{path}",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github.raw",
+            "User-Agent": "gadjoy-deck-publisher",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=300) as resp:
+        return resp.read()
+
+
+def collect_decks(intake: str, body: str, token: str):
+    """Yield (name, bytes) for every deck an issue points at.
+
+    Two routes, checked in order: a deck committed to `decks/` in this repo (works at any
+    size, and is the only route the API can actually resolve), then a file dragged onto the
+    issue.
+    """
+    for path in dict.fromkeys(REPO_DECK_RE.findall(body)):
+        yield path.rsplit("/", 1)[-1], _repo_file(intake, path, token)
+    for url in dict.fromkeys(ATTACHMENT_RE.findall(body)):
+        name = url.rsplit("/", 1)[-1]
+        if name.lower().endswith((".pptx", ".ppt")):
+            yield name, _download(url, token)
 
 
 def report_lines(deck_name, report) -> list:
@@ -86,7 +127,37 @@ def publish_local(deck: Path, date: str, issue: int, dry_run: bool) -> int:
     return 0
 
 
-def publish_from_intake(intake: str, dry_run: bool) -> int:
+def _comment(intake: str, issue: int, body: str, token: str) -> None:
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{intake}/issues/{issue}/comments",
+        data=json.dumps({"body": body}).encode(),
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "Content-Type": "application/json",
+            "User-Agent": "gadjoy-deck-publisher",
+        },
+        method="POST",
+    )
+    urllib.request.urlopen(req, timeout=60).close()
+
+
+def _close(intake: str, issue: int, token: str) -> None:
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{intake}/issues/{issue}",
+        data=json.dumps({"state": "closed"}).encode(),
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "Content-Type": "application/json",
+            "User-Agent": "gadjoy-deck-publisher",
+        },
+        method="PATCH",
+    )
+    urllib.request.urlopen(req, timeout=60).close()
+
+
+def publish_from_intake(intake: str, dry_run: bool, notify: bool = False) -> int:
     token = os.environ.get("INTAKE_TOKEN")
     if not token:
         sys.exit("INTAKE_TOKEN is not set — it is required to read the private intake repo")
@@ -97,32 +168,45 @@ def publish_from_intake(intake: str, dry_run: bool) -> int:
         print("no open deck issues")
         return 0
 
-    all_lines, failures = [], []
+    all_lines, failures, per_issue = [], [], {}
     for issue in issues:
         num, body = issue["number"], issue.get("body") or ""
-        urls = ATTACHMENT_RE.findall(body)
-        if not urls:
-            failures.append(f"issue #{num}: no .pptx attachment found")
-            continue
         week = WEEK_RE.search(body)
-        date = week.group(1) if week else os.environ.get("RUN_DATE", "")
+        date = week.group(1) if week else os.environ.get("RUN_DATE", "")[:10]
         if not date:
-            failures.append(f"issue #{num}: no week-ending date")
+            failures.append(f"issue #{num}: no week-ending date in the body")
             continue
 
-        for url in urls:
-            name = url.rsplit("/", 1)[-1]
-            if not name.lower().endswith((".pptx", ".ppt")):
-                continue
-            tmp = Path("/tmp") / name
-            tmp.write_bytes(_download(url, token))
+        decks = list(collect_decks(intake, body, token))
+        if not decks:
+            failures.append(
+                f"issue #{num}: no deck found. Attach the .pptx, or upload it to decks/ in "
+                f"this repo and name it in the issue body.")
+            continue
+
+        for name, data in decks:
+            tmp = Path(tempfile.gettempdir()) / name
+            tmp.write_bytes(data)
             try:
                 report = publish_deck(tmp, date=date, issue=num,
                                       out_root=REPO_ROOT, dry_run=dry_run)
             except DeckFormatError as exc:
-                failures.append(f"issue #{num}: {exc}")
+                failures.append(f"issue #{num} ({name}): {exc}")
                 continue
-            all_lines += report_lines(name, report) + [""]
+            all_lines += [f"_issue #{num}, week ending {date}_"]
+            lines = report_lines(name, report)
+            all_lines += lines + [""]
+            per_issue.setdefault(num, []).extend(lines)
+
+    # Tell the team what happened, on the issue they filed. Reporting the redactions is the
+    # only way the "photograph the device, not its About screen" rule ever gets learned.
+    if notify and not dry_run:
+        for num, lines in per_issue.items():
+            _comment(intake, num, "\n".join(
+                ["Published to gadjoy.in:", ""] + lines +
+                ["", "_Posted automatically by `publish-decks`._"]), token)
+            if not failures:
+                _close(intake, num, token)
 
     print("\n".join(all_lines) if all_lines else "nothing published")
     if failures:
@@ -141,6 +225,8 @@ def main() -> int:
     ap.add_argument("--from-intake", metavar="OWNER/REPO",
                     help="read open deck issues from the private intake repo")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--notify", action="store_true",
+                    help="comment the outcome on the intake issue and close it")
     args = ap.parse_args()
 
     if args.deck:
@@ -148,7 +234,7 @@ def main() -> int:
             sys.exit("--date is required (the slide's own date is a stale placeholder)")
         return publish_local(Path(args.deck), args.date, args.issue, args.dry_run)
     if args.from_intake:
-        return publish_from_intake(args.from_intake, args.dry_run)
+        return publish_from_intake(args.from_intake, args.dry_run, args.notify)
     ap.error("one of --deck or --from-intake is required")
 
 

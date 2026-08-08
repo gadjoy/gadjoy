@@ -6,8 +6,10 @@ description: "Task list for deck-to-posts publishing"
 
 > **Status: Phases A–C COMPLETE; publisher + workflow written but NOT yet rehearsed.**
 > T021/T022/T025 need the private intake repo and its token — owner actions, so they are
-> unticked rather than assumed. Verified: `pytest` 132 passed (was 98); deck mutations 4/4
-> caught; dry run against the reference deck produces 4 posts and 5 reasoned skips.
+> **Status: A–D COMPLETE and rehearsed end to end.** Only T022 (mint a PAT) and T026 (watch one
+> real batch, then enable auto-merge) remain, both owner actions. Verified: `pytest` **138
+> passed** (was 98); deck mutations 4/4 caught; live rehearsal against gadjoy/repairs-intake
+> issue #1 produced 4 posts, 5 reasoned skips, one redaction, and closed the issue.
 
 **Input**: `specs/009-deck-to-posts/{spec,plan}.md` | **Constitution**: v2.0.0
 
@@ -54,15 +56,24 @@ description: "Task list for deck-to-posts publishing"
       exercised against real output yet — the dry run writes nothing, so this is verified by
       inspection until T025.)
 
-## Phase D: Publisher + workflow (deferred — needs the intake repo)
+## Phase D: Publisher + workflow
 
-- [ ] T021 Create the private intake repo and its `deck.yml` Issue Form.
-- [ ] T022 Create the `INTAKE_TOKEN` fine-grained PAT (read-only: issues + contents).
+- [x] T021 Created **gadjoy/repairs-intake** (private) with the `deck.yml` Issue Form, a README
+      stating the About-screen rule, and `decks/` for decks over the 25MB attachment cap.
+- [ ] T022 **BLOCKED (owner action).** Create the `INTAKE_TOKEN` fine-grained PAT, read-only on
+      the intake repo's issues + contents. GitHub has no API for minting a PAT — by design, a
+      credential can only be created by a human in the UI. Needed *only* for the unattended
+      Actions run; the local path (`INTAKE_TOKEN=$(gh auth token)`) needs no new credential and
+      is what the rehearsal used.
 - [x] T023 `tools/publish_decks.py` — issue discovery, deck download, PR creation, issue
       comment/close.
 - [x] T024 `.github/workflows/publish-decks.yml` — `workflow_dispatch`, branch `content/deck-<week>`
       (**not** `feat/`, or the spec gate blocks it).
-- [ ] T025 Rehearse end to end with the reference deck in a real intake issue.
+- [x] T025 Rehearsed for real against the live private repo (issue #1): deck fetched over the
+      contents API (6.4MB, raw media type), 4 posts generated, 5 slides skipped with reasons, a
+      serial redacted, duplicate-title warning fired, issue commented and closed. Generated
+      posts were deliberately NOT committed — the 2022 reference deck's repairs were published
+      on WordPress years ago, so they would duplicate existing content.
 
 ## Phase E: Hand over
 
@@ -76,3 +87,8 @@ description: "Task list for deck-to-posts publishing"
 - [ ] D001 Back-fill the 2025-02 → 2026-08 gap from older decks — one run once the pipeline is
       trusted, not part of building it.
 - [ ] D002 `/tv/` page. The deck already drives the store TV; the site does not need to.
+- [ ] D003 **PII gate blind spot found during the rehearsal.** `test_no_device_identifiers`
+      scans `static/img/uploads` only, so photos embedded inside tracked Office/PDF files are
+      invisible to it. The reference deck is committed in the *public* repo and one of its
+      embedded images (`image9.jpg`) shows a 'Serial number' label — OCR could not read the
+      value, so severity is low, but the gap is real. Two such files are tracked.

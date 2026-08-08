@@ -57,7 +57,7 @@ jobs:
           OMP_THREAD_LIMIT: "1"          # tesseract's OpenMP collapses under parallelism
         run: |
           python tools/publish_decks.py \
-            --from-intake "${{ inputs.intake_repo }}" \
+            --from-intake "${{ inputs.intake_repo }}" --notify \
             ${{ inputs.dry_run && '--dry-run' || '' }} | tee /tmp/publish-report.txt
 
       # Belt and braces over the interlock: re-scan what was actually written, and fail rather
