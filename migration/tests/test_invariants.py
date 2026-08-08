@@ -12,6 +12,7 @@ from conftest import (
     EXPECTED_PUBLISHED_POSTS,
     FORBIDDEN_SUBSTRINGS,
     SHORTCODE_RE,
+    is_migrated,
     media_paths_in,
     media_ref_resolves,
 )
@@ -28,7 +29,20 @@ def posts(generated_posts):
 
 # SC-001 -----------------------------------------------------------------------
 def test_post_count_matches_source(posts):
-    assert len(posts) == EXPECTED_PUBLISHED_POSTS
+    """The MIGRATED corpus is exactly 1,508 — no more, no fewer.
+
+    Scoped to migrated posts (those with no `origin` key) so the blog can grow without
+    weakening the migration's own acceptance criterion. A bare `len(posts) == 1508` also
+    failed on every newly published repair, which is a gate that forbids the site from
+    being used.
+    """
+    migrated = [p for p in posts if is_migrated(p[1])]
+    assert len(migrated) == EXPECTED_PUBLISHED_POSTS, (
+        f"migrated post count is {len(migrated)}, expected {EXPECTED_PUBLISHED_POSTS} — "
+        f"a migrated post has been added, removed or had an `origin` key applied to it"
+    )
+    # Posts may only ever be added, never lost.
+    assert len(posts) >= EXPECTED_PUBLISHED_POSTS
 
 
 # SC-002 -----------------------------------------------------------------------
@@ -54,8 +68,15 @@ def test_front_matter_complete(posts):
 # SC-004 : URL preservation ----------------------------------------------------
 def test_url_preservation_via_aliases(posts):
     """Canonical URL is the original /YYYY/MM/DD/slug/ (via permalink config);
-    aliases must rescue the broken live site's /blog/YYYY/MM/DD/slug/ path."""
+    aliases must rescue the broken live site's /blog/YYYY/MM/DD/slug/ path.
+
+    Migrated posts only. A repair published today never had a /blog/ URL, so requiring one
+    would mean inventing a redirect for a page that never existed — fabricated data
+    (Principle III). New posts carry `aliases: []`.
+    """
     for path, fm, _body in posts:
+        if not is_migrated(fm):
+            continue
         date = str(fm["date"])
         y, m, d = date[0:4], date[5:7], date[8:10]
         slug = fm["slug"]

@@ -16,6 +16,7 @@ enforces that each `specs/NNN-*/` directory below is real, complete, and listed 
 | [006](006-gallery-lightbox/) | Before/after gallery wall | shipped | 2026-06-06 | #5 | spec *(backfilled)* |
 | [007](007-contact-and-enquiry-delivery/) | Contact page & enquiry delivery | shipped | 2026-06-07 | #5, #6, #7, #10, #11 | spec *(backfilled)* |
 | [008](008-media-optimization/) | Media optimization & build slimming | shipped | 2026-06-06 | #8 | spec *(backfilled)* |
+| [009](009-deck-to-posts/) | Weekly repair deck → published posts | in-progress | — | #18 | spec, plan, tasks |
 
 ### Why backfilled specs carry `spec.md` but not `plan.md` / `tasks.md`
 
@@ -65,6 +66,7 @@ honest statement of what is specified but not guarded.
 | No fabricated testimonials in `data/` | `004` SC-004 | Trivial |
 | Lazy-loading + WebP on gallery images | `006` SC-005 | Output assertion |
 | Recent-repairs scroller shows 15, newest first | `003` SC-003 | Output assertion |
+| Scan images embedded in tracked Office/PDF files | `009` D003 | The PII gate covers `static/img/uploads` only. The reference deck sits in the public repo and one embedded image shows a 'Serial number' label; no value was extractable, so low severity, but the blind spot is real |
 
 ### Needs a browser harness (deferred — `002` D001)
 | Owed | Spec |
