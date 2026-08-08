@@ -1,6 +1,7 @@
 ---
 description: "Catch site regressions before deploy: CI-enforced gates, build-output assertions, post-deploy smoke"
-status: in-progress
+status: shipped
+shipped: 2026-08-08
 prs: [14]
 ---
 

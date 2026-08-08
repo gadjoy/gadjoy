@@ -87,6 +87,16 @@ description: "Task list for deck-to-posts publishing"
 - [ ] D001 Back-fill the 2025-02 → 2026-08 gap from older decks — one run once the pipeline is
       trusted, not part of building it.
 - [ ] D002 `/tv/` page. The deck already drives the store TV; the site does not need to.
+- [ ] D004 **A deck's video is parsed but never published.** `parse_deck` extracts the
+      `videoFile` from slide 9 and `Repair.video` carries it, but `build_post` ignores it, so a
+      repair filmed on video loses the video with no note in the report. FR-010 said "embed it
+      or skip it with a recorded reason" — it is currently skipped *silently*, and the test only
+      asserts the run does not crash. Either embed a `<video>` (Hugo already allows raw HTML and
+      the migrated posts contain video blocks) or report the skip.
+- [ ] D005 **A big week trips the PII ceiling.** `MAX_UNREVIEWED = 40` in
+      `test_no_device_identifiers.py` means a deck of more than 20 repairs (40 images) fails the
+      PR gate telling the reviewer to run the full sweep. Fine for a normal week, wrong for a
+      backlog run — relevant to D001.
 - [ ] D003 **PII gate blind spot found during the rehearsal.** `test_no_device_identifiers`
       scans `static/img/uploads` only, so photos embedded inside tracked Office/PDF files are
       invisible to it. The reference deck is committed in the *public* repo and one of its

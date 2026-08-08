@@ -1,7 +1,7 @@
 ---
 description: "Publish repair posts from the team's existing weekly PowerPoint deck, on an owner-triggered build event"
 status: in-progress
-prs: []
+prs: [18]
 ---
 
 # Feature Specification: Weekly Repair Deck → Published Posts
