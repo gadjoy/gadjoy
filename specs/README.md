@@ -81,12 +81,16 @@ honest statement of what is specified but not guarded.
 |---|---|---|
 | End-to-end enquiry submission | `007` SC-009 | Automating it delivers junk to a real customer inbox. Verify by hand after any form change |
 | Live-key review build | `004` SC-001 | Needs a credential; one manual check per key rotation |
-| No IMEI/serial visible in published photos | `006` FR-007 | Not checkable by parsing HTML. Content-review task, not a test |
 
 ### Unknown
 | Item | Spec | Why |
 |---|---|---|
 | `optimize_media.py` idempotence | `008` SC-006 | Documented as re-runnable after a re-migration, never verified. "Run twice, expect no diff" |
+
+### Closed
+| Item | Spec | Outcome |
+|---|---|---|
+| No IMEI/serial/MAC visible in published photos | `006` FR-007 / SC-006 | **Closed 2026-08-06.** Was listed above as *"not checkable by parsing HTML — content-review task, not a test"*. That was wrong twice over. It *is* checkable by OCR, made cheap by keying a reviewed-images manifest on **content hash** so the build only OCRs new or changed files. And the scale was far larger than the two images originally reported: an OCR sweep of all 2,711 uploads flagged 241, of which **229 were real device screens** — serials, IMEI pairs and two MAC addresses, spanning 2021-12 to 2025-01. All 229 redacted (photos kept); enforced by `test_no_device_identifiers.py`. Two lessons generalise: "needs a human" deserves a second look before it becomes permanent, and a reported instance count is a lower bound, not a scope. |
 
 ## Conventions
 
