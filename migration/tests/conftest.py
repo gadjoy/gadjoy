@@ -64,6 +64,19 @@ def media_paths_in(body: str):
     return re.findall(r"/img/uploads/[^\s\)\"'<>]+", body)
 
 
+def is_migrated(front_matter: dict) -> bool:
+    """True for the 1,508 posts that came from WordPress.
+
+    Migrated posts carry no `origin` key; anything published afterwards declares its
+    source (`origin: deck` for the weekly-PowerPoint pipeline). The distinction exists so
+    the migration's acceptance criteria stay exact — "1,508 posts, every one reachable at
+    its original WordPress URL" — while the blog is still allowed to grow. Without it,
+    publishing a single new repair would fail the migration gate, which is how the blog
+    came to be frozen since 2025-02 in the first place.
+    """
+    return not front_matter.get("origin")
+
+
 def media_ref_resolves(ref: str) -> bool:
     """True if a /img/... reference resolves to a real file, matching case EXACTLY.
 

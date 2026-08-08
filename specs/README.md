@@ -16,6 +16,7 @@ enforces that each `specs/NNN-*/` directory below is real, complete, and listed 
 | [006](006-gallery-lightbox/) | Before/after gallery wall | shipped | 2026-06-06 | #5 | spec *(backfilled)* |
 | [007](007-contact-and-enquiry-delivery/) | Contact page & enquiry delivery | shipped | 2026-06-07 | #5, #6, #7, #10, #11 | spec *(backfilled)* |
 | [008](008-media-optimization/) | Media optimization & build slimming | shipped | 2026-06-06 | #8 | spec *(backfilled)* |
+| [009](009-deck-to-posts/) | Weekly repair deck → published posts | in-progress | — | — | spec, plan, tasks |
 
 ### Why backfilled specs carry `spec.md` but not `plan.md` / `tasks.md`
 
