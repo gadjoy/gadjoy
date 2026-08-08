@@ -3,3 +3,8 @@ markdownify>=0.13
 beautifulsoup4>=4.12
 PyYAML>=6.0
 pytest>=8.0
+# Image handling for the customer-PII gate: device_identifiers.py reads and
+# redact_device_identifiers.py rewrites upload images. Was implicit until CI caught it —
+# Pillow happened to be present on the dev machine, so the suite passed locally and failed
+# on a clean runner.
+Pillow>=10.0
